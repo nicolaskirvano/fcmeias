@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:37.000Z
+pubDatetime: 2026-05-31T19:46:02.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 6k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | -4.8% |
-| Mariona | 89 | CM | Barclays WSL | 6k coins | -5.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6k coins | +1.8% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +5.2% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 7k coins | +22.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 7k coins | +18.6% |
 | Aleix García | 89 | CM | Bundesliga | 13k coins | -3.8% |
 | Jess Park | 89 | CM | Barclays WSL | 14k coins | -1.8% |
 | Estefanía Banini | 89 | CM | Liga F | 14k coins | -8.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +9.1% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +9.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | +2.3% |
 | Janina Minge | 88 | CM | — | 12k coins | +4.2% |
 | Sandro Tonali | 88 | CM | — | 13k coins | -7% |
 | Franziska Harsch | 88 | CM | GPFBL | 14k coins | +3.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 14k coins | +22.7% |
 | Paula Fernández | 88 | CM | — | 14k coins | -8.3% |
 | Hakan Çalhanoğlu | 88 | CM | — | 14k coins | -53.8% |
+| Juan Sebastián Verón | 88 | CM | — | 14k coins | +10% |
+| Declan Rice | 88 | CM | Premier League | 14k coins | -10.9% |
+| Julie Foudy | 88 | CM | Icons | 14k coins | +3.6% |
 
 
 ## 📈 Destaques
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins**
-
-- **Mariona (89, CM)** da Barclays WSL, a apenas **6k coins**
-
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6k coins**
-
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **6k coins**
 
 - **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Aleix García (89, CM)** da Bundesliga, a apenas **13k coins**
+
+- **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins**
+
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 6k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

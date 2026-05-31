@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:37.000Z
+pubDatetime: 2026-05-31T19:46:03.000Z
 title: "Meio-campistas no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true

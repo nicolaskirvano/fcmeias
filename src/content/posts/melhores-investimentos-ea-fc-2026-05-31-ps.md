@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:37.000Z
+pubDatetime: 2026-05-31T19:46:02.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
