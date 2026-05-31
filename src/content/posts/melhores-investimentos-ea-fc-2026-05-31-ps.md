@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:53.000Z
+pubDatetime: 2026-05-31T22:46:02.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -35,17 +35,17 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Paula Fernández | 93 | — | 22k coins | +7.1% | +38.5% | 55% |
 | Adrien Thomasson | 92 | — | 22k coins | +4.6% | +36.4% | 60% |
 | Pablo Fornals | 92 | — | 22k coins | +6% | +29% | 45% |
+| Cesc Fàbregas | 88 | Premier League | 24k coins | +11.9% | +28.8% | 8% |
 | Victor Froholdt | 93 | — | 22k coins | +5.9% | +28.6% | 60% |
 | Kang Sang Yoon | 93 | — | 24k coins | +20% | +28% | 5% |
 | Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% | 84% |
 | Luciano Valente | 92 | — | 23k coins | +17.7% | +27.4% | 5% |
 | Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% | 57% |
 | Weston McKennie | 91 | Serie A TIM | 32k coins | +23.5% | +21.2% | 5% |
+| Frank Lampard | 87 | Icons | 112k coins | +14.9% | +21.1% | 95% |
+| Toni Kroos | 90 | Icons | 86k coins | +1.2% | +19.6% | 5% |
 | Moussa Sissoko | 88 | EFL Championship | 178k coins | +14.1% | +19.5% | 57% |
 | Declan Rice | 89 | Premier League | 22k coins | +19.4% | +19.4% | 42% |
-| Kenneth Taylor | 84 | Eredivisie | 24k coins | +20.2% | +17.3% | 95% |
-| Georginio Wijnaldum | 87 | Brasileirão | 18k coins | +14.3% | +14.3% | 5% |
-| Caroline Seger | 91 | Icons | 85k coins | +6.2% | +13.3% | 39% |
 
 
 ## 📈 Análise dos destaques
@@ -58,7 +58,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Pablo Fornals (92)** — 22k coins, **+29% em 7 dias** (+6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Victor Froholdt (93)** — 22k coins, **+28.6% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cesc Fàbregas (88)** — 24k coins, **+28.8% em 7 dias** (+11.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista

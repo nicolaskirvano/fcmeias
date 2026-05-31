@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:54.000Z
+pubDatetime: 2026-05-31T22:46:03.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -33,17 +33,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Pedri | 89 | CM | LALIGA EA SPORTS | 7k coins | +3% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 8k coins | -10.7% |
 | Mariona | 89 | CM | Barclays WSL | 8k coins | +8.6% |
-| Jess Park | 89 | CM | Barclays WSL | 15k coins | +13.5% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +12.5% |
+| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -41.8% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | 0% |
-| Hakan Çalhanoğlu | 88 | CM | — | 13k coins | -57.1% |
-| Sandro Tonali | 88 | CM | — | 14k coins | +3.8% |
-| Paula Fernández | 88 | CM | — | 14k coins | +1.8% |
+| Paula Fernández | 88 | CM | — | 12k coins | -11.1% |
+| Sandro Tonali | 88 | CM | — | 12k coins | -5.8% |
+| Hakan Çalhanoğlu | 88 | CM | — | 14k coins | -54.5% |
 | Julie Foudy | 88 | CM | Icons | 14k coins | +5.7% |
+| Janina Minge | 88 | CM | — | 15k coins | 0% |
 | Alexis Mac Allister | 87 | CM | Premier League | 2k coins | +38.9% |
 | Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 2k coins | -3.8% |
 | Sakina Karchaoui | 87 | CM | D1 Arkema | 2k coins | +25% |
-| Nicolò Barella | 87 | CM | Serie A TIM | 2k coins | +8.7% |
-| Géraldine Reuteler | 87 | CM | GPFBL | 11k coins | -4.4% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **8k coins**
 
-- **Jess Park (89, CM)** da Barclays WSL, a apenas **15k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
 
 
 ## Por que estas cartas?

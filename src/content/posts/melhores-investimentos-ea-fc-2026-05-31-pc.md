@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:54.000Z
+pubDatetime: 2026-05-31T22:46:02.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Paula Fernández (93, sem liga) lidera, com +42.9% em 7 dias a 20k coins no PC."
+    a: "Mateo Kovačić (90, Premier League) lidera, com +75.8% em 7 dias a 29k coins no PC, e o modelo dá 41% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Paula Fernández (93) acumula **+42.9% em 7 dias** a 20k coins.
+> 🔝 **Destaque:** Mateo Kovačić (90) acumula **+75.8% em 7 dias** a 29k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,33 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Paula Fernández | 93 | — | 20k coins | +3.9% | +42.9% | 0% |
-| Luciano Valente | 92 | — | 22k coins | +12.8% | +35.4% | 29% |
-| Victor Froholdt | 93 | — | 21k coins | +5% | +29.2% | 0% |
-| Pablo Fornals | 92 | — | 22k coins | +8.9% | +26.5% | 0% |
-| Hayden Hackney | 96 | — | 26k coins | +4% | +18.2% | 0% |
+| Mateo Kovačić | 90 | Premier League | 29k coins | +16% | +75.8% | 41% |
+| Julia Grosso | 88 | NWSL | 24k coins | +26.3% | +50% | 54% |
+| Pablo Fornals | 92 | — | 24k coins | +20% | +47.7% | 0% |
+| Paula Fernández | 93 | — | 22k coins | +11.5% | +47.5% | 0% |
+| Adrien Thomasson | 92 | — | 22k coins | +14.3% | +44.3% | 0% |
+| Simone Laudehr | 90 | GPFBL | 26k coins | +16.5% | +43.2% | 63% |
+| Corentin Tolisso | 92 | — | 22k coins | +11.5% | +35.9% | 0% |
+| Declan Rice | 88 | Premier League | 18k coins | +12.1% | +32.1% | 35% |
+| Bastian Schweinsteiger | 89 | Icons | 114k coins | +29.6% | +28.8% | 60% |
+| Victor Froholdt | 93 | — | 22k coins | +2.4% | +27.9% | 0% |
+| Enzo Fernández | 91 | Premier League | 62k coins | +32.3% | +24.2% | 61% |
+| Franziska Harsch | 88 | GPFBL | 17k coins | +1.5% | +24.1% | 56% |
+| João Neves | 88 | Ligue 1 McDonald's | 196k coins | +1.6% | +18.1% | 52% |
 | Toni Kroos | 90 | Icons | 99k coins | +31.1% | +17.9% | 31% |
-| Homare Sawa | 91 | Icons | 78k coins | +13% | +13% | 36% |
-| Rose Lavelle | 89 | NWSL | 16k coins | +10.5% | +12.5% | 51% |
-| Patrik Mercado | 91 | — | 22k coins | +15.4% | +12.5% | 0% |
-| Aitana Bonmatí | 91 | Liga F | 19k coins | +18.8% | +11.8% | 25% |
-| Gabriel Villamíl | 91 | — | 20k coins | +4% | +9.7% | 0% |
-| Khéphren Thuram | 87 | Serie A TIM | 140k coins | +40% | +7.7% | 36% |
-| Claudio Marchisio | 87 | Serie A TIM | 15k coins | +15.4% | +7.1% | 47% |
-| Julie Foudy | 91 | Icons | 19k coins | +10.3% | +7.1% | 76% |
+| Jaap Stam | 89 | Premier League | 140k coins | +2.9% | +16.7% | 65% |
 
 
 ## 📈 Análise dos destaques
 
-- **Paula Fernández (93)** — 20k coins, **+42.9% em 7 dias** (+3.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mateo Kovačić (90)** — 29k coins, **+75.8% em 7 dias** (+16% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Luciano Valente (92)** — 22k coins, **+35.4% em 7 dias** (+12.8% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Julia Grosso (88)** — 24k coins, **+50% em 7 dias** (+26.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Victor Froholdt (93)** — 21k coins, **+29.2% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pablo Fornals (92)** — 24k coins, **+47.7% em 7 dias** (+20% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Pablo Fornals (92)** — 22k coins, **+26.5% em 7 dias** (+8.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paula Fernández (93)** — 22k coins, **+47.5% em 7 dias** (+11.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Hayden Hackney (96)** — 26k coins, **+18.2% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Adrien Thomasson (92)** — 22k coins, **+44.3% em 7 dias** (+14.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Paula Fernández (93, sem liga) lidera, com +42.9% em 7 dias a 20k coins no PC.
+Mateo Kovačić (90, Premier League) lidera, com +75.8% em 7 dias a 29k coins no PC, e o modelo dá 41% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
