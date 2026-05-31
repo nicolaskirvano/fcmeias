@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:46:02.000Z
+pubDatetime: 2026-05-31T21:27:53.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 6k coins | +3.4% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 7k coins | +18.6% |
-| Aleix García | 89 | CM | Bundesliga | 13k coins | -3.8% |
-| Jess Park | 89 | CM | Barclays WSL | 14k coins | -1.8% |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | -8.2% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -5.8% |
+| Jess Park | 89 | CM | Barclays WSL | 14k coins | -15.4% |
+| Bruno Guimarães | 89 | CM | Premier League | 15k coins | -1.7% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | +2.3% |
-| Janina Minge | 88 | CM | — | 12k coins | +4.2% |
+| Janina Minge | 88 | CM | — | 12k coins | +6.4% |
+| Franziska Harsch | 88 | CM | GPFBL | 12k coins | -3.8% |
+| Hakan Çalhanoğlu | 88 | CM | — | 13k coins | -61.9% |
+| Juan Sebastián Verón | 88 | CM | — | 13k coins | +4% |
 | Sandro Tonali | 88 | CM | — | 13k coins | -7% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +3.8% |
+| Paula Fernández | 88 | CM | — | 14k coins | -10% |
 | Simone Laudehr | 88 | CM | GPFBL | 14k coins | +22.7% |
-| Paula Fernández | 88 | CM | — | 14k coins | -8.3% |
-| Hakan Çalhanoğlu | 88 | CM | — | 14k coins | -53.8% |
-| Juan Sebastián Verón | 88 | CM | — | 14k coins | +10% |
-| Declan Rice | 88 | CM | Premier League | 14k coins | -10.9% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | +3.6% |
+| Rose Lavelle | 88 | CM | NWSL | 14k coins | -12.7% |
+| Julie Foudy | 88 | CM | Icons | 14k coins | +11.5% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **13k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins**
 
-- **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins**
+- **Jess Park (89, CM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bruno Guimarães (89, CM)** da Premier League, a apenas **15k coins**
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

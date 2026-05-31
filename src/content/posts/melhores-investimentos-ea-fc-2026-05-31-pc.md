@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:46:03.000Z
+pubDatetime: 2026-05-31T21:27:54.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -35,15 +35,15 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Luciano Valente | 92 | — | 22k coins | +12.8% | +35.4% | 29% |
 | Victor Froholdt | 93 | — | 21k coins | +5% | +29.2% | 0% |
 | Pablo Fornals | 92 | — | 22k coins | +8.9% | +26.5% | 0% |
-| Aitana Bonmatí | 91 | Liga F | 16k coins | +1.6% | +25% | 25% |
 | Hayden Hackney | 96 | — | 26k coins | +4% | +18.2% | 0% |
-| Homare Sawa | 91 | Icons | 78k coins | +13.8% | +13.8% | 36% |
+| Toni Kroos | 90 | Icons | 99k coins | +31.1% | +17.9% | 31% |
+| Homare Sawa | 91 | Icons | 78k coins | +13% | +13% | 36% |
 | Rose Lavelle | 89 | NWSL | 16k coins | +10.5% | +12.5% | 51% |
 | Patrik Mercado | 91 | — | 22k coins | +15.4% | +12.5% | 0% |
+| Aitana Bonmatí | 91 | Liga F | 19k coins | +18.8% | +11.8% | 25% |
 | Gabriel Villamíl | 91 | — | 20k coins | +4% | +9.7% | 0% |
 | Khéphren Thuram | 87 | Serie A TIM | 140k coins | +40% | +7.7% | 36% |
-| Frank Lampard | 87 | Icons | 80k coins | +21.2% | +7.4% | 62% |
-| Toni Kroos | 90 | Icons | 90k coins | +17.6% | +7.1% | 31% |
+| Claudio Marchisio | 87 | Serie A TIM | 15k coins | +15.4% | +7.1% | 47% |
 | Julie Foudy | 91 | Icons | 19k coins | +10.3% | +7.1% | 76% |
 
 
@@ -57,7 +57,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Pablo Fornals (92)** — 22k coins, **+26.5% em 7 dias** (+8.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Aitana Bonmatí (91)** — 16k coins, **+25% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (-8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Hayden Hackney (96)** — 26k coins, **+18.2% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -83,6 +83,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

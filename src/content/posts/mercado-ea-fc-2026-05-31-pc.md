@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:46:03.000Z
+pubDatetime: 2026-05-31T21:27:54.000Z
 title: "Meio-campistas no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Arthur Atta (85), -43.1% em 24h, a 45k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 85 cartas em alta contra 103 em queda (média 2.35%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 90 cartas em alta contra 99 em queda (média 2.66%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **85 subiram** e **103 caíram**, com variação média de **2.35%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **90 subiram** e **99 caíram**, com variação média de **2.66%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Jack McGlynn (87) **+53.8%** · 🔴 **Maior baixa:** Arthur Atta (85) **-43.1%**
 
@@ -39,9 +39,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Khéphren Thuram | 87 | Serie A TIM | 140k coins | +40% | +7.7% |
 | Homare Sawa | 92 | Icons | 800k coins | +34.4% | +25% |
 | Tijjani Reijnders | 93 | Premier League | 780k coins | +33.8% | -13.3% |
+| Toni Kroos | 90 | Icons | 99k coins | +31.1% | +17.9% |
 | Sakina Karchaoui | 91 | D1 Arkema | 290k coins | +29.5% | -6.2% |
-| Xavi | 92 | Icons | 396k coins | +26.9% | +13.1% |
-| Scott McTominay | 94 | — | 729k coins | +25.5% | -7.7% |
+| Frank Lampard | 87 | Icons | 84k coins | +28% | -6.1% |
 
 
 ### Análise das altas
@@ -92,11 +92,13 @@ Jack McGlynn (87, MLS), com +53.8% em 24h, a 20k coins no PC.
 Arthur Atta (85), -43.1% em 24h, a 45k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 85 cartas em alta contra 103 em queda (média 2.35%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 90 cartas em alta contra 99 em queda (média 2.66%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
