@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:46:02.000Z
+pubDatetime: 2026-06-01T01:46:02.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,16 +30,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 6k coins | +20.8% |
-| Mariona | 89 | CM | Barclays WSL | 7k coins | +17.2% |
+| Mariona | 89 | CM | Barclays WSL | 7k coins | +17% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 8k coins | +33.3% |
 | Aleix García | 89 | CM | Bundesliga | 12k coins | -5.8% |
 | Jess Park | 89 | CM | Barclays WSL | 14k coins | -15.4% |
 | Bruno Guimarães | 89 | CM | Premier League | 15k coins | -1.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -4.2% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -12% |
 | Franziska Harsch | 88 | CM | GPFBL | 12k coins | -3.8% |
 | Janina Minge | 88 | CM | — | 12k coins | +6.4% |
 | Hakan Çalhanoğlu | 88 | CM | — | 13k coins | -61.9% |
+| Simone Laudehr | 88 | CM | GPFBL | 13k coins | +18.2% |
 | Juan Sebastián Verón | 88 | CM | — | 13k coins | +4% |
 | Sandro Tonali | 88 | CM | — | 13k coins | -7% |
 | Paula Fernández | 88 | CM | — | 14k coins | -10% |
