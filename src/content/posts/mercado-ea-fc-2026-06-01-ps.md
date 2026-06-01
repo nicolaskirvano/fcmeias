@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:46:01.000Z
+pubDatetime: 2026-06-01T13:46:01.000Z
 title: "Meio-campistas no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Tijjani Reijnders (87), -36.2% em 24h, a 210k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Aleix García (93) — 95% de probabilidade de alta, a 27k coins."
+    a: "Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 48k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 89 cartas em alta contra 154 em queda (média 0.25%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 91 cartas em alta contra 151 em queda (média 0.35%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **89 subiram** e **154 caíram**, com variação média de **0.25%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **91 subiram** e **151 caíram**, com variação média de **0.35%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Caroline Seger (90) **+44.3%** · 🔴 **Maior baixa:** Tijjani Reijnders (87) **-36.2%**
 
@@ -67,8 +67,8 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Steven Gerrard | 90 | Icons | 117k coins | -23.5% | 0% |
 | Quinten Timber | 85 | Eredivisie | 27k coins | -22.5% | -5.3% |
 | Conor Gallagher | 91 | Premier League | 45k coins | -21.3% | -12.1% |
-| Andrea Pirlo | 90 | Icons | 85k coins | -20.6% | -11.9% |
 | Mario Lemina | 88 | Trendyol Süper Lig | 24k coins | -20% | -11.9% |
+| Scott McTominay | 87 | Serie A TIM | 52k coins | -19.4% | -23.5% |
 
 
 ### Análise das baixas
@@ -86,11 +86,11 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
+| Enzo Fernández | 91 | 48k coins | 59k coins | 95% |
 | Aleix García | 93 | 27k coins | 31k coins | 95% |
-| Roy Keane | 86 | 68k coins | 78k coins | 95% |
 | Alexia Putellas | 92 | 209k coins | 267k coins | 95% |
-| Andrea Pirlo | 90 | 85k coins | 107k coins | 95% |
-| Frank Lampard | 87 | 101k coins | 136k coins | 95% |
+| Andrea Pirlo | 90 | 80k coins | 101k coins | 95% |
+| Frank Lampard | 87 | 110k coins | 148k coins | 95% |
 | Koke | 88 | 60k coins | 69k coins | 95% |
 | Bastian Schweinsteiger | 89 | 119k coins | 147k coins | 95% |
 | Xavi | 92 | 219k coins | 260k coins | 95% |
@@ -126,10 +126,10 @@ Caroline Seger (90, Icons), com +44.3% em 24h, a 25k coins no Console (PS).
 Tijjani Reijnders (87), -36.2% em 24h, a 210k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Aleix García (93) — 95% de probabilidade de alta, a 27k coins.
+Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 48k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 89 cartas em alta contra 154 em queda (média 0.25%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 91 cartas em alta contra 151 em queda (média 0.35%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

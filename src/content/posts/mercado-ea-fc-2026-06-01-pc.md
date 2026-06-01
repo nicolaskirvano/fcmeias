@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:46:02.000Z
+pubDatetime: 2026-06-01T13:46:02.000Z
 title: "Meio-campistas no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Quinten Timber (85, Eredivisie), com +51.7% em 24h, a 33k coins no PC."
+    a: "Julia Grosso (88, NWSL), com +45.8% em 24h, a 35k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Can Bozdoğan (87), -49.4% em 24h, a 22k coins."
+    a: "Camille Abily (91), -42.9% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 81 cartas em alta contra 133 em queda (média 1.41%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 56 cartas em alta contra 141 em queda (média -0.06%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **81 subiram** e **133 caíram**, com variação média de **1.41%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **56 subiram** e **141 caíram**, com variação média de **-0.06%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Quinten Timber (85) **+51.7%** · 🔴 **Maior baixa:** Can Bozdoğan (87) **-49.4%**
+> 🟢 **Maior alta:** Julia Grosso (88) **+45.8%** · 🔴 **Maior baixa:** Camille Abily (91) **-42.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Quinten Timber | 85 | Eredivisie | 33k coins | +51.7% | +12.8% |
-| Julie Foudy | 92 | Icons | 36k coins | +42% | +19.3% |
-| Christian Eriksen | 87 | Bundesliga | 115k coins | +33% | +0.9% |
-| Sebastian Berhalter | 93 | — | 28k coins | +30.6% | +4.7% |
-| Lothar Matthäus | 90 | Icons | 289k coins | +29% | +12.9% |
-| Benjamin Nygren | 90 | — | 28k coins | +26.4% | +14.6% |
-| Dolores Silva | 84 | Liga F | 30k coins | +25% | +20% |
-| Orkun Kökçü | 95 | — | 195k coins | +24.2% | -3% |
-| Iniesta | 92 | Icons | 216k coins | +23.4% | +23.4% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 63k coins | +21.2% | -21.2% |
+| Julia Grosso | 88 | NWSL | 35k coins | +45.8% | +125.8% |
+| Christian Eriksen | 87 | Bundesliga | 111k coins | +44.2% | -2.6% |
+| Kevin Stöger | 86 | Bundesliga | 24k coins | +34.2% | -27.9% |
+| Tijjani Reijnders | 87 | Premier League | 950k coins | +33.8% | +6.7% |
+| Quinten Timber | 85 | Eredivisie | 29k coins | +33.3% | -0.8% |
+| Anaële Le Moguédec | 88 | D1 Arkema | 24k coins | +31.5% | +20% |
+| Camille Abily | 92 | Icons | 70k coins | +30.8% | -68.9% |
+| Caroline Seger | 91 | Icons | 209k coins | +30.6% | -5% |
+| Xavi | 93 | Icons | 1.15M coins | +26.9% | +20.4% |
+| Federico Valverde | 94 | — | 999k coins | +24.7% | +14.3% |
 
 
 ### Análise das altas
 
-- **Quinten Timber (85)** subiu **+51.7%** em 24h, a **33k coins** (faixa do dia: 22k–33k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Julia Grosso (88)** subiu **+45.8%** em 24h, a **35k coins** (faixa do dia: 22k–37k). Está +79% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Julie Foudy (92)** subiu **+42%** em 24h, a **36k coins** (faixa do dia: 28k–40k). Está +21% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Christian Eriksen (87)** subiu **+44.2%** em 24h, a **111k coins** (faixa do dia: 76k–115k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
 
-- **Christian Eriksen (87)** subiu **+33%** em 24h, a **115k coins** (faixa do dia: 76k–115k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Kevin Stöger (86)** subiu **+34.2%** em 24h, a **24k coins** (faixa do dia: 18k–50k). Está -30% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Can Bozdoğan | 87 | Eredivisie | 22k coins | -49.4% | -38.1% |
-| Camille Abily | 91 | Icons | 23k coins | -41% | -44.9% |
-| Martin Ødegaard | 88 | Premier League | 35k coins | -39.7% | -56.2% |
-| Piotr Zieliński | 85 | Serie A TIM | 40k coins | -36% | -45.2% |
-| Bernardo Silva | 87 | Premier League | 44k coins | -33.8% | -32.3% |
-| Scott McTominay | 94 | — | 550k coins | -30.5% | -24.9% |
-| Alexia Putellas | 95 | Liga F | 1.99M coins | -30% | +184.3% |
-| Alexia Putellas | 92 | Liga F | 465k coins | -28.4% | -18.4% |
+| Camille Abily | 91 | Icons | 22k coins | -42.9% | -45% |
+| Scott McTominay | 94 | — | 485k coins | -34.5% | -32.2% |
+| Khéphren Thuram | 87 | Serie A TIM | 80k coins | -28.4% | -43.2% |
+| Estefanía Banini | 89 | Liga F | 23k coins | -25.8% | +27.8% |
+| Giada Greggi | 87 | Calcio A Femminile | 24k coins | -25.4% | -8.7% |
+| Alexia Putellas | 95 | Liga F | 1.95M coins | -25% | +160.2% |
+| Alexia Putellas | 92 | Liga F | 488k coins | -24.1% | -2.6% |
 | Joey Veerman | 82 | Eredivisie | 23k coins | -23.3% | -17.9% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 32k coins | -23.2% | -32.1% |
+| Xavi | 92 | Icons | 300k coins | -23.3% | +1% |
+| Paul Scholes | 91 | Icons | 98k coins | -21.6% | -31.5% |
 
 
 ### Análise das baixas
 
-- **Can Bozdoğan (87)** caiu **-49.4%** em 24h, a **22k coins** (faixa do dia: 22k–31k). Está -36% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Camille Abily (91)** caiu **-42.9%** em 24h, a **22k coins** (faixa do dia: 16k–37k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Camille Abily (91)** caiu **-41%** em 24h, a **23k coins** (faixa do dia: 23k–40k). Está -48% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Scott McTominay (94)** caiu **-34.5%** em 24h, a **485k coins** (faixa do dia: 475k–750k). Está -24% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Martin Ødegaard (88)** caiu **-39.7%** em 24h, a **35k coins** (faixa do dia: 16k–45k). Está -34% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Khéphren Thuram (87)** caiu **-28.4%** em 24h, a **80k coins** (faixa do dia: 70k–140k). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Quinten Timber (85, Eredivisie), com +51.7% em 24h, a 33k coins no PC.
+Julia Grosso (88, NWSL), com +45.8% em 24h, a 35k coins no PC.
 
 **E a maior queda do dia?**  
-Can Bozdoğan (87), -49.4% em 24h, a 22k coins.
+Camille Abily (91), -42.9% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 81 cartas em alta contra 133 em queda (média 1.41%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 56 cartas em alta contra 141 em queda (média -0.06%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
