@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:46:18.000Z
+pubDatetime: 2026-06-18T20:21:40.000Z
 title: "Meio-campistas no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,85 +13,77 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Claudio Marchisio (87, Serie A TIM), com +49.3% em 24h, a 22k coins no PC."
+    a: "Iniesta (92, Icons), com +45.7% em 24h, a 145k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vitinha (90), -37.2% em 24h, a 130k coins."
+    a: "Lucas Paquetá (84), -34% em 24h, a 32k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido - sem tendencia dominante, com 80 cartas em alta contra 108 em queda (média -0.43%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 88 cartas em alta contra 109 em queda (média -0.81%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**18/06/2026**, PC) o Ultimate Team está em dia **indefinido** - sem tendencia dominante — **80 subiram**, **108 caíram** (80+ e 5k+ coins), média de **-0.43%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado de meio-campistas em PC hoje apresenta um dia indefinido sem tendência dominante, com 88 altas contra 109 quedas e uma média de variação negativa de -0.81% nas últimas 24 horas.
 
-> 🟢 **Maior alta:** Claudio Marchisio (87) **+49.3%** · 🔴 **Maior baixa:** Vitinha (90) **-37.2%**
+> 🟢 **Maior alta:** Iniesta (92) **+45.7%** · 🔴 **Maior baixa:** Lucas Paquetá (84) **-34%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Claudio Marchisio | 87 | Serie A TIM | 22k coins | +49.3% | +96.3% |
-| Julie Foudy | 91 | Icons | 26k coins | +45% | +41.5% |
+| Iniesta | 92 | Icons | 145k coins | +45.7% | -6.5% |
+| Piotr Zieliński | 85 | Serie A TIM | 51k coins | +44.7% | +3% |
 | João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +51.8% |
 | Marek Hamšík | 88 | Serie A TIM | 60k coins | +40% | +101.8% |
 | Steven Gerrard | 89 | Icons | 75k coins | +35.1% | 0% |
-| Unai López | 87 | LALIGA EA SPORTS | 24k coins | +33.8% | +31.9% |
-| Anaële Le Moguédec | 88 | D1 Arkema | 22k coins | +32.4% | +25% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 291k coins | +29.3% | +21% |
-| Kobbie Mainoo | 90 | Premier League | 201k coins | +27.5% | +20% |
-| Pablo Barrios | 90 | — | 39k coins | +24.8% | +15.6% |
+| Julie Foudy | 91 | Icons | 26k coins | +32.5% | +21.8% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 289k coins | +29.3% | +21% |
+| Kobbie Mainoo | 90 | Premier League | 201k coins | +25.6% | +18.2% |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 60k coins | +25.3% | +95.1% |
+| Pablo Barrios | 90 | — | 40k coins | +24.8% | +15.6% |
 
 
-### Análise das altas
-
-- **Claudio Marchisio (87)** subiu **+49.3%** em 24h, a **22k coins** (faixa do dia: 15k–29k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
-
-- **Julie Foudy (91)** subiu **+45%** em 24h, a **26k coins** (faixa do dia: 26k–32k). Está em linha com a média de 7 dias (-7%). 🔮 O modelo projeta **continuidade da alta** (76% de chance de subir mais).
-
-- **João Moutinho (88)** subiu **+41.7%** em 24h, a **85k coins** (faixa do dia: 60k–85k). Está +33% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (75% de chance de subir mais).
+Iniesta liderou as altas com 45.7% em 24h, atingindo 145k coins, seguido por Piotr Zieliński com 44.7% (51k coins) e João Moutinho com 41.7% (85k coins). Outros destaques incluem Marek Hamšík (40%, 60k coins), Steven Gerrard (35.1%, 75k coins), Julie Foudy (32.5%, 26k coins), Blaise Matuidi (29.3%, 289k coins) e Kobbie Mainoo (25.6%, 201k coins).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 90 | Ligue 1 McDonald's | 130k coins | -37.2% | -22.1% |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 32k coins | -33.2% | -20.6% |
-| Lucas Paquetá | 84 | Premier League | 32k coins | -31.9% | -25.3% |
-| Thelo Aasgaard | 87 | Scottish Premiership | 29k coins | -30.3% | -2.5% |
-| Oliver Sørensen | 84 | Serie A TIM | 30k coins | -29% | -20.5% |
+| Lucas Paquetá | 84 | Premier League | 32k coins | -34% | -25.3% |
+| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 31k coins | -33.2% | -20.6% |
+| Louis Reed | 84 | EFL League One | 32k coins | -32.3% | -30.4% |
+| Thelo Aasgaard | 87 | Scottish Premiership | 31k coins | -30.3% | -7.3% |
+| Xavi | 91 | Icons | 105k coins | -30% | -5.4% |
+| Vitinha | 90 | Ligue 1 McDonald's | 100k coins | -29.4% | -12.4% |
+| Oliver Sørensen | 84 | Serie A TIM | 30k coins | -29% | -18.9% |
 | Senny Mayulu | 83 | Ligue 1 McDonald's | 43k coins | -28.2% | +17.9% |
-| Louis Reed | 84 | EFL League One | 32k coins | -26.2% | -29.8% |
-| João Gomes | 84 | Premier League | 35k coins | -25.5% | -5.4% |
-| Jess Fishlock | 88 | NWSL | 22k coins | -21.4% | -20.7% |
-| Imrân Louza | 84 | EFL Championship | 35k coins | -21.2% | +5.1% |
+| Nadiem Amiri | 88 | Bundesliga | 22k coins | -26.6% | +27% |
+| João Gomes | 84 | Premier League | 36k coins | -25.5% | 0% |
 
 
-### Análise das baixas
+Lucas Paquetá registrou a maior queda de -34% em 24h, caindo para 32k coins, enquanto Rassoul Ndiaye despencou -33.2% para 31k coins. Louis Reed (-32.3%, 32k coins), Thelo Aasgaard (-30.3%, 31k coins), Xavi (-30%, 105k coins), Vitinha (-29.4%, 100k coins), Oliver Sørensen (-29%, 30k coins) e Senny Mayulu (-28.2%, 43k coins) completam o ranking de perdas significativas.
 
-- **Vitinha (90)** caiu **-37.2%** em 24h, a **130k coins** (faixa do dia: 97k–180k). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
 
-- **Rassoul Ndiaye (84)** caiu **-33.2%** em 24h, a **32k coins** (faixa do dia: 29k–48k). Está -23% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Lucas Paquetá (84)** caiu **-31.9%** em 24h, a **32k coins** (faixa do dia: 32k–56k). Está -21% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+## 🎯 O que fazer hoje
+Com o mercado sem direção clara e média negativa, o melhor movimento é evitar compras impulsivas de ativos em alta e considerar a venda de cartões em queda livre como Paquetá e Ndiaye se houver necessidade de liquidez imediata.
 
 
 ## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhoes de cotacoes** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preco atual, **medias moveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, nao so com um numero.
+Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Claudio Marchisio (87, Serie A TIM), com +49.3% em 24h, a 22k coins no PC.
+Iniesta (92, Icons), com +45.7% em 24h, a 145k coins no PC.
 
 **E a maior queda do dia?**  
-Vitinha (90), -37.2% em 24h, a 130k coins.
+Lucas Paquetá (84), -34% em 24h, a 32k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido - sem tendencia dominante, com 80 cartas em alta contra 108 em queda (média -0.43%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 88 cartas em alta contra 109 em queda (média -0.81%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

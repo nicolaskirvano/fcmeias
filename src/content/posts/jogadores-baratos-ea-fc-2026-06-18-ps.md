@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:46:11.000Z
+pubDatetime: 2026-06-18T20:20:51.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,17 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mario Pašalić | 92 | CM | — | 13k coins | +6% |
-| Hannibal | 92 | CM | — | 13k coins | +10.4% |
-| Adalberto Carrasquilla | 91 | CM | — | 13k coins | +14.9% |
-| Jess Park | 89 | CM | Barclays WSL | 13k coins | +23.2% |
+| Mario Pašalić | 92 | CM | — | 13k coins | +4% |
+| Hannibal | 92 | CM | — | 13k coins | +8.3% |
+| Adalberto Carrasquilla | 91 | CM | — | 14k coins | +14.9% |
 | Simone Laudehr | 88 | CM | GPFBL | 13k coins | +10.6% |
-| Janina Minge | 88 | CM | — | 14k coins | +18.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -10.4% |
+| Janina Minge | 88 | CM | — | 13k coins | +14.6% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.3% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +6.8% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +11.5% |
 
 
 ## 📈 Destaques
@@ -48,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hannibal (92, CM)** da —, a apenas **13k coins**
 
-- **Adalberto Carrasquilla (91, CM)** da —, a apenas **13k coins**
-
-- **Jess Park (89, CM)** da Barclays WSL, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Adalberto Carrasquilla (91, CM)** da —, a apenas **14k coins**
 
 - **Simone Laudehr (88, CM)** da GPFBL, a apenas **13k coins**
+
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -63,7 +62,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 
 ## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhoes de cotacoes** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preco atual, **medias moveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, nao so com um numero.
+Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes

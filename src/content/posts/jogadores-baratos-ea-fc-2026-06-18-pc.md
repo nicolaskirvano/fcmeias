@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:46:21.000Z
+pubDatetime: 2026-06-18T20:22:34.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Adalberto Carrasquilla | 91 | CM | — | 15k coins | +30.4% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +18.2% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +9.3% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +15.9% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +4.5% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 15k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Adalberto Carrasquilla (91, CM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
+
 - **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **12k coins**
-
-- **Pablo Fornals (85, CM)** da LALIGA EA SPORTS, a apenas **15k coins**
 
 
 ## Por que estas cartas?
@@ -54,7 +54,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 
 ## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhoes de cotacoes** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preco atual, **medias moveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, nao so com um numero.
+Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
