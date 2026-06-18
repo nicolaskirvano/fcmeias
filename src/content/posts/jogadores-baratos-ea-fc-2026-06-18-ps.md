@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:47:02.000Z
+pubDatetime: 2026-06-18T23:33:01.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Mario Pašalić | 92 | CM | — | 14k coins | +8% |
-| Hannibal | 92 | CM | — | 14k coins | +14.6% |
-| Adalberto Carrasquilla | 91 | CM | — | 14k coins | +14.9% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +5.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -10.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 14k coins | +30.4% |
-| Janina Minge | 88 | CM | — | 15k coins | +14.6% |
+| Hannibal | 92 | CM | — | 14k coins | +12.5% |
+| Adalberto Carrasquilla | 91 | CM | — | 14k coins | +12.5% |
+| Alexia Putellas | 90 | CM | Liga F | 15k coins | +3.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +26.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | -10.4% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | -3.1% |
 | Fara Williams | 86 | CM | Barclays WSL | 11k coins | -2.2% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.3% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Cher Ndour | 86 | CM | Serie A TIM | 14k coins | 0% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +4.5% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | +9.6% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | +14.6% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +2.3% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13k coins | +12.8% |
+| Crystal Dunn | 84 | CM | NWSL | 9k coins | -3.2% |
 
 
 ## 📈 Destaques
@@ -54,7 +53,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Adalberto Carrasquilla (91, CM)** da —, a apenas **14k coins**
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins**
+- **Alexia Putellas (90, CM)** da Liga F, a apenas **15k coins**
 
 - **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
 

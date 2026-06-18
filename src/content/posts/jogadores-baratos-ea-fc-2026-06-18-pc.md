@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:48:34.000Z
+pubDatetime: 2026-06-18T23:34:06.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 15k coins no PC."
+    a: "Alexia Putellas (90, Liga F) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Alexia Putellas (90) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | -9.1% |
-| Simone Laudehr | 88 | CM | GPFBL | 14k coins | +18.8% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
+| Alexia Putellas | 90 | CM | Liga F | 14k coins | -10.6% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +7% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +4.5% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 15k coins | -3.6% |
+| Crystal Dunn | 84 | CM | NWSL | 9k coins | +63% |
+| Douglas Luiz | 83 | CM | Serie A Enilive | 7k coins | +15.3% |
+| Hina Sugita | 83 | CM | NWSL | 10k coins | +19% |
 
 
 ## 📈 Destaques
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alexia Putellas (90, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Fara Williams (86, CM)** da Barclays WSL, a apenas **12k coins**
+- **Fara Williams (86, CM)** da Barclays WSL, a apenas **11k coins**
 
 - **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **12k coins**
 
-- **Pablo Fornals (85, CM)** da LALIGA EA SPORTS, a apenas **15k coins**
+- **Crystal Dunn (84, CM)** da NWSL, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Douglas Luiz (83, CM)** da Serie A Enilive, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -63,7 +64,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
-Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 15k coins no PC.
+Alexia Putellas (90, Liga F) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
