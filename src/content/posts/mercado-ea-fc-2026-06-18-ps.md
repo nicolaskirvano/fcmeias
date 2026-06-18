@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:17:36.000Z
+pubDatetime: 2026-06-18T22:46:30.000Z
 title: "Meio-campistas no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Claudio Marchisio (87, Serie A TIM), com +28.4% em 24h, a 21k coins no Console (PS)."
+    a: "Nadine Keßler (90, GPFBL), com +35.7% em 24h, a 39k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Roy Keane (88), -31.8% em 24h, a 270k coins."
+    a: "Marten de Roon (85), -27.7% em 24h, a 23k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Koke (88) — 95% de probabilidade de alta, a 50k coins."
+    a: "Pelo modelo FutQuant, Aleix García (93) — 95% de probabilidade de alta, a 42k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 82 cartas em alta contra 119 em queda (média -0.62%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 89 cartas em alta contra 129 em queda (média -1.33%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de meio-campistas em console apresenta um cenário indefinido hoje, sem uma tendência dominante clara. Entre 82 altas e 119 quedas registradas nas últimas 24 horas, a variação média ficou em -0.62%, indicando volatilidade e cautela entre os traders.
+O mercado de meio-campistas em consoles apresenta um cenário indefinido hoje, com 89 altas e 129 quedas registradas nas últimas 24 horas. A média de variação é de -1.33%, indicando uma leve pressão vendedora sem uma tendência dominante clara para os traders.
 
-> 🟢 **Maior alta:** Claudio Marchisio (87) **+28.4%** · 🔴 **Maior baixa:** Roy Keane (88) **-31.8%**
+> 🟢 **Maior alta:** Nadine Keßler (90) **+35.7%** · 🔴 **Maior baixa:** Marten de Roon (85) **-27.7%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Claudio Marchisio | 87 | Serie A TIM | 21k coins | +28.4% | +41% |
-| Nadine Keßler | 90 | GPFBL | 37k coins | +27.8% | +63.3% |
-| Steven Gerrard | 88 | Icons | 96k coins | +27.8% | +35.9% |
-| Martin Ødegaard | 87 | Premier League | 88k coins | +26.7% | -15.2% |
-| Paul Scholes | 91 | Icons | 200k coins | +21.4% | +50% |
-| Vitinha | 90 | Ligue 1 McDonald's | 115k coins | +21.1% | +15.6% |
-| Jennifer Echegini | 86 | D1 Arkema | 22k coins | +16.7% | -22.9% |
-| Nicolae Stanciu | 86 | Serie A TIM | 42k coins | +16.6% | +57.9% |
-| Kenneth Taylor | 84 | Eredivisie | 32k coins | +16.5% | +119% |
-| Iniesta | 92 | Icons | 138k coins | +15% | -1.4% |
+| Nadine Keßler | 90 | GPFBL | 39k coins | +35.7% | +71.4% |
+| Lily Yohannes | 84 | D1 Arkema | 48k coins | +27.3% | +12.4% |
+| Caroline Seger | 90 | Icons | 48k coins | +26.7% | +53.2% |
+| Daichi Kamada | 96 | — | 520k coins | +26.2% | +32.7% |
+| Martin Ødegaard | 87 | Premier League | 90k coins | +25.5% | -18.8% |
+| Khéphren Thuram | 87 | Serie A TIM | 88k coins | +22.4% | +26.2% |
+| Steven Gerrard | 88 | Icons | 98k coins | +21.7% | +43.1% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 75k coins | +17% | +27.4% |
+| João Gomes | 84 | Premier League | 50k coins | +16.2% | +11.4% |
+| Steven Gerrard | 89 | Icons | 102k coins | +15.8% | +27.7% |
 
 
-As maiores valorizações foram lideradas por Steven Gerrard (88) e Nadine Keßler (90), ambos com alta de 27.8%, seguidos de perto por Martin Ødegaard (87) com 26.7%. Paul Scholes (91) também se destaca com alta de 21.4% a 200k coins, enquanto Vitinha (90) subiu 21.1% a 115k coins, mostrando força em ativos de alto e médio patamar.
+Nadine Keßler lidera as altas com 35.7% de valorização, atingindo 39k coins, seguida por Lily Yohannes que subiu 27.3% e custa 48k coins. Caroline Seger também se destaca com alta de 26.7% a 48k coins, enquanto o ícone Daichi Kamada saltou 26.2% para 520k coins.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roy Keane | 88 | Icons | 270k coins | -31.8% | +17.9% |
-| Nadiem Amiri | 88 | Bundesliga | 27k coins | -25.8% | +34.2% |
-| Jill Scott | 94 | — | 94k coins | -23.7% | -34.2% |
-| Iniesta | 93 | Icons | 345k coins | -18.7% | -14% |
-| Luka Modrić | 89 | Serie A TIM | 86k coins | -18.3% | -35.1% |
-| Cesc Fàbregas | 91 | Premier League | 146k coins | -16.9% | -11.9% |
-| Gabriel Sara | 94 | — | 60k coins | -16.2% | -22.8% |
-| Christian Eriksen | 87 | Bundesliga | 45k coins | -15.9% | -21.1% |
-| Alexia Putellas | 92 | Liga F | 121k coins | -15.6% | -11.4% |
-| Joelinton | 87 | Premier League | 219k coins | -15.4% | +42.9% |
+| Marten de Roon | 85 | Serie A TIM | 23k coins | -27.7% | -5.6% |
+| Christian Eriksen | 87 | Bundesliga | 44k coins | -26.3% | -23.7% |
+| Alexia Putellas | 92 | Liga F | 115k coins | -26.2% | -17.5% |
+| Jack McGlynn | 87 | MLS | 33k coins | -22% | +42.4% |
+| Enzo Fernández | 91 | Premier League | 55k coins | -21.1% | +36.4% |
+| Joelinton | 87 | Premier League | 192k coins | -20.5% | +32.3% |
+| Roy Keane | 88 | Icons | 293k coins | -20.2% | +17% |
+| Paul Wanner | 84 | Eredivisie | 40k coins | -18.6% | -6% |
+| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 314k coins | -18.4% | -28.6% |
+| Uran Bislimi | 84 | Swiss Super League | 38k coins | -18.3% | -14.1% |
 
 
-Roy Keane (88) lidera as quedas com uma desvalorização de 31.8% a 270k coins, seguido por Nadiem Amiri (88) caindo 25.8% a 27k coins. Iniesta (93) e Luka Modrić (89) também recuaram significativamente, com quedas de 18.7% e 18.3% respectivamente, refletindo uma correção de preços em ícones e estrelas populares.
+Marten de Roon sofre a maior queda com -27.7%, caindo para 23k coins, e Christian Eriksen despencou 26.3% para 44k coins. Alexia Putellas recuou 26.2% para 115k coins, e o ícone Roy Keane teve uma queda significativa de 20.2%, agora valendo 293k coins.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +74,17 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Koke | 88 | 50k coins | 58k coins | 95% |
-| Aleix García | 93 | 38k coins | 43k coins | 95% |
-| Roy Keane | 86 | 79k coins | 91k coins | 95% |
-| Paul Wanner | 84 | 38k coins | 47k coins | 95% |
+| Aleix García | 93 | 42k coins | 48k coins | 95% |
+| Roy Keane | 86 | 75k coins | 86k coins | 95% |
+| Kouadio Manu Koné | 88 | 88k coins | 104k coins | 95% |
+| Jaap Stam | 89 | 94k coins | 108k coins | 95% |
+| Koke | 88 | 60k coins | 69k coins | 95% |
+| Mateo Kovačić | 91 | 34k coins | 40k coins | 95% |
+| Enzo Fernández | 91 | 55k coins | 68k coins | 95% |
 | Aurélien Tchouaméni | 87 | 70k coins | 83k coins | 95% |
-| Frank Lampard | 87 | 138k coins | 186k coins | 95% |
-| Jaap Stam | 89 | 96k coins | 111k coins | 95% |
-| Xavi | 92 | 215k coins | 255k coins | 95% |
 
 
-O modelo projeta altas probabilidades de valorização para Koke (88) e Aleix García (93), ambos com 95% de chance de alta. Outros nomes com 95% de probabilidade incluem Roy Keane (86), Frank Lampard (87) e Xavi (92), sugerindo oportunidades de compra estratégica em ativos como Aurélien Tchouaméni (87) e Jaap Stam (89).
+O modelo projeta alta para Aleix García a 42k coins e Roy Keane a 75k coins, ambos com probabilidade de 95%. Outros nomes com forte expectativa de valorização incluem Kouadio Manu Koné a 88k coins, Jaap Stam a 94k coins e Mateo Kovačić a 34k coins.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +93,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Alexia Putellas | 92 | 70k coins | -17.5% |
 | Mariona | 90 | 45k coins | -23.8% |
-| João Moutinho | 88 | 100k coins | -29.1% |
+| Tanguy Ndombele | 85 | 28k coins | -15.5% |
+| Julia Grosso | 88 | 65k coins | -15.6% |
+| Tijjani Reijnders | 87 | 69k coins | -24% |
+| Alexia Putellas | 92 | 66k coins | -17.5% |
 | Bernardo Silva | 87 | 60k coins | -24.1% |
-| Georginio Wijnaldum | 87 | 30k coins | -17.5% |
-| Tijjani Reijnders | 87 | 60k coins | -24% |
-| Toni Kroos | 90 | 96k coins | -17.4% |
-| Julia Grosso | 88 | 64k coins | -15.6% |
+| Laia Aleixandri | 86 | 38k coins | -15.6% |
+| Quinten Timber | 85 | 30k coins | -17.5% |
 
 
 ## 🎯 O que fazer hoje
-Diante da falta de tendência clara e das quedas expressivas em nomes como Roy Keane (88) e Iniesta (93), o momento favorável é para comprar ativos com alta probabilidade de retorno projetada pelo modelo. Recomenda-se evitar segurar carteiras expostas às quedas recentes e focar nas entradas em Koke (88) e Frank Lampard (87) para ganhos futuros.
+Diante da volatilidade e das quedas expressivas em ícones e cartas premium, o conselho é evitar compras impulsivas e segurar ativos de longo prazo. Fique atento às oportunidades de compra em cartas como Christian Eriksen e Alexia Putellas, que apresentam alta probabilidade de recuperação futura.
 
 
 ## ⚙️ A engine por tras deste post
@@ -114,16 +114,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Claudio Marchisio (87, Serie A TIM), com +28.4% em 24h, a 21k coins no Console (PS).
+Nadine Keßler (90, GPFBL), com +35.7% em 24h, a 39k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Roy Keane (88), -31.8% em 24h, a 270k coins.
+Marten de Roon (85), -27.7% em 24h, a 23k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Koke (88) — 95% de probabilidade de alta, a 50k coins.
+Pelo modelo FutQuant, Aleix García (93) — 95% de probabilidade de alta, a 42k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 82 cartas em alta contra 119 em queda (média -0.62%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 89 cartas em alta contra 129 em queda (média -1.33%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
