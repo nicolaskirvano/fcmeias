@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:31:34.000Z
+pubDatetime: 2026-06-18T19:46:21.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -53,8 +53,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## ⚙️ A engine por tras deste post
+Este conteudo roda sobre **centenas de milhoes de cotacoes** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preco atual, **medias moveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, nao so com um numero.
 
 
 ## ❓ Perguntas frequentes

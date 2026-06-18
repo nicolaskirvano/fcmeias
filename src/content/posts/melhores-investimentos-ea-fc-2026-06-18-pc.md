@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:31:32.000Z
+pubDatetime: 2026-06-18T19:46:19.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -37,15 +37,15 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Camille Abily | 91 | Icons | 49k coins | +13.9% | +40.7% | 57% |
 | Mateo Kovačić | 91 | Premier League | 42k coins | +15% | +39.4% | 41% |
 | Jennifer Echegini | 86 | D1 Arkema | 37k coins | +2% | +36.4% | 57% |
-| Unai López | 87 | LALIGA EA SPORTS | 24k coins | +38% | +36.1% | 47% |
-| Jess Park | 89 | Barclays WSL | 17k coins | +7.8% | +34.7% | 67% |
-| Paul Scholes | 88 | Icons | 82k coins | +20% | +30.8% | 66% |
-| Andrea Pirlo | 90 | Icons | 114k coins | +13.9% | +28.5% | 48% |
-| Sakina Karchaoui | 95 | — | 175k coins | +11.3% | +26.4% | 0% |
-| Frank Lampard | 87 | Icons | 110k coins | +6.8% | +22.2% | 62% |
-| Arda Güler | 94 | — | 190k coins | +9.2% | +20.3% | 0% |
+| Unai López | 87 | LALIGA EA SPORTS | 24k coins | +33.8% | +31.9% | 47% |
+| Paul Scholes | 88 | Icons | 78k coins | +20% | +30.8% | 66% |
+| Cesc Fàbregas | 93 | — | 54k coins | +9.8% | +28.6% | 0% |
+| Andrea Pirlo | 90 | Icons | 114k coins | +12.9% | +28.1% | 48% |
+| Sakina Karchaoui | 95 | — | 175k coins | +10.6% | +27.1% | 0% |
+| Anaële Le Moguédec | 88 | D1 Arkema | 22k coins | +32.4% | +25% | 50% |
+| Frank Lampard | 87 | Icons | 93k coins | +6.8% | +22.2% | 62% |
+| Kobbie Mainoo | 90 | Premier League | 201k coins | +27.5% | +20% | 70% |
 | Enzo Fernández | 91 | Premier League | 90k coins | +11.8% | +20% | 61% |
-| Kang Sang Yoon | 93 | — | 60k coins | +3.4% | +20% | 0% |
 
 
 ## 📈 Análise dos destaques
@@ -69,8 +69,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## ⚙️ A engine por tras deste post
+Este conteudo roda sobre **centenas de milhoes de cotacoes** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preco atual, **medias moveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, nao so com um numero.
 
 
 ## ❓ Perguntas frequentes
