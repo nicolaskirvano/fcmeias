@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:33:01.000Z
+pubDatetime: 2026-06-19T01:47:24.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,19 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mario Pašalić | 92 | CM | — | 14k coins | +8% |
-| Hannibal | 92 | CM | — | 14k coins | +12.5% |
+| Mario Pašalić | 92 | CM | — | 14k coins | +10% |
+| Hannibal | 92 | CM | — | 14k coins | +14.3% |
 | Adalberto Carrasquilla | 91 | CM | — | 14k coins | +12.5% |
-| Alexia Putellas | 90 | CM | Liga F | 15k coins | +3.4% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +26.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | -10.4% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | -3.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -13.4% |
+| Nadine Keßler | 88 | CM | GPFBL | 14k coins | +23.9% |
 | Fara Williams | 86 | CM | Barclays WSL | 11k coins | -2.2% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.3% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -6.5% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +2.3% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13k coins | +12.8% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -2.3% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | +6.4% |
 | Crystal Dunn | 84 | CM | NWSL | 9k coins | -3.2% |
 
 
@@ -53,9 +51,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Adalberto Carrasquilla (91, CM)** da —, a apenas **14k coins**
 
-- **Alexia Putellas (90, CM)** da Liga F, a apenas **15k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11k coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
