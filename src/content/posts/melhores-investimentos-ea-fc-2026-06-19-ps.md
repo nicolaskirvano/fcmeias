@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:47:14.000Z
+pubDatetime: 2026-06-19T22:48:01.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Andreia Jacinto (88, Liga F) lidera, com +78.6% em 7 dias a 25k coins no Console (PS), e o modelo dá 8% de chance de seguir subindo."
+    a: "Andreia Jacinto (88, Liga F) lidera, com +60.7% em 7 dias a 28k coins no Console (PS), e o modelo dá 8% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Andreia Jacinto (88) acumula **+78.6% em 7 dias** a 25k coins.
+> 🔝 **Destaque:** Andreia Jacinto (88) acumula **+60.7% em 7 dias** a 28k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário atual do EA FC Ultimate Team para consoles PlayStation, datado de 19 de junho de 2026, a análise do mercado de meio-campistas revela oportunidades distintas baseadas estritamente na volatilidade recente e na probabilidade estatística de valorização. Ao examinar as tendências dos últimos sete dias, focamos em cartas que demonstram não apenas um aumento percentual significativo em 24 horas, mas também uma alta probabilidade de continuidade dessa ascensão. A estratégia ideal hoje envolve identificar ativos onde o custo de entrada ainda é acessível ou onde a segurança do investimento supera o risco, priorizando jogadores com "probabilidade de alta" superior a 50%, que indicam uma consolidação de valor mais robusta no mercado.
+O mercado de meio-campistas no EA FC Ultimate Team apresenta um cenário dinâmico e cheio de oportunidades para investidores atentos, especialmente para quem joga no console PlayStation. Ao analisar a tendência de valorização dos últimos sete dias, destaca-se a necessidade de equilibrar risco e retorno, observando não apenas a variação percentual recente, mas também a probabilidade de continuidade dessa alta. Entre os destaques imediatos, Nicolae Stanciu se posiciona como uma opção de entrada acessível com potencial significativo. Com uma valorização robusta de 18.1% nas últimas 24 horas, a carta de 86 de rating da Serie A TIM está cotada a 47k coins. O que mais chama a atenção para os analistas é a probabilidade de alta de 50%, um indicador estatístico forte que sugere que o momentum não é apenas um pico isolado, mas sim uma tendência consolidada de apreciação de valor no mercado secundário.
 
-Entre as opções de menor investimento, Andreia Jacinto e Adrien Thomasson chamam a atenção por sua volatilidade extrema. Andreia Jacinto, uma carta de 88 rating da Liga F, registrou um salto de 22% em 24 horas, atingindo a marca de 25k coins. No entanto, sua probabilidade de alta futura é de apenas 8%, sugerindo que o pico pode ser imediato e de alto risco. Por outro lado, Adrien Thomasson, também avaliado em 85 da Ligue 1 McDonald's, apresenta uma subida de 26.9% para 25k coins, com uma probabilidade de alta de 23%. Embora ainda seja um risco, a probabilidade de Thomasson é quase três vezes superior à de Jacinto, tornando-o uma escolha ligeiramente mais racional para apostas de curto prazo com capital limitado, desde que haja monitoramento constante.
+No extremo oposto da faixa de preço, Blaise Matuidi surge como a carta com maior probabilidade de continuidade de alta, atingindo impressionantes 74% de chance de valorização futura. Apesar do preço elevado de 215k coins, a variação positiva de 20.3% em 24 horas para um meio-campista de 87 de rating da Ligue 1 McDonald's indica uma demanda intensa, possivelmente impulsionada por metas ou squads específicos que elevaram sua utilidade competitiva. Para investidores com maior capital, a entrada em Matuidi representa uma aposta de segurança relativa devido à alta probabilidade estatística, embora o risco de correção em preços absolutos altos sempre exija cautela e monitoramento constante das notícias do jogo.
 
-No segmento intermediário, Khéphren Thuram emerge como uma das escolhas mais equilibradas. Com 85 rating da Serie A TIM, sua carta subiu 15.1% em 24 horas, custando agora 80k coins. O dado mais relevante aqui é a probabilidade de alta de 68%, o que indica uma forte tendência de mercado. Para investidores que buscam evitar a especulação pura de cartas baratas, Thuram oferece um equilíbrio entre preço acessível e segurança estatística. Outro nome neste patamar é Nicolae Stanciu (86, Serie A TIM), que teve um crescimento modesto de 6.6% para 44k coins, mas conta com uma probabilidade de alta de 50%, sugerindo estabilidade e potencial de crescimento gradual, ideal para portfólios mais conservadores.
+Entre os valores intermediários, Kevin De Bruyne se consolida como um dos ativos mais promissores do momento. A carta de 88 de rating, agora na Serie A TIM, registrou um aumento de 12.2% em 24 horas e está valendo 166k coins. O dado mais relevante aqui é a probabilidade de alta de 93%, o que, estatisticamente, a torna a aposta mais segura entre as opções de alto custo. Essa certeza de valorização, combinada com a reputação do jogador como um dos melhores criadores de jogo do meta, torna De Bruyne uma peça essencial para portfólios que buscam estabilidade e crescimento consistente, mesmo que o investimento inicial seja substancial.
 
-Quando analisamos cartas de alto valor, a decisão deve ser baseada na probabilidade de retorno sustentado. Blaise Matuidi, com 87 rating da Ligue 1 McDonald's, é um caso fascinante: subiu 28.3% em 24 horas para 195k coins e possui a maior probabilidade de alta do grupo, 74%. Isso indica uma demanda institucional ou de squads específicos muito forte. Steven Gerrard (90, Icons) também se destaca, com alta de 7.9% para 185k coins e probabilidade de alta de 84%. Embora o percentual de subida diário seja menor, a extrema probabilidade de valorização futura torna Gerrard uma "blue chip" segura, ideal para quem possui capital significativo e busca preservação e crescimento estável de longo prazo.
+Para quem busca oportunidades de baixo custo com alto retorno potencial, Jill Scott se destaca como uma joia escondida no mercado. A meio-campista de 85 de rating da Barclays Women’s Super League apresentou a maior variação percentual entre as listadas, com um salto de 26.7% em 24 horas, sendo cotada a apenas 16k coins. Com uma probabilidade de alta de 35%, a carta oferece um perfil de risco-retorno atrativo para investidores que desejam diversificar com entradas mínimas, aproveitando a volatilidade positiva do mercado feminino, que tem ganhado destaque em conteúdos e desafios da comunidade.
 
-Finalmente, Koke (88, LALIGA EA SPORTS) merece destaque especial. Com uma alta de 8% em 24 horas para 54k coins, sua probabilidade de alta é a mais alta da lista, chegando a 95%. Esse dado estatístico sugere que a carta está no início de uma tendência de valorização sólida e quase garantida, tornando-o um dos melhores pontos de entrada em termos de relação risco-retorno. Richard Ríos (88, Liga Portugal), apesar de custar 240k coins e ter alta de apenas 4.3%, também mantém probabilidade de 50%, servindo como reserva para investidores que priorizam a qualidade do rating sobre a volatilidade imediata.
+Outras menções honrosas incluem Federico Valverde, com 9% de alta e 23% de probabilidade de continuar subindo a 205k coins, e Andreia Jacinto, que sobe 11.4% a 28k com 8% de probabilidade de alta. Embora Jacinto tenha uma probabilidade de continuidade menor, o preço baixo permite uma entrada com risco controlado. Por outro lado, Joelinton e Adrien Thomasson, com probabilidades de 16% e 23% respectivamente, parecem menos atrativos para compra imediata devido à menor certeza de valorização futura, apesar de seus ganhos recentes. Claudio Marchisio e Bartosz Kapustka também apresentam probabilidades baixas de continuidade (16% e 5%), sugerindo que suas altas recentes podem ser picos momentâneos.
 
-Em conclusão, para quem busca entrada imediata com base nos dados de 19/06/2026, Koke e Matuidi oferecem as probabilidades de sucesso mais elevadas, enquanto Thuram e Stanciu apresentam bons equilíbrios para o mercado intermediário. Andreia Jacinto e Adrien Thomasson devem ser tratados como apostas especulativas de alto risco, e as cartas de elite como Gerrard e Ríos servem para proteção de capital em meio a tendências de alta confirmadas.
+Em suma, a estratégia ideal foca em Nicolae Stanciu e Jill Scott para entradas de baixo risco e custo, enquanto Kevin De Bruyne e Blaise Matuidi servem como pilares de portfólios mais arrojados. A análise dos dados de 19 de junho de 2026 indica que o mercado recompensa a atenção às probabilidades de alta, não apenas aos ganhos pontuais de 24 horas, permitindo que os jogadores do PS tomem decisões mais informadas e lucrativas no Ultimate Team.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,32 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andreia Jacinto | 88 | Liga F | 25k coins | +22% | +78.6% | 8% |
-| João Neves | 88 | Ligue 1 McDonald's | 159k coins | +14.3% | +60% | 38% |
-| Khéphren Thuram | 85 | Serie A TIM | 80k coins | +15.1% | +53.8% | 68% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 25k coins | +26.9% | +50% | 23% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 195k coins | +28.3% | +45.5% | 74% |
-| Nicolae Stanciu | 86 | Serie A TIM | 44k coins | +6.6% | +42.7% | 50% |
-| Steven Gerrard | 90 | Icons | 185k coins | +7.9% | +32.3% | 84% |
-| Koke | 88 | LALIGA EA SPORTS | 54k coins | +8% | +31.7% | 95% |
-| Richard Ríos | 88 | Liga Portugal | 240k coins | +4.3% | +26.3% | 50% |
-| Piotr Zieliński | 85 | Serie A TIM | 38k coins | +1.5% | +22.1% | 8% |
-| Marek Hamšík | 88 | Serie A TIM | 55k coins | +1.8% | +22.1% | 50% |
-| Saki Kumagai | 88 | Barclays WSL | 34k coins | +4.6% | +19.3% | 39% |
-| Claudio Marchisio | 87 | Serie A TIM | 21k coins | +4.9% | +18.1% | 16% |
-| Cesc Fàbregas | 88 | Premier League | 16k coins | +10% | +17.9% | 8% |
-| Lily Yohannes | 84 | D1 Arkema | 44k coins | +3.5% | +17.1% | 52% |
+| Andreia Jacinto | 88 | Liga F | 28k coins | +11.4% | +60.7% | 8% |
+| Joelinton | 87 | Premier League | 175k coins | +2.9% | +54.7% | 16% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | +2% | +49.3% | 23% |
+| Nicolae Stanciu | 86 | Serie A TIM | 47k coins | +18.1% | +47.7% | 50% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 215k coins | +20.3% | +43.9% | 74% |
+| Federico Valverde | 89 | LALIGA EA SPORTS | 205k coins | +9% | +29.8% | 23% |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 32k coins | +8.7% | +25% | 5% |
+| Jill Scott | 85 | Barclays Women’s Super League | 16k coins | +26.7% | +23.9% | 35% |
+| Kevin De Bruyne | 88 | Serie A TIM | 166k coins | +12.2% | +14.5% | 93% |
+| Claudio Marchisio | 87 | Serie A TIM | 19k coins | +5.1% | +13.9% | 16% |
+| Eva Dios | 85 | Liga F | 15k coins | +20% | +13.2% | 50% |
+| Bastian Schweinsteiger | 88 | Icons | 68k coins | +12.7% | +11.9% | 81% |
+| Uran Bislimi | 84 | Swiss Super League | 40k coins | +2.4% | +5.6% | 16% |
 
 
 ## 📈 Análise dos destaques
 
-- **Andreia Jacinto (88)** — 25k coins, **+78.6% em 7 dias** (+22% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Andreia Jacinto (88)** — 28k coins, **+60.7% em 7 dias** (+11.4% em 24h). Preço +41% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **João Neves (88)** — 159k coins, **+60% em 7 dias** (+14.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Joelinton (87)** — 175k coins, **+54.7% em 7 dias** (+2.9% em 24h). Preço -15% abaixo da média de 7 dias (descontada). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Khéphren Thuram (85)** — 80k coins, **+53.8% em 7 dias** (+15.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Adrien Thomasson (85)** — 23k coins, **+49.3% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Adrien Thomasson (85)** — 25k coins, **+50% em 7 dias** (+26.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Nicolae Stanciu (86)** — 47k coins, **+47.7% em 7 dias** (+18.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Blaise Matuidi (87)** — 195k coins, **+45.5% em 7 dias** (+28.3% em 24h). Preço em linha com a média de 7 dias (+7%). 🔮 O modelo reforça a tese: **74% de chance de seguir subindo**.
+- **Blaise Matuidi (87)** — 215k coins, **+43.9% em 7 dias** (+20.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **74% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -90,7 +88,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Andreia Jacinto (88, Liga F) lidera, com +78.6% em 7 dias a 25k coins no Console (PS), e o modelo dá 8% de chance de seguir subindo.
+Andreia Jacinto (88, Liga F) lidera, com +60.7% em 7 dias a 28k coins no Console (PS), e o modelo dá 8% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
