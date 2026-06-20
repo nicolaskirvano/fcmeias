@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:48:30.000Z
+pubDatetime: 2026-06-20T01:48:29.000Z
 title: "Meio-campistas no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Bruno Guimarães (89, Premier League), com +50% em 24h, a 38k coins no PC."
+    a: "Senny Mayulu (83, Ligue 1 McDonald's), com +48.5% em 24h, a 74k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Sakina Karchaoui (95), -28.6% em 24h, a 129k coins."
+    a: "Weston McKennie (92), -48.1% em 24h, a 47k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 85 cartas em alta contra 112 em queda (média -0.22%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 115 em queda (média -5.87%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de meio-campistas para o dia 19 de junho de 2026 apresenta um cenário de extrema lateralidade e incerteza, caracterizado por uma disputa equilibrada entre compradores e vendedores que resulta em uma média geral de variação negativa de apenas 0,22% nas últimas 24 horas. Com um total de 85 jogadores registrando altas contra 112 com quedas, a falta de direção clara sugere que o mercado está em um período de consolidação, onde os traders devem agir com cautela e evitar movimentos impulsivos baseados em ruídos de curto prazo. A volatilidade aparente em nomes específicos esconde uma estrutura mais ampla de estabilidade, onde os grandes volumes de negociação não estão impulsionando tendências macro, mas sim corrigindo desequilíbrios pontuais de oferta e demanda em carteiras de alto valor. Este ambiente de 'sem direção clara' exige que o analista de mercado foque na probabilidade de alta associada a cada ativo, utilizando os dados de sentimento para filtrar ruídos e identificar oportunidades reais de arbitragem ou investimento de médio prazo. O tom do dia é de observação ativa, onde a paciência é a principal moeda de troca, e a compreensão dos fundamentos por trás das oscilações individuais é crucial para não se tornar liquidez para os grandes players do mercado.
+O mercado de meio-campistas em PC apresenta um cenário de extrema volatilidade e pessimismo generalizado nesta segunda-feira, 19 de junho de 2026, com um saldo negativo esmagador que revela a fragilidade dos ativos de curto prazo. Os dados indicam uma predominância clara das quedas, com 115 jogadores registrando desvalorização contra apenas 68 que subiram, resultando em uma média de variação de -5.87% nas últimas 24 horas, um sinal de alerta para traders que buscam segurança. Este ambiente de baixa liquidez e pressão vendedora exige uma análise cirúrgica, pois apenas nichos específicos de mercado, como cards promocionais de ligas menores ou ícones em momentos de baixa oferta, conseguem resistir à gravidade do mercado geral. O sentimento atual é de cautela extrema, onde a maioria dos ativos perde valor rapidamente após o pico de hype inicial, forçando os traders a agirem com velocidade e precisão para evitar perdas significativas em carteiras expostas. A compreensão desse desequilíbrio entre oferta e demanda é crucial para navegar por este dia turbulento, onde a maioria dos movimentos de alta parece ser uma exceção isolada e não a regra do dia.
 
-> 🟢 **Maior alta:** Bruno Guimarães (89) **+50%** · 🔴 **Maior baixa:** Sakina Karchaoui (95) **-28.6%**
+> 🟢 **Maior alta:** Senny Mayulu (83) **+48.5%** · 🔴 **Maior baixa:** Weston McKennie (92) **-48.1%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bruno Guimarães | 89 | Premier League | 38k coins | +50% | +51.5% |
-| Simone Laudehr | 91 | GPFBL | 25k coins | +37.4% | +108.6% |
-| Xavi | 92 | Icons | 388k coins | +34.3% | +27.2% |
-| Camille Abily | 91 | Icons | 58k coins | +33.7% | +33% |
-| Iniesta | 92 | Icons | 170k coins | +32.6% | +29.6% |
-| Declan Rice | 89 | Premier League | 42k coins | +30.8% | +1.2% |
-| Pieter Gerkens | 83 | 1A Pro League | 46k coins | +27.8% | -38.7% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 36k coins | +26.7% | +31.2% |
-| Quinten Timber | 85 | Eredivisie | 50k coins | +26.6% | 0% |
-| Caroline Seger | 90 | Icons | 54k coins | +24.3% | +27.9% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 74k coins | +48.5% | +70.5% |
+| Georginio Wijnaldum | 87 | Brasileirão | 28k coins | +42.5% | -8.1% |
+| Thelo Aasgaard | 87 | Scottish Premiership | 36k coins | +35.1% | +8.7% |
+| Paul Wanner | 84 | Eredivisie | 43k coins | +34.9% | +10.8% |
+| Imrân Louza | 84 | EFL Championship | 44k coins | +34.8% | +15.2% |
+| Declan Rice | 89 | Premier League | 42k coins | +30.8% | 0% |
+| Aleix Febas | 83 | LALIGA EA SPORTS | 60k coins | +26.5% | +24% |
+| Caroline Seger | 90 | Icons | 48k coins | +24.5% | -1% |
+| Bernardo Silva | 87 | Premier League | 55k coins | +22.2% | 0% |
+| Aitana Bonmatí | 97 | Liga F | 2.55M coins | +20.9% | -8.3% |
 
 
-Entre os destaques positivos, Bruno Guimarães se destaca com uma impressionante alta de 50% em 24 horas, atingindo os 38 mil coins, impulsionado por uma probabilidade de alta de 71% que indica forte interesse da comunidade em sua carta de Premier League. Simone Laudehr também apresenta um movimento robusto, subindo 37,4% para 25 mil coins, com uma probabilidade de alta de 59% que sugere sustentação na compra, provavelmente devido à utilidade tática de sua carta de GPFBL em esquemas específicos. Xavi, o ícone de 92 de rating, registrou um aumento de 34,3%, posicionando-se a 388 mil coins, embora sua probabilidade de alta de 46% indique cautela, o movimento reflete a busca por qualidade técnica em times de alto nível. Camille Abily, outro ícone, subiu 33,7% para 58 mil coins com 57% de probabilidade de alta, consolidando-se como uma opção estável para quem busca investimento em cartas históricas com boa relação custo-benefício. Iniesta completa o grupo de ícones em alta com 32,6% de crescimento, chegando a 170 mil coins e mantendo uma probabilidade de alta de 64%, o que reforça a tendência de valorização de lendas do futebol espanhol neste ciclo de mercado.
+Entre as poucas luzes no cenário negativo, Senny Mayulu se destaca como o líder de alta com um impressionante aumento de 48.5% em 24 horas, atingindo 74k coins, impulsionado por uma probabilidade de alta de 54% que sugere continuidade no movimento ascendente deste card da Ligue 1 McDonald's. Georginio Wijnaldum, card de 87 do Brasileirão, registra uma alta robusta de 42.5% chegando a 28k coins, embora sua probabilidade de alta de apenas 28% indique que este pode ser um pico de curto prazo sem sustentação imediata no longo prazo. Thelo Aasgaard, da Scottish Premiership, sobe 35.1% para 36k coins com uma probabilidade moderada de 37% de continuar subindo, oferecendo uma oportunidade de trade de médio risco para quem busca lucros rápidos em ligas menos saturadas. Paul Wanner, da Eredivisie, acompanha a tendência com 34.9% de alta para 43k coins e probabilidade de 35%, enquanto Imrân Louza, da EFL Championship, sobe 34.8% para 44k coins, mas com uma probabilidade baixa de 24% de alta, sugerindo forte resistência nos preços atuais. Declan Rice, card premium de 89 da Premier League, registra 30.8% de alta para 42k coins com probabilidade de 23%, indicando que até os ativos mais fortes enfrentam pressão vendedora significativa. Aleix Febas, da LALIGA EA SPORTS, sobe 26.5% para 60k coins com 40% de probabilidade, e Caroline Seger, ícone feminino de 90, aumenta 24.5% para 48k coins com alta probabilidade de 55%, mostrando que o segmento de ícones pode oferecer refúgios estáveis em meio ao caos do mercado geral.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sakina Karchaoui | 95 | — | 129k coins | -28.6% | -1.5% |
-| Patrik Mercado | 91 | — | 37k coins | -27.4% | -9.2% |
-| Aitana Bonmatí | 96 | — | 1.43M coins | -24.8% | -6.4% |
-| Kevin Stöger | 86 | Bundesliga | 25k coins | -24.4% | -37.4% |
-| Mamadou Sangaré | 96 | — | 218k coins | -24.1% | -23.8% |
-| Paul Scholes | 88 | Icons | 66k coins | -23.6% | 0% |
-| Wouter Burger | 83 | Bundesliga | 38k coins | -23% | +0.7% |
-| Pedri | 95 | LALIGA EA SPORTS | 744k coins | -23% | +4.5% |
-| Joey Veerman | 96 | — | 52k coins | -20.4% | +3.2% |
-| Manuela Giugliano | 95 | — | 32k coins | -20.2% | -11.5% |
+| Weston McKennie | 92 | Serie A TIM | 47k coins | -48.1% | -31.8% |
+| Nicolae Stanciu | 86 | Serie A TIM | 51k coins | -44% | -31.1% |
+| Iniesta | 93 | Icons | 196k coins | -42.3% | -30.7% |
+| Patrick Vieira | 86 | Icons | 950k coins | -42% | -15.4% |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 35k coins | -40.6% | +26.4% |
+| Jobe Bellingham | 89 | Bundesliga | 270k coins | -39.3% | -2.8% |
+| Warren Zaïre-Emery | 96 | — | 1.79M coins | -38.3% | -39.9% |
+| Caroline Seger | 91 | Icons | 100k coins | -37.5% | -37.9% |
+| Xavi | 92 | Icons | 246k coins | -36.7% | -17.4% |
+| Bastian Schweinsteiger | 96 | — | 595k coins | -36.6% | -61.5% |
 
 
-Na ponta oposta, Sakina Karchaoui lidera as quedas com uma drástica redução de 28,6% para 129 mil coins, com probabilidade de alta de 0%, sinalizando uma perda total de confiança do mercado nesta carta específica sem liga. Patrik Mercado acompanha essa tendência de desvalorização severa, caindo 27,4% para 37 mil coins e também com 0% de probabilidade de alta, indicando que o ativo pode continuar a perder valor se não houver notícias externas favoráveis. Aitana Bonmatí, apesar de ser uma carta de 96 de rating, sofreu uma queda de 24,8% para 1,43 milhão de coins, com probabilidade de alta de 0%, o que demonstra que mesmo os ativos mais caros estão sujeitos a correções bruscas quando a demanda seca. Kevin Stöger caiu 24,4% para 25 mil coins, mas sua probabilidade de alta de 65% sugere que esta pode ser uma oportunidade de compra de fundo, pois o ativo ainda tem potencial de recuperação a médio prazo. Mamadou Sangaré, com queda de 24,1% para 218 mil coins e 0% de probabilidade de alta, representa um risco significativo para os investidores que mantinham posições longas, evidenciando a importância de monitorar as probabilidades de alta para evitar perdas acumuladas.
+O lado negativo do mercado é dominado por quedas severas em ativos de alta visibilidade, lideradas por Weston McKennie, card de 92 da Serie A TIM, que despencou 48.1% em 24 horas para 47k coins, apesar de ainda ter uma probabilidade de alta de 61%, o que sugere uma correção violenta e potencial oportunidade de compra no fundo. Nicolae Stanciu, também da Serie A TIM e card de 86, caiu 44% para 51k coins com probabilidade de 45%, refletindo a desconfiança do mercado em ativos de liga italiana que não conseguem manter o preço após o lançamento. Iniesta, o lendário ícone de 93, sofreu uma queda acentuada de 42.3% para 196k coins, mas sua alta probabilidade de 65% de alta indica que este é um momento de venda em pânico que pode ser explorado por traders de longo prazo. Patrick Vieira, outro ícone de 86, despencou 42% para 950k coins com probabilidade de 44%, mostrando que mesmo os ativos mais caros e estáveis estão sujeitos a correções bruscas quando o sentimento do mercado é hostil. Bartosz Kapustka, da PKO BP Ekstraklasa, caiu 40.6% para 35k coins com probabilidade de 50%, enquanto Jobe Bellingham, da Bundesliga e card de 89, perdeu 39.3% para 270k coins com probabilidade de 46%, indicando uma fuga massiva de capital do segmento de jovens talentos promissores. Warren Zaïre-Emery, card de 96 sem liga definida, sofreu a queda mais absoluta de 38.3% para 1.79M coins, com probabilidade de alta de 0%, sinalizando um ativo morto ou em colapso total de liquidez que deve ser evitado a todo custo. Caroline Seger, versão de 91 do ícone, caiu 37.5% para 100k coins com probabilidade de 67%, reforçando a ideia de que os ícones em queda são oportunidades de compra se a probabilidade de alta for superior a 60%.
 
 
 ## 🎯 A estratégia do dia
-A estratégia do dia deve focar em acumular ativos com alta probabilidade de retorno e baixo risco de queda sustentada, como Bruno Guimarães e Iniesta, que mostram sinais claros de continuidade na valorização com probabilidades superiores a 60%. Recomenda-se evitar compras agressivas em cartas como Sakina Karchaoui e Aitana Bonmatí, cujas probabilidades de alta de 0% e quedas expressivas indicam um cenário de venda massiva que pode se prolongar. Para traders de curto prazo, a compra de Kevin Stöger e Paul Scholes, apesar das quedas recentes, pode ser vantajosa devido às suas altas probabilidades de alta de 65% e 66% respectivamente, sugerindo um fundo técnico próximo. É aconselhável manter posições em ícones como Xavi e Camille Abily para ganhos de médio prazo, mas com stop-loss definidos, dada a volatilidade inerente a esses ativos de alto preço. Por fim, a lateralidade do mercado sugere que a paciência é a melhor aliada, aguardando confirmações de tendência antes de alavancar posições maiores, priorizando a gestão de risco sobre a busca por ganhos rápidos em um ambiente sem direção clara.
+A estratégia para hoje deve ser de extrema seletividade, focando na compra de ativos com alta probabilidade de recuperação em fundos de queda, como Iniesta (93) e Warren Zaïre-Emery (96) apenas se houver sinal de estabilização, mas evitando o último devido à probabilidade zero de alta. Traders de curto prazo devem explorar as altas de Senny Mayulu e Caroline Seger (90), aproveitando a probabilidade superior a 50% de continuidade antes que a tendência se esgote, enquanto evitam Wijnaldum e Louza devido às baixas probabilidades de alta. É crucial segurar os ativos de longo prazo como Patrick Vieira e Jobe Bellingham, esperando que a volatilidade diminua e as probabilidades de alta se equilibrem, pois vender no fundo de quedas de 40% resulta em perdas cristalizadas. Evite completamente ativos da Serie A TIM como McKennie e Stanciu no momento atual, pois a pressão vendedora ainda é forte e a probabilidade de alta não compensa o risco de continuidade da queda. O timing ideal para compra é nas próximas horas, após a estabilização das quedas mais acentuadas, enquanto a venda deve ser realizada imediatamente após atingir os alvos de lucro em ativos como Mayulu e Wanner, aproveitando a liquidez momentânea antes do retorno da pressão vendedora geral do mercado.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -77,13 +77,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Bruno Guimarães (89, Premier League), com +50% em 24h, a 38k coins no PC.
+Senny Mayulu (83, Ligue 1 McDonald's), com +48.5% em 24h, a 74k coins no PC.
 
 **E a maior queda do dia?**  
-Sakina Karchaoui (95), -28.6% em 24h, a 129k coins.
+Weston McKennie (92), -48.1% em 24h, a 47k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 85 cartas em alta contra 112 em queda (média -0.22%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 115 em queda (média -5.87%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

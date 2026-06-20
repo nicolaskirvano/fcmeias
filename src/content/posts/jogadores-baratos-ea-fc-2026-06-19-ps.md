@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:47:16.000Z
+pubDatetime: 2026-06-20T01:47:33.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (19/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 19/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/06/2026)?"
-    a: "Hannibal (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Mario Pašalić (92, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Hannibal (92) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Mario Pašalić (92) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hannibal | 92 | CM | — | 15k coins | +13.5% |
-| Mario Pašalić | 92 | CM | — | 15k coins | +13.5% |
-| Adalberto Carrasquilla | 91 | CM | — | 15k coins | +18% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | -5% |
-| Federico Valverde | 88 | CM | LALIGA EA SPORTS | 7k coins | -2.5% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.3% |
-| Janina Minge | 88 | CM | — | 14k coins | +18.4% |
-| Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 2k coins | -42.1% |
+| Mario Pašalić | 92 | CM | — | 12k coins | -3.8% |
+| Hannibal | 92 | CM | — | 13k coins | -3.8% |
+| Adalberto Carrasquilla | 91 | CM | — | 13k coins | 0% |
+| Alexia Putellas | 90 | CM | Liga F | 13k coins | -3.5% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -11.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.7% |
+| Janina Minge | 88 | CM | — | 13k coins | +2% |
+| Nicolò Barella | 87 | CM | Serie A Enilive | 2k coins | 0% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -4.4% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +11.1% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +8.5% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +8.7% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +13.2% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 15k coins | +20% |
-| Crystal Dunn | 84 | CM | NWSL | 9k coins | +55.2% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | +17% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | +16.7% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -19% |
 
 
 ## 📈 Destaques
 
-- **Hannibal (92, CM)** da —, a apenas **15k coins**
+- **Mario Pašalić (92, CM)** da —, a apenas **12k coins**
 
-- **Mario Pašalić (92, CM)** da —, a apenas **15k coins**
+- **Hannibal (92, CM)** da —, a apenas **13k coins**
 
-- **Adalberto Carrasquilla (91, CM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Adalberto Carrasquilla (91, CM)** da —, a apenas **13k coins**
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
+- **Alexia Putellas (90, CM)** da Liga F, a apenas **13k coins**
 
-- **Federico Valverde (88, CM)** da LALIGA EA SPORTS, a apenas **7k coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +72,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/06/2026)?**  
-Hannibal (92, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Mario Pašalić (92, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
