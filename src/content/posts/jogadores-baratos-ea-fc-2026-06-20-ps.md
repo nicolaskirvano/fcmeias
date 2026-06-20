@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:47:10.000Z
+pubDatetime: 2026-06-20T13:47:10.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,17 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mario Pašalić | 92 | CM | — | 13k coins | -5.6% |
-| Hannibal | 92 | CM | — | 14k coins | -1.9% |
-| Adalberto Carrasquilla | 91 | CM | — | 13k coins | -1.9% |
+| Mario Pašalić | 92 | CM | — | 13k coins | -1.9% |
+| Hannibal | 92 | CM | — | 14k coins | +3.7% |
+| Adalberto Carrasquilla | 91 | CM | — | 13k coins | 0% |
+| Alexia Putellas | 90 | CM | Liga F | 14k coins | -1.8% |
 | Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -3.7% |
-| Janina Minge | 88 | CM | — | 15k coins | +25% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.5% |
+| Janina Minge | 88 | CM | — | 12k coins | 0% |
+| Franziska Harsch | 88 | CM | GPFBL | 15k coins | +18% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | 0% |
+| Cher Ndour | 86 | CM | Serie A TIM | 12k coins | -7.4% |
+| Fara Williams | 86 | CM | Barclays WSL | 13k coins | +4.4% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +10.6% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | +16.7% |
+| Karen Araya | 86 | CM | D1 Arkema | 15k coins | -1.6% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +2.2% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -15% |
 
 
 ## 📈 Destaques
@@ -50,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Adalberto Carrasquilla (91, CM)** da —, a apenas **13k coins**
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
+- **Alexia Putellas (90, CM)** da Liga F, a apenas **14k coins**
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?

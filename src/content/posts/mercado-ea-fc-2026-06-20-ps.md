@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:46:46.000Z
+pubDatetime: 2026-06-20T13:46:47.000Z
 title: "Meio-campistas no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Gabriel Villamíl (80, Libertadores), com +37.7% em 24h, a 48k coins no Console (PS)."
+    a: "Estefanía Banini (89, Liga F), com +29.7% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Enzo Fernández (91), -50% em 24h, a 35k coins."
+    a: "Mariona (96), -50% em 24h, a 32k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Roy Keane (86) — 95% de probabilidade de alta, a 79k coins."
+    a: "Pelo modelo FutQuant, Mateo Kovačić (91) — 95% de probabilidade de alta, a 33k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 37 cartas em alta contra 135 em queda (média -14.07%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 154 em queda (média -17.05%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de meio-campistas em consoles apresenta um cenário de extrema volatilidade e predomínio do sentimento vendedor, marcado por uma avalanche de quedas que superam amplamente as altas no último dia. Com 135 cartas recuando contra apenas 37 em alta, a média de variação negativa atingiu impressionantes -14.07% em 24 horas, sinalizando uma limpeza agressiva de inventários por parte dos traders que buscam proteger seus lucros ou realocar capital. Esse clima de pânico generalizado cria oportunidades únicas para quem possui sangue frio e capacidade de análise rápida, pois os preços de ativos fundamentais estão sendo testados em níveis historicamente baixos. A divergência entre a massa vendendo e os modelos probabilísticos indicando reversões futuras sugere que o mercado está em um ponto de inflexão crítico, onde a maioria dos ativos está desvalorizada além de sua utilidade real nas Squadas. É fundamental navegar com cautela, pois a liquidez pode secar rapidamente em ativos de nicho, enquanto os grandes nomes continuam a sofrer ajustes estruturais que refletem tanto a oferta excessiva quanto a mudança de foco da comunidade.
+O cenário do mercado de meio-campistas em consoles para hoje, 20 de junho de 2026, é profundamente hostil para quem busca lucros rápidos na venda, caracterizando-se por um sentimento predominantemente vendedor que deve alertar qualquer trader experiente. A maioria absoluta das cartas sofreu recuo em valor, com um total de 154 quedas registradas contra apenas 36 altas, resultando em uma média negativa brutal de -17,05% ao longo das últimas 24 horas. Esse movimento de massa indica uma liquidez excessiva nas mãos dos vendedores, possivelmente devido ao final de um ciclo de eventos ou à falta de novas promoções de demanda imediata, forçando os preços para baixo em uma tentativa desesperada de realizar vendas. Para o analista atento, o tom do dia não é de oportunidade de compra agressiva, mas sim de extrema cautela e seletividade cirúrgica, pois o risco de assumir posições em ativos que continuam caindo é altíssimo sem uma contrapartida clara de eventos futuros. O volume de vendas nas quedas sugere que muitos traders estão cortando perdas ou realizando lucros de posições antigas, criando uma espiral de deflação que só se estabiliza em ativos muito específicos com probabilidade estatística alta de reversão.
 
-> 🟢 **Maior alta:** Gabriel Villamíl (80) **+37.7%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-50%**
+> 🟢 **Maior alta:** Estefanía Banini (89) **+29.7%** · 🔴 **Maior baixa:** Mariona (96) **-50%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gabriel Villamíl | 80 | Libertadores | 48k coins | +37.7% | +0.5% |
-| George Dobson | 84 | EFL Championship | 32k coins | +31.9% | +6.7% |
-| Aitana Bonmatí | 91 | Liga F | 746k coins | +31.6% | +6.4% |
-| Can Bozdoğan | 87 | Eredivisie | 22k coins | +25.7% | +33.3% |
-| Piotr Zieliński | 85 | Serie A TIM | 38k coins | +24% | +10.3% |
-| Lily Yohannes | 84 | D1 Arkema | 45k coins | +19% | +1.1% |
-| Toni Kroos | 90 | Icons | 111k coins | +16.8% | +7.8% |
-| Tijjani Reijnders | 87 | Premier League | 60k coins | +15.8% | +14.9% |
-| Nicolae Stanciu | 86 | Serie A TIM | 48k coins | +15.6% | +50.8% |
-| Vitinha | 91 | Ligue 1 McDonald's | 670k coins | +15.5% | +8.9% |
+| Estefanía Banini | 89 | Liga F | 24k coins | +29.7% | +47.7% |
+| Tijjani Reijnders | 87 | Premier League | 130k coins | +24.8% | -9% |
+| Luka Modrić | 89 | Serie A TIM | 98k coins | +23.1% | -1.5% |
+| Homare Sawa | 92 | Icons | 424k coins | +20.5% | -0.7% |
+| Imrân Louza | 84 | EFL Championship | 55k coins | +20.4% | +6.9% |
+| Louis Reed | 84 | EFL League One | 42k coins | +20% | 0% |
+| Éderson | 87 | Serie A TIM | 35k coins | +16.7% | 0% |
+| Federico Valverde | 89 | LALIGA EA SPORTS | 225k coins | +13.6% | +33.9% |
+| Frank Lampard | 87 | Icons | 137k coins | +12.3% | +34.3% |
+| Dolores Silva | 84 | Liga F | 38k coins | +10.8% | +6.2% |
 
 
-Dentro do raro grupo de ativos em alta, Gabriel Villamíl se destaca com uma valorização robusta de 37.7%, atingindo 48k coins, impulsionado por uma probabilidade de alta de 93% que confirma a força da compra em sua carta da Libertadores. George Dobson também apresenta um movimento interessante, subindo 31.9% para 32k coins, embora sua probabilidade de alta de apenas 42% sugira que este possa ser um movimento especulativo de curto prazo sem suporte fundamental duradouro. Aitana Bonmatí, uma das joias do mercado feminino, registrou alta de 31.6% e alcançou 746k coins, com probabilidade de alta de 46%, indicando que investidores estão posicionando em ativos premium antes de possíveis eventos da Liga F. Can Bozdoğan, da Eredivisie, subiu 25.7% para 22k coins com 50% de probabilidade de alta, mostrando que metas de time específicas continuam a gerar demanda pontual mesmo em meio à queda geral do mercado. Piotr Zieliński, apesar de ter uma probabilidade de alta baixa de apenas 8%, subiu 24% para 38k coins, o que pode indicar uma correção técnica isolada ou compra para SBCs específicos que não são sustentáveis a longo prazo. Esses movimentos, embora positivos, representam menos de um terço do volume total de negociações e devem ser tratados com cautela, pois a pressão vendedora predominante pode rapidamente inverter esses ganhos se não houver um gatilho externo forte mantendo a demanda.
+Dentro desse mar vermelho, destacam-se algumas exceções notáveis onde a demanda superou a oferta, lideradas por Estefanía Banini, que subiu impressionantes 29,7% em 24 horas, atingindo os 24 mil coins, embora sua probabilidade de alta futura seja de apenas 27%, sugerindo um movimento mais especulativo e de curto prazo. Tijjani Reijnders apresentou uma performance sólida com alta de 24,8%, chegando a 130 mil coins, e com uma probabilidade de alta de 42%, o que indica um fluxo de compras mais sustentado, possivelmente ligado a sua forma no Premier League ou uso em squads específicos. Luka Modrić, com seu rating de 89 na Serie A TIM, subiu 23,1% para 98 mil coins e possui uma probabilidade de alta de 74%, o que o torna um dos ativos mais confiáveis para segurar, indicando que o mercado reconhece seu valor intrínseco mesmo em um dia fraco. O ícone Homare Sawa foi o destaque de alta em termos de valor absoluto e probabilidade, subindo 20,5% para 424 mil coins com uma probabilidade de alta de 95%, o que sinaliza uma demanda inelástica de colecionadores ou usuários de squads de elite que não hesitam em pagar o preço justo. Por fim, Imrân Louza e Louis Reed, ambos com ratings de 84, subiram respectivamente 20,4% e 20%, atingindo 55 mil e 42 mil coins, com probabilidades de alta de 59% e 42%, respectivamente, mostrando que até cartas de ligas menores como EFL Championship e League One podem ter momentos de liquidez positiva se a oferta se esgotar momentaneamente.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Fernández | 91 | Premier League | 35k coins | -50% | -31.4% |
-| Federico Valverde | 94 | — | 242k coins | -48.5% | -61.3% |
-| Melchie Dumornay | 95 | — | 75k coins | -46.4% | -58.1% |
-| Mamadou Sangaré | 96 | — | 103k coins | -45.6% | -60.8% |
-| Xavi | 92 | Icons | 114k coins | -45.5% | -52.5% |
-| Mariona | 96 | — | 36k coins | -44.7% | -50.4% |
-| Declan Rice | 96 | — | 163k coins | -44.5% | -55.9% |
-| Joey Veerman | 96 | — | 28k coins | -44.2% | -40.8% |
-| Lothar Matthäus | 91 | Icons | 792k coins | -44% | -14.3% |
-| Pedri | 96 | — | 228k coins | -42.6% | -52.9% |
+| Mariona | 96 | — | 32k coins | -50% | -55.8% |
+| Sakina Karchaoui | 91 | D1 Arkema | 42k coins | -49% | -27.2% |
+| Lothar Matthäus | 91 | Icons | 695k coins | -48.5% | -27.4% |
+| Melchie Dumornay | 95 | — | 72k coins | -48.3% | -58.1% |
+| Cesc Fàbregas | 93 | — | 22k coins | -47.5% | -39.7% |
+| Federico Valverde | 94 | — | 260k coins | -46.9% | -58.4% |
+| Declan Rice | 96 | — | 160k coins | -46.7% | -58.7% |
+| Koke | 88 | LALIGA EA SPORTS | 30k coins | -46% | -23.3% |
+| Pedri | 96 | — | 220k coins | -45.8% | -54.2% |
+| Warren Zaïre-Emery | 96 | — | 1.26M coins | -42.9% | -49.3% |
 
 
-O lado das quedas é onde reside a maior parte da ação e do risco, liderado por Enzo Fernández, que despenhou 50% em 24 horas, caindo para 35k coins, um movimento extremo que reflete tanto a saturação da oferta quanto a necessidade de liquidez imediata por parte dos detentores. Federico Valverde sofreu uma queda massiva de 48.5%, atingindo 242k coins, o que é particularmente preocupante dado seu status de elite e a probabilidade de alta de 55%, sugerindo que mesmo os ativos mais fortes não estão imunes ao pânico do mercado. Melchie Dumornay e Mamadou Sangaré, ambos sem liga específica atribuída nos dados, caíram 46.4% e 45.6% respectivamente, para 75k e 103k coins, com probabilidades de alta baixíssimas de 5%, indicando que esses ativos podem estar em tendência de baixa estrutural ou sendo abandonados pela comunidade. Xavi, uma carta icônica, também não poupou, caindo 45.5% para 114k coins, mas sua probabilidade de alta de 95% sugere fortemente que esta queda é uma oportunidade de compra forçada por vendas de pânico. Mariona e Declan Rice completam o quadro sombrio com quedas de 44.7% e 44.5% respectivamente, caindo para 36k e 163k coins, enquanto Joey Veerman recuou 44.2% para 28k coins. A concentração de quedas acima de 40% em ativos de alta raridade indica um colapso de confiança temporário, onde traders estão vendendo sem olhar para o preço, criando zonas de suporte artificialmente baixas que podem ser exploradas por compradores astutos.
+As quedas foram generalizadas e severas, com Mariona liderando o declínio ao cair 50% em 24 horas, chegando a 32 mil coins, e com uma probabilidade de alta futura de apenas 5%, o que a torna um ativo praticamente sem valor de revenda a curto prazo. Sakina Karchaoui acompanhou essa tendência negativa extrema, despencando 49% para 42 mil coins, com probabilidade de alta de 8%, indicando que cartas de ligas femininas menos populares estão sofrendo com a falta total de interesse comprador. O ícone Lothar Matthäus, apesar de ser um ativo tradicionalmente forte, caiu 48,5% para 695 mil coins, com probabilidade de alta de 35%, o que sugere que até mesmo ícones de alto valor não estão imunes ao sentimento vendedor generalizado e podem estar em um ciclo de correção de preço. Melchie Dumornay e Cesc Fàbregas também sofreram quedas acentuadas de 48,3% e 47,5% respectivamente, caindo para 72 mil e 22 mil coins, com probabilidades de alta de 5% e 30%, o que reforça a ideia de que cartas sem ligação clara a eventos imediatos estão sendo liquidadas agressivamente. Federico Valverde (94) e Declan Rice (96) caíram 46,9% e 46,7% respectivamente, para 260 mil e 160 mil coins, com probabilidades de alta de 55% e 5%, mostrando uma dicotomia interessante onde o Valverde ainda tem chance de recuperação, enquanto o Rice parece estar em uma queda livre sem fundo imediato visível.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,17 +74,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Roy Keane | 86 | 79k coins | 91k coins | 95% |
-| Bastian Schweinsteiger | 89 | 89k coins | 110k coins | 95% |
-| Enzo Fernández | 91 | 35k coins | 43k coins | 95% |
+| Mateo Kovačić | 91 | 33k coins | 38k coins | 95% |
+| Frank Lampard | 87 | 137k coins | 184k coins | 95% |
+| Xavi | 92 | 91k coins | 108k coins | 95% |
+| Andrea Pirlo | 90 | 81k coins | 102k coins | 95% |
 | Jaap Stam | 89 | 94k coins | 108k coins | 95% |
-| Aurélien Tchouaméni | 87 | 70k coins | 83k coins | 95% |
-| Kouadio Manu Koné | 88 | 70k coins | 83k coins | 95% |
-| Andrea Pirlo | 90 | 84k coins | 107k coins | 95% |
-| Alexia Putellas | 92 | 137k coins | 175k coins | 95% |
+| Roy Keane | 86 | 65k coins | 75k coins | 95% |
+| Enzo Fernández | 91 | 33k coins | 41k coins | 95% |
+| Koke | 88 | 30k coins | 34k coins | 95% |
 
 
-O modelo preditivo identifica um conjunto específico de ativos com probabilidade de alta de 95%, sugerindo uma forte reversão iminente para Roy Keane, que está a 79k coins, e Bastian Schweinsteiger, cotado a 89k coins, ambos ícones que tendem a se valorizar em eventos temáticos. Enzo Fernández, apesar da queda brutal de 50%, aparece nesta lista de alta probabilidade a 35k coins, confirmando a tese de que sua queda atual é uma oportunidade de compra de risco calculado baseada na expectativa de recuperação. Jaap Stam, a 94k coins, e Aurélien Tchouaméni, a 70k coins, também são projetados para alta, indicando que o mercado pode estar prestes a recomprar esses ativos essenciais para times de Premier League e La Liga. Kouadio Manu Koné, a 70k coins, e Andrea Pirlo, a 84k coins, completam o grupo de ícones e modernos com alta probabilidade de valorização, sugerindo uma rotação de capital para ativos de legado e utilidade consolidada. Alexia Putellas, a 137k coins, é a projeção mais cara, reforçando a tendência de que o mercado feminino de elite está se desacoplando da queda geral, com investidores buscando refúgio em ativos de escassez relativa. Estas previsões de 95% de probabilidade servem como um mapa de navegação crucial para traders que desejam entrar no mercado contra a tendência atual, apostando na correção de superexposição vendedora.
+O modelo de previsão identifica uma janela de oportunidade clara em ativos com probabilidade de alta de 95%, sugerindo que a correção recente pode ser o fundo de saco para compras estratégicas, começando por Mateo Kovačić a 33 mil coins e Enzo Fernández também a 33 mil coins, ambos no Premier League, que parem estar subvalorizados em relação à demanda histórica. Frank Lampard, um ícone consolidado, está projetado para alta a 137 mil coins, enquanto Xavi e Andrea Pirlo, com valores de 91 mil e 81 mil coins respectivamente, oferecem exposição a ícones de médio porte com alta probabilidade de valorização. Jaap Stam e Roy Keane, com preços de 94 mil e 65 mil coins, respectivamente, completam o grupo de ícones e jogadores com alta probabilidade de retorno positivo, indicando que o mercado pode estar recalibrando os preços desses ativos clássicos. Notavelmente, Koke aparece tanto nas maiores baixas atuais a 30 mil coins quanto nas previsões de alta com probabilidade de 95%, o que cria um cenário clássico de 'compra no desespero', onde o preço atual é extremamente baixo e a probabilidade de recuperação é máxima, tornando-o potencialmente o melhor setup de risco-retorno do dia.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -93,18 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Wouter Burger | 83 | 32k coins | -17.3% |
-| Kodai Sano | 95 | 25k coins | -21.3% |
-| Sara Däbritz | 86 | 30k coins | -17.3% |
-| Mamadou Sangaré | 96 | 103k coins | -17.5% |
-| Laia Aleixandri | 86 | 31k coins | -15.6% |
-| Scott McTominay | 87 | 100k coins | -17.5% |
-| Weston McKennie | 92 | 70k coins | -16.7% |
-| Iniesta | 92 | 124k coins | -21.3% |
+| Toni Kroos | 90 | 98k coins | -17.4% |
+| Julia Grosso | 88 | 65k coins | -15.6% |
+| Musab Al Juwair | 87 | 33k coins | -23.8% |
+| João Moutinho | 88 | 80k coins | -29.1% |
+| Mariona | 96 | 32k coins | -24% |
+| Scott McTominay | 87 | 94k coins | -17.5% |
+| Mariona | 90 | 39k coins | -23.8% |
+| Vicky López | 87 | 33k coins | -24% |
 
 
 ## 🎯 Conclusão do dia
-A estratégia do dia deve focar agressivamente na compra de ativos em fundo de queda com alta probabilidade de reversão, especificamente Enzo Fernández a 35k coins e Xavi a 114k coins, pois os modelos indicam forte recuperação iminente. É aconselhável segurar posições em ícones projetados como Roy Keane e Bastian Schweinsteiger, evitando vender prematuramente diante do pânico geral, pois sua probabilidade de alta de 95% sugere valorização rápida. Traders devem evitar comprar os ativos em alta atual como Gabriel Villamíl e George Dobson a menos que tenham SBCs imediatos, pois a pressão vendedora predominante pode rapidamente reverter esses ganhos temporários. A diversificação entre o mercado masculino e feminino é crucial, com a compra de Aitana Bonmatí e Alexia Putellas oferecendo proteção contra a volatilidade extrema dos ativos da Premier League. O timing ideal para entrada é nas próximas horas, aproveitando a liquidez forçada das vendas de pânico, enquanto se aguarda a estabilização da média de -14.07% para um retorno à neutralidade. Em resumo, compre o pânico em ativos fundamentais como Enzo e Valverde, segure seus ícones e ignore as altas especulativas de curto prazo, focando na correção de longo prazo dos preços reais de mercado.
+A estratégia do dia deve ser agressivamente seletiva, focando em evitar a venda de ativos com alta probabilidade de recuperação como Homare Sawa e Luka Modrić, e buscando comprar apenas nos ativos com probabilidade de 95% que foram mencionados nas previsões, especialmente Koke e os ícones de médio valor. Traders devem resistir à tentação de vender ativos como Tijjani Reijnders e Éderson agora, pois suas probabilidades de alta de 42% e 68% respectivamente sugerem que o fundo pode estar próximo, enquanto devem evitar completamente a compra de ativos como Mariona e Sakina Karchaoui, que têm probabilidades de alta insignificantes. O momento ideal para agir é nas próximas horas, monitorando a liquidez de Koke e Valverde, pois a convergência entre queda atual e previsão de alta máxima cria uma assimetria de risco favorável para entrada. Segure firme suas posições em ícones de alto valor como Homare Sawa e Lothar Matthäus, pois a volatilidade atual é apenas ruído de mercado em um ativo de longo prazo. Em resumo, o dia é para comprar no pânico dos ativos com previsão de 95% e segurar os ativos sólidos, evitando qualquer especulação em cartas com queda acentuada e baixa probabilidade de reversão.
 
 
 ## 🧪 De onde vêm estes números
@@ -114,16 +114,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Gabriel Villamíl (80, Libertadores), com +37.7% em 24h, a 48k coins no Console (PS).
+Estefanía Banini (89, Liga F), com +29.7% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Enzo Fernández (91), -50% em 24h, a 35k coins.
+Mariona (96), -50% em 24h, a 32k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Roy Keane (86) — 95% de probabilidade de alta, a 79k coins.
+Pelo modelo FutQuant, Mateo Kovačić (91) — 95% de probabilidade de alta, a 33k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 37 cartas em alta contra 135 em queda (média -14.07%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 154 em queda (média -17.05%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
