@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:47:07.000Z
+pubDatetime: 2026-06-20T19:47:12.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Lewis Ferguson | 93 | CM | — | 13k coins | -19.7% |
-| Mario Pašalić | 92 | CM | — | 13k coins | -3.7% |
-| Hannibal | 92 | CM | — | 14k coins | -1.9% |
+| Esperanza Pizarro | 92 | CM | — | 12k coins | -66.2% |
+| Luciano Valente | 92 | CM | — | 12k coins | -67.6% |
+| Hannibal | 92 | CM | — | 13k coins | -1.9% |
+| Mario Pašalić | 92 | CM | — | 13k coins | -1.9% |
+| Lily Yohannes | 91 | CM | — | 12k coins | -65.2% |
+| Mahamadou Doumbia | 91 | CM | — | 12k coins | -65.4% |
+| Gabriel Villamíl | 91 | CM | — | 12k coins | -65% |
 | Adalberto Carrasquilla | 91 | CM | — | 13k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.3% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +12% |
-| Jess Fishlock | 88 | CM | NWSL | 14k coins | -37.2% |
-| Juan Sebastián Verón | 88 | CM | — | 14k coins | -3.4% |
-| Janina Minge | 88 | CM | — | 15k coins | 0% |
-| Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +2.1% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +2.2% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 13k coins | +8.3% |
-| Karen Araya | 86 | CM | D1 Arkema | 13k coins | -3.3% |
+| Aleix García | 89 | CM | Bundesliga | 13k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -6.4% |
+| Franziska Harsch | 88 | CM | GPFBL | 12k coins | +2% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -11.9% |
+| Janina Minge | 88 | CM | — | 13k coins | +3.8% |
 
 
 ## 📈 Destaques
 
 - **Lewis Ferguson (93, CM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Esperanza Pizarro (92, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Luciano Valente (92, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Hannibal (92, CM)** da —, a apenas **13k coins**
+
 - **Mario Pašalić (92, CM)** da —, a apenas **13k coins**
-
-- **Hannibal (92, CM)** da —, a apenas **14k coins**
-
-- **Adalberto Carrasquilla (91, CM)** da —, a apenas **13k coins**
-
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
