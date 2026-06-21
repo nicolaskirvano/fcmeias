@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:48:09.000Z
+pubDatetime: 2026-06-21T01:48:36.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -27,17 +27,17 @@ Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pi
 
 
 ## 🧠 Análise FutQuant do dia
-Ao analisar o mercado de EA FC Ultimate Team em PC nesta data, 20 de junho de 2026, o setor de meio-campistas apresenta uma dinâmica interessante para investidores cautelosos e agressivos. A volatilidade dos preços exige uma leitura atenta não apenas da variação percentual nas últimas 24 horas, mas principalmente da probabilidade calculada de continuidade da alta. Entre os nomes listados, destacam-se aqueles que combinam um aumento de preço significativo com uma probabilidade estatística robusta de valorização futura, indicando uma tendência de mercado consolidada e não apenas um pico momentâneo de demanda.
+Ao analisar o mercado de meio-campistas no EA FC Ultimate Team para PC, com foco na data de 20 de junho de 2026, observamos uma volatilidade interessante nas últimas 24 horas. A análise baseia-se estritamente na tendência de valorização dos últimos sete dias, identificando oportunidades de entrada para investimento de curto a médio prazo. Entre os destaques absolutos, Kouadio Manu Koné se apresenta como a aposta mais sólida, com uma alta de 19,7% em 24 horas e uma probabilidade de alta de 69%. Embora seu preço atual de 70k coins seja elevado, a força da tendência sugere que a carta continua atraindo compradores, tornando-se um ativo seguro para quem busca lucros com base em dados estatísticos robustos.
 
-No topo das recomendações para entrada imediata, Kouadio Manu Koné se apresenta como a opção mais segura. O meio-campista da Serie A TIM, com uma carta de 88 rating, registrou um aumento de 17,6% em 24 horas, atingindo a marca de 70k coins. O dado mais relevante para o investidor é a probabilidade de alta de 69%, a maior entre todos os jogadores analisados. Essa combinação sugere que o mercado está na fase inicial de uma valorização sustentada, oferecendo uma janela de oportunidade com baixo risco relativo antes que o preço suba ainda mais.
+Outro nome que merece atenção imediata é Andreia Jacinto, da Liga F. Com uma valorização impressionante de 19,3% em apenas um dia e uma probabilidade de alta de 58%, a carta de 88 de overall está disponível por 32k coins. Esse perfil de risco-recompensa é atrativo, pois combina um preço de entrada acessível com uma tendência de mercado forte. A alta probabilidade de continuidade no aumento de valor indica que há uma demanda sustentada, possivelmente impulsionada por eventos in-game ou popularidade em times específicos, justificando a entrada neste ativo.
 
-Outro nome que merece atenção prioritária é Simone Laudehr. A veterana da GPFBL, com 91 rating, subiu 6,6% em 24 horas, posicionando-se aos 40k coins. Apesar do percentual de subida ser modesto comparado a outros, sua probabilidade de alta é de 59%, indicando uma tendência estável e crescente. Para investidores que preferem ativos de maior rating e menor volatilidade extrema, Laudehr oferece uma entrada sólida em um jogador de elite, com o preço ainda acessível para o seu nível de atributos.
+No segmento de ícones e jogadores históricos, Frank Lampard se destaca com uma probabilidade de alta de 62%, apesar de uma valorização de 12,8% em 24 horas. Preçada em 110k coins, a carta de 87 overall possui um valor intrínseco elevado, mas a alta probabilidade de valorização futura a torna uma opção de investimento de maior capital. Para investidores com mais recursos, a consistência do Lampard no mercado sugere estabilidade e potencial de crescimento, diferenciando-se de ativos mais voláteis.
 
-Kenneth Taylor e Andreia Jacinto também compõem um grupo de interesse imediato. Taylor, da Eredivisie (84 rating), teve um salto impressionante de 30,4% em 24 horas, chegando a 38k coins, com 53% de chance de continuar subindo. Já Andreia Jacinto, da Liga F (88 rating), subiu 18,2% para 32k coins, com probabilidade de alta de 58%. Ambos os jogadores apresentam uma relação atrativa entre preço atual e potencial de crescimento, sendo Taylor ideal para quem busca volatilidade alta e Jacinto para quem busca equilíbrio entre rating e segurança.
+Marek Hamšík apresenta um cenário curioso: lidera a valorização absoluta com 39,5% em 24 horas, mas possui a menor probabilidade de alta entre os destaques, de apenas 19%. A 60k coins, a carta de 88 overall pode estar passando por uma especulação momentânea. Investir aqui é arriscado; a tendência imediata é de alta, mas a baixa probabilidade de continuidade sugere que o preço pode estar inflado temporariamente, devendo ser evitado para investimentos de longo prazo ou aguardando uma correção.
 
-Por outro lado, é crucial identificar quais cartas, apesar da alta recente, devem ser evitadas por investidores de longo prazo. Khéphren Thuram (85, Serie A TIM) subiu 24,4% para 100k coins, mas possui uma probabilidade de alta de apenas 14%, sugerindo que o preço pode estar inflado temporariamente. Da mesma forma, Jill Scott (87, Barclays WSL) e Daniel Svensson (84, Bundesliga) apresentam probabilidades de alta de 32% e 33%, respectivamente, o que indica incerteza sobre a sustentabilidade de seus picos de preço de 36k e 26k coins. Entrar nestes ativos agora carrega um risco elevado de correção de mercado.
+Jill Scott aparece em duas versões, oferecendo estratégias distintas. A carta de 87 overall, da Barclays WSL, sobe 12,1% e custa 35k coins, com 32% de probabilidade de alta. Já a versão de 91 overall, a 119k coins, tem 16,7% de alta e 33% de probabilidade. Ambas têm probabilidades moderadas, indicando que o mercado feminino, embora em crescimento, é mais sensível a flutuações. A entrada na versão de 87 overall é mais segura financeiramente devido ao menor custo de aquisição, mesmo com probabilidade similar à versão mais cara.
 
-Finalmente, Crystal Dunn (85, D1 Arkema) e Paul Scholes (91, Icons) representam casos distintos. Dunn subiu 12,6% para 85k coins com 52% de probabilidade de alta, sendo uma opção intermediária de risco. Já Scholes, com 17,6% de subida para 140k coins e 58% de probabilidade de alta, é um ativo de alto valor que requer capital significativo. A decisão final deve basear-se na tolerância ao risco: Manu Koné e Laudehr oferecem o melhor equilíbrio entre segurança e retorno potencial neste momento específico do mercado.
+Por fim, Steven Gerrard e Nadine Keßler completam o quadro de oportunidades. Gerrard, a 54k coins, tem 16,7% de alta e 40% de probabilidade, sendo um equilíbrio razoável entre risco e retorno. Keßler, a 27k coins, oferece a menor entrada com 11,6% de alta e 56% de probabilidade, ideal para portfólios diversificados de baixo custo. Dolores Silva, apesar de ter 57% de probabilidade de alta, possui apenas 2,1% de valorização em 24h a 37k coins, sugerindo uma tendência lenta que pode não justificar o capital imobilizado em comparação com Jacinto ou Keßler.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andreia Jacinto | 88 | Liga F | 32k coins | +18.2% | +85.7% | 58% |
-| Simone Laudehr | 91 | GPFBL | 40k coins | +6.6% | +62.6% | 59% |
-| Kenneth Taylor | 84 | Eredivisie | 38k coins | +30.4% | +49.4% | 53% |
-| Paul Scholes | 91 | Icons | 140k coins | +17.6% | +48.9% | 58% |
-| Jill Scott | 87 | Barclays WSL | 36k coins | +18.9% | +48% | 32% |
-| Crystal Dunn | 85 | D1 Arkema | 85k coins | +12.6% | +47.8% | 52% |
-| Khéphren Thuram | 85 | Serie A TIM | 100k coins | +24.4% | +45.3% | 14% |
-| Daniel Svensson | 84 | Bundesliga | 26k coins | +31.2% | +43.8% | 33% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 70k coins | +17.6% | +40% | 69% |
-| Nadine Keßler | 89 | GPFBL | 26k coins | +21.1% | +36.2% | 56% |
-| Eva Dios | 85 | Liga F | 22k coins | +5.9% | +28.6% | 26% |
-| Georginio Wijnaldum | 87 | Brasileirão | 32k coins | +8.3% | +27.5% | 28% |
-| Can Bozdoğan | 87 | Eredivisie | 24k coins | +25% | +25% | 42% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 50k coins | +4.2% | +21.2% | 21% |
-| Koke | 84 | LALIGA EA SPORTS | 44k coins | +20.1% | +13.2% | 19% |
+| Andreia Jacinto | 88 | Liga F | 32k coins | +19.3% | +85.7% | 58% |
+| Jill Scott | 87 | Barclays WSL | 35k coins | +12.1% | +59.8% | 32% |
+| Marek Hamšík | 88 | Serie A TIM | 60k coins | +39.5% | +50.9% | 19% |
+| Steven Gerrard | 89 | Icons | 54k coins | +16.7% | +40.9% | 40% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 70k coins | +19.7% | +40% | 69% |
+| Jill Scott | 91 | Barclays WSL | 119k coins | +16.7% | +36% | 33% |
+| Khéphren Thuram | 85 | Serie A TIM | 86k coins | +16% | +27% | 14% |
+| Nadine Keßler | 89 | GPFBL | 27k coins | +11.6% | +26.3% | 56% |
+| Frank Lampard | 87 | Icons | 110k coins | +12.8% | +24.3% | 62% |
+| Dolores Silva | 84 | Liga F | 37k coins | +2.1% | +23.5% | 57% |
+| Jaap Stam | 89 | Premier League | 148k coins | +37% | +23.3% | 65% |
+| Cher Ndour | 86 | Serie A TIM | 20k coins | +28.6% | +14.1% | 50% |
+| Paul Scholes | 91 | Icons | 138k coins | +2.2% | +14% | 58% |
+| Alexis Mac Allister | 89 | Premier League | 25k coins | +11% | +13.8% | 27% |
+| Simone Laudehr | 90 | GPFBL | 35k coins | +33.3% | +6.1% | 63% |
 
 
 ## 📈 Análise dos destaques
 
-- **Andreia Jacinto (88)** — 32k coins, **+85.7% em 7 dias** (+18.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andreia Jacinto (88)** — 32k coins, **+85.7% em 7 dias** (+19.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Simone Laudehr (91)** — 40k coins, **+62.6% em 7 dias** (+6.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (87)** — 35k coins, **+59.8% em 7 dias** (+12.1% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Kenneth Taylor (84)** — 38k coins, **+49.4% em 7 dias** (+30.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marek Hamšík (88)** — 60k coins, **+50.9% em 7 dias** (+39.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Paul Scholes (91)** — 140k coins, **+48.9% em 7 dias** (+17.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Steven Gerrard (89)** — 54k coins, **+40.9% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (-0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jill Scott (87)** — 36k coins, **+48% em 7 dias** (+18.9% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kouadio Manu Koné (88)** — 70k coins, **+40% em 7 dias** (+19.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista

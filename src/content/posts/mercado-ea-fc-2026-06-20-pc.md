@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:47:46.000Z
+pubDatetime: 2026-06-21T01:48:11.000Z
 title: "Meio-campistas no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Nicolae Stanciu (86, Serie A TIM), com +52.9% em 24h, a 88k coins no PC."
+    a: "Wouter Burger (83, Bundesliga), com +47.4% em 24h, a 49k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Senny Mayulu (83), -44% em 24h, a 114k coins."
+    a: "Kodai Sano (95), -41% em 24h, a 28k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 78 cartas em alta contra 129 em queda (média -2.0%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 84 cartas em alta contra 117 em queda (média 0.71%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de EA FC Ultimate Team em PC para o dia 20/06/2026 apresenta um cenário extremamente hostil para traders que buscam valorização rápida, caracterizado por um sentimento predominantemente vendedor que afasta a maioria dos investidores. Os dados indicam uma assimetria clara no comportamento das cartas, com 129 quedas registradas contra apenas 78 altas no período de 24 horas, resultando em uma média negativa de -2.0% no desempenho geral dos ativos. Esse clima de desânimo sugere que a liquidez está concentrada em vendas de pânico ou realização de lucros em ativos que haviam subido nas sessões anteriores, criando uma pressão descendente generalizada sobre os preços. Para o trader experiente, esse ambiente exige cautela redobrada, pois a probabilidade de erros de compra é elevada quando a tendência de mercado é claramente de desvalorização. A estratégia de hoje deve focar em identificar oportunidades de compra em ativos de alta probabilidade de alta que estão sendo vendidos por medo infundado, enquanto se evita a exposição a ativos sem suporte técnico ou fundamental.
+O cenário dos meio-campistas para o dia 20 de junho de 2026 apresenta um equilíbrio delicado e fascinante, onde o sentimento geral do mercado se mantém lateralizado, refletindo uma indecisão estratégica por parte dos traders que negociam entre a cautela e a oportunidade de compra. Com um total de 84 altas contra 117 quedas nas últimas 24 horas, a média de variação permanece modesta em apenas 0.71%, indicando que não há um fluxo massivo de entrada ou saída de capital que force tendências extremas, mas sim movimentos seletivos e específicos. Este ambiente de lateralidade exige que o trader analista olhe além do ruído diário e identifique quais ativos estão reagindo a eventos específicos ou mudanças de percepção de valor, já que a volatilidade está concentrada em poucos nomes-chave. A probabilidade de alta em diversos ativos sugere que, embora o mercado esteja parado em macro, micro-opportunities estão surgindo para quem tem paciência e conhecimento profundo dos ciclos de preço. É fundamental manter a disciplina e não ser puxado por emoções, pois a dispersão entre as 84 altas e 117 baixas mostra que o risco está diluído, mas as recompensas estão concentradas em ativos com fundamentos claros de sobrecotação ou subcotação momentânea.
 
-> 🟢 **Maior alta:** Nicolae Stanciu (86) **+52.9%** · 🔴 **Maior baixa:** Senny Mayulu (83) **-44%**
+> 🟢 **Maior alta:** Wouter Burger (83) **+47.4%** · 🔴 **Maior baixa:** Kodai Sano (95) **-41%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolae Stanciu | 86 | Serie A TIM | 88k coins | +52.9% | -21.2% |
-| Scott McTominay | 91 | Serie A TIM | 418k coins | +51.7% | +15.8% |
-| Karen Araya | 86 | D1 Arkema | 29k coins | +45% | 0% |
-| Wouter Burger | 83 | Bundesliga | 50k coins | +43.9% | +3.1% |
-| Weston McKennie | 92 | Serie A TIM | 70k coins | +42.9% | -5.4% |
-| Iniesta | 93 | Icons | 360k coins | +42.5% | -10.4% |
-| Julia Grosso | 88 | NWSL | 75k coins | +33.9% | 0% |
-| Simone Laudehr | 90 | GPFBL | 35k coins | +33.3% | +0.7% |
-| João Gomes | 84 | Premier League | 40k coins | +32% | -7.5% |
-| Daniel Svensson | 84 | Bundesliga | 26k coins | +31.2% | +43.8% |
+| Wouter Burger | 83 | Bundesliga | 49k coins | +47.4% | +4.3% |
+| Christian Eriksen | 87 | Bundesliga | 78k coins | +44% | -15.6% |
+| Can Bozdoğan | 87 | Eredivisie | 30k coins | +40.3% | +3.8% |
+| Marek Hamšík | 88 | Serie A TIM | 60k coins | +39.5% | +50.9% |
+| Jaap Stam | 89 | Premier League | 148k coins | +37% | +23.3% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 100k coins | +36% | +48.9% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 1.07M coins | +33.3% | +5% |
+| Simone Laudehr | 90 | GPFBL | 35k coins | +33.3% | +6.1% |
+| Weston McKennie | 92 | Serie A TIM | 62k coins | +32.6% | -21% |
+| Cher Ndour | 86 | Serie A TIM | 20k coins | +28.6% | +14.1% |
 
 
-Entre os poucos ativos que resistiram à onda vendista, destacam-se Nicolae Stanciu e Scott McTominay, que demonstram força relativa significativa em meio ao caos do mercado. Nicolae Stanciu, uma carta de 86 no Serie A TIM, registrou um impressionante aumento de 52.9% em 24 horas, atingindo o preço de 88k coins, com uma probabilidade calculada de alta de 45%, o que indica um movimento especulativo forte mas com risco moderado de correção. Já Scott McTominay, com uma avaliação de 91 também no Serie A TIM, subiu 51.7% para 418k coins, apoiado por uma probabilidade de alta robusta de 64%, sugerindo que sua valorização tem bases mais sólidas, possivelmente ligadas a eventos futuros ou escassez de oferta. Karen Araya, do D1 Arkema, com 86 de overall, é outro destaque, subindo 45% para 29k coins, com uma probabilidade de alta de 58%, o que a torna um ativo de baixo custo e alto potencial de retorno percentual para traders com capital limitado. Wouter Burger, da Bundesliga, com 83 de overall, acompanhou essa tendência com alta de 43.9% para 50k coins, apresentando uma probabilidade de alta de 57%, indicando que mesmo jogadores de menor destaque estão sendo alvos de compras seletivas. Weston McKennie, com 92 no Serie A TIM, subiu 42.9% para 70k coins, com probabilidade de alta de 61%, reforçando a tese de que o mercado está buscando ativos de nível premium com maior liquidez.
+Entre os destaques positivos, Wouter Burger, o meio-campista de 83 rating da Bundesliga, lidera as altas com um impressionante salto de 47.4% em 24 horas, atingindo a marca de 49k coins, o que sugere uma forte demanda reprimida ou uma antecipação de promoções futuras, considerando que sua probabilidade de alta está calculada em 57%. Christian Eriksen, o veterano de 87 rating também da Bundesliga, não fica atrás com uma alta de 44% em 24 horas, posicionando-se em 78k coins, um movimento robusto apoiado por uma probabilidade de alta de 71%, indicando que os traders confiam na continuidade dessa tendência ascendente baseada em sua utilidade em squads temáticos. Can Bozdoğan, da Eredivisie, com 87 rating, registrou uma alta de 40.3% em 24 horas para chegar a 30k coins, embora sua probabilidade de alta seja mais cautelosa em 42%, o que pode indicar um pico de curto prazo ou uma correção iminente após este movimento agressivo. Marek Hamšík, o lendário meio-campista de 88 rating da Serie A TIM, subiu 39.5% em 24 horas para 60k coins, mas chama atenção por sua baixa probabilidade de alta de apenas 19%, sugerindo que esta alta pode ser um 'buy the rumor, sell the news' ou um pico isolado sem sustentação de longo prazo. Jaap Stam, o clássico de 89 rating da Premier League, encareceu 37% em 24 horas para 148k coins, com uma probabilidade de alta de 65%, mostrando que ativos de alta gama ainda possuem liquidez e atratividade para traders que buscam estabilidade em meio à volatilidade.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 114k coins | -44% | -36.3% |
-| Thelo Aasgaard | 87 | Scottish Premiership | 31k coins | -38.1% | -26.1% |
-| Alexia Putellas | 92 | Liga F | 30k coins | -36% | -27.1% |
-| Xavi | 93 | Icons | 499k coins | -34.7% | -54.4% |
-| Kodai Sano | 95 | — | 30k coins | -33.7% | -62.1% |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 29k coins | -32% | -23% |
-| Orkun Kökçü | 95 | — | 133k coins | -31.4% | -53.8% |
-| Gabriel Sara | 94 | — | 28k coins | -30.9% | -64.3% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 48k coins | -30.4% | -27.2% |
-| João Moutinho | 88 | Liga Portugal | 60k coins | -30% | -3.3% |
+| Kodai Sano | 95 | — | 28k coins | -41% | -69% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 27k coins | -30.8% | -4.4% |
+| Aleix Febas | 83 | LALIGA EA SPORTS | 48k coins | -29.9% | -15.8% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 23k coins | -28.5% | +29.2% |
+| Bruno Guimarães | 89 | Premier League | 23k coins | -28% | -12% |
+| Arthur Atta | 85 | Serie A TIM | 24k coins | -27.4% | -16.9% |
+| Hayley Lauder | 85 | Scottish Women's League | 23k coins | -26.6% | +8.3% |
+| Vitinha | 96 | — | 9.60M coins | -26.2% | -26.2% |
+| Enzo Fernández | 93 | — | 42k coins | -23.6% | -59.2% |
+| Enzo Fernández | 91 | Premier League | 63k coins | -23.5% | +1.6% |
 
 
-Na outra ponta do espectro, as quedas foram drásticas e abrangem tanto ícones quanto jogadores comuns, refletindo uma correção brutal nos preços inflacionados das últimas semanas. Senny Mayulu, do Ligue 1 McDonald's, sofreu a maior queda relativa com -44% em 24 horas, caindo para 114k coins, apesar de ainda manter uma probabilidade de alta de 54%, o que pode indicar uma oportunidade de rebote técnico para traders agressivos. Thelo Aasgaard, da Scottish Premiership, despencou 38.1% para 31k coins, com uma probabilidade de alta baixa de apenas 37%, sugerindo que a venda foi motivada por falta de demanda real e não apenas por pânico, tornando-o um ativo de risco elevado. Alexia Putellas, do Liga F, caiu 36% para 30k coins, mantendo uma probabilidade de alta de 68%, o que cria uma dissonância interessante entre o preço atual baixo e o potencial futuro, possivelmente devido a um evento iminente que ainda não foi precificado pelo mercado. Xavi, um ícone de 93, sofreu uma queda de 34.7% para 499k coins, mas sua probabilidade de alta caiu para um mínimo de 19%, indicando que a alta é improvável e que a tendência de baixa pode se prolongar, devendo ser evitado por agora. Kodai Sano, sem liga específica, caiu 33.7% para 30k coins, com probabilidade de alta de 67%, sugerindo que sua queda foi exagerada e pode ser uma boa oportunidade de compra se o trader acredita em um retorno à média.
+Na outra extremidade do espectro, Kodai Sano, o meio-campista de 95 rating sem liga específica, sofreu uma queda brutal de 41% em 24 horas, despencando para 28k coins, um movimento alarmante considerando que sua probabilidade de alta é de 67%, o que pode indicar uma oportunidade de compra agressiva para traders de risco dispostos a apostar na recuperação. Valentín Barco, de 88 rating da Ligue 1 McDonald's, caiu 30.8% em 24 horas para 27k coins, com uma probabilidade de alta moderada de 46%, sugerindo que a venda pode ter sido excessiva e que o ativo está se aproximando de um suporte técnico forte. Aleix Febas, da LALIGA EA SPORTS com 83 rating, registrou uma queda de 29.9% em 24 horas para 48k coins, com probabilidade de alta de 40%, o que indica que o mercado ainda está processando sua desvalorização e pode haver mais pressão vendedora antes de uma estabilização. Angel Gomes, também da Ligue 1 McDonald's com 83 rating, caiu 28.5% em 24 horas para 23k coins, mas sua baixa probabilidade de alta de 23% alerta para a possibilidade de continuação da queda ou lateralização em patamares baixos, tornando-o um ativo de risco elevado. Bruno Guimarães, o popular meio-campista de 89 rating da Premier League, caiu 28% em 24 horas para 23k coins, mas sua alta probabilidade de alta de 71% sugere fortemente que esta queda é uma distração temporária do mercado e uma oportunidade de ouro para compra de longo prazo.
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para hoje é de compra seletiva em ativos com alta probabilidade de alta que estão sendo vendidos por pânico, como Alexia Putellas e Kodai Sano, enquanto se mantém cautela com ativos de alta probabilidade mas alta volatilidade como Nicolae Stanciu. Deve-se evitar completamente a compra de Xavi e Orkun Kökçü, dado que suas probabilidades de alta são zero ou próximas disso, indicando uma tendência de baixa sustentada sem horizonte de reversão imediata. Traders com capital maior devem considerar a compra de Scott McTominay e Weston McKennie, pois seus preços estão consolidados em novos patamares mais altos com suporte de alta probabilidade, o que reduz o risco de perda. Para traders de baixo capital, Karen Araya e Simone Laudehr oferecem exposição ao mercado com risco controlado, pois suas probabilidades de alta são superiores a 50% e os preços absolutos são baixos, permitindo uma gestão de risco mais flexível. É fundamental monitorar de perto a liquidez de Senny Mayulu, pois sua queda acentuada combinada com probabilidade de alta moderada pode indicar uma armadilha de valor ou uma oportunidade de rebote rápido, dependendo do volume de negociação nas próximas horas.
+A estratégia recomendada para hoje é focar na acumulação de ativos com alta probabilidade de reversão após quedas acentuadas, como Bruno Guimarães e Kodai Sano, aproveitando a confiança do mercado em sua recuperação futura, enquanto se evita a perseguição de ativos em altas sem sustentação probabilística, como Marek Hamšík. Traders conservadores devem considerar a compra de Christian Eriksen e Jaap Stam, pois seus movimentos de alta são apoiados por probabilidades robustas de continuidade, oferecendo um equilíbrio entre risco e retorno em um mercado lateralizado. É crucial monitorar de perto Can Bozdoğan e Aleix Febas, pois suas probabilidades de alta mais baixas indicam que as atuais altas ou quedas podem ser insustentáveis, sugerindo oportunidades de venda no topo ou compra no fundo apenas se houver confirmação de suporte. Evite expor capital significativo a Vitinha, cuja queda de 26.2% e probabilidade de alta de 0% indicam uma tendência de baixa estrutural e falta de interesse dos compradores, tornando-o um ativo de alta risco sem horizonte de recuperação visível. Mantenha a liquidez para aproveitar possíveis correções em ativos de médio porte como Wouter Burger, que, apesar da alta forte, pode oferecer pontos de entrada mais seguros se houver uma pequena retração, permitindo alavancar a tendência de alta com menor risco de exposição.
 
 
 ## 🧪 De onde vêm estes números
@@ -77,13 +77,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Nicolae Stanciu (86, Serie A TIM), com +52.9% em 24h, a 88k coins no PC.
+Wouter Burger (83, Bundesliga), com +47.4% em 24h, a 49k coins no PC.
 
 **E a maior queda do dia?**  
-Senny Mayulu (83), -44% em 24h, a 114k coins.
+Kodai Sano (95), -41% em 24h, a 28k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 78 cartas em alta contra 129 em queda (média -2.0%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 84 cartas em alta contra 117 em queda (média 0.71%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
