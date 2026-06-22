@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T22:46:10.000Z
+pubDatetime: 2026-06-22T01:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Darko Nejašmić | 93 | CM | — | 12k coins | -68.4% |
+| Sebastian Berhalter | 93 | CM | — | 12k coins | -75.1% |
+| Paula Fernández | 93 | CM | — | 12k coins | -66.2% |
+| Kang Sang Yoon | 93 | CM | — | 12k coins | -77.9% |
+| Aleix García | 93 | CM | — | 12k coins | -69.4% |
 | Victor Froholdt | 93 | CM | — | 12k coins | -66.7% |
-| Aleix García | 93 | CM | — | 12k coins | -68.8% |
-| Paula Fernández | 93 | CM | — | 12k coins | -64% |
-| Sebastian Berhalter | 93 | CM | — | 12k coins | -72.7% |
-| Kang Sang Yoon | 93 | CM | — | 14k coins | -70.4% |
-| Lewis Ferguson | 93 | CM | — | 15k coins | -31.7% |
+| Esperanza Pizarro | 92 | CM | — | 12k coins | -64.1% |
+| Bruno Guimarães | 92 | CM | — | 12k coins | -70.6% |
 | Luciano Valente | 92 | CM | — | 12k coins | -70.5% |
-| Esperanza Pizarro | 92 | CM | — | 12k coins | -64.3% |
-| Bruno Guimarães | 92 | CM | — | 12k coins | -69.7% |
-| Adrien Thomasson | 92 | CM | — | 12k coins | -68% |
+| Pablo Fornals | 92 | CM | — | 12k coins | -67.1% |
+| Corentin Tolisso | 92 | CM | — | 12k coins | -67.8% |
 | Adrien Rabiot | 92 | CM | — | 12k coins | -75.4% |
-| Corentin Tolisso | 92 | CM | — | 12k coins | -66.4% |
-| Pablo Fornals | 92 | CM | — | 12k coins | -65.7% |
-| Mario Pašalić | 92 | CM | — | 14k coins | -14.3% |
+| Adrien Thomasson | 92 | CM | — | 12k coins | -68% |
+| Mario Pašalić | 92 | CM | — | 14k coins | -17.2% |
+| Hannibal | 92 | CM | — | 14k coins | -17.2% |
 
 
 ## 📈 Destaques
 
 - **Darko Nejašmić (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Victor Froholdt (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Aleix García (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sebastian Berhalter (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Paula Fernández (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sebastian Berhalter (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kang Sang Yoon (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Aleix García (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
