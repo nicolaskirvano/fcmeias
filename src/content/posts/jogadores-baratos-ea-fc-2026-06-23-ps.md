@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T13:46:05.000Z
+pubDatetime: 2026-06-23T16:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Darko Nejašmić | 93 | CM | — | 12k coins | -70.2% |
-| Victor Froholdt | 93 | CM | — | 12k coins | -69.2% |
-| Sebastian Berhalter | 93 | CM | — | 12k coins | -71.3% |
+| Darko Nejašmić | 93 | CM | — | 12k coins | -71% |
+| Victor Froholdt | 93 | CM | — | 12k coins | -69.9% |
+| Paula Fernández | 93 | CM | — | 12k coins | -68.7% |
 | Aleix García | 93 | CM | — | 12k coins | -70% |
-| Paula Fernández | 93 | CM | — | 12k coins | -68% |
-| Lewis Ferguson | 93 | CM | — | 12k coins | -32.4% |
-| Kang Sang Yoon | 93 | CM | — | 13k coins | -78.2% |
+| Sebastian Berhalter | 93 | CM | — | 12k coins | -71.5% |
+| Lewis Ferguson | 93 | CM | — | 13k coins | -29.7% |
+| Kang Sang Yoon | 93 | CM | — | 14k coins | -76.1% |
 | Luciano Valente | 92 | CM | — | 12k coins | -68.9% |
-| Esperanza Pizarro | 92 | CM | — | 12k coins | -68.3% |
-| Adrien Rabiot | 92 | CM | — | 12k coins | -72% |
-| Bruno Guimarães | 92 | CM | — | 12k coins | -69.9% |
-| Adrien Thomasson | 92 | CM | — | 12k coins | -70.3% |
-| Pablo Fornals | 92 | CM | — | 12k coins | -69.9% |
-| Corentin Tolisso | 92 | CM | — | 12k coins | -69.3% |
-| Mario Pašalić | 92 | CM | — | 12k coins | -13.8% |
+| Esperanza Pizarro | 92 | CM | — | 12k coins | -68.5% |
+| Bruno Guimarães | 92 | CM | — | 12k coins | -70.1% |
+| Pablo Fornals | 92 | CM | — | 12k coins | -70.3% |
+| Adrien Rabiot | 92 | CM | — | 12k coins | -73.3% |
+| Adrien Thomasson | 92 | CM | — | 12k coins | -70.4% |
+| Corentin Tolisso | 92 | CM | — | 12k coins | -69.1% |
+| Hannibal | 92 | CM | — | 12k coins | -12.3% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Victor Froholdt (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sebastian Berhalter (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paula Fernández (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Aleix García (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paula Fernández (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sebastian Berhalter (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
