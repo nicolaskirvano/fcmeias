@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T10:46:05.000Z
+pubDatetime: 2026-06-24T13:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 24/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/06/2026)?"
-    a: "Sebastian Berhalter (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Darko Nejašmić (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sebastian Berhalter (93) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Darko Nejašmić (93) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sebastian Berhalter | 93 | CM | — | 12k coins | -69.3% |
-| Darko Nejašmić | 93 | CM | — | 12k coins | -70% |
-| Aleix García | 93 | CM | — | 12k coins | -69% |
-| Victor Froholdt | 93 | CM | — | 12k coins | -69.5% |
-| Paula Fernández | 93 | CM | — | 12k coins | -68.2% |
-| Lewis Ferguson | 93 | CM | — | 13k coins | -29.3% |
-| Kang Sang Yoon | 93 | CM | — | 14k coins | -76.5% |
-| Adrien Rabiot | 92 | CM | — | 12k coins | -76% |
-| Esperanza Pizarro | 92 | CM | — | 12k coins | -68.1% |
-| Adrien Thomasson | 92 | CM | — | 12k coins | -69.7% |
-| Luciano Valente | 92 | CM | — | 12k coins | -68.9% |
-| Bruno Guimarães | 92 | CM | — | 12k coins | -68.6% |
-| Corentin Tolisso | 92 | CM | — | 12k coins | -69.3% |
-| Pablo Fornals | 92 | CM | — | 12k coins | -69.3% |
-| Mario Pašalić | 92 | CM | — | 13k coins | -7.1% |
+| Darko Nejašmić | 93 | CM | — | 12k coins | -69.6% |
+| Victor Froholdt | 93 | CM | — | 12k coins | -69.1% |
+| Sebastian Berhalter | 93 | CM | — | 12k coins | -68.6% |
+| Aleix García | 93 | CM | — | 12k coins | -69.2% |
+| Paula Fernández | 93 | CM | — | 12k coins | -68% |
+| Lewis Ferguson | 93 | CM | — | 13k coins | -29.7% |
+| Kang Sang Yoon | 93 | CM | — | 14k coins | -79% |
+| Esperanza Pizarro | 92 | CM | — | 12k coins | -67.1% |
+| Luciano Valente | 92 | CM | — | 12k coins | -68.5% |
+| Pablo Fornals | 92 | CM | — | 12k coins | -68.5% |
+| Corentin Tolisso | 92 | CM | — | 12k coins | -68.7% |
+| Adrien Rabiot | 92 | CM | — | 12k coins | -75% |
+| Adrien Thomasson | 92 | CM | — | 12k coins | -68.7% |
+| Bruno Guimarães | 92 | CM | — | 12k coins | -68.4% |
+| Mario Pašalić | 92 | CM | — | 13k coins | -8.9% |
 
 
 ## 📈 Destaques
 
-- **Sebastian Berhalter (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Darko Nejašmić (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aleix García (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Victor Froholdt (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sebastian Berhalter (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Aleix García (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Paula Fernández (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/06/2026)?**  
-Sebastian Berhalter (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Darko Nejašmić (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
