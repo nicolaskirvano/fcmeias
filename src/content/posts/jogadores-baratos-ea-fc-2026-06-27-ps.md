@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:46:05.000Z
+pubDatetime: 2026-06-27T13:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lewis Ferguson | 93 | CM | — | 14k coins | +5.7% |
-| Hannibal | 92 | CM | — | 14k coins | +7.7% |
-| Mario Pašalić | 92 | CM | — | 14k coins | +9.8% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +17% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6k coins | +1.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -4.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | +1.7% |
-| Janina Minge | 88 | CM | — | 14k coins | +1.8% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 11k coins | -24.2% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 15k coins | +33.3% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +9.4% |
+| Hannibal | 92 | CM | — | 14k coins | +11.5% |
+| Mario Pašalić | 92 | CM | — | 14k coins | +13.7% |
+| Adalberto Carrasquilla | 91 | CM | — | 15k coins | +17.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 7k coins | +11.9% |
+| Nadine Keßler | 89 | CM | GPFBL | 15k coins | -22.1% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | +7.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -8.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +3.9% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 15k coins | +8.3% |
 | Fara Williams | 86 | CM | Barclays WSL | 11k coins | -4.3% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -8.5% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
+| Olivia Moultrie | 86 | CM | NWSL | 12k coins | 0% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mario Pašalić (92, CM)** da —, a apenas **14k coins**
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Adalberto Carrasquilla (91, CM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **6k coins**
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **7k coins**
 
 
 ## Por que estas cartas?
