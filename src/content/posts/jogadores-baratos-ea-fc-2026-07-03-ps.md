@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:46:05.000Z
+pubDatetime: 2026-07-03T16:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,29 +30,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | +5.4% |
-| Mario Pašalić | 93 | CM | — | 14k coins | 0% |
+| Mario Pašalić | 93 | CM | — | 14k coins | -1.7% |
+| Lewis Ferguson | 93 | CM | — | 15k coins | +1.8% |
 | Mohammed Kanno | 92 | CM | — | 12k coins | 0% |
-| Hannibal | 92 | CM | — | 14k coins | +5.5% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | -41.7% |
-| Nadine Keßler | 89 | CM | GPFBL | 14k coins | -12.3% |
-| Jess Park | 89 | CM | Barclays WSL | 14k coins | -17.1% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Janina Minge | 88 | CM | — | 11k coins | -9.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -2% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 12k coins | -21.3% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | +12.2% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | +9.8% |
+| Hannibal | 92 | CM | — | 14k coins | +3.6% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | -35% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | -9.7% |
+| Nadine Keßler | 89 | CM | GPFBL | 14k coins | -3.4% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +2% |
+| Janina Minge | 88 | CM | — | 13k coins | 0% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 12k coins | -7.8% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12k coins | -2% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 13k coins | -29.3% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
-
 - **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
+
+- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
 

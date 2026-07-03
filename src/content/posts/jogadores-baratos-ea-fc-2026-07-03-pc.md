@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:46:09.000Z
+pubDatetime: 2026-07-03T16:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 95 | CM | — | 15k coins | -70.3% |
+| Fabián Ruiz | 95 | CM | — | 15k coins | -71.3% |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | +1.8% |
-| Lewis Ferguson | 93 | CM | — | 15k coins | +1.8% |
+| Mario Pašalić | 93 | CM | — | 14k coins | +3.6% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +3.6% |
 | Mohammed Kanno | 92 | CM | — | 12k coins | 0% |
-| Hannibal | 92 | CM | — | 14k coins | +3.6% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -41.2% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -42.9% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +4.1% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 15k coins | +15.3% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +21.2% |
-| Jack McGlynn | 87 | CM | MLS | 15k coins | -62% |
-| Tijjani Reijnders | 86 | CM | Serie A Enilive | 2k coins | +100% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.2% |
+| Hannibal | 92 | CM | — | 15k coins | +3.6% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -25.8% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -38.9% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -32.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -8.3% |
+| Janina Minge | 88 | CM | — | 15k coins | -17.7% |
+| Jack McGlynn | 87 | CM | MLS | 14k coins | -66% |
+| Tijjani Reijnders | 86 | CM | Serie A Enilive | 2k coins | +123.5% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | -8.5% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.4% |
 
 
 ## 📈 Destaques
@@ -54,7 +54,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
+- **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
 
