@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:46:09.000Z
+pubDatetime: 2026-07-03T13:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Fabián Ruiz (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Fabián Ruiz (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Fabián Ruiz (95) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Fabián Ruiz (95) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 95 | CM | — | 14k coins | -71.8% |
+| Fabián Ruiz | 95 | CM | — | 15k coins | -70.3% |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
 | Mario Pašalić | 93 | CM | — | 14k coins | +1.8% |
-| Lewis Ferguson | 93 | CM | — | 15k coins | 0% |
+| Lewis Ferguson | 93 | CM | — | 15k coins | +1.8% |
 | Mohammed Kanno | 92 | CM | — | 12k coins | 0% |
-| Hannibal | 92 | CM | — | 15k coins | +3.6% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -52.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -48.6% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -46.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 11k coins | -18.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -4.1% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | -5.1% |
-| Jack McGlynn | 87 | CM | MLS | 15k coins | -53.9% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.3% |
+| Hannibal | 92 | CM | — | 14k coins | +3.6% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -41.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -42.9% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +4.1% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 15k coins | +15.3% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +21.2% |
+| Jack McGlynn | 87 | CM | MLS | 15k coins | -62% |
+| Tijjani Reijnders | 86 | CM | Serie A Enilive | 2k coins | +100% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.2% |
 
 
 ## 📈 Destaques
 
-- **Fabián Ruiz (95, CM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fabián Ruiz (95, CM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Fabián Ruiz (95, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Fabián Ruiz (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
