@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T19:46:09.000Z
+pubDatetime: 2026-07-03T22:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,32 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | +5.5% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | +9.1% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | 0% |
-| Hannibal | 92 | CM | — | 14k coins | +1.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +7.1% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +7.4% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | -3.2% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -42.4% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -32.3% |
+| Lewis Ferguson | 93 | CM | — | 15k coins | +7.3% |
+| Mario Pašalić | 93 | CM | — | 15k coins | +7.4% |
+| Hannibal | 92 | CM | — | 14k coins | +5.5% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -7.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -7.1% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | 0% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -46.7% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | -8.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -2.1% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.5% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -10.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -23.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | +20% |
+| Jack McGlynn | 87 | CM | MLS | 15k coins | -67.1% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +4.4% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +2.2% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 15k coins | -32% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
-- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
+- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
-
-- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
+- **Mario Pašalić (93, CM)** da —, a apenas **15k coins**
 
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
+
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins**
 
 
 ## Por que estas cartas?
