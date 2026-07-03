@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:46:05.000Z
+pubDatetime: 2026-07-03T19:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 12k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -1.7% |
-| Lewis Ferguson | 93 | CM | — | 15k coins | +1.8% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | 0% |
-| Hannibal | 92 | CM | — | 14k coins | +3.6% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | -35% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | -9.7% |
-| Nadine Keßler | 89 | CM | GPFBL | 14k coins | -3.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.4% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +2% |
-| Janina Minge | 88 | CM | — | 13k coins | 0% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 12k coins | -7.8% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12k coins | -2% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 13k coins | -29.3% |
+| Andrés Cubas | 93 | CM | — | 12k coins | +4.3% |
+| Mario Pašalić | 93 | CM | — | 15k coins | +7% |
+| Hannibal | 92 | CM | — | 14k coins | +7.1% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | -43.3% |
+| Nadine Keßler | 89 | CM | GPFBL | 14k coins | 0% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | -9.8% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -2.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -3.8% |
+| Janina Minge | 88 | CM | — | 14k coins | -1.8% |
+| Andreia Jacinto | 88 | CM | Liga F | 14k coins | -16.2% |
+| Franziska Harsch | 88 | CM | GPFBL | 15k coins | -13.1% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -4% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13k coins | +8.2% |
+| Jack McGlynn | 87 | CM | MLS | 14k coins | +10.5% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
-- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
-
-- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
-
-- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
+- **Mario Pašalić (93, CM)** da —, a apenas **15k coins**
 
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
+
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Nadine Keßler (89, CM)** da GPFBL, a apenas **14k coins**
 
 
 ## Por que estas cartas?

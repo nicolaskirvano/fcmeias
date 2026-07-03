@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:46:09.000Z
+pubDatetime: 2026-07-03T19:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Fabián Ruiz (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
+    a: "Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Fabián Ruiz (95) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Andrés Cubas (93) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 95 | CM | — | 15k coins | -71.3% |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | +3.6% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | +3.6% |
+| Mario Pašalić | 93 | CM | — | 14k coins | +5.5% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +9.1% |
 | Mohammed Kanno | 92 | CM | — | 12k coins | 0% |
-| Hannibal | 92 | CM | — | 15k coins | +3.6% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -25.8% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -38.9% |
+| Hannibal | 92 | CM | — | 14k coins | +1.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +7.1% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +7.4% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | -3.2% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -42.4% |
 | Simone Laudehr | 88 | CM | GPFBL | 11k coins | -32.3% |
 | Nadine Keßler | 88 | CM | GPFBL | 11k coins | -8.3% |
-| Janina Minge | 88 | CM | — | 15k coins | -17.7% |
-| Jack McGlynn | 87 | CM | MLS | 14k coins | -66% |
-| Tijjani Reijnders | 86 | CM | Serie A Enilive | 2k coins | +123.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | -8.5% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.4% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | -2.1% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.5% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -10.4% |
 
 
 ## 📈 Destaques
-
-- **Fabián Ruiz (95, CM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
@@ -57,6 +54,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
+
+- **Hannibal (92, CM)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +72,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Fabián Ruiz (95, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
+Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
