@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T13:46:05.000Z
+pubDatetime: 2026-07-04T16:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 12k coins | +2.1% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | 0% |
-| Hannibal | 92 | CM | — | 14k coins | 0% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | -3.5% |
+| Mario Pašalić | 93 | CM | — | 14k coins | -1.8% |
+| Hannibal | 92 | CM | — | 14k coins | -3.6% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +4.5% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -8.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -8% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -11.1% |
-| Nadine Keßler | 89 | CM | GPFBL | 14k coins | -1.8% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.2% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -7.7% |
+| Nadine Keßler | 89 | CM | GPFBL | 14k coins | -5.2% |
+| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -7.1% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
 | Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
 | Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -2% |
-| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -3.5% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 12k coins | -32.4% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -3.8% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | +16.7% |
+| Janina Minge | 88 | CM | — | 14k coins | +7.1% |
+| Fabián Ruiz | 88 | CM | Ligue 1 McDonald's | 15k coins | -8.5% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -3.9% |
 
 
 ## 📈 Destaques
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
 
 
 ## Por que estas cartas?

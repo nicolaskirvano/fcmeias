@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T13:46:10.000Z
+pubDatetime: 2026-07-04T16:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,20 +30,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 12k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | +5.6% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | +5.6% |
-| Hannibal | 92 | CM | — | 14k coins | +5.6% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -8% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -4.2% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | -3.3% |
-| Jess Park | 89 | CM | Barclays WSL | 14k coins | -13.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -4.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -34.3% |
-| Janina Minge | 88 | CM | — | 15k coins | +8.3% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.3% |
+| Mario Pašalić | 93 | CM | — | 14k coins | +3.7% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +9.1% |
+| Mohammed Kanno | 92 | CM | — | 12k coins | +6.5% |
+| Hannibal | 92 | CM | — | 14k coins | +1.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +4.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +4% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -8.3% |
+| Simone Laudehr | 88 | CM | GPFBL | 14k coins | -20.6% |
+| Janina Minge | 88 | CM | — | 14k coins | +9.1% |
+| Jack McGlynn | 87 | CM | MLS | 14k coins | -19.1% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +9.3% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.4% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -4.4% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 15k coins | -1.7% |
 
 
 ## 📈 Destaques
@@ -54,9 +53,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
-- **Hannibal (92, CM)** da —, a apenas **14k coins**
+- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Hannibal (92, CM)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
