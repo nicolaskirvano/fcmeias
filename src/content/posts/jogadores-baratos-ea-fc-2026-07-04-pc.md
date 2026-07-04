@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T19:46:10.000Z
+pubDatetime: 2026-07-04T22:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,20 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mario Pašalić | 93 | CM | — | 14k coins | 0% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | +3.7% |
-| Hannibal | 92 | CM | — | 14k coins | +3.7% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +17.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +29.2% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +23.1% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -35.4% |
-| Jess Park | 89 | CM | Barclays WSL | 15k coins | -15.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -10.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -10.9% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.4% |
+| Mario Pašalić | 93 | CM | — | 14k coins | +1.8% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +1.8% |
+| Hannibal | 92 | CM | — | 14k coins | +1.9% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +25% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | +16.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +25% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -32.6% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -23.7% |
+| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -6.2% |
+| Janina Minge | 88 | CM | — | 14k coins | +1.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | +9.3% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | +6.8% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -4.4% |
 
 
 ## 📈 Destaques
@@ -53,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
