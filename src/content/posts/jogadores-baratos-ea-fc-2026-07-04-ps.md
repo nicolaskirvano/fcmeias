@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T10:46:05.000Z
+pubDatetime: 2026-07-04T13:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 12k coins | +4.3% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -3.5% |
+| Andrés Cubas | 93 | CM | — | 12k coins | +2.1% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | 0% |
 | Mario Pašalić | 93 | CM | — | 14k coins | 0% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | +4.3% |
 | Hannibal | 92 | CM | — | 14k coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -12% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -8.3% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -14.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -8% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -11.1% |
 | Nadine Keßler | 89 | CM | GPFBL | 14k coins | -1.8% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -2.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | +6% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +5.4% |
-| Jess Fishlock | 88 | CM | NWSL | 14k coins | -31.4% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +5.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.2% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -2% |
+| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -3.5% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 12k coins | -32.4% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -3.8% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | +16.7% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
-
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
+
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
