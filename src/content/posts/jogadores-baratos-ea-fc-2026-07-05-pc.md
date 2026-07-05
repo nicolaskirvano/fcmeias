@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:46:10.000Z
+pubDatetime: 2026-07-05T22:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,29 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mario Pašalić | 93 | CM | — | 15k coins | +5.4% |
-| Mohammed Kanno | 92 | CM | — | 13k coins | +10.9% |
-| Hannibal | 92 | CM | — | 14k coins | 0% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +107.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +26.9% |
-| Cesc Fàbregas | 88 | CM | Premier League | 11k coins | -30.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +6.5% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.5% |
+| Mario Pašalić | 93 | CM | — | 15k coins | +7.1% |
+| Lewis Ferguson | 93 | CM | — | 15k coins | +3.5% |
+| Mohammed Kanno | 92 | CM | — | 12k coins | +6.5% |
+| Hannibal | 92 | CM | — | 15k coins | +7.1% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +92.9% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +85.7% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +13.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +8.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -23.8% |
+| Thelo Aasgaard | 87 | CM | Scottish Premiership | 15k coins | -63.1% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.1% |
 | Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -2.3% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +4.5% |
 
 
 ## 📈 Destaques
 
 - **Mario Pašalić (93, CM)** da —, a apenas **15k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins**
+- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
 
-- **Hannibal (92, CM)** da —, a apenas **14k coins**
+- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Hannibal (92, CM)** da —, a apenas **15k coins**
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

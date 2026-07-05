@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:46:05.000Z
+pubDatetime: 2026-07-05T22:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 12k coins | +6.4% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -3.4% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | 0% |
 | Mario Pašalić | 93 | CM | — | 14k coins | 0% |
 | Mohammed Kanno | 92 | CM | — | 12k coins | +8.7% |
-| Hannibal | 92 | CM | — | 14k coins | -1.8% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +50% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +47.1% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +76.5% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -28.3% |
-| Alexis Mac Allister | 89 | CM | Premier League | 12k coins | -17.1% |
+| Hannibal | 92 | CM | — | 14k coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +21.1% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +27.8% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -25% |
+| Estefanía Banini | 89 | CM | Liga F | 14k coins | -38.6% |
+| Bruno Guimarães | 89 | CM | Premier League | 15k coins | -7.7% |
+| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -11.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
 | Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.2% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +8.7% |
 | Franziska Harsch | 88 | CM | GPFBL | 13k coins | -11.7% |
-| Juan Sebastián Verón | 88 | CM | — | 14k coins | -3.1% |
-| Thelo Aasgaard | 87 | CM | Scottish Premiership | 13k coins | -65.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +3.8% |
 
 
 ## 📈 Destaques
