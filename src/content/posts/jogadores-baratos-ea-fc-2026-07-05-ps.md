@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T16:46:05.000Z
+pubDatetime: 2026-07-05T19:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,29 +30,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 12k coins | +6.4% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -1.8% |
 | Lewis Ferguson | 93 | CM | — | 14k coins | -3.4% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | +6.5% |
+| Mario Pašalić | 93 | CM | — | 14k coins | 0% |
+| Mohammed Kanno | 92 | CM | — | 12k coins | +8.7% |
 | Hannibal | 92 | CM | — | 14k coins | -1.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +43.8% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +43.8% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +50% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -26.1% |
-| Aleix García | 89 | CM | Bundesliga | 13k coins | -12.1% |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | -39.8% |
-| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -21.4% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | +2.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +50% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +47.1% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +76.5% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -28.3% |
+| Alexis Mac Allister | 89 | CM | Premier League | 12k coins | -17.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.2% |
 | Simone Laudehr | 88 | CM | GPFBL | 12k coins | +8.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +5.8% |
+| Franziska Harsch | 88 | CM | GPFBL | 13k coins | -11.7% |
+| Juan Sebastián Verón | 88 | CM | — | 14k coins | -3.1% |
+| Thelo Aasgaard | 87 | CM | Scottish Premiership | 13k coins | -65.1% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
-- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
-
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
+
+- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
 
