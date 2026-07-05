@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T10:46:09.000Z
+pubDatetime: 2026-07-05T13:46:10.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,27 +30,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 12k coins | +2.1% |
-| Mario Pašalić | 93 | CM | — | 14k coins | +1.8% |
-| Lewis Ferguson | 93 | CM | — | 15k coins | +7.1% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | +6.5% |
-| Hannibal | 92 | CM | — | 14k coins | +1.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +57.1% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +100% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -2.2% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -4.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | +1.7% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +1.8% |
+| Mario Pašalić | 93 | CM | — | 14k coins | +3.6% |
+| Mohammed Kanno | 92 | CM | — | 12k coins | +8.7% |
+| Hannibal | 92 | CM | — | 14k coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +76.9% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +91.7% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +25% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | -2.1% |
 | Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +13% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +6.5% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12k coins | +6.7% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
-- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
+- **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
+- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
 
