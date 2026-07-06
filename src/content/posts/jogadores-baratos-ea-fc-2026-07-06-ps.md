@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T19:46:05.000Z
+pubDatetime: 2026-07-06T22:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 12k coins | +8.5% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -3.3% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -3.4% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | +8.7% |
-| Hannibal | 92 | CM | — | 14k coins | -3.4% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +91.7% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +100% |
+| Andrés Cubas | 93 | CM | — | 12k coins | +6.4% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | -6.7% |
+| Mario Pašalić | 93 | CM | — | 14k coins | -5.1% |
+| Mohammed Kanno | 92 | CM | — | 13k coins | +8.7% |
+| Hannibal | 92 | CM | — | 14k coins | -5.1% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +91.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +83.3% |
 | Mariona | 89 | CM | Barclays WSL | 2k coins | +78.6% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +9.7% |
-| Aleix García | 89 | CM | Bundesliga | 15k coins | +22.9% |
-| Bruno Guimarães | 89 | CM | Premier League | 15k coins | -12.5% |
-| Estefanía Banini | 89 | CM | Liga F | 15k coins | -23.5% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2% |
-| Juan Sebastián Verón | 88 | CM | — | 14k coins | +3.8% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -22.1% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +12.9% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +22.9% |
+| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -13% |
+| Bruno Guimarães | 89 | CM | Premier League | 15k coins | -22.5% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +15.6% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -20.6% |
 
 
 ## 📈 Destaques
@@ -54,7 +54,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
+- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins**
 
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
 

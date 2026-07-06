@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T19:46:10.000Z
+pubDatetime: 2026-07-06T22:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (06/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,17 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 13k coins | +8.5% |
 | Mario Pašalić | 93 | CM | — | 14k coins | -1.7% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | 0% |
-| Mohammed Kanno | 92 | CM | — | 13k coins | +13% |
-| Hannibal | 92 | CM | — | 14k coins | -3.4% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +58.8% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +3.4% |
+| Mohammed Kanno | 92 | CM | — | 13k coins | +10.9% |
+| Hannibal | 92 | CM | — | 14k coins | -1.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +41.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +44.4% |
 | Mariona | 89 | CM | Barclays WSL | 3k coins | +58.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +55.6% |
-| Cesc Fàbregas | 88 | CM | Premier League | 11k coins | -17% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +5% |
 | Nadine Keßler | 88 | CM | GPFBL | 12k coins | +8.9% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +15.6% |
+| Simone Laudehr | 88 | CM | GPFBL | 13k coins | +2% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +9.3% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | +6.7% |
 | Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -10.4% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13k coins | +56.2% |
 
 
 ## 📈 Destaques
