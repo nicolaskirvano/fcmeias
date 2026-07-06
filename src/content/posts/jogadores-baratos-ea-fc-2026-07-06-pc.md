@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:46:09.000Z
+pubDatetime: 2026-07-06T19:46:10.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (06/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,18 +32,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Andrés Cubas | 93 | CM | — | 13k coins | +8.5% |
 | Mario Pašalić | 93 | CM | — | 14k coins | -1.7% |
 | Lewis Ferguson | 93 | CM | — | 14k coins | 0% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | +13% |
-| Hannibal | 92 | CM | — | 14k coins | -5.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +33.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +47.1% |
+| Mohammed Kanno | 92 | CM | — | 13k coins | +13% |
+| Hannibal | 92 | CM | — | 14k coins | -3.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +58.8% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +58.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +55.6% |
 | Cesc Fàbregas | 88 | CM | Premier League | 11k coins | -17% |
-| Jess Fishlock | 88 | CM | NWSL | 11k coins | -38.9% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 14k coins | -12% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +9.3% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | -45.7% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | +20.9% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +8.9% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | 0% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +15.6% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | -10.4% |
 
 
 ## 📈 Destaques
@@ -54,7 +52,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
+- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins**
 
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
 

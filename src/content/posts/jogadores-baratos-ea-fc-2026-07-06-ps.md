@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:46:05.000Z
+pubDatetime: 2026-07-06T19:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 12k coins | +4.3% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -6.8% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -5% |
+| Andrés Cubas | 93 | CM | — | 12k coins | +8.5% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | -3.3% |
+| Mario Pašalić | 93 | CM | — | 14k coins | -3.4% |
 | Mohammed Kanno | 92 | CM | — | 12k coins | +8.7% |
-| Hannibal | 92 | CM | — | 14k coins | -6.8% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +76.9% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +71.4% |
+| Hannibal | 92 | CM | — | 14k coins | -3.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +91.7% |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +100% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +6.5% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | +18.8% |
-| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -13% |
-| Janina Minge | 88 | CM | — | 14k coins | +9.8% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -14.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | +25% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | 0% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | +78.6% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +9.7% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | +22.9% |
+| Bruno Guimarães | 89 | CM | Premier League | 15k coins | -12.5% |
+| Estefanía Banini | 89 | CM | Liga F | 15k coins | -23.5% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2% |
+| Juan Sebastián Verón | 88 | CM | — | 14k coins | +3.8% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -22.1% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
-- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
-
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
+
+- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
 
