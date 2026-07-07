@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T10:46:10.000Z
+pubDatetime: 2026-07-07T13:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 13k coins | +10.6% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -5.2% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -1.7% |
-| Mohammed Kanno | 92 | CM | — | 13k coins | +15.2% |
-| Hannibal | 92 | CM | — | 14k coins | -5.1% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +35.3% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +35.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +33.3% |
+| Andrés Cubas | 93 | CM | — | 13k coins | +6.4% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | -3.4% |
+| Mario Pašalić | 93 | CM | — | 14k coins | 0% |
+| Hannibal | 92 | CM | — | 14k coins | -8.5% |
+| Mohammed Kanno | 92 | CM | — | 14k coins | +17.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +47.1% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +55.6% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -25% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +64.7% |
 | Simone Laudehr | 88 | CM | GPFBL | 11k coins | -12% |
-| Nadine Keßler | 88 | CM | GPFBL | 11k coins | -2.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -3.8% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | -41.3% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.2% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -11.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.4% |
+| Fabián Ruiz | 88 | CM | Ligue 1 McDonald's | 15k coins | -42.1% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13k coins | -19.4% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13k coins | -42.4% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
 
-- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
-
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
-- **Hannibal (92, CM)** da —, a apenas **14k coins**
+- **Hannibal (92, CM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mohammed Kanno (92, CM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
