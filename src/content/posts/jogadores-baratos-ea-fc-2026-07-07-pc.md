@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T13:46:09.000Z
+pubDatetime: 2026-07-07T16:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 13k coins | +6.4% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -3.4% |
+| Andrés Cubas | 93 | CM | — | 13k coins | +2.1% |
 | Mario Pašalić | 93 | CM | — | 14k coins | 0% |
-| Hannibal | 92 | CM | — | 14k coins | -8.5% |
-| Mohammed Kanno | 92 | CM | — | 14k coins | +17.4% |
+| Lewis Ferguson | 93 | CM | — | 15k coins | +1.7% |
+| Mohammed Kanno | 92 | CM | — | 14k coins | +19.6% |
+| Hannibal | 92 | CM | — | 14k coins | -5.1% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +47.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +55.6% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -25% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +64.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -12% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -11.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.4% |
-| Fabián Ruiz | 88 | CM | Ligue 1 McDonald's | 15k coins | -42.1% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13k coins | -19.4% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 13k coins | -42.4% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +50% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +58.8% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -22.5% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.2% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | -4% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12k coins | -31.9% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.4% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14k coins | -40% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
-
 - **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
-- **Hannibal (92, CM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Hannibal (92, CM)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
