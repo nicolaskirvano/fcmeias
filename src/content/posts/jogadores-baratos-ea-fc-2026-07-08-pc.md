@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T10:46:09.000Z
+pubDatetime: 2026-07-08T13:46:10.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,33 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 13k coins | +10.6% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -5% |
-| Lewis Ferguson | 93 | CM | — | 15k coins | 0% |
-| Hannibal | 92 | CM | — | 14k coins | -1.7% |
-| Mohammed Kanno | 92 | CM | — | 14k coins | +23.9% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +12.5% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +30.4% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | 0% |
-| Nadine Keßler | 89 | CM | GPFBL | 15k coins | +6.8% |
+| Andrés Cubas | 93 | CM | — | 13k coins | +8.5% |
+| Mario Pašalić | 93 | CM | — | 15k coins | -1.7% |
+| Hannibal | 92 | CM | — | 13k coins | -1.7% |
+| Mohammed Kanno | 92 | CM | — | 14k coins | +21.7% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +26.1% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +33.3% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +42.9% |
 | Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | 0% |
-| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +4.7% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | +25% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +2.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.5% |
+| Fara Williams | 86 | CM | Barclays WSL | 12k coins | +7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +18.2% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
 
-- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
+- **Mario Pašalić (93, CM)** da —, a apenas **15k coins**
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
-
-- **Hannibal (92, CM)** da —, a apenas **14k coins**
+- **Hannibal (92, CM)** da —, a apenas **13k coins**
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
