@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T16:46:05.000Z
+pubDatetime: 2026-07-08T19:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (08/07/2026)?"
-    a: "Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Andrés Cubas (93) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Andrés Cubas (93) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 12k coins | +6.4% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | -3.4% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -3.4% |
+| Andrés Cubas | 93 | CM | — | 13k coins | +8.5% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +1.8% |
+| Mario Pašalić | 93 | CM | — | 14k coins | 0% |
 | Mohammed Kanno | 92 | CM | — | 13k coins | +10.9% |
-| Hannibal | 92 | CM | — | 14k coins | -3.4% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +47.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +31.6% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +30% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +32.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | +12.8% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | +12.3% |
-| Janina Minge | 88 | CM | — | 14k coins | +8.8% |
-| Jack McGlynn | 87 | CM | MLS | 13k coins | -18.2% |
+| Hannibal | 92 | CM | — | 14k coins | +1.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +56.2% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +61.1% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +20% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +5.5% |
+| Julie Foudy | 88 | CM | Icons | 13k coins | +8.6% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +21.3% |
+| Simone Laudehr | 88 | CM | GPFBL | 14k coins | +21.3% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -5.2% |
+| Nadine Keßler | 88 | CM | GPFBL | 15k coins | +17% |
+| Janina Minge | 88 | CM | — | 15k coins | +7% |
 
 
 ## 📈 Destaques
 
-- **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
+- **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
 
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (08/07/2026)?**  
-Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
