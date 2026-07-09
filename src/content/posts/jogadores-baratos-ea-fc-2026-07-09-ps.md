@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T19:46:05.000Z
+pubDatetime: 2026-07-09T22:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (09/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 13k coins | +8.5% |
-| Mohammed Kanno | 92 | CM | — | 13k coins | +13% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +53.8% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +2.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +13.3% |
-| Juan Sebastián Verón | 88 | CM | — | 14k coins | -8.1% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | +6% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | +8.2% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | +15.7% |
-| Jack McGlynn | 87 | CM | MLS | 15k coins | +3.4% |
+| Mohammed Kanno | 92 | CM | — | 13k coins | +10.9% |
+| Nadine Keßler | 89 | CM | GPFBL | 14k coins | +1.8% |
+| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -9.1% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.4% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +19.6% |
+| Anaële Le Moguédec | 88 | CM | D1 Arkema | 14k coins | -1.8% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +1.8% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | 0% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +11.1% |
+| Olivia Moultrie | 86 | CM | NWSL | 14k coins | -13.8% |
+| Cher Ndour | 86 | CM | Serie A TIM | 14k coins | +7.4% |
 | Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -7.4% |
-| Hayley Lauder | 85 | CM | Scottish Women's League | 13k coins | -28.9% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +7.7% |
+| Eva Dios | 85 | CM | Liga F | 13k coins | +1.9% |
 
 
 ## 📈 Destaques
@@ -52,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mohammed Kanno (92, CM)** da —, a apenas **13k coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Nadine Keßler (89, CM)** da GPFBL, a apenas **14k coins**
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
+- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
 
