@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T22:46:05.000Z
+pubDatetime: 2026-07-09T01:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (08/07/2026)?"
-    a: "Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Andrés Cubas (93) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Andrés Cubas (93) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 13k coins | +8.5% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -3.4% |
+| Andrés Cubas | 93 | CM | — | 12k coins | +6.4% |
+| Mario Pašalić | 93 | CM | — | 14k coins | -5.2% |
 | Lewis Ferguson | 93 | CM | — | 14k coins | -3.4% |
-| Mohammed Kanno | 92 | CM | — | 12k coins | +10.9% |
+| Mohammed Kanno | 92 | CM | — | 13k coins | +10.9% |
 | Hannibal | 92 | CM | — | 14k coins | -1.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +66.7% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +64.3% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +75% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +35.7% |
-| Aleix García | 89 | CM | Bundesliga | 15k coins | +9.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 13k coins | +10.6% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +19.1% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +84.6% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +71.4% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +100% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +33.3% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | -8.3% |
+| Bruno Guimarães | 89 | CM | Premier League | 14k coins | -25.7% |
+| Julie Foudy | 88 | CM | Icons | 13k coins | -8.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | +12.8% |
+| Nadine Keßler | 88 | CM | GPFBL | 14k coins | +8.7% |
 | Simone Laudehr | 88 | CM | GPFBL | 14k coins | +23.9% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | 0% |
-| Janina Minge | 88 | CM | — | 15k coins | +5.3% |
 
 
 ## 📈 Destaques
 
-- **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
+- **Andrés Cubas (93, CM)** da —, a apenas **12k coins**
 
 - **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **12k coins**
+- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins**
 
 - **Hannibal (92, CM)** da —, a apenas **14k coins**
 
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (08/07/2026)?**  
-Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

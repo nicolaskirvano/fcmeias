@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T22:46:09.000Z
+pubDatetime: 2026-07-09T01:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,29 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 13k coins | +14.9% |
-| Lewis Ferguson | 93 | CM | — | 15k coins | 0% |
-| Mohammed Kanno | 92 | CM | — | 13k coins | +17.4% |
-| Hannibal | 92 | CM | — | 15k coins | +3.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +64.7% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +44.4% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +10% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +4.7% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | +4.7% |
+| Andrés Cubas | 93 | CM | — | 13k coins | +12.8% |
+| Mario Pašalić | 93 | CM | — | 14k coins | -3.3% |
+| Mohammed Kanno | 92 | CM | — | 14k coins | +15.2% |
+| Hannibal | 92 | CM | — | 14k coins | -1.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +64.7% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +87.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +81.2% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +22.2% |
+| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +13.6% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +21.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 11k coins | +7% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **15k coins**
+- **Mario Pašalić (93, CM)** da —, a apenas **14k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Mohammed Kanno (92, CM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Hannibal (92, CM)** da —, a apenas **15k coins**
+- **Hannibal (92, CM)** da —, a apenas **14k coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
