@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:46:09.000Z
+pubDatetime: 2026-07-10T13:46:09.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 13k coins | +10.6% |
-| Mohammed Kanno | 92 | CM | — | 13k coins | +13% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +20% |
+| Andrés Cubas | 93 | CM | — | 13k coins | +12.8% |
+| Mohammed Kanno | 92 | CM | — | 14k coins | +17.4% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | +30% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +4.2% |
 | Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +8.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +28.6% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +28.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -3.4% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +29.5% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +23.5% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -6.4% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins**
+- **Mohammed Kanno (92, CM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins**
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins**
 
 
 ## Por que estas cartas?

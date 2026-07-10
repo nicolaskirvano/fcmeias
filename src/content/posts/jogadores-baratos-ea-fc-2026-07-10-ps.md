@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T10:46:05.000Z
+pubDatetime: 2026-07-10T13:46:05.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrés Cubas | 93 | CM | — | 13k coins | +10.6% |
-| Mohammed Kanno | 92 | CM | — | 13k coins | +13% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -5.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | +5.9% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -9.5% |
 | Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -19.4% |
-| Aleix García | 89 | CM | Bundesliga | 15k coins | +5.1% |
-| Nadine Keßler | 89 | CM | GPFBL | 15k coins | +8.9% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | -4.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
-| Janina Minge | 88 | CM | — | 14k coins | +3.8% |
-| Anaële Le Moguédec | 88 | CM | D1 Arkema | 14k coins | +7.5% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +6% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | +3.4% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -15.8% |
-| Thelo Aasgaard | 87 | CM | Scottish Premiership | 15k coins | -63.1% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | 0% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +13.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +3.9% |
+| Juan Sebastián Verón | 88 | CM | — | 14k coins | -16.4% |
+| Franziska Harsch | 88 | CM | GPFBL | 15k coins | -1.7% |
+| Julie Foudy | 88 | CM | Icons | 15k coins | -6.8% |
+| Thelo Aasgaard | 87 | CM | Scottish Premiership | 14k coins | -64.3% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | +31.2% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | +1.8% |
+| Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Andrés Cubas (93, CM)** da —, a apenas **13k coins**
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **13k coins**
-
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
-
 - **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins**
 
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Aleix García (89, CM)** da Bundesliga, a apenas **15k coins**
 
 
 ## Por que estas cartas?
