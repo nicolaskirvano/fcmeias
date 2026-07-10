@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T16:46:10.000Z
+pubDatetime: 2026-07-10T19:46:10.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 2k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Andrés Cubas (93) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Mariona (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrés Cubas | 93 | CM | — | 14k coins | +17% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +4.2% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +50% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +11.1% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | 0% |
-| Simone Laudehr | 88 | CM | GPFBL | 11k coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -10.5% |
-| Bruno Guimarães | 86 | CM | Premier League | 2k coins | +60% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +2.1% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -20.7% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2k coins | -8.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | -3.2% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | 0% |
+| Juan Sebastián Verón | 88 | CM | — | 14k coins | -40% |
+| Julie Foudy | 88 | CM | Icons | 15k coins | -13% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | +4.3% |
 
 
 ## 📈 Destaques
 
-- **Andrés Cubas (93, CM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins**
-
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins**
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins**
+
+- **Nadine Keßler (88, CM)** da GPFBL, a apenas **12k coins**
+
+- **Juan Sebastián Verón (88, CM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -67,7 +65,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
-Andrés Cubas (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 2k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
