@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:43:12.000Z
+pubDatetime: 2026-07-16T22:46:07.000Z
 title: "Meio-campistas no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Martin Ødegaard (88, Premier League), com +57.5% em 24h, a 94k coins no Console (PS)."
+    a: "João Gomes (84, Premier League), com +50% em 24h, a 60k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Georginio Wijnaldum (87), -37.9% em 24h, a 20k coins."
+    a: "Arthur Atta (85), -38.5% em 24h, a 31k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Aitana Bonmatí (91) — 81% de probabilidade de alta, a 22k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 126 cartas em alta contra 108 em queda (média 1.67%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 125 cartas em alta contra 103 em queda (média 2.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **16/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **126 cartas subiram** e **108 caíram** (80+ acima de 5k coins), variação média de **1.67%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **16/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **125 cartas subiram** e **103 caíram** (80+ acima de 5k coins), variação média de **2.46%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Martin Ødegaard (88) **+57.5%** · 🔴 **Maior baixa:** Georginio Wijnaldum (87) **-37.9%**
+> 🟢 **Maior alta:** João Gomes (84) **+50%** · 🔴 **Maior baixa:** Arthur Atta (85) **-38.5%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Martin Ødegaard | 88 | Premier League | 94k coins | +57.5% | +61.5% |
-| Alexis Mac Allister | 91 | — | 126k coins | +53.8% | +68.1% |
-| Dolores Silva | 84 | Liga F | 46k coins | +34.8% | -7% |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 28k coins | +34.1% | +23.6% |
-| Patrick Vieira | 90 | Icons | 720k coins | +34% | +71.9% |
-| Camille Abily | 92 | Icons | 72k coins | +33.3% | +25.2% |
-| Gabriel Sara | 83 | Trendyol Süper Lig | 49k coins | +30.7% | -3.9% |
-| Joelinton | 87 | Premier League | 110k coins | +29.9% | +7.5% |
-| Vitinha | 91 | Ligue 1 McDonald's | 666k coins | +28.3% | +11.9% |
-| Caroline Seger | 91 | Icons | 63k coins | +27.5% | +65.5% |
+| João Gomes | 84 | Premier League | 60k coins | +50% | +69% |
+| Mahamadou Doumbia | 91 | — | 41k coins | +40.8% | +106.1% |
+| Bernardo Silva | 87 | Premier League | 84k coins | +34.7% | +63% |
+| Dolores Silva | 84 | Liga F | 46k coins | +33.8% | -7% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 20k coins | +31.7% | +12.2% |
+| Enzo Fernández | 93 | — | 90k coins | +31.4% | +80% |
+| Julie Foudy | 88 | Icons | 28k coins | +30% | +40.5% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 28k coins | +29.5% | +42.5% |
+| Bastian Schweinsteiger | 88 | Icons | 90k coins | +28.6% | +35.3% |
+| Camille Abily | 92 | Icons | 64k coins | +27.5% | +12.1% |
 
 
 ### Análise das altas
 
-- **Martin Ødegaard (88)** subiu **+57.5%** em 24h, a **94k coins** (faixa do dia: 65k–150k). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **João Gomes (84)** subiu **+50%** em 24h, a **60k coins** (faixa do dia: 35k–60k). Está +37% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Alexis Mac Allister (91)** subiu **+53.8%** em 24h, a **126k coins** (faixa do dia: 68k–100k). Está +91% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Mahamadou Doumbia (91)** subiu **+40.8%** em 24h, a **41k coins** (faixa do dia: 30k–42k). Está +72% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Dolores Silva (84)** subiu **+34.8%** em 24h, a **46k coins** (faixa do dia: 34k–50k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Bernardo Silva (87)** subiu **+34.7%** em 24h, a **84k coins** (faixa do dia: 64k–97k). Está +11% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Georginio Wijnaldum | 87 | Brasileirão | 20k coins | -37.9% | -21.2% |
-| Arthur Atta | 85 | Serie A TIM | 34k coins | -36% | -31.2% |
-| Steven Gerrard | 90 | Icons | 110k coins | -35.8% | +15.5% |
-| Jessie Fleming | 86 | NWSL | 36k coins | -33.8% | -65.7% |
-| Julia Grosso | 88 | NWSL | 22k coins | -30.4% | -19.3% |
-| Claudio Marchisio | 87 | Serie A TIM | 22k coins | -29.6% | +57.1% |
-| Daichi Kamada | 96 | — | 328k coins | -26.3% | -6% |
-| Jill Scott | 94 | — | 42k coins | -26.1% | -27.7% |
-| Declan Rice | 89 | Premier League | 45k coins | -25.2% | -20.8% |
-| Homare Sawa | 91 | Icons | 103k coins | -23.8% | +33.8% |
+| Arthur Atta | 85 | Serie A TIM | 31k coins | -38.5% | -34.2% |
+| Jessie Fleming | 86 | NWSL | 35k coins | -30.6% | -66.9% |
+| Declan Rice | 89 | Premier League | 58k coins | -29.1% | -26.2% |
+| Kenneth Taylor | 84 | Eredivisie | 25k coins | -26.7% | -14.7% |
+| Luka Modrić | 89 | Serie A TIM | 147k coins | -24.8% | +55% |
+| Vitinha | 90 | Ligue 1 McDonald's | 174k coins | -24.5% | +8.8% |
+| Xavi | 93 | Icons | 249k coins | -22.2% | -3.2% |
+| Aitana Bonmatí | 91 | Liga F | 22k coins | -21.8% | +65.4% |
+| João Moutinho | 88 | Liga Portugal | 110k coins | -21.8% | +64.7% |
+| Moussa Sissoko | 88 | EFL Championship | 185k coins | -21.3% | +15.6% |
 
 
 ### Análise das baixas
 
-- **Georginio Wijnaldum (87)** caiu **-37.9%** em 24h, a **20k coins** (faixa do dia: 20k–41k). Está -24% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Arthur Atta (85)** caiu **-38.5%** em 24h, a **31k coins** (faixa do dia: 23k–52k). Está -11% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Arthur Atta (85)** caiu **-36%** em 24h, a **34k coins** (faixa do dia: 23k–55k). Está em linha com a média de 7 dias (-2%). O modelo vê **estabilização** no curto prazo.
+- **Jessie Fleming (86)** caiu **-30.6%** em 24h, a **35k coins** (faixa do dia: 35k–51k). Está -57% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Steven Gerrard (90)** caiu **-35.8%** em 24h, a **110k coins** (faixa do dia: 166k–250k). Está -57% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Declan Rice (89)** caiu **-29.1%** em 24h, a **58k coins** (faixa do dia: 45k–66k). Está em linha com a média de 7 dias (-3%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,9 +86,9 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | 22k coins | 23k coins | 81% |
-| Toni Kroos | 90 | 81k coins | 84k coins | 59% |
-| Enzo Fernández | 91 | 105k coins | 108k coins | 57% |
+| Aitana Bonmatí | 91 | 22k coins | 22k coins | 81% |
+| Toni Kroos | 90 | 86k coins | 89k coins | 59% |
+| Enzo Fernández | 91 | 115k coins | 118k coins | 57% |
 
 
 ## ⚠️ Alerta de queda projetada
@@ -97,7 +97,7 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Nicolae Stanciu | 86 | 63k coins | -2% |
+| Nicolae Stanciu | 86 | 61k coins | -2% |
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -107,16 +107,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Martin Ødegaard (88, Premier League), com +57.5% em 24h, a 94k coins no Console (PS).
+João Gomes (84, Premier League), com +50% em 24h, a 60k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Georginio Wijnaldum (87), -37.9% em 24h, a 20k coins.
+Arthur Atta (85), -38.5% em 24h, a 31k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Aitana Bonmatí (91) — 81% de probabilidade de alta, a 22k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 126 cartas em alta contra 108 em queda (média 1.67%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 125 cartas em alta contra 103 em queda (média 2.46%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

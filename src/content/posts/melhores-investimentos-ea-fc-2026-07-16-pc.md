@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:43:23.000Z
+pubDatetime: 2026-07-16T22:46:18.000Z
 title: "Melhores investimentos em Meio-campistas no EA FC (16/07/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +89.2% em 7 dias a 35k coins no PC."
+    a: "Gabriel Sara (94, sem liga) lidera, com +89.3% em 7 dias a 49k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
 
-> 🔝 **Destaque:** Fabián Ruiz (88) acumula **+89.2% em 7 dias** a 35k coins.
+> 🔝 **Destaque:** Gabriel Sara (94) acumula **+89.3% em 7 dias** a 49k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 35k coins | +10.2% | +89.2% | 0% |
-| Gabriel Sara | 94 | — | 53k coins | +33.3% | +86% | 0% |
-| Toni Kroos | 90 | Icons | 150k coins | +1.6% | +85.6% | 0% |
-| Andrea Pirlo | 90 | Icons | 171k coins | +20.3% | +72.9% | 32% |
-| Adalberto Carrasquilla | 91 | — | 30k coins | +4.3% | +60% | 0% |
-| Crystal Dunn | 85 | D1 Arkema | 82k coins | +13.9% | +59.2% | 0% |
-| Keira Walsh | 86 | Barclays WSL | 50k coins | +29% | +58.7% | 0% |
-| Pablo Fornals | 85 | LALIGA EA SPORTS | 28k coins | +7.1% | +56.7% | 45% |
-| Enzo Fernández | 91 | Premier League | 120k coins | +11.1% | +53.8% | 13% |
-| Andrés Cubas | 93 | — | 18k coins | +2.7% | +48.1% | 0% |
-| Orkun Kökçü | 95 | — | 139k coins | +4.7% | +45.4% | 0% |
-| Declan Rice | 89 | Premier League | 96k coins | +4.7% | +42.9% | 0% |
-| Sakina Karchaoui | 91 | D1 Arkema | 140k coins | +3.7% | +40% | 19% |
-| Cher Ndour | 86 | Serie A TIM | 27k coins | +12.6% | +39% | 18% |
-| Frank Lampard | 87 | Icons | 133k coins | +3.8% | +38% | 36% |
+| Gabriel Sara | 94 | — | 49k coins | +34.2% | +89.3% | 0% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 32k coins | +6.3% | +82.4% | 0% |
+| Andrea Pirlo | 90 | Icons | 167k coins | +27.3% | +70.6% | 32% |
+| Weston McKennie | 92 | Serie A TIM | 72k coins | +9.9% | +66.5% | 0% |
+| Crystal Dunn | 85 | D1 Arkema | 82k coins | +3.1% | +59.2% | 0% |
+| Alexis Mac Allister | 89 | Premier League | 45k coins | +17.6% | +55.2% | 28% |
+| Andrés Cubas | 93 | — | 18k coins | +4.1% | +48.1% | 0% |
+| Declan Rice | 89 | Premier League | 99k coins | +3.7% | +46.7% | 0% |
+| Éderson | 87 | Serie A TIM | 54k coins | +3.8% | +45.3% | 21% |
+| Patrik Mercado | 91 | — | 40k coins | +36.4% | +42.2% | 0% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 88k coins | +11.8% | +37.1% | 0% |
+| Lothar Matthäus | 90 | Icons | 185k coins | +19.5% | +36.1% | 0% |
+| Conor Gallagher | 91 | Premier League | 120k coins | +17.6% | +34.1% | 0% |
+| Lewis Ferguson | 93 | — | 20k coins | +3.8% | +33.9% | 0% |
+| Nadiem Amiri | 88 | Bundesliga | 25k coins | +9.8% | +32.9% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **Fabián Ruiz (88)** — 35k coins, **+89.2% em 7 dias** (+10.2% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gabriel Sara (94)** — 49k coins, **+89.3% em 7 dias** (+34.2% em 24h). Preço +42% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gabriel Sara (94)** — 53k coins, **+86% em 7 dias** (+33.3% em 24h). Preço +54% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Fabián Ruiz (88)** — 32k coins, **+82.4% em 7 dias** (+6.3% em 24h). Preço em linha com a média de 7 dias (-5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Toni Kroos (90)** — 150k coins, **+85.6% em 7 dias** (+1.6% em 24h). Preço +61% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andrea Pirlo (90)** — 167k coins, **+70.6% em 7 dias** (+27.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Andrea Pirlo (90)** — 171k coins, **+72.9% em 7 dias** (+20.3% em 24h). Preço +42% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Weston McKennie (92)** — 72k coins, **+66.5% em 7 dias** (+9.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Adalberto Carrasquilla (91)** — 30k coins, **+60% em 7 dias** (+4.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Crystal Dunn (85)** — 82k coins, **+59.2% em 7 dias** (+3.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +89.2% em 7 dias a 35k coins no PC.
+Gabriel Sara (94, sem liga) lidera, com +89.3% em 7 dias a 49k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

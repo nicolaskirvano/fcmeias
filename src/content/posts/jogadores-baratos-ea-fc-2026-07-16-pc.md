@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:43:24.000Z
+pubDatetime: 2026-07-16T22:46:19.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (16/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,13 +32,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Caleb Yirenkyi | 94 | CM | — | 12k coins | — |
 | Paul Wanner | 94 | CM | — | 12k coins | — |
 | Noah Sadiki | 93 | CM | — | 12k coins | — |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +20.8% |
 | Mariona | 89 | CM | Barclays WSL | 3k coins | +20% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +32% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4k coins | +20% |
-| Nadine Keßler | 88 | CM | GPFBL | 14k coins | +17% |
-| Nicolò Barella | 87 | CM | Serie A Enilive | 2k coins | +55.6% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 2k coins | +273.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3k coins | +20.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +28% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +20% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 15k coins | -23.1% |
 
 
 ## 📈 Destaques
@@ -49,9 +47,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Noah Sadiki (93, CM)** da —, a apenas **12k coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:43:15.000Z
+pubDatetime: 2026-07-16T22:46:10.000Z
 title: "Jogadores baratos de Meio-campistas no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,16 +32,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Caleb Yirenkyi | 94 | CM | — | 12k coins | — |
 | Paul Wanner | 94 | CM | — | 12k coins | — |
 | Noah Sadiki | 93 | CM | — | 12k coins | — |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +17.2% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | +9.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +2.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +4.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -1.9% |
-| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -6.5% |
-| Janina Minge | 88 | CM | — | 14k coins | -15.9% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3k coins | +13.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 12k coins | +4.3% |
+| Nadine Keßler | 88 | CM | GPFBL | 12k coins | +6.5% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -3.8% |
+| Franziska Harsch | 88 | CM | GPFBL | 14k coins | -6.6% |
+| Janina Minge | 88 | CM | — | 15k coins | 0% |
+| Thelo Aasgaard | 87 | CM | Scottish Premiership | 14k coins | -10.4% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +6.4% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 13k coins | -49.5% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 3k coins | +215.8% |
 
 
 ## 📈 Destaques
@@ -52,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Noah Sadiki (93, CM)** da —, a apenas **12k coins**
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins**
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12k coins**
 
 
 ## Por que estas cartas?
