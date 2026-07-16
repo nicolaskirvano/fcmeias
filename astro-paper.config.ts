@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcmeias.pages.dev/",
     title: "Meio-campo Market",
     description:
-      "Os melhores meio-campistas do EA FC Ultimate Team: precos e mercado, todos os dias.",
+      "Os melhores meio-campistas do EA FC Ultimate Team: preços e mercado, todos os dias.",
     author: "Meio-campo Market",
-    profile: "https://fcmeias.pages.dev/",
+    profile: "https://fcmeias.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Meio-campo Market",
