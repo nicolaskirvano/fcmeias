@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:06:01.000Z
+pubDatetime: 2026-07-17T01:46:16.000Z
 title: "Mercado EA FC em 16/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Yasin Ayari (95, sem liga), com +60% em 24h, a 32k coins no PC."
+    a: "João Neves (88, Ligue 1 McDonald's), com +55.8% em 24h, a 75k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Warren Zaïre-Emery (96), -43.1% em 24h, a 1.35M coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 114 cartas em alta contra 97 em queda (média 2.71%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 114 cartas em alta contra 104 em queda (média 2.53%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **16/07/2026** no PC com mercado **em alta** — predominam as valorizações: **114 cartas subiram** e **97 caíram** (80+ acima de 5k coins), variação média de **2.71%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **16/07/2026** no PC com mercado **em alta** — predominam as valorizações: **114 cartas subiram** e **104 caíram** (80+ acima de 5k coins), variação média de **2.53%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Yasin Ayari (95) **+60%** · 🔴 **Maior baixa:** Warren Zaïre-Emery (96) **-43.1%**
+> 🟢 **Maior alta:** João Neves (88) **+55.8%** · 🔴 **Maior baixa:** Warren Zaïre-Emery (96) **-43.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
 
@@ -35,33 +35,33 @@ O mercado do **EA FC** abre **16/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.0% entre as cartas que se moveram; o universo observado reúne 275 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.3% entre as cartas que se moveram; o universo observado reúne 279 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yasin Ayari | 95 | — | 32k coins | +60% | -52.8% |
-| Aleix García | 89 | Bundesliga | 28k coins | +50% | +27.6% |
+| João Neves | 88 | Ligue 1 McDonald's | 75k coins | +55.8% | +55% |
+| Toni Kroos | 90 | Icons | 145k coins | +50.5% | +82.5% |
+| Aleix García | 89 | Bundesliga | 27k coins | +47.3% | +25.3% |
 | Rose Lavelle | 88 | NWSL | 65k coins | +46.9% | +126.1% |
-| Saki Kumagai | 88 | Barclays WSL | 35k coins | +44.7% | -5.6% |
-| Juan Sebastián Verón | 88 | — | 28k coins | +42.9% | +25% |
+| Gabriel Sara | 83 | Trendyol Süper Lig | 70k coins | +44% | +26.4% |
+| Saki Kumagai | 88 | Barclays WSL | 35k coins | +43.9% | -2.1% |
 | Camille Abily | 91 | Icons | 60k coins | +41.2% | +10.1% |
-| Fara Williams | 88 | Barclays WSL | 45k coins | +34.2% | +114.4% |
-| Mahamadou Doumbia | 91 | — | 40k coins | +33.3% | +97.5% |
-| Jobe Bellingham | 89 | Bundesliga | 360k coins | +33.3% | +80% |
-| Fabián Ruiz | 95 | — | 40k coins | +30.4% | +69.8% |
+| Xavi | 96 | — | 310k coins | +40.9% | +73.9% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 78k coins | +34.8% | +36% |
+| Conor Gallagher | 91 | Premier League | 120k coins | +34.1% | +36.4% |
 
 
 ### Análise das altas
 
-- **Yasin Ayari (95)** subiu **+60%** em 24h, a **32k coins** (faixa do dia: 19.500–80k). Está -15% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **João Neves (88)** subiu **+55.8%** em 24h, a **75k coins** (faixa do dia: 30k–90k). Está em linha com a média de 7 dias (-4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Aleix García (89)** subiu **+50%** em 24h, a **28k coins** (faixa do dia: 17.250–29k). Está +47% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Toni Kroos (90)** subiu **+50.5%** em 24h, a **145k coins** (faixa do dia: 88k–180k). Está +52% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Rose Lavelle (88)** subiu **+46.9%** em 24h, a **65k coins** (faixa do dia: 42k–65k). Está +43% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Aleix García (89)** subiu **+47.3%** em 24h, a **27k coins** (faixa do dia: 17.250–29k). Está +45% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Destaques de queda (24h)
@@ -69,29 +69,29 @@ O mercado do **EA FC** abre **16/07/2026** no PC com mercado **em alta** — pre
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Warren Zaïre-Emery | 96 | — | 1.35M coins | -43.1% | -24.7% |
-| Angel Gomes | 83 | Ligue 1 McDonald's | 27k coins | -39.4% | +16% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 25k coins | -42.2% | +10.6% |
+| Simone Laudehr | 91 | GPFBL | 30k coins | -40% | -22.1% |
 | Martin Ødegaard | 87 | Premier League | 218k coins | -37.7% | -19% |
-| Declan Rice | 88 | Premier League | 60k coins | -34.4% | -4.8% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 298k coins | -30.7% | -5.4% |
-| Clara Serrajordi | 96 | — | 449k coins | -28.7% | 0% |
-| Jill Scott | 94 | — | 107k coins | -28.3% | +8.9% |
-| Alyssa Thompson | 86 | Barclays Women’s Super League | 38k coins | -25% | -20.2% |
-| Vitinha | 96 | — | 8.80M coins | -24.8% | +21.4% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 54k coins | -24.6% | -50.8% |
+| Declan Rice | 88 | Premier League | 60k coins | -36.5% | -4.8% |
+| Mateo Kovačić | 91 | Premier League | 42k coins | -34.1% | +14.1% |
+| Nicolae Stanciu | 86 | Serie A TIM | 104k coins | -32.2% | -29.6% |
+| Alexia Putellas | 92 | Liga F | 47k coins | -27.1% | -6% |
+| Jill Scott | 94 | — | 107k coins | -26.5% | +0.5% |
+| Jennifer Echegini | 86 | D1 Arkema | 32k coins | -25% | -20.6% |
 
 
 ### Análise das baixas
 
 - **Warren Zaïre-Emery (96)** caiu **-43.1%** em 24h, a **1.35M coins** (faixa do dia: 1.27M–2.38M). Está -27% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Angel Gomes (83)** caiu **-39.4%** em 24h, a **27k coins** (faixa do dia: 19.000–46k). Está -22% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Angel Gomes (83)** caiu **-42.2%** em 24h, a **25k coins** (faixa do dia: 19.000–45k). Está -29% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Martin Ødegaard (87)** caiu **-37.7%** em 24h, a **218k coins** (faixa do dia: 218k–350k). Está -30% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Simone Laudehr (91)** caiu **-40%** em 24h, a **30k coins** (faixa do dia: 30k–50k). Está -10% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Yasin Ayari já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** João Neves já avançou 55.8% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Warren Zaïre-Emery recuou -43.1%; confirme estabilização e liquidez.
 
@@ -115,13 +115,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Yasin Ayari (95, sem liga), com +60% em 24h, a 32k coins no PC.
+João Neves (88, Ligue 1 McDonald's), com +55.8% em 24h, a 75k coins no PC.
 
 **E a maior queda do dia?**  
 Warren Zaïre-Emery (96), -43.1% em 24h, a 1.35M coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 114 cartas em alta contra 97 em queda (média 2.71%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 114 cartas em alta contra 104 em queda (média 2.53%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

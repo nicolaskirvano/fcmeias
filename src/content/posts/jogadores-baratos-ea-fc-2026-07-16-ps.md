@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:05:54.000Z
+pubDatetime: 2026-07-17T01:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 16/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.670 coins.
-- **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 3.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 10.432 coins.
+- **Posição mais frequente:** CM, com 14 cartas.
+- **Faixa real:** 2.200 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Caleb Yirenkyi | 94 | CM | — | 11.750 coins | 0% |
 | Paul Wanner | 94 | CM | — | 11.750 coins | 0% |
 | Noah Sadiki | 93 | CM | — | 11.750 coins | 0% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.200 coins | -2.9% |
-| Andreia Jacinto | 88 | CM | Liga F | 12.250 coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | -5.5% |
-| Simone Laudehr | 88 | CM | GPFBL | 12.750 coins | -2% |
-| Nadine Keßler | 88 | CM | GPFBL | 12.750 coins | +2% |
-| Franziska Harsch | 88 | CM | GPFBL | 14.500 coins | -9.4% |
-| Janina Minge | 88 | CM | — | 14.750 coins | +3.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.200 coins | -14.8% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.200 coins | -5.9% |
+| Simone Laudehr | 88 | CM | GPFBL | 11.000 coins | -2% |
+| Nadine Keßler | 88 | CM | GPFBL | 12.250 coins | 0% |
+| Andreia Jacinto | 88 | CM | Liga F | 13.500 coins | -14% |
+| Franziska Harsch | 88 | CM | GPFBL | 13.500 coins | -6.5% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.000 coins | -5.6% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13.750 coins | 0% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 14.250 coins | +3.5% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 3.100 coins | -3.2% |
-| Eva Dios | 85 | CM | Liga F | 14.250 coins | +1.7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.000 coins | +14.6% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 13.750 coins | 0% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 2.900 coins | +11.1% |
 
 
 ## 📈 Destaques
@@ -65,9 +64,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Noah Sadiki (93, CM)** da —, a apenas **11.750 coins**
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Andreia Jacinto (88, CM)** da Liga F, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3.200 coins**
 
 
 ## Como distribuir a banca

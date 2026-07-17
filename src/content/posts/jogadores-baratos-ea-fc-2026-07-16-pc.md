@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:06:04.000Z
+pubDatetime: 2026-07-17T01:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 16/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 8.379 coins.
-- **Posição mais frequente:** CM, com 7 cartas.
-- **Faixa real:** 2.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 8.290 coins.
+- **Posição mais frequente:** CM, com 5 cartas.
+- **Faixa real:** 2.800 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,13 +40,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Caleb Yirenkyi | 94 | CM | — | 11.750 coins | -2.1% |
-| Paul Wanner | 94 | CM | — | 12.000 coins | 0% |
-| Noah Sadiki | 93 | CM | — | 11.750 coins | 0% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.800 coins | -6.7% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.000 coins | -8.8% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.250 coins | -1.6% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 3.100 coins | +22.2% |
+| Caleb Yirenkyi | 94 | CM | — | 11.750 coins | 0% |
+| Paul Wanner | 94 | CM | — | 12.000 coins | +2.1% |
+| Noah Sadiki | 93 | CM | — | 12.000 coins | +2.1% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2.900 coins | -14.3% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 2.800 coins | +3.4% |
 
 
 ## 📈 Destaques
@@ -55,11 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paul Wanner (94, CM)** da —, a apenas **12.000 coins**
 
-- **Noah Sadiki (93, CM)** da —, a apenas **11.750 coins**
+- **Noah Sadiki (93, CM)** da —, a apenas **12.000 coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **João Neves (85, CM)** da Ligue 1 McDonald's, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
