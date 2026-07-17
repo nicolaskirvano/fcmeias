@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caleb Yirenkyi</text>
-<rect x="285" y="95" width="471" height="28" rx="7" fill="#38bdf8"/>
-<text x="766" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
+<rect x="285" y="95" width="462" height="28" rx="7" fill="#38bdf8"/>
+<text x="757" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paul Wanner</text>
 <rect x="285" y="153" width="480" height="28" rx="7" fill="#38bdf8"/>
 <text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Noah Sadiki</text>
-<rect x="285" y="211" width="471" height="28" rx="7" fill="#38bdf8"/>
-<text x="766" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
+<rect x="285" y="211" width="462" height="28" rx="7" fill="#38bdf8"/>
+<text x="757" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pedri</text>
-<rect x="285" y="269" width="114" height="28" rx="7" fill="#38bdf8"/>
-<text x="409" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.100</text>
+<rect x="285" y="269" width="107" height="28" rx="7" fill="#38bdf8"/>
+<text x="402" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.900</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mariona</text>
-<rect x="285" y="327" width="118" height="28" rx="7" fill="#38bdf8"/>
-<text x="413" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.200</text>
+<rect x="285" y="327" width="111" height="28" rx="7" fill="#38bdf8"/>
+<text x="406" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.000</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
-<rect x="285" y="385" width="118" height="28" rx="7" fill="#38bdf8"/>
-<text x="413" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.200</text>
+<rect x="285" y="385" width="114" height="28" rx="7" fill="#38bdf8"/>
+<text x="409" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.100</text>
 </svg>
