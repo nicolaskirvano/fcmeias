@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meio-campo Market"
 pubDatetime: 2026-06-19T16:49:04.000Z
-title: "Melhores investimentos em Meio-campistas no EA FC (19/06/2026): análise e previsões — PC"
+title: "Momentum de Meio-campistas no EA FC em 19/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Marek Hamšík (88, Serie A TIM) lidera, com +69% em 7 dias a 60k coins no PC, e o modelo dá 19% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 19/06/2026 no PC: Marek Hamšík liderou 7d com +69,0%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Marek Hamšík** liderou o recorte com **+69,0% em 7d** e +1,7% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+34,1%**.
+
+Os preços destacados iam de **18.000 coins** a **170k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Meio-campistas no EA FC em 19/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **19/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Marek Hamšík (88) acumula **+69% em 7 dias** a 60k coins.
 
@@ -41,14 +48,14 @@ Em resumo, as melhores oportunidades de entrada hoje concentram-se em Julie Foud
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Marek Hamšík | 88 | Serie A TIM | 60k coins | +1.7% | +69% | 19% |
 | Julie Foudy | 91 | Icons | 35k coins | +20.7% | +59.1% | 76% |
 | Toni Kroos | 90 | Icons | 128k coins | +2.4% | +49.7% | 31% |
-| Cesc Fàbregas | 93 | — | 50k coins | +1% | +44.3% | 0% |
+| Cesc Fàbregas | 93 | — | 50k coins | +1% | +44.3% | N/D |
 | Steven Gerrard | 90 | Icons | 170k coins | +1.8% | +44.1% | 52% |
 | Khéphren Thuram | 87 | Serie A TIM | 70k coins | +16.7% | +41.4% | 36% |
 | Franziska Harsch | 88 | GPFBL | 19k coins | +4.1% | +40.7% | 56% |
@@ -68,19 +75,19 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Julie Foudy (91)** — 35k coins, **+59.1% em 7 dias** (+20.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **76% de chance de seguir subindo**.
 
-- **Toni Kroos (90)** — 128k coins, **+49.7% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Toni Kroos (90)** — 128k coins, **+49.7% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+1%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Cesc Fàbregas (93)** — 50k coins, **+44.3% em 7 dias** (+1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cesc Fàbregas (93)** — 50k coins, **+44.3% em 7 dias** (+1% em 24h). Preço +21% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Steven Gerrard (90)** — 170k coins, **+44.1% em 7 dias** (+1.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Steven Gerrard (90)** — 170k coins, **+44.1% em 7 dias** (+1.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -89,13 +96,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Marek Hamšík (88, Serie A TIM) lidera, com +69% em 7 dias a 60k coins no PC, e o modelo dá 19% de chance de seguir subindo.
+**Qual carta liderava o momentum em 19/06/2026 no EA FC?**
+Marek Hamšík (88, Serie A TIM) lidera, com +69% em 7 dias a 60k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -104,3 +111,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Meio-campistas baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Meio-campistas no EA FC em 19/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-19-pc/)
+- [Momentum de Meio-campistas no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

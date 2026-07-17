@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meio-campo Market"
 pubDatetime: 2026-06-20T01:48:29.000Z
-title: "Meio-campistas no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Meio-campistas no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Senny Mayulu (83, Ligue 1 McDonald's), com +48.5% em 24h, a 74k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Weston McKennie (92), -48.1% em 24h, a 47k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 115 em queda (média -5.87%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PC: Senny Mayulu liderou as altas e Weston McKennie as baixas em Meio-campistas. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Senny Mayulu** registrou o maior movimento de 24h (+48,5%), enquanto **Weston McKennie** marcou o menor (-48,1%). A distância entre os extremos foi de **96,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-7,9%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Meio-campistas no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de meio-campistas em PC apresenta um cenário de extrema volatilidade e pessimismo generalizado nesta segunda-feira, 19 de junho de 2026, com um saldo negativo esmagador que revela a fragilidade dos ativos de curto prazo. Os dados indicam uma predominância clara das quedas, com 115 jogadores registrando desvalorização contra apenas 68 que subiram, resultando em uma média de variação de -5.87% nas últimas 24 horas, um sinal de alerta para traders que buscam segurança. Este ambiente de baixa liquidez e pressão vendedora exige uma análise cirúrgica, pois apenas nichos específicos de mercado, como cards promocionais de ligas menores ou ícones em momentos de baixa oferta, conseguem resistir à gravidade do mercado geral. O sentimento atual é de cautela extrema, onde a maioria dos ativos perde valor rapidamente após o pico de hype inicial, forçando os traders a agirem com velocidade e precisão para evitar perdas significativas em carteiras expostas. A compreensão desse desequilíbrio entre oferta e demanda é crucial para navegar por este dia turbulento, onde a maioria dos movimentos de alta parece ser uma exceção isolada e não a regra do dia.
 
@@ -76,16 +81,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Senny Mayulu (83, Ligue 1 McDonald's), com +48.5% em 24h, a 74k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Weston McKennie (92), -48.1% em 24h, a 47k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 68 cartas em alta contra 115 em queda (média -5.87%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 68 cartas em alta contra 115 em queda (média -5.87%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Meio-campistas baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Momentum de Meio-campistas no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

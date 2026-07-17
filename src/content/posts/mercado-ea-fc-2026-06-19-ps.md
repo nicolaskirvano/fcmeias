@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meio-campo Market"
 pubDatetime: 2026-06-20T01:47:06.000Z
-title: "Meio-campistas no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Meio-campistas no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Roy Keane (88, Icons), com +32% em 24h, a 345k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Khéphren Thuram (87), -48.6% em 24h, a 57k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Thelo Aasgaard (87) — 95% de probabilidade de alta, a 26k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 29 cartas em alta contra 106 em queda (média -8.65%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Roy Keane liderou as altas e Khéphren Thuram as baixas em Meio-campistas. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Roy Keane** registrou o maior movimento de 24h (+32,0%), enquanto **Khéphren Thuram** marcou o menor (-48,6%). A distância entre os extremos foi de **80,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-7,9%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Meio-campistas no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de meio-campistas em consoles apresenta um cenário extremamente hostil para os investidores, marcado por uma predominância esmagadora das quedas de preço, com 106 registros de baixa contra apenas 29 de alta nas últimas 24 horas, resultando em uma média negativa de -8.65% que reflete um sentimento de desânimo generalizado e venda em massa. Esta dinâmica de baixa acentuada sugere que os jogadores estão liquidando posições rapidamente, possivelmente em antecipação a eventos futuros ou devido à saturação de ofertas em carteiras de alta circulação, criando um ambiente onde a cautela é a única estratégia viável para a maioria dos traders. A volatilidade observada não é uniforme, pois enquanto a maioria dos ativos despenca, há bolsões específicos de resistência liderados por ícones e cartilhas de mulheres, indicando que a liquidez está sendo drenada de setores menos populares ou de meta para ser concentrada em ativos com escassez percebida ou demanda de última hora. O trader experiente deve ler esses sinais não como uma oportunidade de compra indiscriminada, mas como um aviso claro de que o suporte de preço está sendo testado em níveis críticos, exigindo uma análise granular de cada movimento individual para evitar armadilhas de valor. O tom do dia é de incerteza tática, onde a paciência para esperar a estabilização dos preços fundamentais é mais valiosa do que a tentativa de lucrar com as oscilações de curto prazo em um mercado que claramente está em fase de correção profunda.
 
@@ -68,7 +71,7 @@ Entre os poucos ativos que conseguiram se valorizar, Roy Keane (88, Icons) lider
 O lado das quedas é devastador, com Khéphren Thuram (87, Serie A TIM) sofrendo uma queda brutal de 48.6% para 57k coins, uma desvalorização que reflete não apenas a falta de demanda, mas uma probabilidade de alta de apenas 8%, indicando que o mercado espera que os preços continuem caindo ou se estabilizem em patamares muito inferiores aos atuais. Patrick Vieira (88, Icons) também despenca 44.8% para 340k coins, o que é particularmente preocupante para um ícone, sugerindo que até mesmo os ativos de status estão sendo liquidados por investidores que precisam de caixa rápido, com uma probabilidade de alta de apenas 8% confirmando a fraqueza estrutural do ativo no momento. Jill Scott (94, s/liga) e Kevin De Bruyne (96, s/liga) registram quedas de 44.6% e 44.1% respectivamente, com De Bruyne caindo para 625k coins e apresentando probabilidade de alta de 0%, o que sinaliza um esgotamento total da confiança dos compradores nesse item específico, tornando-o um ativo de risco extremo para qualquer nova entrada. Daichi Kamada (96, s/liga) perde 37.9% para 281k coins, enquanto Nadine Keßler (90, GPFBL) cai 37.2% para 25k coins, ambos com probabilidades de alta de 5%, reforçando a narrativa de que as cartilhas de alta classificação sem liga específica ou de ligas menos populares estão sendo abandonadas pelos traders em favor de ativos mais líquidos. Aitana Bonmatí (91, Liga F) e Jobe Bellingham (89, Bundesliga) completam o grupo de grandes perdedores com quedas de 36.7% e 34.6% respectivamente, mostrando que mesmo jogadores com probabilidade de alta moderada, como Bellingham com 46%, não conseguiram segurar valor frente à pressão vendedora massiva que atingiu o setor de meio-campistas de elite.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Roy Keane (88, Icons), com +32% em 24h, a 345k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Khéphren Thuram (87), -48.6% em 24h, a 57k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Thelo Aasgaard (87) — 95% de probabilidade de alta, a 26k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Thelo Aasgaard (87) — 95% de probabilidade de alta, a 26k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 29 cartas em alta contra 106 em queda (média -8.65%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 29 cartas em alta contra 106 em queda (média -8.65%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Meio-campistas baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Momentum de Meio-campistas no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

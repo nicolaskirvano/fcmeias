@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meio-campo Market"
 pubDatetime: 2026-06-02T13:46:01.000Z
-title: "Meio-campistas no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Meio-campistas no EA FC em 02/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Caroline Seger (90, Icons), com +44.3% em 24h, a 25k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Tijjani Reijnders (87), -36.2% em 24h, a 210k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 48k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 91 cartas em alta contra 151 em queda (média 0.35%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PS: Caroline Seger liderou as altas e Tijjani Reijnders as baixas em Meio-campistas. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **91 subiram** e **151 caíram**, com variação média de **0.35%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Caroline Seger** registrou o maior movimento de 24h (+44,3%), enquanto **Tijjani Reijnders** marcou o menor (-36,2%). A distância entre os extremos foi de **80,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,7%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Meio-campistas no EA FC em 02/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-02-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **91 subiram** e **151 caíram**, com variação média de **0.35%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Caroline Seger (90) **+44.3%** · 🔴 **Maior baixa:** Tijjani Reijnders (87) **-36.2%**
 
@@ -73,16 +76,16 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Tijjani Reijnders (87)** caiu **-36.2%** em 24h, a **210k coins** (faixa do dia: 210k–305k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
+- **Tijjani Reijnders (87)** caiu **-36.2%** em 24h, a **210k coins** (faixa do dia: 210k–305k). Está em linha com a média de 7 dias (-1%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Christian Eriksen (87)** caiu **-29.1%** em 24h, a **39k coins** (faixa do dia: 30k–52k). Está +14% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **recuperação** (reversão para alta), com 68% de probabilidade.
+- **Christian Eriksen (87)** caiu **-29.1%** em 24h, a **39k coins** (faixa do dia: 30k–52k). Está +14% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 68% de probabilidade.
 
-- **Federico Valverde (89)** caiu **-25.2%** em 24h, a **202k coins** (faixa do dia: 202k–263k). Está -18% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Federico Valverde (89)** caiu **-25.2%** em 24h, a **202k coins** (faixa do dia: 202k–263k). Está -18% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -119,19 +122,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Caroline Seger (90, Icons), com +44.3% em 24h, a 25k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Tijjani Reijnders (87), -36.2% em 24h, a 210k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 48k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Enzo Fernández (91) — 95% de probabilidade de alta, a 48k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 91 cartas em alta contra 151 em queda (média 0.35%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 91 cartas em alta contra 151 em queda (média 0.35%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -140,3 +143,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Meio-campistas baratos no EA FC em 02/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-02-ps/)
+- [Momentum de Meio-campistas no EA FC em 02/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-02-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

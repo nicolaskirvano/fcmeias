@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meio-campo Market"
 pubDatetime: 2026-06-20T01:47:31.000Z
-title: "Melhores investimentos em Meio-campistas no EA FC (19/06/2026): análise e previsões — Console (PS)"
+title: "Momentum de Meio-campistas no EA FC em 19/06 — PS"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "João Moutinho (88, Liga Portugal) lidera, com +63.5% em 7 dias a 117k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 19/06/2026 no PS: João Moutinho liderou 7d com +63,5%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**João Moutinho** liderou o recorte com **+63,5% em 7d** e +3,7% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+17,3%**.
+
+Os preços destacados iam de **17.000 coins** a **207k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Meio-campistas no EA FC em 19/06 — PS](/charts/melhores-investimentos-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **19/06/2026** no **Console (PS)**:
 
 > 🔝 **Destaque:** João Moutinho (88) acumula **+63.5% em 7 dias** a 117k coins.
 
@@ -37,9 +44,9 @@ No extremo oposto, cartas de alto custo como Paul Scholes (91 Icons, 207 mil coi
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | João Moutinho | 88 | Liga Portugal | 117k coins | +3.7% | +63.5% | 5% |
 | Nicolae Stanciu | 86 | Serie A TIM | 48k coins | +20.6% | +50.8% | 50% |
@@ -62,7 +69,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **João Moutinho (88)** — 117k coins, **+63.5% em 7 dias** (+3.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Nicolae Stanciu (86)** — 48k coins, **+50.8% em 7 dias** (+20.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nicolae Stanciu (86)** — 48k coins, **+50.8% em 7 dias** (+20.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Paul Scholes (91)** — 207k coins, **+45% em 7 dias** (+11.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
@@ -73,10 +80,10 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -85,13 +92,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-João Moutinho (88, Liga Portugal) lidera, com +63.5% em 7 dias a 117k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+**Qual carta liderava o momentum em 19/06/2026 no EA FC?**
+João Moutinho (88, Liga Portugal) lidera, com +63.5% em 7 dias a 117k coins no Console (PS). No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -100,3 +107,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Meio-campistas baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Meio-campistas no EA FC em 19/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-19-ps/)
+- [Momentum de Meio-campistas no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Meio-campo Market"
 pubDatetime: 2026-06-19T01:48:57.000Z
-title: "Melhores investimentos em Meio-campistas no EA FC (18/06/2026): análise e previsões — PC"
+title: "Momentum de Meio-campistas no EA FC em 18/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Bartosz Kapustka (87, PKO BP Ekstraklasa) lidera, com +77% em 7 dias a 60k coins no PC, e o modelo dá 50% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 18/06/2026 no PC: Bartosz Kapustka liderou 7d com +77,0%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Bartosz Kapustka** liderou o recorte com **+77,0% em 7d** e +19,3% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+36,4%**.
+
+Os preços destacados iam de **25k coins** a **160k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Meio-campistas no EA FC em 18/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **18/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Bartosz Kapustka (87) acumula **+77% em 7 dias** a 60k coins.
 
@@ -41,9 +48,9 @@ Em resumo, a estratégia mais sólida para hoje em meio-campistas foca em Julie 
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 60k coins | +19.3% | +77% | 50% |
 | Saki Kumagai | 88 | Barclays WSL | 30k coins | +1.7% | +55.8% | 41% |
@@ -58,29 +65,29 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Adrien Rabiot | 92 | — | 54k coins | +18.5% | +29% | 42% |
 | Julie Foudy | 88 | Icons | 25k coins | +26.2% | +27.8% | 21% |
 | Frank Lampard | 87 | Icons | 115k coins | +5.5% | +27.8% | 62% |
-| Sakina Karchaoui | 95 | — | 160k coins | +8.3% | +26.9% | 0% |
+| Sakina Karchaoui | 95 | — | 160k coins | +8.3% | +26.9% | N/D |
 | Enzo Fernández | 91 | Premier League | 90k coins | +4.1% | +25.4% | 61% |
 
 
 ## 📈 Análise dos destaques
 
-- **Bartosz Kapustka (87)** — 60k coins, **+77% em 7 dias** (+19.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bartosz Kapustka (87)** — 60k coins, **+77% em 7 dias** (+19.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Saki Kumagai (88)** — 30k coins, **+55.8% em 7 dias** (+1.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Saki Kumagai (88)** — 30k coins, **+55.8% em 7 dias** (+1.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Julie Foudy (91)** — 34k coins, **+52.3% em 7 dias** (+26.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **76% de chance de seguir subindo**.
 
-- **Khéphren Thuram (85)** — 99k coins, **+48.1% em 7 dias** (+9.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khéphren Thuram (85)** — 99k coins, **+48.1% em 7 dias** (+9.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Juan Sebastián Verón (88)** — 28k coins, **+47.4% em 7 dias** (+24.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Juan Sebastián Verón (88)** — 28k coins, **+47.4% em 7 dias** (+24.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## ⚙️ A engine por tras deste post
@@ -89,13 +96,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Bartosz Kapustka (87, PKO BP Ekstraklasa) lidera, com +77% em 7 dias a 60k coins no PC, e o modelo dá 50% de chance de seguir subindo.
+**Qual carta liderava o momentum em 18/06/2026 no EA FC?**
+Bartosz Kapustka (87, PKO BP Ekstraklasa) lidera, com +77% em 7 dias a 60k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -104,3 +111,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Meio-campistas baratos no EA FC em 18/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-18-pc/)
+- [Meio-campistas no EA FC em 18/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-18-pc/)
+- [Momentum de Meio-campistas no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
