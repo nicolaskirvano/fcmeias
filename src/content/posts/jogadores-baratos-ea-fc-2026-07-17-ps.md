@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:21:30.000Z
+pubDatetime: 2026-07-17T19:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 8.173 coins.
+- **Preço médio das 11 opções:** 12.000 coins.
 - **Posição mais frequente:** CM, com 11 cartas.
-- **Faixa real:** 2.400 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Caleb Yirenkyi | 94 | CM | — | 13.000 coins | +10.6% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.700 coins | +25% |
-| Mariona | 89 | CM | Barclays WSL | 2.800 coins | +21.7% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2.800 coins | +8.3% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.200 coins | -5.7% |
-| Simone Laudehr | 88 | CM | GPFBL | 11.000 coins | -8.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.250 coins | +7.8% |
-| Nadine Keßler | 88 | CM | GPFBL | 13.750 coins | +6.2% |
+| Caleb Yirenkyi | 94 | CM | — | 13.000 coins | +12.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2.000 coins | +25% |
+| Simone Laudehr | 88 | CM | GPFBL | 12.000 coins | 0% |
+| Janina Minge | 88 | CM | — | 13.000 coins | +9.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.500 coins | +7.7% |
+| Franziska Harsch | 88 | CM | GPFBL | 14.250 coins | -1.7% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 13.250 coins | -13.9% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 13.500 coins | +1.9% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 2.400 coins | -8.3% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12.000 coins | +10.2% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 14.000 coins | -5.7% |
+| Eva Dios | 85 | CM | Liga F | 13.500 coins | -4.9% |
 
 
 ## 📈 Destaques
 
 - **Caleb Yirenkyi (94, CM)** da —, a apenas **13.000 coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **12.000 coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Janina Minge (88, CM)** da —, a apenas **13.000 coins**
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:21:38.000Z
+pubDatetime: 2026-07-17T19:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +89.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gabriel Villamíl (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Fabián Ruiz (88) acumula **+89.5% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gabriel Villamíl (91) acumula **+89.9% em 7 dias** a 38k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.1% em 24h** e **+50.8% em 7 dias**.
+- A mediana é de **+9.3% em 24h** e **+46.7% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Gabriel Villamíl | 91 | — | 38k coins | +1.4% | +89.9% | Esticada |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 45k coins | +28.6% | +89.5% | Esticada |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 31k coins | +4% | +87% | Esticada |
-| Gabriel Sara | 94 | — | 55k coins | +23.3% | +71.9% | Esticada |
+| Adalberto Carrasquilla | 91 | — | 32k coins | +5.8% | +76.4% | Esticada |
 | Marek Hamšík | 88 | Serie A TIM | 89k coins | +17.9% | +69.5% | Esticada |
-| João Moutinho | 88 | Liga Portugal | 119k coins | +22.1% | +58.7% | Esticada |
-| Steven Gerrard | 89 | Icons | 134k coins | +6.9% | +54.4% | Momentum moderado |
-| Bastian Schweinsteiger | 88 | Icons | 98k coins | +12.5% | +53.2% | Momentum moderado |
-| Bruno Guimarães | 96 | — | 138k coins | +21% | +50.8% | Esticada |
-| Cher Ndour | 86 | Serie A TIM | 27k coins | +11.4% | +50% | Momentum moderado |
-| Éderson | 87 | Serie A TIM | 55k coins | +12.8% | +46.7% | Momentum moderado |
-| Giada Greggi | 87 | Calcio A Femminile | 28k coins | +14.1% | +41.2% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 88k coins | +3.5% | +39.7% | Momentum moderado |
-| Jaap Stam | 89 | Premier League | 148k coins | +22.3% | +39.6% | Esticada |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 49k coins | +15.9% | +33.1% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 44k coins | +10.5% | +24.3% | Momentum moderado |
+| Gabriel Sara | 94 | — | 44k coins | +22.7% | +65.8% | Esticada |
+| Pablo Barrios | 90 | — | 44k coins | +13.2% | +63.6% | Esticada |
+| João Moutinho | 88 | Liga Portugal | 110k coins | +9.2% | +58.7% | Momentum moderado |
+| Éderson | 87 | Serie A TIM | 55k coins | +4.8% | +46.7% | Momentum moderado |
+| Mario Lemina | 88 | Trendyol Süper Lig | 79k coins | +32.8% | +43.6% | Esticada |
+| Kang Sang Yoon | 93 | — | 34k coins | +3% | +38% | Momentum moderado |
+| Benjamin Nygren | 90 | — | 40k coins | +3.2% | +34.2% | Momentum moderado |
+| Andrés Cubas | 93 | — | 18.750 coins | +1.4% | +33.9% | Momentum moderado |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 48k coins | +19.4% | +33.1% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 44k coins | +9.3% | +29.2% | Momentum moderado |
+| Guti | 86 | LALIGA EA SPORTS | 17.000 coins | +13.8% | +26.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Villamíl (91)** — 38k coins, **+89.9% em 7 dias** (+1.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mamadou Sangaré (87)** — 31k coins, **+87% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Sara (94)** — 55k coins, **+71.9% em 7 dias** (+23.3% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adalberto Carrasquilla (91)** — 32k coins, **+76.4% em 7 dias** (+5.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marek Hamšík (88)** — 89k coins, **+69.5% em 7 dias** (+17.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marek Hamšík (88)** — 89k coins, **+69.5% em 7 dias** (+17.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 119k coins, **+58.7% em 7 dias** (+22.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Sara (94)** — 44k coins, **+65.8% em 7 dias** (+22.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +89.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gabriel Villamíl (91, sem liga) lidera, com +89.9% em 7 dias a 38k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
