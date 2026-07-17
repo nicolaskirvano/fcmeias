@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:46:07.000Z
+pubDatetime: 2026-07-17T17:21:28.000Z
 title: "Mercado EA FC em 17/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Tanguy Ndombele (85, Ligue 1 McDonald's), com +56% em 24h, a 32k coins no Console (PS)."
+    a: "Estefanía Banini (89, Liga F), com +47.1% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Paul Scholes (91), -27.3% em 24h, a 153k coins."
+    a: "Paul Scholes (91), -29.5% em 24h, a 140k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 109 cartas em alta contra 117 em queda (média 2.22%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 98 cartas em alta contra 124 em queda (média 0.8%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **17/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **109 valorizações** contra **117 quedas** entre as cartas relevantes, com média de **2.22%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **17/07/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **98 valorizações** contra **124 quedas** entre as cartas relevantes, com média de **0.8%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tanguy Ndombele (85) **+56%** · 🔴 **Maior baixa:** Paul Scholes (91) **-27.3%**
+> 🟢 **Maior alta:** Estefanía Banini (89) **+47.1%** · 🔴 **Maior baixa:** Paul Scholes (91) **-29.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,69 @@ Resumo de **17/07/2026** no Console (PS): clima **comprador** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 83.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 262 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 76.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.1% entre as cartas que se moveram; o universo observado reúne 269 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 32k coins | +56% | +22.4% |
-| Estefanía Banini | 89 | Liga F | 30k coins | +49.3% | +33.3% |
-| Yasin Ayari | 96 | — | 26k coins | +31.8% | -25.6% |
-| Richard Ríos | 88 | Liga Portugal | 232k coins | +30.3% | +226.7% |
-| Yaya Touré | 88 | Premier League | 1.20M coins | +29.3% | +60.2% |
-| Julie Foudy | 92 | Icons | 36k coins | +29.2% | +39.6% |
-| Andrea Pirlo | 90 | Icons | 126k coins | +26.2% | +35% |
-| Luka Modrić | 89 | Serie A TIM | 159k coins | +26.1% | +62.7% |
-| Piotr Zieliński | 85 | Serie A TIM | 38k coins | +26.1% | +25% |
-| Bruno Guimarães | 92 | — | 30k coins | +25% | +46.3% |
+| Estefanía Banini | 89 | Liga F | 28k coins | +47.1% | +33.3% |
+| Andrea Pirlo | 90 | Icons | 126k coins | +28.7% | +28.7% |
+| Yasin Ayari | 96 | — | 28k coins | +27.3% | -20% |
+| Piotr Zieliński | 85 | Serie A TIM | 36k coins | +26.1% | +25% |
+| Bruno Guimarães | 92 | — | 30k coins | +25% | +44.6% |
+| Mariona | 90 | Barclays WSL | 80k coins | +24.8% | +44.9% |
+| Yaya Touré | 88 | Premier League | 1.15M coins | +23.9% | +53.5% |
+| Giada Greggi | 87 | Calcio A Femminile | 23k coins | +23.5% | +29.2% |
+| Richard Ríos | 88 | Liga Portugal | 212k coins | +23.4% | +209.3% |
+| Mateo Kovačić | 91 | Premier League | 55k coins | +22.2% | +69.2% |
 
 
 ### Análise das altas
 
-- **Tanguy Ndombele (85)** subiu **+56%** em 24h, a **32k coins** (faixa do dia: 19.500–33k). Está em linha com a média de 7 dias (-1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Estefanía Banini (89)** subiu **+49.3%** em 24h, a **30k coins** (faixa do dia: 16.000–38k). Está +65% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+<!-- projection-note:v1 -->
+> **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Yasin Ayari (96)** subiu **+31.8%** em 24h, a **26k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (-7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Estefanía Banini (89)** subiu **+47.1%** em 24h, a **28k coins** (faixa do dia: 16.000–38k). Está +49% acima da média de 7 dias (aquecida).
+
+- **Andrea Pirlo (90)** subiu **+28.7%** em 24h, a **126k coins** (faixa do dia: 109k–146k). Está +10% acima da média de 7 dias (aquecida).
+
+- **Yasin Ayari (96)** subiu **+27.3%** em 24h, a **28k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paul Scholes | 91 | Icons | 153k coins | -27.3% | +4.6% |
+| Paul Scholes | 91 | Icons | 140k coins | -29.5% | -1.9% |
+| Vitinha | 91 | Ligue 1 McDonald's | 461k coins | -28.9% | -15.3% |
 | Angel Gomes | 83 | Ligue 1 McDonald's | 28k coins | -24.7% | +1.8% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 25k coins | -23.1% | +39.2% |
-| Warren Zaïre-Emery | 96 | — | 1.32M coins | -21.7% | -12.3% |
-| Luca Mazzitelli | 84 | Serie A TIM | 32k coins | -20.6% | -6.6% |
-| Rose Lavelle | 89 | NWSL | 36k coins | -19.3% | -29.8% |
-| Aitana Bonmatí | 96 | — | 469k coins | -19.1% | +11.7% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 222k coins | -18.8% | +77.2% |
-| Xavi | 92 | Icons | 189k coins | -17.5% | +68.2% |
-| João Neves | 88 | Ligue 1 McDonald's | 58k coins | -17.1% | +2.1% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 25k coins | -24.6% | +40.3% |
+| João Neves | 88 | Ligue 1 McDonald's | 49k coins | -24.6% | +2.1% |
+| Sara Däbritz | 86 | Liga F | 35k coins | -22.2% | -7.3% |
+| Warren Zaïre-Emery | 96 | — | 1.31M coins | -21.8% | -12.5% |
+| Rose Lavelle | 89 | NWSL | 56k coins | -20.2% | -29.8% |
+| Roy Keane | 86 | Icons | 77k coins | -19.2% | +16.4% |
+| Xavi | 92 | Icons | 185k coins | -18.6% | +65.9% |
 
 
 ### Análise das baixas
 
-- **Paul Scholes (91)** caiu **-27.3%** em 24h, a **153k coins** (faixa do dia: 133k–220k). Está -25% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Paul Scholes (91)** caiu **-29.5%** em 24h, a **140k coins** (faixa do dia: 133k–220k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Angel Gomes (83)** caiu **-24.7%** em 24h, a **28k coins** (faixa do dia: 20k–38k). Está -13% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Vitinha (91)** caiu **-28.9%** em 24h, a **461k coins** (faixa do dia: 461k–839k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Fabián Ruiz (88)** caiu **-23.1%** em 24h, a **25k coins** (faixa do dia: 24k–42k). Está em linha com a média de 7 dias (+3%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Angel Gomes (83)** caiu **-24.7%** em 24h, a **28k coins** (faixa do dia: 20k–38k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tanguy Ndombele já avançou 56% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Estefanía Banini já avançou 47.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Paul Scholes recuou -27.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paul Scholes recuou -29.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,20 +108,20 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Tanguy Ndombele (85, Ligue 1 McDonald's), com +56% em 24h, a 32k coins no Console (PS).
+**Qual foi a maior alta do EA FC hoje (17/07/2026)?**
+Estefanía Banini (89, Liga F), com +47.1% em 24h, a 28k coins no Console (PS).
 
-**E a maior queda do dia?**  
-Paul Scholes (91), -27.3% em 24h, a 153k coins.
+**E a maior queda do dia?**
+Paul Scholes (91), -29.5% em 24h, a 140k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 109 cartas em alta contra 117 em queda (média 2.22%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**
+Hoje o mercado está de lado — altas e quedas se equilibram, com 98 cartas em alta contra 124 em queda (média 0.8%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
+> **Link patrocinado:** 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

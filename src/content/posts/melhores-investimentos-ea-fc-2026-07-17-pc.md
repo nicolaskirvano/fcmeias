@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:46:18.000Z
+pubDatetime: 2026-07-17T17:21:38.000Z
 title: "Investimentos EA FC: Meio-campistas em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.9% em 24h** e **+47.9% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.1% em 24h** e **+50.8% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 45k coins | +28.6% | +89.5% | Esticada |
-| Marek Hamšík | 88 | Serie A TIM | 89k coins | +30.5% | +87.6% | Esticada |
-| Alexis Mac Allister | 89 | Premier League | 44k coins | +37% | +64.2% | Esticada |
-| Gabriel Sara | 94 | — | 54k coins | +19.5% | +63.8% | Esticada |
-| Bastian Schweinsteiger | 88 | Icons | 98k coins | +9.6% | +61.2% | Esticada |
-| João Moutinho | 88 | Liga Portugal | 119k coins | +22.1% | +49.7% | Esticada |
-| Cher Ndour | 86 | Serie A TIM | 30k coins | +9.4% | +48.7% | Momentum moderado |
-| Steven Gerrard | 89 | Icons | 139k coins | +6.9% | +47.9% | Momentum moderado |
-| Éderson | 87 | Serie A TIM | 55k coins | +11.8% | +45.3% | Momentum moderado |
-| Bruno Guimarães | 92 | — | 23k coins | +23.7% | +44.6% | Esticada |
-| Toni Kroos | 90 | Icons | 88k coins | +4.7% | +41.3% | Momentum moderado |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 31k coins | +4% | +87% | Esticada |
+| Gabriel Sara | 94 | — | 55k coins | +23.3% | +71.9% | Esticada |
+| Marek Hamšík | 88 | Serie A TIM | 89k coins | +17.9% | +69.5% | Esticada |
+| João Moutinho | 88 | Liga Portugal | 119k coins | +22.1% | +58.7% | Esticada |
+| Steven Gerrard | 89 | Icons | 134k coins | +6.9% | +54.4% | Momentum moderado |
+| Bastian Schweinsteiger | 88 | Icons | 98k coins | +12.5% | +53.2% | Momentum moderado |
+| Bruno Guimarães | 96 | — | 138k coins | +21% | +50.8% | Esticada |
+| Cher Ndour | 86 | Serie A TIM | 27k coins | +11.4% | +50% | Momentum moderado |
+| Éderson | 87 | Serie A TIM | 55k coins | +12.8% | +46.7% | Momentum moderado |
 | Giada Greggi | 87 | Calcio A Femminile | 28k coins | +14.1% | +41.2% | Momentum moderado |
-| Jaap Stam | 89 | Premier League | 148k coins | +23.1% | +40.6% | Esticada |
-| Alexia Putellas | 92 | Liga F | 43k coins | +11.7% | +38.9% | Momentum moderado |
+| Toni Kroos | 90 | Icons | 88k coins | +3.5% | +39.7% | Momentum moderado |
+| Jaap Stam | 89 | Premier League | 148k coins | +22.3% | +39.6% | Esticada |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 49k coins | +15.9% | +33.1% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 44k coins | +10.5% | +24.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marek Hamšík (88)** — 89k coins, **+87.6% em 7 dias** (+30.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mamadou Sangaré (87)** — 31k coins, **+87% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexis Mac Allister (89)** — 44k coins, **+64.2% em 7 dias** (+37% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Sara (94)** — 55k coins, **+71.9% em 7 dias** (+23.3% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Sara (94)** — 54k coins, **+63.8% em 7 dias** (+19.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marek Hamšík (88)** — 89k coins, **+69.5% em 7 dias** (+17.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (88)** — 98k coins, **+61.2% em 7 dias** (+9.6% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Moutinho (88)** — 119k coins, **+58.7% em 7 dias** (+22.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
+> **Link patrocinado:** 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

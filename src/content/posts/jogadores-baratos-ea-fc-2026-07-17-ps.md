@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:46:10.000Z
+pubDatetime: 2026-07-17T17:21:30.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 8.995 coins.
+- **Preço médio das 11 opções:** 8.173 coins.
 - **Posição mais frequente:** CM, com 11 cartas.
-- **Faixa real:** 2.100 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.400 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Caleb Yirenkyi | 94 | CM | — | 13.000 coins | +8.5% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2.600 coins | +13% |
-| Mariona | 89 | CM | Barclays WSL | 2.700 coins | +17.4% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.300 coins | -8.3% |
-| Simone Laudehr | 88 | CM | GPFBL | 11.000 coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12.750 coins | +2.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.250 coins | +9.8% |
-| Can Bozdoğan | 87 | CM | Eredivisie | 13.250 coins | -3.8% |
+| Caleb Yirenkyi | 94 | CM | — | 13.000 coins | +10.6% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.700 coins | +25% |
+| Mariona | 89 | CM | Barclays WSL | 2.800 coins | +21.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2.800 coins | +8.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.200 coins | -5.7% |
+| Simone Laudehr | 88 | CM | GPFBL | 11.000 coins | -8.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.250 coins | +7.8% |
+| Nadine Keßler | 88 | CM | GPFBL | 13.750 coins | +6.2% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Lisanne Gräwe | 86 | CM | GPFBL | 13.500 coins | +7.5% |
-| João Neves | 85 | CM | Ligue 1 McDonald's | 2.100 coins | -8.3% |
+| Lisanne Gräwe | 86 | CM | GPFBL | 13.500 coins | +1.9% |
+| João Neves | 85 | CM | Ligue 1 McDonald's | 2.400 coins | -8.3% |
 
 
 ## 📈 Destaques
 
 - **Caleb Yirenkyi (94, CM)** da —, a apenas **13.000 coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11.000 coins**
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -96,7 +96,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
+> **Link patrocinado:** 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 
