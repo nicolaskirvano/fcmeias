@@ -1,73 +1,95 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:46:09.000Z
-title: "Melhores investimentos em Meio-campistas no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:05:53.000Z
+title: "Investimentos EA FC: Meio-campistas em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Gabriel Villamíl (91, sem liga) lidera, com +82.6% em 7 dias a 39k coins no Console (PS)."
+    a: "Jobe Bellingham (89, Bundesliga) lidera, com +79.2% em 7 dias a 212k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gabriel Villamíl (91) acumula **+82.6% em 7 dias** a 39k coins.
+> 🔝 **Destaque:** Jobe Bellingham (89) acumula **+79.2% em 7 dias** a 212k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+10.2% em 24h** e **+55.3% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gabriel Villamíl | 91 | — | 39k coins | +5% | +82.6% | 0% |
-| Jobe Bellingham | 89 | Bundesliga | 211k coins | +3.8% | +81.7% | 0% |
-| Enzo Fernández | 93 | — | 90k coins | +31.4% | +80% | 0% |
-| Bernardo Silva | 87 | Premier League | 84k coins | +34.7% | +63% | 10% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 30k coins | +10.7% | +59% | 0% |
-| Pablo Fornals | 85 | LALIGA EA SPORTS | 20k coins | +21.9% | +56% | 37% |
-| Julie Foudy | 91 | Icons | 40k coins | +14.3% | +53.8% | 54% |
-| Hayley Lauder | 85 | Scottish Women's League | 22k coins | +14.1% | +48.3% | 0% |
-| Luciano Valente | 92 | — | 26k coins | +5% | +47.9% | 0% |
-| Mohammed Kanno | 92 | — | 18k coins | +2.8% | +46% | 0% |
-| Esperanza Pizarro | 92 | — | 25k coins | +2% | +45.7% | 0% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 28k coins | +29.5% | +42.5% | 23% |
-| Iniesta | 92 | Icons | 169k coins | +13.9% | +40.6% | 25% |
-| Julie Foudy | 88 | Icons | 28k coins | +30% | +40.5% | 27% |
-| Caroline Seger | 91 | Icons | 58k coins | +6.4% | +39.3% | 17% |
+| Jobe Bellingham | 89 | Bundesliga | 212k coins | +3.4% | +79.2% | Esticada |
+| Enzo Fernández | 93 | — | 85k coins | +11.9% | +79% | Esticada |
+| Jill Scott | 91 | Barclays WSL | 130k coins | +10.2% | +71.1% | Esticada |
+| João Moutinho | 88 | Liga Portugal | 142k coins | +28.2% | +65.9% | Esticada |
+| Bernardo Silva | 87 | Premier League | 97k coins | +38.6% | +63% | Esticada |
+| Pablo Fornals | 85 | LALIGA EA SPORTS | 19.750 coins | +21.2% | +60% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 40k coins | +22.1% | +60% | Esticada |
+| Julie Foudy | 91 | Icons | 35k coins | +14.3% | +55.3% | Momentum moderado |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 27k coins | +5.4% | +50% | Momentum moderado |
+| Esperanza Pizarro | 92 | — | 26k coins | +3% | +47.1% | Momentum moderado |
+| Luciano Valente | 92 | — | 24k coins | +4% | +46.5% | Momentum moderado |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 104k coins | +3.1% | +42.9% | Momentum moderado |
+| Bruno Guimarães | 96 | — | 146k coins | +19.3% | +42.7% | Momentum moderado |
+| Paul Scholes | 91 | Icons | 211k coins | +6% | +40.7% | Momentum moderado |
+| Caroline Seger | 91 | Icons | 52k coins | +2.6% | +40.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gabriel Villamíl (91)** — 39k coins, **+82.6% em 7 dias** (+5% em 24h). Preço +61% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jobe Bellingham (89)** — 212k coins, **+79.2% em 7 dias** (+3.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jobe Bellingham (89)** — 211k coins, **+81.7% em 7 dias** (+3.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Enzo Fernández (93)** — 85k coins, **+79% em 7 dias** (+11.9% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Fernández (93)** — 90k coins, **+80% em 7 dias** (+31.4% em 24h). Preço +70% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (91)** — 130k coins, **+71.1% em 7 dias** (+10.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bernardo Silva (87)** — 84k coins, **+63% em 7 dias** (+34.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **João Moutinho (88)** — 142k coins, **+65.9% em 7 dias** (+28.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Musab Al Juwair (87)** — 30k coins, **+59% em 7 dias** (+10.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bernardo Silva (87)** — 97k coins, **+63% em 7 dias** (+38.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
+
+
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Meio-campistas em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Meio-campistas — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
 
 ## 📊 Nossa metodologia em 30 segundos
 Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
@@ -76,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Gabriel Villamíl (91, sem liga) lidera, com +82.6% em 7 dias a 39k coins no Console (PS).
+Jobe Bellingham (89, Bundesliga) lidera, com +79.2% em 7 dias a 212k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
