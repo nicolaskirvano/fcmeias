@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:46:20.000Z
+pubDatetime: 2026-07-17T22:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Caleb Yirenkyi (94, sem liga) aparece como melhor custo-benefício, a 14.250 coins no PC."
+    a: "Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3.700 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Caleb Yirenkyi (94) por apenas 14.250 coins.
+> 💰 **Melhor pechincha:** Vitinha (89) por apenas 3.700 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Meio-campistas em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 9.050 coins.
+- **Preço médio das 5 opções:** 7.000 coins.
 - **Posição mais frequente:** CM, com 5 cartas.
-- **Faixa real:** 3.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.700 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,29 +40,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Caleb Yirenkyi | 94 | CM | — | 14.250 coins | +21.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.500 coins | +17.2% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.000 coins | +11.1% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.700 coins | +35.7% |
+| Mariona | 89 | CM | Barclays WSL | 3.800 coins | +26.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4.000 coins | +22.6% |
 | Simone Laudehr | 88 | CM | GPFBL | 11.500 coins | -14.8% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12.000 coins | -13.4% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 12.000 coins | +14.5% |
 
 
 ## 📈 Destaques
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11.500 coins**
+- **Simone Laudehr (88, CM)** da GPFBL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jill Scott (85, CM)** da Barclays Women’s Super League, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Caleb Yirenkyi (94, CM) por 14.250 coins é a referência de rating deste recorte.
+- **Meio:** Vitinha (89, CM) por 3.700 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -81,7 +81,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Caleb Yirenkyi (94, sem liga) aparece como melhor custo-benefício, a 14.250 coins no PC.
+Vitinha (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 3.700 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

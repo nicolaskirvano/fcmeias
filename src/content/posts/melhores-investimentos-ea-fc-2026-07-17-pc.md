@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:46:18.000Z
+pubDatetime: 2026-07-17T22:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.3% em 24h** e **+46.7% em 7 dias**.
+- A mediana é de **+4.6% em 24h** e **+45.5% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gabriel Villamíl | 91 | — | 38k coins | +1.4% | +89.9% | Esticada |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 45k coins | +28.6% | +89.5% | Esticada |
-| Adalberto Carrasquilla | 91 | — | 32k coins | +5.8% | +76.4% | Esticada |
-| Marek Hamšík | 88 | Serie A TIM | 89k coins | +17.9% | +69.5% | Esticada |
-| Gabriel Sara | 94 | — | 44k coins | +22.7% | +65.8% | Esticada |
-| Pablo Barrios | 90 | — | 44k coins | +13.2% | +63.6% | Esticada |
-| João Moutinho | 88 | Liga Portugal | 110k coins | +9.2% | +58.7% | Momentum moderado |
-| Éderson | 87 | Serie A TIM | 55k coins | +4.8% | +46.7% | Momentum moderado |
-| Mario Lemina | 88 | Trendyol Süper Lig | 79k coins | +32.8% | +43.6% | Esticada |
-| Kang Sang Yoon | 93 | — | 34k coins | +3% | +38% | Momentum moderado |
+| Gabriel Villamíl | 91 | — | 38k coins | +2% | +89.9% | Esticada |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 30k coins | +36.2% | +86.3% | Esticada |
+| Alexis Mac Allister | 89 | Premier League | 45k coins | +3.4% | +78.2% | Esticada |
+| Crystal Dunn | 85 | D1 Arkema | 85k coins | +3.7% | +70% | Esticada |
+| Patrik Mercado | 91 | — | 31k coins | +1.8% | +68% | Esticada |
+| Frank Lampard | 87 | Icons | 123k coins | +13.3% | +61.1% | Esticada |
+| Pablo Fornals | 85 | LALIGA EA SPORTS | 26k coins | +1.9% | +49.3% | Momentum moderado |
+| Arthur Atta | 85 | Serie A TIM | 80k coins | +6.7% | +45.5% | Momentum moderado |
+| Alexis Mac Allister | 91 | — | 110k coins | +10% | +42.9% | Momentum moderado |
 | Benjamin Nygren | 90 | — | 40k coins | +3.2% | +34.2% | Momentum moderado |
-| Andrés Cubas | 93 | — | 18.750 coins | +1.4% | +33.9% | Momentum moderado |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 48k coins | +19.4% | +33.1% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 44k coins | +9.3% | +29.2% | Momentum moderado |
-| Guti | 86 | LALIGA EA SPORTS | 17.000 coins | +13.8% | +26.9% | Momentum moderado |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 49k coins | +28.8% | +33.1% | Esticada |
+| Christian Eriksen | 87 | Bundesliga | 64k coins | +4.6% | +31.7% | Momentum moderado |
+| Mohammed Kanno | 92 | — | 19.750 coins | +1.3% | +27% | Momentum moderado |
+| Bruno Guimarães | 87 | Premier League | 47k coins | +14% | +23.8% | Momentum moderado |
+| Simone Laudehr | 90 | GPFBL | 50k coins | +11.2% | +17.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gabriel Villamíl (91)** — 38k coins, **+89.9% em 7 dias** (+1.4% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Villamíl (91)** — 38k coins, **+89.9% em 7 dias** (+2% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fabián Ruiz (88)** — 30k coins, **+86.3% em 7 dias** (+36.2% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adalberto Carrasquilla (91)** — 32k coins, **+76.4% em 7 dias** (+5.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexis Mac Allister (89)** — 45k coins, **+78.2% em 7 dias** (+3.4% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marek Hamšík (88)** — 89k coins, **+69.5% em 7 dias** (+17.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Crystal Dunn (85)** — 85k coins, **+70% em 7 dias** (+3.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Sara (94)** — 44k coins, **+65.8% em 7 dias** (+22.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrik Mercado (91)** — 31k coins, **+68% em 7 dias** (+1.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
