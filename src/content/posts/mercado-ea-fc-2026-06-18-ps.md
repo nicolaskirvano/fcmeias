@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-0,2%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado de meio-campistas em Console para o dia 18 de junho de 2026 apresenta uma volatilidade extrema e um cenário de indecisão clara, marcado por um sentimento indefinido que confunde traders novatos e exige prudência dos experientes. Com um saldo negativo geral de -0,93% nas últimas 24 horas, a balança mostra 134 quedas contra apenas 93 altas, indicando que a pressão de venda ainda domina o sentimento coletivo dos usuários da plataforma. Este ambiente de semitendência sugere que não há um evento específico ou metagame dominante forçando compras em massa, criando uma oportunidade de caça a descontos em ativos que sofreram vendas em pânico ou correções técnicas. O analista deve observar que, apesar da média negativa, existem picos de alta significativa em cartilhas específicas, o que indica fragmentação de interesse e não uma valorização generalizada da posição. Portanto, a estratégia hoje não deve ser de compra indiscriminada, mas sim de seletividade cirúrgica, aproveitando a discrepância entre o sentimento geral de venda e as altas pontuais em jogadores com alta probabilidade de manutenção ou crescimento.
+As 4 tabelas abaixo preservam **36 registros** de **31 jogadores** observados em 18/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Bartosz Kapustka (87) **+44.2%** · 🔴 **Maior baixa:** Alexia Putellas (92) **-31.9%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de meio-campistas em Console para o dia 18 de junho de 2026 apresenta 
 | Steven Gerrard | 89 | Icons | 103k coins | +19.8% | +28.7% |
 | Steven Gerrard | 90 | Icons | 236k coins | +18% | +52.3% |
 
-
-Entre as maiores altas, destacamos Martin Ødegaard (87, Premier League), que subiu 32,4% para 90k coins, um movimento robusto apoiado por uma impressionante probabilidade de alta de 50%, sugerindo forte demanda orgânica ou especulação inteligente em torno de sua utilidade tática. Steven Gerrard (88, Icons) também se firmou com alta de 22,9% atingindo 94k coins, com 42% de probabilidade de continuação, reforçando a tendência de ícones de meio-campo serem refúgios seguros em mercados instáveis devido à sua durabilidade nas squads. Vitinha (90, Ligue 1 McDonald's) registrou uma alta de 28,9% para 259k coins, embora com baixa probabilidade de alta futura de apenas 8%, indicando que este pode ser um topo de curto prazo movido por liquidez imediata de quem precisa vender ativos caros. Do lado feminino, Estefanía Banini (89, Liga F) saltou 34,3% para 22k coins com 27% de chance de alta, enquanto Nadine Keßler (90, GPFBL) subiu 33,9% para 39k coins, demonstrando que o mercado de mulheres está mais líquido e reativo a pequenos volumes de compra. Por fim, Valentín Barco (88, Ligue 1 McDonald's) com 38,1% de alta para 28k coins e probabilidade de 16% mostra que jovens talentos estão sendo negociados com base em hype momentâneo, exigindo cuidado na entrada pois a probabilidade de reversão é considerável.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ Entre as maiores altas, destacamos Martin Ødegaard (87, Premier League), que su
 | Melchie Dumornay | 95 | — | 152k coins | -18.6% | -12.6% |
 | Mateo Kovačić | 91 | Premier League | 31k coins | -18.4% | +3.3% |
 
-
-As baixas foram severas e abrangem nomes de elite, lideradas por Alexia Putellas (92, Liga F) que despencou 31,9% para 107k coins, um movimento alarmante dado que ela possui 95% de probabilidade de alta, sugerindo uma venda em pânico injustificada que cria uma oportunidade de compra de risco controlado para traders agressivos. Christian Eriksen (87, Bundesliga) caiu 27,5% para 42k coins, mas com 68% de probabilidade de alta, indicando que a queda foi provavelmente uma correção técnica após uma alta anterior ou falta temporária de liquidez, e não uma perda de valor fundamental. Jack McGlynn (87, MLS) e Rassoul Ndiaye (84, Ligue 1 McDonald's) caíram 27,1% e 24,5% respectivamente, ambos estabilizando em torno de 39k coins, com probabilidades de alta de 33% e 68%, mostrando que Ndiaye é um ativo mais resiliente para acumulação do que McGlynn, que pode continuar caindo. Richard Ríos (88, Liga Portugal) sofreu uma queda de 23,9% para 210k coins, um valor alto que sugere venda de grandes quantias por traders que estão levantando dinheiro, mas sua probabilidade de alta de 50% mantém o ativo interessante para观望. Luka Modrić (90, Serie A TIM) caiu 22,5% para 100k coins, outro ícone com 50% de chance de alta, confirmando que a instabilidade afetou até os ativos mais seguros, tornando este um ponto de entrada potencial para quem busca segurança relativa em meio-campistas de alto nível.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Na publicação original, estas cartas receberam as maiores probabilidades de va
 | Thelo Aasgaard | 87 | 32k coins | 37k coins | 95% |
 | Roy Keane | 86 | 76k coins | 88k coins | 95% |
 
-
-O modelo de previsão identifica oito ativos com probabilidade de alta de 95%, criando uma lista de compras prioritária para os próximos dias, começando por Mateo Kovačić (91, Premier League) a 31k coins e Thelo Aasgaard (87, Scottish Premiership) a 32k coins, que são ativos de baixo custo e alto retorno potencial, ideais para diversificação de portfólio com risco mínimo. Entre os ícones, Bastian Schweinsteiger (89, Icons) a 147k coins e Frank Lampard (87, Icons) a 138k coins, além de Roy Keane (86, Icons) a 76k coins, são indicados para compra forte, aproveitando a confiança do algoritmo em ativos históricos que tendem a se valorizar em períodos de incerteza do mercado devido à sua utilidade perpétua em squads competitivas. No segmento de ativos caros, Kouadio Manu Koné (88, Serie A TIM) a 105k coins e Koke (88, LALIGA EA SPORTS) a 52k coins são recomendações sólidas para traders com maior capital, buscando estabilidade e crescimento consistente. Paul Wanner (84, Eredivisie) a 47k coins completa a lista, oferecendo uma opção de médio custo com alta probabilidade de valorização, servindo como contrapeso aos ativos mais voláteis do mercado atual. A concentração de 95% de probabilidade em todos esses oito jogadores é um sinal raro e forte de consenso do modelo, sugerindo que a compra imediata nestes ativos oferece a melhor relação risco-retorno do dia, independentemente do sentimento geral negativo do mercado.
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h 
 | Weston McKennie | 92 | 85k coins | -16.7% |
 | Mariona | 96 | 64k coins | -24% |
 
+## Como interpretar este arquivo
 
-## 🎯 O que fazer hoje
-A estratégia recomendada para hoje é comprar agressivamente os ativos com 95% de probabilidade de alta, especialmente os ícones Schweinsteiger, Lampard e Keane, bem como os ativos de entrada Kovačić e Aasgaard, pois o modelo indica uma virada de tendência específica para esses nomes apesar do mercado geral negativo. Deve-se evitar comprar as altas recentes de Vitinha e Barco devido às baixas probabilidades de continuação, e não recomendar a compra imediata de Putellas e Eriksen até que haja confirmação de suporte nos gráficos, embora estejam em zonas de interesse. O trader deve segurar seus ativos de meio-campo de longo prazo como Gerrard e Ødegaard, pois suas altas sustentadas indicam que a fase de correção pode ter terminado para eles, mas vender qualquer posição em McGlynn ou Stöger para cortar perdas ou lucros rápidos. O timing ideal de compra é imediato para os ativos do modelo de previsão, enquanto para as vendas de ativos em queda livre como Modrić e Ríos, espera-se uma estabilização nas próximas 12 horas antes de realizar operações maiores. O foco principal deve ser acumular Koke e Manu Koné para revenda nos próximos dias, aproveitando a alta probabilidade de valorização, e manter caixa líquido para aproveitar eventuais quedas adicionais em ativos premium como Putellas se o suporte de 100k for testado. Esta abordagem híbrida de compra seletiva baseada em dados probabilísticos e venda defensiva de ativos sem suporte é a chave para navegar neste dia de mercado indefinido e volátil.
-
-
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
-Bartosz Kapustka (87, PKO BP Ekstraklasa), com +44.2% em 24h, a 38k coins no Console (PS).
-
-**E a maior queda do dia?**
-Alexia Putellas (92), -31.9% em 24h, a 107k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Paul Wanner (84) — 95% de probabilidade de alta, a 47k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 93 cartas em alta contra 134 em queda (média -0.93%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **22k coins** a **259k coins**, com mediana de **40k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-0,2%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+8,8%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
