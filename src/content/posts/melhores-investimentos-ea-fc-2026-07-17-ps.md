@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:46:09.000Z
+pubDatetime: 2026-07-17T16:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "João Neves (86, Ligue 1 McDonald's) lidera, com +85% em 7 dias a 61k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Alexis Mac Allister (91, sem liga) lidera, com +88.7% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** João Neves (86) acumula **+85% em 7 dias** a 61k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Alexis Mac Allister (91) acumula **+88.7% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.7% em 24h** e **+68.1% em 7 dias**.
+- A mediana é de **+14.4% em 24h** e **+62.7% em 7 dias**.
 - **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Neves | 86 | Ligue 1 McDonald's | 61k coins | +23% | +85% | Esticada |
-| Anaële Le Moguédec | 88 | D1 Arkema | 27k coins | +37.5% | +83.3% | Esticada |
-| Enzo Fernández | 93 | — | 90k coins | +5.9% | +81.8% | Esticada |
-| Alexis Mac Allister | 91 | — | 120k coins | +7% | +81.8% | Esticada |
-| Alexis Mac Allister | 89 | Premier League | 19.500 coins | +16.8% | +79% | Esticada |
-| Mateo Kovačić | 91 | Premier League | 55k coins | +31% | +71.9% | Esticada |
-| Lily Yohannes | 91 | — | 30k coins | +20% | +71.4% | Esticada |
-| Bernardo Silva | 87 | Premier League | 85k coins | +31.6% | +68.1% | Esticada |
-| Steven Gerrard | 89 | Icons | 158k coins | +7.4% | +60.8% | Esticada |
-| Nadine Keßler | 89 | GPFBL | 24k coins | +8.8% | +59.7% | Momentum moderado |
-| Luka Modrić | 90 | Serie A TIM | 150k coins | +24.1% | +57.7% | Esticada |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 26k coins | +18.7% | +56.5% | Momentum moderado |
-| Mariona | 90 | Barclays WSL | 92k coins | +20.3% | +55.9% | Esticada |
-| Cher Ndour | 86 | Serie A TIM | 23k coins | +11% | +54.2% | Momentum moderado |
-| Luciano Valente | 92 | — | 26k coins | +7% | +52.9% | Momentum moderado |
+| Alexis Mac Allister | 91 | — | 100k coins | +11.1% | +88.7% | Esticada |
+| Sakina Karchaoui | 91 | D1 Arkema | 110k coins | +10.6% | +84.9% | Esticada |
+| Enzo Fernández | 93 | — | 78k coins | +2.3% | +78.6% | Esticada |
+| Homare Sawa | 91 | Icons | 127k coins | +20.8% | +76.8% | Esticada |
+| João Neves | 86 | Ligue 1 McDonald's | 54k coins | +22.8% | +76.6% | Esticada |
+| Martin Ødegaard | 88 | Premier League | 110k coins | +14.4% | +75% | Esticada |
+| Mateo Kovačić | 91 | Premier League | 55k coins | +22.2% | +69.2% | Esticada |
+| Luka Modrić | 89 | Serie A TIM | 159k coins | +26.1% | +62.7% | Esticada |
+| Julie Foudy | 88 | Icons | 27k coins | +11.3% | +61.2% | Esticada |
+| Steven Gerrard | 89 | Icons | 147k coins | +8.3% | +57.8% | Momentum moderado |
+| Tijjani Reijnders | 93 | Premier League | 217k coins | +11.2% | +51% | Momentum moderado |
+| Alexis Mac Allister | 89 | Premier League | 24k coins | +20% | +50% | Esticada |
+| Iniesta | 92 | Icons | 224k coins | +5.7% | +48.6% | Momentum moderado |
+| Bruno Guimarães | 96 | — | 138k coins | +20.2% | +47.5% | Esticada |
+| Scott McTominay | 87 | Serie A TIM | 130k coins | +14.7% | +46.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **João Neves (86)** — 61k coins, **+85% em 7 dias** (+23% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexis Mac Allister (91)** — 100k coins, **+88.7% em 7 dias** (+11.1% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Anaële Le Moguédec (88)** — 27k coins, **+83.3% em 7 dias** (+37.5% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (91)** — 110k coins, **+84.9% em 7 dias** (+10.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Fernández (93)** — 90k coins, **+81.8% em 7 dias** (+5.9% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Fernández (93)** — 78k coins, **+78.6% em 7 dias** (+2.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexis Mac Allister (91)** — 120k coins, **+81.8% em 7 dias** (+7% em 24h). Preço +70% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Homare Sawa (91)** — 127k coins, **+76.8% em 7 dias** (+20.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexis Mac Allister (89)** — 19.500 coins, **+79% em 7 dias** (+16.8% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 54k coins, **+76.6% em 7 dias** (+22.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-João Neves (86, Ligue 1 McDonald's) lidera, com +85% em 7 dias a 61k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Alexis Mac Allister (91, sem liga) lidera, com +88.7% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
