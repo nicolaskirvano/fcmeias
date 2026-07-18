@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:46:17.000Z
+pubDatetime: 2026-07-18T19:46:17.000Z
 title: "Mercado EA FC em 18/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Declan Rice (88, Premier League), com +43.8% em 24h, a 55k coins no PC."
+    a: "Bastian Schweinsteiger (89, Icons), com +46.3% em 24h, a 139k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Bartosz Kapustka (87), -42% em 24h, a 27k coins."
+    a: "Bartosz Kapustka (87), -47.9% em 24h, a 25k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 87 cartas em alta contra 132 em queda (média -1.71%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 97 cartas em alta contra 112 em queda (média -0.08%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**18/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas dominam o dia — **87 subiram**, **132 caíram** (80+ e 5k+ coins), média de **-1.71%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**18/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **97 subiram**, **112 caíram** (80+ e 5k+ coins), média de **-0.08%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Declan Rice (88) **+43.8%** · 🔴 **Maior baixa:** Bartosz Kapustka (87) **-42%**
+> 🟢 **Maior alta:** Bastian Schweinsteiger (89) **+46.3%** · 🔴 **Maior baixa:** Bartosz Kapustka (87) **-47.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas do
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 85.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.7% entre as cartas que se moveram; o universo observado reúne 274 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 265 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 88 | Premier League | 55k coins | +43.8% | +13.9% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 381k coins | +42.2% | +12.7% |
-| Andrea Pirlo | 90 | Icons | 150k coins | +42% | +92% |
-| Bastian Schweinsteiger | 89 | Icons | 140k coins | +40% | +0.7% |
-| Thelo Aasgaard | 87 | Scottish Premiership | 20k coins | +33.3% | -3.6% |
-| Homare Sawa | 91 | Icons | 165k coins | +33.1% | +46.6% |
-| Mateo Kovačić | 91 | Premier League | 60k coins | +30.8% | +16.9% |
-| George Dobson | 84 | EFL Championship | 38k coins | +29.9% | +4.5% |
-| Aleix García | 89 | Bundesliga | 24k coins | +29.7% | +50% |
-| Richard Ríos | 88 | Liga Portugal | 203k coins | +26.9% | +2% |
+| Bastian Schweinsteiger | 89 | Icons | 139k coins | +46.3% | +0.7% |
+| Xavi | 91 | Icons | 126k coins | +45.9% | +15.9% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 370k coins | +39.5% | +3.7% |
+| Weston McKennie | 92 | Serie A TIM | 50k coins | +34.2% | +18% |
+| Andrea Pirlo | 90 | Icons | 150k coins | +30.3% | +73.2% |
+| Alexia Putellas | 92 | Liga F | 71k coins | +27.5% | +73.9% |
+| Georginio Wijnaldum | 87 | Brasileirão | 42k coins | +25.2% | +85.1% |
+| Andreia Jacinto | 88 | Liga F | 22k coins | +24.3% | -9.4% |
+| Richard Ríos | 88 | Liga Portugal | 195k coins | +21.9% | -1% |
+| Larissa Mühlhaus | 85 | GPFBL | 30k coins | +21.2% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas do
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Declan Rice (88)** subiu **+43.8%** em 24h, a **55k coins** (faixa do dia: 40k–100k). Está -20% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (89)** subiu **+46.3%** em 24h, a **139k coins** (faixa do dia: 95k–140k). Está em linha com a média de 7 dias (+6%).
 
-- **Blaise Matuidi (87)** subiu **+42.2%** em 24h, a **381k coins** (faixa do dia: 251k–413k). Está +18% acima da média de 7 dias (aquecida).
+- **Xavi (91)** subiu **+45.9%** em 24h, a **126k coins** (faixa do dia: 84k–169k). Está em linha com a média de 7 dias (+4%).
 
-- **Andrea Pirlo (90)** subiu **+42%** em 24h, a **150k coins** (faixa do dia: 100k–210k). Está +10% acima da média de 7 dias (aquecida).
+- **Blaise Matuidi (87)** subiu **+39.5%** em 24h, a **370k coins** (faixa do dia: 251k–413k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 27k coins | -42% | -14.2% |
-| Saki Kumagai | 88 | Barclays WSL | 24k coins | -40% | -32.2% |
-| Roy Keane | 86 | Icons | 78k coins | -39.5% | +20% |
-| Benjamin Nygren | 90 | — | 24k coins | -38.7% | -17.4% |
-| Kodai Sano | 95 | — | 27k coins | -37.6% | -37% |
-| Jude Bellingham | 96 | — | 2.78M coins | -33.2% | +12% |
-| Toni Kroos | 90 | Icons | 58k coins | -31.8% | -19.5% |
-| Gabriel Villamíl | 91 | — | 26k coins | -31.3% | +30.4% |
-| Rodrigo De Paul | 95 | — | 23k coins | -30.3% | -17.8% |
-| Aleix Febas | 83 | LALIGA EA SPORTS | 33k coins | -30.2% | -49.6% |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 25k coins | -47.9% | -16.1% |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 26k coins | -45.6% | +19.1% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 48k coins | -39.6% | -6.4% |
+| Hayley Lauder | 85 | Scottish Women's League | 22k coins | -37.8% | -27.5% |
+| Jude Bellingham | 96 | — | 2.78M coins | -33.7% | +6.8% |
+| Martin Ødegaard | 97 | — | 580k coins | -28.9% | — |
+| Jill Scott | 94 | — | 79k coins | -24% | -36.7% |
+| Douglas Luiz | 96 | — | 254k coins | -23.3% | -20.1% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 20k coins | -21.9% | +36.7% |
+| Julie Foudy | 88 | Icons | 22k coins | -21.8% | -14.9% |
 
 
 ### Análise das baixas
 
-- **Bartosz Kapustka (87)** caiu **-42%** em 24h, a **27k coins** (faixa do dia: 27k–53k). Está -25% abaixo da média de 7 dias (descontada).
+- **Bartosz Kapustka (87)** caiu **-47.9%** em 24h, a **25k coins** (faixa do dia: 25k–53k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Saki Kumagai (88)** caiu **-40%** em 24h, a **24k coins** (faixa do dia: 18.750–35k). Está em linha com a média de 7 dias (-6%).
+- **Musab Al Juwair (87)** caiu **-45.6%** em 24h, a **26k coins** (faixa do dia: 18.250–49k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Roy Keane (86)** caiu **-39.5%** em 24h, a **78k coins** (faixa do dia: 65k–130k). Está -17% abaixo da média de 7 dias (descontada).
+- **Mario Lemina (88)** caiu **-39.6%** em 24h, a **48k coins** (faixa do dia: 48k–78k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Declan Rice já avançou 43.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Bastian Schweinsteiger já avançou 46.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Bartosz Kapustka recuou -42%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bartosz Kapustka recuou -47.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Declan Rice (88, Premier League), com +43.8% em 24h, a 55k coins no PC.
+Bastian Schweinsteiger (89, Icons), com +46.3% em 24h, a 139k coins no PC.
 
 **E a maior queda do dia?**
-Bartosz Kapustka (87), -42% em 24h, a 27k coins.
+Bartosz Kapustka (87), -47.9% em 24h, a 25k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 87 cartas em alta contra 132 em queda (média -1.71%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 97 cartas em alta contra 112 em queda (média -0.08%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
