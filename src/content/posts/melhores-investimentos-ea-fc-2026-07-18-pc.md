@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:46:18.000Z
+pubDatetime: 2026-07-18T16:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 18/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.2% em 24h** e **+52.9% em 7 dias**.
+- A mediana é de **+11.2% em 24h** e **+46.8% em 7 dias**.
 - **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Declan Rice | 89 | Premier League | 96k coins | +1.6% | +84.6% | Esticada |
-| Mahamadou Doumbia | 91 | — | 45k coins | +13.2% | +80% | Esticada |
-| Crystal Dunn | 85 | D1 Arkema | 85k coins | +11.8% | +70% | Esticada |
-| Pablo Barrios | 90 | — | 45k coins | +6.2% | +66.7% | Esticada |
-| Estefanía Banini | 89 | Liga F | 29k coins | +24.5% | +64.8% | Esticada |
-| Simone Laudehr | 91 | GPFBL | 48k coins | +18% | +58.3% | Momentum moderado |
-| Pape Gueye | 95 | — | 80k coins | +37.2% | +55.4% | Esticada |
-| Paula Fernández | 88 | — | 58k coins | +17.6% | +52.9% | Momentum moderado |
-| Homare Sawa | 91 | Icons | 176k coins | +38% | +50.8% | Esticada |
-| Aleix García | 89 | Bundesliga | 22k coins | +2.1% | +50% | Momentum moderado |
-| Xavi | 91 | Icons | 153k coins | +31.1% | +45.8% | Esticada |
-| Daniel Svensson | 84 | Bundesliga | 38k coins | +6.4% | +37.6% | Momentum moderado |
-| Jess Fishlock | 88 | NWSL | 30k coins | +9.3% | +34.5% | Momentum moderado |
-| Kouadio Manu Koné | 88 | Serie A TIM | 120k coins | +10.1% | +34.1% | Momentum moderado |
-| Uran Bislimi | 84 | Swiss Super League | 40k coins | +22.2% | +31.3% | Esticada |
+| Declan Rice | 89 | Premier League | 96k coins | +6.1% | +84.6% | Esticada |
+| Lucas Paquetá | 84 | Premier League | 80k coins | +13.3% | +83.8% | Esticada |
+| Mahamadou Doumbia | 91 | — | 45k coins | +6.5% | +81.8% | Esticada |
+| Luis Milla | 90 | — | 44k coins | +12.8% | +74.3% | Esticada |
+| Pablo Barrios | 90 | — | 42k coins | +3.7% | +65.7% | Esticada |
+| Estefanía Banini | 89 | Liga F | 28k coins | +18.9% | +59.2% | Momentum moderado |
+| Aleix García | 89 | Bundesliga | 24k coins | +29.7% | +50% | Esticada |
+| Nadine Keßler | 88 | GPFBL | 16.000 coins | +32.7% | +46.8% | Esticada |
+| Homare Sawa | 91 | Icons | 165k coins | +33.1% | +46.6% | Esticada |
+| Jess Fishlock | 88 | NWSL | 30k coins | +11.2% | +40% | Momentum moderado |
+| Alexia Putellas | 92 | Liga F | 59k coins | +7% | +39.8% | Momentum moderado |
+| Daniel Svensson | 84 | Bundesliga | 38k coins | +9.5% | +37.6% | Momentum moderado |
+| Caroline Seger | 90 | Icons | 60k coins | +20.4% | +34.7% | Esticada |
+| Kouadio Manu Koné | 88 | Serie A TIM | 120k coins | +9.1% | +34.1% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 48k coins | +6.1% | +31.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Declan Rice (89)** — 96k coins, **+84.6% em 7 dias** (+1.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 96k coins, **+84.6% em 7 dias** (+6.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mahamadou Doumbia (91)** — 45k coins, **+80% em 7 dias** (+13.2% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucas Paquetá (84)** — 80k coins, **+83.8% em 7 dias** (+13.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Crystal Dunn (85)** — 85k coins, **+70% em 7 dias** (+11.8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mahamadou Doumbia (91)** — 45k coins, **+81.8% em 7 dias** (+6.5% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pablo Barrios (90)** — 45k coins, **+66.7% em 7 dias** (+6.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luis Milla (90)** — 44k coins, **+74.3% em 7 dias** (+12.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 29k coins, **+64.8% em 7 dias** (+24.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Barrios (90)** — 42k coins, **+65.7% em 7 dias** (+3.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
