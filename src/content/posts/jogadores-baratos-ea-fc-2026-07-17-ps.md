@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:46:10.000Z
+pubDatetime: 2026-07-18T01:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Paul Wanner (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
+    a: "Paul Wanner (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Paul Wanner (94) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Paul Wanner (94) por apenas 12.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Meio-campistas em 17/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-17-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 10.735 coins.
-- **Posição mais frequente:** CM, com 13 cartas.
-- **Faixa real:** 2.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.033 coins.
+- **Posição mais frequente:** CM, com 15 cartas.
+- **Faixa real:** 2.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Paul Wanner | 94 | CM | — | 12.500 coins | +10.6% |
-| Caleb Yirenkyi | 94 | CM | — | 12.750 coins | +10.6% |
-| Mariona | 89 | CM | Barclays WSL | 2.500 coins | +20.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2.900 coins | +26.1% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.400 coins | -3% |
-| Simone Laudehr | 88 | CM | GPFBL | 12.000 coins | -2.1% |
-| Nadine Keßler | 88 | CM | GPFBL | 12.250 coins | +4.1% |
-| Andreia Jacinto | 88 | CM | Liga F | 14.500 coins | -3.3% |
-| Janina Minge | 88 | CM | — | 14.750 coins | -1.7% |
+| Paul Wanner | 94 | CM | — | 12.750 coins | +8.5% |
+| Caleb Yirenkyi | 94 | CM | — | 12.750 coins | +8.5% |
+| Noah Sadiki | 93 | CM | — | 12.500 coins | +8.5% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.600 coins | +13% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2.800 coins | +21.7% |
+| Mariona | 89 | CM | Barclays WSL | 3.000 coins | +30.4% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.100 coins | +3% |
+| Simone Laudehr | 88 | CM | GPFBL | 11.000 coins | -4% |
+| Nadine Keßler | 88 | CM | GPFBL | 12.500 coins | +2% |
+| Can Bozdoğan | 87 | CM | Eredivisie | 13.250 coins | 0% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14.000 coins | -6.7% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13.750 coins | +18% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 13.250 coins | +3.8% |
-| Eva Dios | 85 | CM | Liga F | 13.500 coins | -13.3% |
+| Fara Williams | 86 | CM | Barclays WSL | 12.500 coins | 0% |
+| Olivia Moultrie | 86 | CM | NWSL | 12.750 coins | -9.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.500 coins | +12.2% |
 
 
 ## 📈 Destaques
 
-- **Paul Wanner (94, CM)** da —, a apenas **12.500 coins**
+- **Paul Wanner (94, CM)** da —, a apenas **12.750 coins**
 
 - **Caleb Yirenkyi (94, CM)** da —, a apenas **12.750 coins**
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Noah Sadiki (93, CM)** da —, a apenas **12.500 coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Meio:** Paul Wanner (94, CM) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Paul Wanner (94, CM) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -89,7 +91,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Paul Wanner (94, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
+Paul Wanner (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
