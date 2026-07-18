@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:46:17.000Z
+pubDatetime: 2026-07-18T22:46:17.000Z
 title: "Mercado EA FC em 18/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Bastian Schweinsteiger (89, Icons), com +46.3% em 24h, a 139k coins no PC."
+    a: "Lucas Paquetá (84, Premier League), com +60% em 24h, a 111k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Bartosz Kapustka (87), -47.9% em 24h, a 25k coins."
+    a: "Enzo Fernández (93), -46.1% em 24h, a 69k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 97 cartas em alta contra 112 em queda (média -0.08%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 99 cartas em alta contra 126 em queda (média 0.21%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**18/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **97 subiram**, **112 caíram** (80+ e 5k+ coins), média de **-0.08%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**18/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **99 subiram**, **126 caíram** (80+ e 5k+ coins), média de **0.21%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bastian Schweinsteiger (89) **+46.3%** · 🔴 **Maior baixa:** Bartosz Kapustka (87) **-47.9%**
+> 🟢 **Maior alta:** Lucas Paquetá (84) **+60%** · 🔴 **Maior baixa:** Enzo Fernández (93) **-46.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 265 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.0% entre as cartas que se moveram; o universo observado reúne 275 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bastian Schweinsteiger | 89 | Icons | 139k coins | +46.3% | +0.7% |
-| Xavi | 91 | Icons | 126k coins | +45.9% | +15.9% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 370k coins | +39.5% | +3.7% |
-| Weston McKennie | 92 | Serie A TIM | 50k coins | +34.2% | +18% |
-| Andrea Pirlo | 90 | Icons | 150k coins | +30.3% | +73.2% |
-| Alexia Putellas | 92 | Liga F | 71k coins | +27.5% | +73.9% |
-| Georginio Wijnaldum | 87 | Brasileirão | 42k coins | +25.2% | +85.1% |
-| Andreia Jacinto | 88 | Liga F | 22k coins | +24.3% | -9.4% |
-| Richard Ríos | 88 | Liga Portugal | 195k coins | +21.9% | -1% |
-| Larissa Mühlhaus | 85 | GPFBL | 30k coins | +21.2% | 0% |
+| Lucas Paquetá | 84 | Premier League | 111k coins | +60% | +192.8% |
+| Leon Goretzka | 94 | — | 25k coins | +57.4% | +46.5% |
+| Quinten Timber | 85 | Eredivisie | 45k coins | +50% | +2.9% |
+| Kobbie Mainoo | 90 | Premier League | 149k coins | +49% | +5.7% |
+| Julie Foudy | 92 | Icons | 43k coins | +48.3% | +22.8% |
+| Bastian Schweinsteiger | 89 | Icons | 139k coins | +47.4% | +2.9% |
+| Aitana Bonmatí | 97 | Liga F | 2.90M coins | +45.3% | +45% |
+| Patrik Mercado | 91 | — | 42k coins | +37.1% | +91% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 349k coins | +36.3% | +0.6% |
+| Moussa Sissoko | 88 | EFL Championship | 350k coins | +35.1% | +3.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bastian Schweinsteiger (89)** subiu **+46.3%** em 24h, a **139k coins** (faixa do dia: 95k–140k). Está em linha com a média de 7 dias (+6%).
+- **Lucas Paquetá (84)** subiu **+60%** em 24h, a **111k coins** (faixa do dia: 54k–115k). Está +62% acima da média de 7 dias (aquecida).
 
-- **Xavi (91)** subiu **+45.9%** em 24h, a **126k coins** (faixa do dia: 84k–169k). Está em linha com a média de 7 dias (+4%).
+- **Leon Goretzka (94)** subiu **+57.4%** em 24h, a **25k coins** (faixa do dia: 20k–39k). Está em linha com a média de 7 dias (-5%).
 
-- **Blaise Matuidi (87)** subiu **+39.5%** em 24h, a **370k coins** (faixa do dia: 251k–413k). Está +14% acima da média de 7 dias (aquecida).
+- **Quinten Timber (85)** subiu **+50%** em 24h, a **45k coins** (faixa do dia: 30k–49k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 25k coins | -47.9% | -16.1% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 26k coins | -45.6% | +19.1% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 48k coins | -39.6% | -6.4% |
-| Hayley Lauder | 85 | Scottish Women's League | 22k coins | -37.8% | -27.5% |
-| Jude Bellingham | 96 | — | 2.78M coins | -33.7% | +6.8% |
-| Martin Ødegaard | 97 | — | 580k coins | -28.9% | — |
-| Jill Scott | 94 | — | 79k coins | -24% | -36.7% |
-| Douglas Luiz | 96 | — | 254k coins | -23.3% | -20.1% |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 20k coins | -21.9% | +36.7% |
-| Julie Foudy | 88 | Icons | 22k coins | -21.8% | -14.9% |
+| Enzo Fernández | 93 | — | 69k coins | -46.1% | +0.7% |
+| Julia Grosso | 88 | NWSL | 24k coins | -44.5% | -60.3% |
+| João Neves | 86 | Ligue 1 McDonald's | 113k coins | -43.5% | -35% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 48k coins | -38.3% | -11.5% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 28k coins | -35.6% | -32.1% |
+| Camille Abily | 91 | Icons | 40k coins | -33.3% | -3.6% |
+| Estefanía Banini | 89 | Liga F | 24k coins | -29.9% | +35.2% |
+| Jude Bellingham | 98 | — | 2.84M coins | -26.3% | — |
+| Éderson | 87 | Serie A TIM | 38k coins | -25.5% | +9.7% |
+| Kristian Thorstvedt | 86 | Serie A TIM | 30k coins | -25% | -29% |
 
 
 ### Análise das baixas
 
-- **Bartosz Kapustka (87)** caiu **-47.9%** em 24h, a **25k coins** (faixa do dia: 25k–53k). Está -32% abaixo da média de 7 dias (descontada).
+- **Enzo Fernández (93)** caiu **-46.1%** em 24h, a **69k coins** (faixa do dia: 58k–130k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Musab Al Juwair (87)** caiu **-45.6%** em 24h, a **26k coins** (faixa do dia: 18.250–49k). Está -13% abaixo da média de 7 dias (descontada).
+- **Julia Grosso (88)** caiu **-44.5%** em 24h, a **24k coins** (faixa do dia: 24k–43k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Mario Lemina (88)** caiu **-39.6%** em 24h, a **48k coins** (faixa do dia: 48k–78k). Está -20% abaixo da média de 7 dias (descontada).
+- **João Neves (86)** caiu **-43.5%** em 24h, a **113k coins** (faixa do dia: 74k–134k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Bastian Schweinsteiger já avançou 46.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lucas Paquetá já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Bartosz Kapustka recuou -47.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Enzo Fernández recuou -46.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Bastian Schweinsteiger (89, Icons), com +46.3% em 24h, a 139k coins no PC.
+Lucas Paquetá (84, Premier League), com +60% em 24h, a 111k coins no PC.
 
 **E a maior queda do dia?**
-Bartosz Kapustka (87), -47.9% em 24h, a 25k coins.
+Enzo Fernández (93), -46.1% em 24h, a 69k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 97 cartas em alta contra 112 em queda (média -0.08%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 99 cartas em alta contra 126 em queda (média 0.21%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
