@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:46:19.000Z
+pubDatetime: 2026-07-19T13:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 19/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Caleb Yirenkyi (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no PC."
+    a: "Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Caleb Yirenkyi (94) por apenas 12.750 coins.
+> 💰 **Melhor pechincha:** Stephen Eustáquio (95) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Meio-campistas em 19/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-19-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 13.438 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 12.750 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 12.714 coins.
+- **Posição mais frequente:** CM, com 7 cartas.
+- **Faixa real:** 11.750 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,26 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Caleb Yirenkyi | 94 | CM | — | 12.750 coins | -10.3% |
-| Paul Wanner | 94 | CM | — | 13.250 coins | -8.6% |
-| Noah Sadiki | 93 | CM | — | 13.250 coins | -8.6% |
-| Andrés Cubas | 93 | CM | — | 14.500 coins | -4.8% |
+| Stephen Eustáquio | 95 | CM | — | 11.750 coins | -7.7% |
+| Paul Wanner | 94 | CM | — | 12.000 coins | -12.1% |
+| Gustavo Puerta | 94 | CM | — | 12.250 coins | -7.7% |
+| Caleb Yirenkyi | 94 | CM | — | 13.250 coins | -10.3% |
+| Noah Sadiki | 93 | CM | — | 13.000 coins | -8.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 12.000 coins | -7.8% |
+| Franziska Harsch | 88 | CM | GPFBL | 14.750 coins | +30.9% |
 
 
 ## 📈 Destaques
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **12.750 coins**
+- **Stephen Eustáquio (95, CM)** da —, a apenas **11.750 coins**
 
-- **Paul Wanner (94, CM)** da —, a apenas **13.250 coins**
+- **Paul Wanner (94, CM)** da —, a apenas **12.000 coins**
 
-- **Noah Sadiki (93, CM)** da —, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Gustavo Puerta (94, CM)** da —, a apenas **12.250 coins**
 
-- **Andrés Cubas (93, CM)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.250 coins**
+
+- **Noah Sadiki (93, CM)** da —, a apenas **13.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Caleb Yirenkyi (94, CM) por 12.750 coins é a referência de rating deste recorte.
+- **Meio:** Stephen Eustáquio (95, CM) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -78,7 +83,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Caleb Yirenkyi (94, sem liga) aparece como melhor custo-benefício, a 12.750 coins no PC.
+Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
