@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:46:18.000Z
+pubDatetime: 2026-07-19T19:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Pablo Barrios (90, sem liga) lidera, com +83.7% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pablo Barrios (90, sem liga) lidera, com +80.8% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Pablo Barrios (90) acumula **+83.7% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Pablo Barrios (90) acumula **+80.8% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.8% em 24h** e **+40.0% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.0% em 24h** e **+40.5% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pablo Barrios | 90 | — | 45k coins | +3.4% | +83.7% | Esticada |
-| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 50k coins | +15.6% | +78.6% | Esticada |
-| Xavi | 91 | Icons | 157k coins | +32% | +66.7% | Esticada |
-| Nadine Keßler | 89 | GPFBL | 28k coins | +33.7% | +65.7% | Esticada |
-| Claudio Marchisio | 87 | Serie A TIM | 27k coins | +26.1% | +58.6% | Esticada |
-| Benjamin Nygren | 90 | — | 45k coins | +15.4% | +56.5% | Momentum moderado |
+| Pablo Barrios | 90 | — | 45k coins | +1.7% | +80.8% | Esticada |
+| Nadine Keßler | 89 | GPFBL | 28k coins | +35.7% | +72.7% | Esticada |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 34k coins | +5.5% | +70.9% | Esticada |
+| Benjamin Nygren | 90 | — | 45k coins | +5.9% | +63.6% | Esticada |
 | Nadine Keßler | 90 | GPFBL | 38k coins | +5.6% | +48.5% | Momentum moderado |
-| Steven Gerrard | 89 | Icons | 140k coins | +19.7% | +40% | Momentum moderado |
-| Steven Gerrard | 88 | Icons | 120k coins | +26% | +39.1% | Esticada |
-| João Moutinho | 88 | Liga Portugal | 118k coins | +1.7% | +36% | Momentum moderado |
-| Hakan Çalhanoğlu | 88 | — | 50k coins | +5.3% | +35.1% | Momentum moderado |
-| Simone Laudehr | 90 | GPFBL | 49k coins | +15.3% | +28.9% | Momentum moderado |
-| Alexis Mac Allister | 91 | — | 110k coins | +15.8% | +27.9% | Momentum moderado |
-| Éderson | 87 | Serie A TIM | 55k coins | +23.6% | +27.9% | Esticada |
-| Julie Foudy | 92 | Icons | 58k coins | +18.6% | +27.1% | Momentum moderado |
+| Xavi | 91 | Icons | 153k coins | +21.1% | +46.1% | Esticada |
+| Kristian Thorstvedt | 86 | Serie A TIM | 50k coins | +22% | +42.9% | Esticada |
+| Hakan Çalhanoğlu | 88 | — | 52k coins | +4% | +40.5% | Momentum moderado |
+| Steven Gerrard | 89 | Icons | 125k coins | +21.7% | +40% | Esticada |
+| Julie Foudy | 92 | Icons | 57k coins | +25% | +27.8% | Esticada |
+| Orkun Kökçü | 95 | — | 154k coins | +24% | +25% | Esticada |
+| Rose Lavelle | 88 | NWSL | 60k coins | +28.2% | +25% | Esticada |
+| Aleix García | 93 | — | 28k coins | +28.4% | +24.2% | Esticada |
+| Toni Kroos | 90 | Icons | 100k coins | +22.9% | +23.7% | Esticada |
+| Iniesta | 92 | Icons | 230k coins | +31.4% | +21.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Pablo Barrios (90)** — 45k coins, **+83.7% em 7 dias** (+3.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Barrios (90)** — 45k coins, **+80.8% em 7 dias** (+1.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ayyoub Bouaddi (86)** — 50k coins, **+78.6% em 7 dias** (+15.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (89)** — 28k coins, **+72.7% em 7 dias** (+35.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi (91)** — 157k coins, **+66.7% em 7 dias** (+32% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tanguy Ndombele (85)** — 34k coins, **+70.9% em 7 dias** (+5.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (89)** — 28k coins, **+65.7% em 7 dias** (+33.7% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Nygren (90)** — 45k coins, **+63.6% em 7 dias** (+5.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claudio Marchisio (87)** — 27k coins, **+58.6% em 7 dias** (+26.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (90)** — 38k coins, **+48.5% em 7 dias** (+5.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Pablo Barrios (90, sem liga) lidera, com +83.7% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pablo Barrios (90, sem liga) lidera, com +80.8% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
