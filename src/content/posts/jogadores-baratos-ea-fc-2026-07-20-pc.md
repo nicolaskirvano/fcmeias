@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:46:19.000Z
+pubDatetime: 2026-07-20T13:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 20/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 10.912 coins.
-- **Posição mais frequente:** CM, com 12 cartas.
-- **Faixa real:** 2.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 12.419 coins.
+- **Posição mais frequente:** CM, com 8 cartas.
+- **Faixa real:** 3.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,29 +40,25 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 13.250 coins | +6.4% |
-| Gustavo Puerta | 94 | CM | — | 12.750 coins | +11.4% |
-| Caleb Yirenkyi | 94 | CM | — | 13.500 coins | +15.4% |
-| Paul Wanner | 94 | CM | — | 14.500 coins | +9.8% |
-| Noah Sadiki | 93 | CM | — | 14.000 coins | +7.5% |
-| Alexia Putellas | 91 | CM | Liga F | 13.000 coins | 0% |
-| Aitana Bonmatí | 91 | CM | Liga F | 13.250 coins | -10.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.500 coins | -8.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 2.700 coins | -3.6% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.000 coins | 0% |
-| Jack McGlynn | 87 | CM | MLS | 14.000 coins | -9.1% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.500 coins | +1.6% |
+| Stephen Eustáquio | 95 | CM | — | 13.250 coins | +10.4% |
+| Gustavo Puerta | 94 | CM | — | 11.750 coins | +8.5% |
+| Caleb Yirenkyi | 94 | CM | — | 13.750 coins | +3.8% |
+| Paul Wanner | 94 | CM | — | 14.250 coins | +9.6% |
+| Noah Sadiki | 93 | CM | — | 14.000 coins | +5.7% |
+| Alexia Putellas | 91 | CM | Liga F | 14.000 coins | +16.7% |
+| Mariona | 89 | CM | Barclays WSL | 3.600 coins | +50% |
+| Kenneth Taylor | 84 | CM | Eredivisie | 14.750 coins | -10.6% |
 
 
 ## 📈 Destaques
 
 - **Stephen Eustáquio (95, CM)** da —, a apenas **13.250 coins**
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **12.750 coins**
+- **Gustavo Puerta (94, CM)** da —, a apenas **11.750 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Paul Wanner (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Paul Wanner (94, CM)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Noah Sadiki (93, CM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 

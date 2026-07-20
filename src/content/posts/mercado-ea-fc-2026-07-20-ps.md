@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:46:07.000Z
+pubDatetime: 2026-07-20T13:46:07.000Z
 title: "Mercado EA FC em 20/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Bernardo Silva (87, Premier League), com +52.5% em 24h, a 68k coins no Console (PS)."
+    a: "Musab Al Juwair (87, ROSHN Saudi League), com +44.4% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Richard Ríos (88), -40.6% em 24h, a 144k coins."
+    a: "Julie Foudy (92), -32.9% em 24h, a 24k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 122 cartas em alta contra 107 em queda (média 2.3%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 118 cartas em alta contra 113 em queda (média 1.54%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **20/07/2026** (Console (PS)): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **122 em alta** e **107 em queda**, média de **2.3%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **20/07/2026** (Console (PS)): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **118 em alta** e **113 em queda**, média de **1.54%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bernardo Silva (87) **+52.5%** · 🔴 **Maior baixa:** Richard Ríos (88) **-40.6%**
+> 🟢 **Maior alta:** Musab Al Juwair (87) **+44.4%** · 🔴 **Maior baixa:** Julie Foudy (92) **-32.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **20/07/2026** (Console (PS)): clima **comprador** — a maioria das
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 270 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 77.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.1% entre as cartas que se moveram; o universo observado reúne 270 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bernardo Silva | 87 | Premier League | 68k coins | +52.5% | -17.2% |
-| Julia Grosso | 88 | NWSL | 45k coins | +49.2% | -24.2% |
-| Steven Gerrard | 88 | Icons | 147k coins | +40% | +47.7% |
-| Lily Yohannes | 84 | D1 Arkema | 48k coins | +38.6% | +22% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 30k coins | +37.9% | +30.4% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 21k coins | +36.1% | +15.3% |
-| Nadiem Amiri | 88 | Bundesliga | 36k coins | +35.1% | +26.6% |
-| Clara Serrajordi | 96 | — | 263k coins | +34.3% | +8.4% |
-| Kevin Stöger | 86 | Bundesliga | 28k coins | +30.7% | -8.7% |
-| Rose Lavelle | 88 | NWSL | 50k coins | +28.2% | +5.3% |
+| Musab Al Juwair | 87 | ROSHN Saudi League | 24k coins | +44.4% | +18.2% |
+| Iniesta | 92 | Icons | 210k coins | +35.6% | +63% |
+| Camille Abily | 90 | Icons | 85k coins | +34% | +39% |
+| Steven Gerrard | 88 | Icons | 146k coins | +34% | +39.4% |
+| Lily Yohannes | 84 | D1 Arkema | 48k coins | +33.8% | +19.8% |
+| Kenneth Taylor | 84 | Eredivisie | 40k coins | +31.1% | +58.4% |
+| Gabriel Sara | 83 | Trendyol Süper Lig | 46k coins | +30.4% | +7.2% |
+| Christian Eriksen | 87 | Bundesliga | 46k coins | +29.7% | +22.9% |
+| Benjamin Nygren | 90 | — | 55k coins | +29.4% | +139.1% |
+| Aleix García | 89 | Bundesliga | 22k coins | +28.8% | +24.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **20/07/2026** (Console (PS)): clima **comprador** — a maioria das
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bernardo Silva (87)** subiu **+52.5%** em 24h, a **68k coins** (faixa do dia: 39k–98k). Está -14% abaixo da média de 7 dias (descontada).
+- **Musab Al Juwair (87)** subiu **+44.4%** em 24h, a **24k coins** (faixa do dia: 14.500–40k). Está em linha com a média de 7 dias (-4%).
 
-- **Julia Grosso (88)** subiu **+49.2%** em 24h, a **45k coins** (faixa do dia: 19.750–49k). Está +10% acima da média de 7 dias (aquecida).
+- **Iniesta (92)** subiu **+35.6%** em 24h, a **210k coins** (faixa do dia: 189k–340k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (88)** subiu **+40%** em 24h, a **147k coins** (faixa do dia: 98k–148k). Está +27% acima da média de 7 dias (aquecida).
+- **Camille Abily (90)** subiu **+34%** em 24h, a **85k coins** (faixa do dia: 68k–117k). Está em linha com a média de 7 dias (+2%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Richard Ríos | 88 | Liga Portugal | 144k coins | -40.6% | -36.8% |
-| Caroline Seger | 90 | Icons | 48k coins | -37.5% | +66.7% |
-| Declan Rice | 89 | Premier League | 56k coins | -32.9% | -27.2% |
-| Tijjani Reijnders | 87 | Premier League | 53k coins | -28.6% | -11.3% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 36k coins | -26.5% | -15.8% |
-| Nadine Keßler | 90 | GPFBL | 30k coins | -25% | +42.9% |
-| Julie Foudy | 92 | Icons | 26k coins | -22.6% | +9.6% |
-| Enzo Fernández | 91 | Premier League | 58k coins | -22% | +17% |
-| Douglas Luiz | 96 | — | 151k coins | -19.4% | -21% |
-| Conor Gallagher | 91 | Premier League | 104k coins | -19.2% | +2.9% |
+| Julie Foudy | 92 | Icons | 24k coins | -32.9% | +1.1% |
+| Quinten Timber | 85 | Eredivisie | 26k coins | -29.3% | -9.4% |
+| Koke | 88 | LALIGA EA SPORTS | 37k coins | -29.2% | -31.8% |
+| Alexis Mac Allister | 89 | Premier League | 21k coins | -28% | -5.3% |
+| Nadine Keßler | 90 | GPFBL | 30k coins | -25% | +39.5% |
+| Sergej Milinković-Savić | 86 | ROSHN Saudi League | 50k coins | -24.5% | -24.5% |
+| Julie Foudy | 90 | Icons | 68k coins | -22.7% | 0% |
+| Martin Ødegaard | 88 | Premier League | 56k coins | -22.6% | -24.7% |
+| Imrân Louza | 84 | EFL Championship | 36k coins | -17.6% | -19.8% |
+| Roy Keane | 88 | Icons | 375k coins | -16.7% | -8.5% |
 
 
 ### Análise das baixas
 
-- **Richard Ríos (88)** caiu **-40.6%** em 24h, a **144k coins** (faixa do dia: 139k–234k). Está -30% abaixo da média de 7 dias (descontada).
+- **Julie Foudy (92)** caiu **-32.9%** em 24h, a **24k coins** (faixa do dia: 20k–37k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Caroline Seger (90)** caiu **-37.5%** em 24h, a **48k coins** (faixa do dia: 40k–80k). Está -21% abaixo da média de 7 dias (descontada).
+- **Quinten Timber (85)** caiu **-29.3%** em 24h, a **26k coins** (faixa do dia: 20k–38k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Declan Rice (89)** caiu **-32.9%** em 24h, a **56k coins** (faixa do dia: 42k–62k). Está em linha com a média de 7 dias (-5%).
+- **Koke (88)** caiu **-29.2%** em 24h, a **37k coins** (faixa do dia: 35k–65k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Bernardo Silva já avançou 52.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Musab Al Juwair já avançou 44.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Richard Ríos recuou -40.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julie Foudy recuou -32.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Bernardo Silva (87, Premier League), com +52.5% em 24h, a 68k coins no Console (PS).
+Musab Al Juwair (87, ROSHN Saudi League), com +44.4% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**
-Richard Ríos (88), -40.6% em 24h, a 144k coins.
+Julie Foudy (92), -32.9% em 24h, a 24k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 122 cartas em alta contra 107 em queda (média 2.3%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 118 cartas em alta contra 113 em queda (média 1.54%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
