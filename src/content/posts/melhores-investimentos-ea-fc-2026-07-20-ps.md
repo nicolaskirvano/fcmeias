@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:46:09.000Z
+pubDatetime: 2026-07-20T22:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Luis Milla (90, sem liga) lidera, com +88% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Bastian Schweinsteiger (88, Icons) lidera, com +36.8% em 7 dias a 91k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Luis Milla (90) acumula **+88% em 7 dias** a 40k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Bastian Schweinsteiger (88) acumula **+36.8% em 7 dias** a 91k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.4% em 24h** e **+32.9% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.2% em 24h** e **+29.9% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luis Milla | 90 | — | 40k coins | +3% | +88% | Esticada |
-| Homare Sawa | 91 | Icons | 150k coins | +13.4% | +59.8% | Momentum moderado |
-| Estefanía Banini | 89 | Liga F | 21k coins | +1.1% | +50.8% | Momentum moderado |
-| Jessie Fleming | 86 | NWSL | 85k coins | +12% | +49.3% | Momentum moderado |
-| João Moutinho | 88 | Liga Portugal | 152k coins | +14.1% | +40% | Momentum moderado |
-| Dolores Silva | 84 | Liga F | 48k coins | +33.3% | +37.9% | Esticada |
-| Andrea Pirlo | 90 | Icons | 129k coins | +1.5% | +36% | Momentum moderado |
-| Paul Wanner | 84 | Eredivisie | 41k coins | +5.7% | +32.9% | Momentum moderado |
-| Luciano Valente | 92 | — | 25k coins | +12.4% | +29.9% | Momentum moderado |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 27k coins | +19.1% | +29.3% | Momentum moderado |
-| Gabriel Sara | 94 | — | 29k coins | +21.6% | +28.3% | Esticada |
-| Cesc Fàbregas | 91 | Premier League | 220k coins | +9.5% | +28.1% | Momentum moderado |
-| Iniesta | 92 | Icons | 190k coins | +8.7% | +26.4% | Momentum moderado |
-| Iniesta | 92 | Icons | 250k coins | +14.7% | +25% | Momentum moderado |
-| Nadine Keßler | 89 | GPFBL | 18.000 coins | +36.5% | +24.6% | Esticada |
+| Bastian Schweinsteiger | 88 | Icons | 91k coins | +36.8% | +36.8% | Esticada |
+| Estefanía Banini | 89 | Liga F | 19.750 coins | +2.6% | +35.6% | Momentum moderado |
+| Thelo Aasgaard | 87 | Scottish Premiership | 16.000 coins | +5.1% | +33.9% | Momentum moderado |
+| Karen Araya | 86 | D1 Arkema | 19.500 coins | +19.1% | +32.8% | Momentum moderado |
+| Dolores Silva | 84 | Liga F | 48k coins | +17.2% | +32.6% | Momentum moderado |
+| Quinten Timber | 85 | Eredivisie | 35k coins | +10.2% | +32.1% | Momentum moderado |
+| Rose Lavelle | 89 | NWSL | 80k coins | +40% | +31.2% | Esticada |
+| Luciano Valente | 92 | — | 25k coins | +13.6% | +29.9% | Momentum moderado |
+| Rúben Neves | 87 | ROSHN Saudi League | 47k coins | +4.4% | +28.8% | Momentum moderado |
+| Paul Wanner | 84 | Eredivisie | 46k coins | +2.3% | +28.6% | Momentum moderado |
+| Esperanza Pizarro | 92 | — | 25k coins | +3.3% | +25% | Entrada a observar |
+| Bruno Guimarães | 87 | Premier League | 44k coins | +19.2% | +22.4% | Momentum moderado |
+| Géraldine Reuteler | 87 | GPFBL | 40k coins | +29.5% | +20.8% | Esticada |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 45k coins | +5.1% | +20.8% | Momentum moderado |
+| Koke | 84 | LALIGA EA SPORTS | 47k coins | +5% | +19.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Luis Milla (90)** — 40k coins, **+88% em 7 dias** (+3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bastian Schweinsteiger (88)** — 91k coins, **+36.8% em 7 dias** (+36.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Homare Sawa (91)** — 150k coins, **+59.8% em 7 dias** (+13.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 19.750 coins, **+35.6% em 7 dias** (+2.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 21k coins, **+50.8% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thelo Aasgaard (87)** — 16.000 coins, **+33.9% em 7 dias** (+5.1% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jessie Fleming (86)** — 85k coins, **+49.3% em 7 dias** (+12% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karen Araya (86)** — 19.500 coins, **+32.8% em 7 dias** (+19.1% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 152k coins, **+40% em 7 dias** (+14.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dolores Silva (84)** — 48k coins, **+32.6% em 7 dias** (+17.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Luis Milla (90, sem liga) lidera, com +88% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Bastian Schweinsteiger (88, Icons) lidera, com +36.8% em 7 dias a 91k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

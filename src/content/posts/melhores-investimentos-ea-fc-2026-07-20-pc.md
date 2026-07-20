@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:46:18.000Z
+pubDatetime: 2026-07-20T22:46:19.000Z
 title: "Investimentos EA FC: Meio-campistas em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Olivia Moultrie (86, NWSL) lidera, com +66.7% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Steven Gerrard (89, Icons) lidera, com +90% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Olivia Moultrie (86) acumula **+66.7% em 7 dias** a 22k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Steven Gerrard (89) acumula **+90% em 7 dias** a 190k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.0% em 24h** e **+31.1% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.0% em 24h** e **+36.4% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Olivia Moultrie | 86 | NWSL | 22k coins | +12.4% | +66.7% | Esticada |
-| Bastian Schweinsteiger | 88 | Icons | 144k coins | +21.7% | +52.1% | Esticada |
+| Steven Gerrard | 89 | Icons | 190k coins | +35.7% | +90% | Esticada |
+| Patrik Mercado | 91 | — | 40k coins | +6.6% | +74.2% | Esticada |
+| Mariona | 90 | Barclays WSL | 86k coins | +1.8% | +65.4% | Esticada |
+| Pablo Fornals | 85 | LALIGA EA SPORTS | 26k coins | +5.9% | +54.3% | Momentum moderado |
 | Bernardo Silva | 86 | Premier League | 60k coins | +13.2% | +51.9% | Momentum moderado |
-| Martin Ødegaard | 88 | Premier League | 100k coins | +25% | +49.3% | Esticada |
-| Andreia Jacinto | 88 | Liga F | 22k coins | +20% | +32.5% | Esticada |
-| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 46k coins | +29% | +32.5% | Esticada |
-| Luciano Valente | 92 | — | 28k coins | +9.7% | +31.4% | Momentum moderado |
-| Quinten Timber | 85 | Eredivisie | 42k coins | +10.6% | +31.1% | Momentum moderado |
-| Caleb Yirenkyi | 94 | — | 15.000 coins | +7.3% | +22.9% | Momentum moderado |
-| Lily Yohannes | 91 | — | 30k coins | +23.7% | +22.4% | Esticada |
-| Lisanne Gräwe | 86 | GPFBL | 33k coins | +5.3% | +21.7% | Momentum moderado |
-| Gabriel Sara | 94 | — | 31k coins | +34.9% | +20.6% | Esticada |
-| Fabián Ruiz | 95 | — | 35k coins | +14.8% | +17.6% | Momentum moderado |
-| Camille Abily | 92 | Icons | 74k coins | +23.3% | +17.5% | Esticada |
-| Jill Scott | 85 | Barclays Women’s Super League | 22k coins | +35.4% | +15.8% | Esticada |
+| Juan Sebastián Verón | 88 | — | 29k coins | +36.4% | +50% | Esticada |
+| Steven Gerrard | 88 | Icons | 155k coins | +13.8% | +38.9% | Momentum moderado |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 38k coins | +11.1% | +36.4% | Momentum moderado |
+| Paul Scholes | 88 | Icons | 109k coins | +25% | +35.4% | Esticada |
+| Rose Lavelle | 89 | NWSL | 65k coins | +22.9% | +34.7% | Esticada |
+| Fabián Ruiz | 95 | — | 39k coins | +24.4% | +31.7% | Esticada |
+| Uran Bislimi | 84 | Swiss Super League | 32k coins | +35% | +28.6% | Esticada |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 40k coins | +20% | +28% | Esticada |
+| Noah Sadiki | 93 | — | 15.000 coins | +11.1% | +27.7% | Momentum moderado |
+| Yasin Ayari | 96 | — | 26k coins | +30% | +25.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Olivia Moultrie (86)** — 22k coins, **+66.7% em 7 dias** (+12.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (88)** — 144k coins, **+52.1% em 7 dias** (+21.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrik Mercado (91)** — 40k coins, **+74.2% em 7 dias** (+6.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bernardo Silva (86)** — 60k coins, **+51.9% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariona (90)** — 86k coins, **+65.4% em 7 dias** (+1.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Martin Ødegaard (88)** — 100k coins, **+49.3% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Fornals (85)** — 26k coins, **+54.3% em 7 dias** (+5.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andreia Jacinto (88)** — 22k coins, **+32.5% em 7 dias** (+20% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bernardo Silva (86)** — 60k coins, **+51.9% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Olivia Moultrie (86, NWSL) lidera, com +66.7% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Steven Gerrard (89, Icons) lidera, com +90% em 7 dias a 190k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
