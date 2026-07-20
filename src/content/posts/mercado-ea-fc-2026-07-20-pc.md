@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:46:16.000Z
+pubDatetime: 2026-07-20T16:46:17.000Z
 title: "Mercado EA FC em 20/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Frank Lampard (87, Icons), com +57.6% em 24h, a 125k coins no PC."
+    a: "Géraldine Reuteler (87, GPFBL), com +51.1% em 24h, a 68k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Marek Hamšík (88), -49.5% em 24h, a 50k coins."
+    a: "Adalberto Carrasquilla (91), -47.9% em 24h, a 25k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 121 cartas em alta contra 101 em queda (média 4.08%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 112 cartas em alta contra 109 em queda (média 3.7%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **121 em alta** e **101 em queda**, média de **4.08%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **112 em alta** e **109 em queda**, média de **3.7%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Frank Lampard (87) **+57.6%** · 🔴 **Maior baixa:** Marek Hamšík (88) **-49.5%**
+> 🟢 **Maior alta:** Géraldine Reuteler (87) **+51.1%** · 🔴 **Maior baixa:** Adalberto Carrasquilla (91) **-47.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 271 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 99.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.7% entre as cartas que se moveram; o universo observado reúne 268 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Frank Lampard | 87 | Icons | 125k coins | +57.6% | -7.1% |
-| Jill Scott | 87 | Barclays WSL | 41k coins | +53% | +36.4% |
-| Kang Sang Yoon | 93 | — | 38k coins | +52% | +53.5% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 30k coins | +49.4% | -48.3% |
-| Camille Abily | 90 | Icons | 97k coins | +46.3% | +46.3% |
-| Steven Gerrard | 88 | Icons | 177k coins | +46.3% | +36.2% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 25k coins | +41.8% | -6.7% |
-| Koke | 88 | LALIGA EA SPORTS | 119k coins | +41.7% | +11.2% |
-| Rose Lavelle | 88 | NWSL | 60k coins | +40.4% | +25% |
-| Hayley Lauder | 85 | Scottish Women's League | 34k coins | +38.2% | +11.8% |
+| Géraldine Reuteler | 87 | GPFBL | 68k coins | +51.1% | +39.7% |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 30k coins | +50.6% | -0.8% |
+| Lothar Matthäus | 90 | Icons | 276k coins | +50% | +85.2% |
+| Steven Gerrard | 88 | Icons | 175k coins | +45.8% | +34.6% |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 49k coins | +40.7% | -3.6% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 20k coins | +35.5% | -19.2% |
+| Benjamin Nygren | 90 | — | 60k coins | +33.3% | +142.4% |
+| Bernardo Silva | 87 | Premier League | 80k coins | +33.3% | 0% |
+| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +32.5% | +14.6% |
+| Hayley Lauder | 85 | Scottish Women's League | 38k coins | +31.9% | +4.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **20/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Frank Lampard (87)** subiu **+57.6%** em 24h, a **125k coins** (faixa do dia: 66k–130k). Está +12% acima da média de 7 dias (aquecida).
+- **Géraldine Reuteler (87)** subiu **+51.1%** em 24h, a **68k coins** (faixa do dia: 30k–74k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Jill Scott (87)** subiu **+53%** em 24h, a **41k coins** (faixa do dia: 28k–55k). Está +28% acima da média de 7 dias (aquecida).
+- **Corentin Tolisso (85)** subiu **+50.6%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (+6%).
 
-- **Kang Sang Yoon (93)** subiu **+52%** em 24h, a **38k coins** (faixa do dia: 20k–38k). Está +19% acima da média de 7 dias (aquecida).
+- **Lothar Matthäus (90)** subiu **+50%** em 24h, a **276k coins** (faixa do dia: 150k–300k). Está +44% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 50k coins | -49.5% | -30.3% |
-| Federico Valverde | 89 | LALIGA EA SPORTS | 222k coins | -43.1% | -14.9% |
+| Adalberto Carrasquilla | 91 | — | 25k coins | -47.9% | -6.4% |
+| Kodai Sano | 95 | — | 27k coins | -44.4% | -26.4% |
+| Seko Fofana | 87 | — | 39k coins | -44.3% | -14.8% |
 | Vitinha | 96 | — | 7.10M coins | -41.8% | +7.6% |
+| Federico Valverde | 89 | LALIGA EA SPORTS | 222k coins | -41.3% | -14.9% |
+| Enzo Fernández | 93 | — | 42k coins | -39.1% | -48.1% |
+| Fabián Ruiz | 96 | — | 480k coins | -38.9% | -26.2% |
 | Simone Laudehr | 90 | GPFBL | 30k coins | -38.8% | +66.7% |
-| Alexia Putellas | 92 | Liga F | 42k coins | -38.4% | -7.1% |
-| Gabriel Sara | 83 | Trendyol Süper Lig | 40k coins | -37.5% | -42.9% |
-| Aitana Bonmatí | 97 | Liga F | 1.93M coins | -36.2% | -22.9% |
-| Declan Rice | 89 | Premier League | 61k coins | -34.9% | -26% |
-| Seko Fofana | 87 | — | 48k coins | -31.1% | +5.5% |
-| Valentín Barco | 95 | — | 20k coins | -30.7% | -6% |
+| Toni Kroos | 90 | Icons | 66k coins | -36.2% | -26.8% |
+| Camille Abily | 91 | Icons | 36k coins | -34.5% | -14.3% |
 
 
 ### Análise das baixas
 
-- **Marek Hamšík (88)** caiu **-49.5%** em 24h, a **50k coins** (faixa do dia: 50k–100k). Está -38% abaixo da média de 7 dias (descontada).
+- **Adalberto Carrasquilla (91)** caiu **-47.9%** em 24h, a **25k coins** (faixa do dia: 18.250–35k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Federico Valverde (89)** caiu **-43.1%** em 24h, a **222k coins** (faixa do dia: 222k–380k). Está -37% abaixo da média de 7 dias (descontada).
+- **Kodai Sano (95)** caiu **-44.4%** em 24h, a **27k coins** (faixa do dia: 24k–61k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Vitinha (96)** caiu **-41.8%** em 24h, a **7.10M coins** (faixa do dia: 7M–12.20M). Está -30% abaixo da média de 7 dias (descontada).
+- **Seko Fofana (87)** caiu **-44.3%** em 24h, a **39k coins** (faixa do dia: 30k–70k). Está -27% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Frank Lampard já avançou 57.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Géraldine Reuteler já avançou 51.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marek Hamšík recuou -49.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Adalberto Carrasquilla recuou -47.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Frank Lampard (87, Icons), com +57.6% em 24h, a 125k coins no PC.
+Géraldine Reuteler (87, GPFBL), com +51.1% em 24h, a 68k coins no PC.
 
 **E a maior queda do dia?**
-Marek Hamšík (88), -49.5% em 24h, a 50k coins.
+Adalberto Carrasquilla (91), -47.9% em 24h, a 25k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 121 cartas em alta contra 101 em queda (média 4.08%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 112 cartas em alta contra 109 em queda (média 3.7%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

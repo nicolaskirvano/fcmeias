@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:46:08.000Z
+pubDatetime: 2026-07-20T16:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Iniesta (92, Icons) lidera, com +63% em 7 dias a 210k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Estefanía Banini (89, Liga F) lidera, com +83.1% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Iniesta (92) acumula **+63% em 7 dias** a 210k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Estefanía Banini (89) acumula **+83.1% em 7 dias** a 21k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.2% em 24h** e **+38.2% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.0% em 24h** e **+35.0% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Iniesta | 92 | Icons | 210k coins | +35.6% | +63% | Esticada |
-| Estefanía Banini | 89 | Liga F | 36k coins | +6.8% | +59.3% | Momentum moderado |
-| Camille Abily | 92 | Icons | 61k coins | +19.3% | +59.1% | Momentum moderado |
-| Kenneth Taylor | 84 | Eredivisie | 40k coins | +31.1% | +58.4% | Esticada |
-| Lucas Paquetá | 84 | Premier League | 56k coins | +23.8% | +40.9% | Esticada |
-| Steven Gerrard | 88 | Icons | 146k coins | +34% | +39.4% | Esticada |
-| Camille Abily | 90 | Icons | 85k coins | +34% | +39% | Esticada |
-| Toni Kroos | 90 | Icons | 98k coins | +19.2% | +38.2% | Momentum moderado |
-| João Gomes | 84 | Premier League | 60k coins | +20% | +34.8% | Esticada |
-| Andrea Pirlo | 90 | Icons | 149k coins | +1.5% | +30.8% | Momentum moderado |
-| Nadine Keßler | 88 | GPFBL | 15.000 coins | +10.9% | +29.8% | Momentum moderado |
-| Janina Minge | 88 | — | 18.750 coins | +22.2% | +29.4% | Esticada |
-| Caroline Seger | 90 | Sverige Liga | 80k coins | +5.6% | +25.7% | Momentum moderado |
-| Aleix García | 89 | Bundesliga | 22k coins | +28.8% | +24.6% | Esticada |
-| Christian Eriksen | 87 | Bundesliga | 46k coins | +29.7% | +22.9% | Esticada |
+| Estefanía Banini | 89 | Liga F | 21k coins | +20% | +83.1% | Esticada |
+| João Moutinho | 88 | Liga Portugal | 188k coins | +29.7% | +74.1% | Esticada |
+| Camille Abily | 92 | Icons | 66k coins | +10.8% | +55.6% | Momentum moderado |
+| Kenneth Taylor | 84 | Eredivisie | 42k coins | +9.3% | +53% | Momentum moderado |
+| Xavi | 92 | Icons | 210k coins | +9% | +49.3% | Momentum moderado |
+| Homare Sawa | 91 | Icons | 131k coins | +6.4% | +39.3% | Momentum moderado |
+| Steven Gerrard | 88 | Icons | 120k coins | +17.2% | +37.4% | Momentum moderado |
+| Kang Sang Yoon | 93 | — | 27k coins | +20% | +35% | Esticada |
+| João Gomes | 84 | Premier League | 56k coins | +18% | +34.1% | Momentum moderado |
+| Tijjani Reijnders | 87 | Premier League | 49k coins | +32.5% | +29.3% | Esticada |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 28k coins | +23.4% | +27.5% | Esticada |
+| Jill Scott | 91 | Barclays WSL | 121k coins | +25.7% | +25.7% | Esticada |
+| Sakina Karchaoui | 91 | D1 Arkema | 97k coins | +7% | +22.7% | Momentum moderado |
+| Lily Yohannes | 84 | D1 Arkema | 43k coins | +33.1% | +19.1% | Esticada |
+| Bruno Guimarães | 92 | — | 24k coins | +13% | +16.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Iniesta (92)** — 210k coins, **+63% em 7 dias** (+35.6% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 21k coins, **+83.1% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 36k coins, **+59.3% em 7 dias** (+6.8% em 24h). Preço +68% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Moutinho (88)** — 188k coins, **+74.1% em 7 dias** (+29.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Camille Abily (92)** — 61k coins, **+59.1% em 7 dias** (+19.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Camille Abily (92)** — 66k coins, **+55.6% em 7 dias** (+10.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kenneth Taylor (84)** — 40k coins, **+58.4% em 7 dias** (+31.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenneth Taylor (84)** — 42k coins, **+53% em 7 dias** (+9.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucas Paquetá (84)** — 56k coins, **+40.9% em 7 dias** (+23.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi (92)** — 210k coins, **+49.3% em 7 dias** (+9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Iniesta (92, Icons) lidera, com +63% em 7 dias a 210k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Estefanía Banini (89, Liga F) lidera, com +83.1% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
