@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:46:10.000Z
+pubDatetime: 2026-07-20T01:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.773 coins.
+- **Preço médio das 15 opções:** 10.543 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 1.900 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 11.750 coins | -4% |
-| Gustavo Puerta | 94 | CM | — | 11.500 coins | -4.2% |
-| Paul Wanner | 94 | CM | — | 12.000 coins | -3.8% |
-| Caleb Yirenkyi | 94 | CM | — | 12.750 coins | -3.8% |
-| Noah Sadiki | 93 | CM | — | 12.500 coins | -3.8% |
-| Alexia Putellas | 91 | CM | Liga F | 14.250 coins | -14.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 1.900 coins | +20% |
+| Stephen Eustáquio | 95 | CM | — | 11.750 coins | -2.1% |
+| Gustavo Puerta | 94 | CM | — | 10.750 coins | -2.1% |
+| Paul Wanner | 94 | CM | — | 12.750 coins | 0% |
+| Caleb Yirenkyi | 94 | CM | — | 12.750 coins | 0% |
+| Noah Sadiki | 93 | CM | — | 12.750 coins | -1.9% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.000 coins | +46.2% |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 2.000 coins | +53.8% |
-| Mariona | 89 | CM | Barclays WSL | 2.100 coins | +50% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 2.600 coins | +12% |
-| Simone Laudehr | 88 | CM | GPFBL | 12.000 coins | +3.8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14.250 coins | -3.4% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13.500 coins | 0% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 2.400 coins | +9.5% |
+| Nadine Keßler | 88 | CM | GPFBL | 12.500 coins | -3.8% |
+| Simone Laudehr | 88 | CM | GPFBL | 14.000 coins | +9.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.750 coins | 0% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12.500 coins | -7.1% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12.000 coins | -3.6% |
+| Fara Williams | 86 | CM | Barclays WSL | 12.250 coins | +4.1% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.500 coins | -1.8% |
 
 
 ## 📈 Destaques
 
 - **Stephen Eustáquio (95, CM)** da —, a apenas **11.750 coins**
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **11.500 coins**
+- **Gustavo Puerta (94, CM)** da —, a apenas **10.750 coins**
 
-- **Paul Wanner (94, CM)** da —, a apenas **12.000 coins**
+- **Paul Wanner (94, CM)** da —, a apenas **12.750 coins**
 
 - **Caleb Yirenkyi (94, CM)** da —, a apenas **12.750 coins**
 
-- **Noah Sadiki (93, CM)** da —, a apenas **12.500 coins**
+- **Noah Sadiki (93, CM)** da —, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca

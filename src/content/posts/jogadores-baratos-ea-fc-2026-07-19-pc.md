@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:46:19.000Z
+pubDatetime: 2026-07-20T01:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 19/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 9.886 coins.
-- **Posição mais frequente:** CM, com 7 cartas.
-- **Faixa real:** 2.300 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 10.312 coins.
+- **Posição mais frequente:** CM, com 8 cartas.
+- **Faixa real:** 2.200 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,25 +41,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Stephen Eustáquio | 95 | CM | — | 12.000 coins | -5.9% |
-| Gustavo Puerta | 94 | CM | — | 11.750 coins | -4.2% |
-| Caleb Yirenkyi | 94 | CM | — | 13.250 coins | 0% |
-| Paul Wanner | 94 | CM | — | 14.000 coins | -5.4% |
-| Noah Sadiki | 93 | CM | — | 13.500 coins | -5.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2.300 coins | +7.7% |
-| Mariona | 89 | CM | Barclays WSL | 2.400 coins | -14.8% |
+| Gustavo Puerta | 94 | CM | — | 11.500 coins | -8% |
+| Caleb Yirenkyi | 94 | CM | — | 13.750 coins | -1.8% |
+| Paul Wanner | 94 | CM | — | 14.000 coins | -1.8% |
+| Noah Sadiki | 93 | CM | — | 12.750 coins | -1.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.200 coins | -12% |
+| Mariona | 89 | CM | Barclays WSL | 2.300 coins | -4% |
+| Janina Minge | 88 | CM | — | 14.000 coins | +5.7% |
 
 
 ## 📈 Destaques
 
 - **Stephen Eustáquio (95, CM)** da —, a apenas **12.000 coins**
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **11.750 coins**
+- **Gustavo Puerta (94, CM)** da —, a apenas **11.500 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Paul Wanner (94, CM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Noah Sadiki (93, CM)** da —, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Noah Sadiki (93, CM)** da —, a apenas **12.750 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
