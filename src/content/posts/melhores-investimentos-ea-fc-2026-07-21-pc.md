@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:46:18.000Z
+pubDatetime: 2026-07-21T22:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Jill Scott (85, Barclays Women’s Super League) lidera, com +77.6% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Julie Foudy (91, Icons) lidera, com +88.5% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jill Scott (85) acumula **+77.6% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Julie Foudy (91) acumula **+88.5% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.8% em 24h** e **+54.5% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.7% em 24h** e **+36.4% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jill Scott | 85 | Barclays Women’s Super League | 25k coins | +19.8% | +77.6% | Esticada |
-| Camille Abily | 92 | Icons | 74k coins | +2% | +72.4% | Esticada |
-| Mariona | 90 | Barclays WSL | 86k coins | +5.5% | +65.4% | Esticada |
-| Patrik Mercado | 91 | — | 38k coins | +5.6% | +62.9% | Esticada |
-| Cesc Fàbregas | 88 | Premier League | 19.500 coins | +23.4% | +58% | Esticada |
-| Quinten Timber | 85 | Eredivisie | 42k coins | +5.6% | +57.4% | Momentum moderado |
-| Bruno Guimarães | 89 | Premier League | 28k coins | +6.8% | +56.2% | Momentum moderado |
-| Leon Goretzka | 94 | — | 32k coins | +35.4% | +54.5% | Esticada |
-| Paul Scholes | 88 | Icons | 125k coins | +20% | +34.8% | Esticada |
-| Alexia Putellas | 92 | Liga F | 52k coins | +32.7% | +34% | Esticada |
-| Paul Wanner | 94 | — | 15.750 coins | +12.3% | +33.3% | Momentum moderado |
-| Valentín Barco | 95 | — | 25k coins | +25% | +33.3% | Esticada |
-| Khéphren Thuram | 87 | Serie A TIM | 74k coins | +38.3% | +31.4% | Esticada |
-| Pape Gueye | 95 | — | 64k coins | +23.9% | +30.8% | Esticada |
-| Caleb Yirenkyi | 94 | — | 16.000 coins | +12.3% | +30.6% | Momentum moderado |
+| Julie Foudy | 91 | Icons | 48k coins | +26.4% | +88.5% | Esticada |
+| Arthur Atta | 85 | Serie A TIM | 63k coins | +17.8% | +81.3% | Esticada |
+| Declan Rice | 89 | Premier League | 78k coins | +40% | +75% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 49k coins | +31.3% | +64.2% | Esticada |
+| Jill Scott | 85 | Barclays Women’s Super League | 22k coins | +23.3% | +55.2% | Esticada |
+| Leon Goretzka | 94 | — | 39k coins | +21.7% | +49% | Esticada |
+| André-Franck Zambo Anguissa | 84 | Serie A TIM | 48k coins | +12.4% | +45% | Momentum moderado |
+| Cesc Fàbregas | 88 | Premier League | 16.500 coins | +5.6% | +36.4% | Momentum moderado |
+| Nadiem Amiri | 88 | Bundesliga | 32k coins | +34% | +34% | Esticada |
+| Noah Sadiki | 93 | — | 15.750 coins | +5% | +31.2% | Momentum moderado |
+| Yasin Ayari | 96 | — | 28k coins | +12.4% | +29.7% | Momentum moderado |
+| Caleb Yirenkyi | 94 | — | 16.000 coins | +6.8% | +28.6% | Momentum moderado |
+| Paul Wanner | 94 | — | 15.750 coins | +6.8% | +28.6% | Momentum moderado |
+| Khéphren Thuram | 87 | Serie A TIM | 78k coins | +37.4% | +27.4% | Esticada |
+| Bastian Schweinsteiger | 89 | Icons | 173k coins | +35.9% | +25.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Jill Scott (85)** — 25k coins, **+77.6% em 7 dias** (+19.8% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (91)** — 48k coins, **+88.5% em 7 dias** (+26.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Camille Abily (92)** — 74k coins, **+72.4% em 7 dias** (+2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Arthur Atta (85)** — 63k coins, **+81.3% em 7 dias** (+17.8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mariona (90)** — 86k coins, **+65.4% em 7 dias** (+5.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 78k coins, **+75% em 7 dias** (+40% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrik Mercado (91)** — 38k coins, **+62.9% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (90)** — 49k coins, **+64.2% em 7 dias** (+31.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cesc Fàbregas (88)** — 19.500 coins, **+58% em 7 dias** (+23.4% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jill Scott (85)** — 22k coins, **+55.2% em 7 dias** (+23.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Jill Scott (85, Barclays Women’s Super League) lidera, com +77.6% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Julie Foudy (91, Icons) lidera, com +88.5% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

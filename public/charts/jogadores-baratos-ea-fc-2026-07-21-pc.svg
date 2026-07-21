@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephen Eustáquio</text>
-<rect x="285" y="95" width="430" height="28" rx="7" fill="#38bdf8"/>
-<text x="725" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
+<rect x="285" y="95" width="449" height="28" rx="7" fill="#38bdf8"/>
+<text x="744" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gustavo Puerta</text>
-<rect x="285" y="153" width="430" height="28" rx="7" fill="#38bdf8"/>
-<text x="725" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Noah Sadiki</text>
-<rect x="285" y="211" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
+<rect x="285" y="153" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mariona</text>
+<rect x="285" y="211" width="147" height="28" rx="7" fill="#38bdf8"/>
+<text x="442" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.600</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
-<rect x="285" y="269" width="139" height="28" rx="7" fill="#38bdf8"/>
-<text x="434" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.200</text>
+<rect x="285" y="269" width="155" height="28" rx="7" fill="#38bdf8"/>
+<text x="450" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.800</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Federico Valverde</text>
-<rect x="285" y="327" width="156" height="28" rx="7" fill="#38bdf8"/>
-<text x="451" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.700</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Unai López</text>
-<rect x="285" y="385" width="447" height="28" rx="7" fill="#38bdf8"/>
-<text x="742" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
+<rect x="285" y="327" width="180" height="28" rx="7" fill="#38bdf8"/>
+<text x="475" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.400</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pedri</text>
+<rect x="285" y="385" width="196" height="28" rx="7" fill="#38bdf8"/>
+<text x="491" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.800</text>
 </svg>
