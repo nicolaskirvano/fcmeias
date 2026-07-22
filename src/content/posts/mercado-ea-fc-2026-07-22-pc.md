@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:46:17.000Z
+pubDatetime: 2026-07-22T13:46:16.000Z
 title: "Mercado EA FC em 22/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Christian Eriksen (87, Bundesliga), com +59.6% em 24h, a 74k coins no PC."
+    a: "Xavi (91, Icons), com +54.8% em 24h, a 190k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Enzo Fernández (91), -50% em 24h, a 60k coins."
+    a: "Enzo Fernández (91), -48.3% em 24h, a 58k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 100 cartas em alta contra 124 em queda (média 1.21%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 105 cartas em alta contra 125 em queda (média -0.03%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **22/07/2026** no PC: mercado **lateral** — sem direção clara. **100 valorizações** contra **124 quedas** entre as cartas relevantes, com média de **1.21%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **22/07/2026** no PC: mercado **lateral** — sem direção clara. **105 valorizações** contra **125 quedas** entre as cartas relevantes, com média de **-0.03%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Christian Eriksen (87) **+59.6%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-50%**
+> 🟢 **Maior alta:** Xavi (91) **+54.8%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-48.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no PC: mercado **lateral** — sem direção clara. **1
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.6% entre as cartas que se moveram; o universo observado reúne 265 cartas.
-- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.7% entre as cartas que se moveram; o universo observado reúne 270 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Christian Eriksen | 87 | Bundesliga | 74k coins | +59.6% | +3.1% |
-| Kodai Sano | 95 | — | 34k coins | +44.2% | -10.2% |
-| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 46k coins | +42.9% | +13.3% |
-| Khéphren Thuram | 87 | Serie A TIM | 65k coins | +39.4% | +11.3% |
+| Xavi | 91 | Icons | 190k coins | +54.8% | +71.1% |
+| Iniesta | 92 | Icons | 266k coins | +47.9% | +65.3% |
+| Andreia Jacinto | 88 | Liga F | 24k coins | +46.4% | +68.3% |
+| Gabriel Villamíl | 91 | — | 54k coins | +41.9% | +52.8% |
+| Nadiem Amiri | 88 | Bundesliga | 31k coins | +40.7% | +25.5% |
 | Scott McTominay | 91 | Serie A TIM | 600k coins | +38.9% | +20% |
-| Andreia Jacinto | 88 | Liga F | 26k coins | +35.1% | +73.3% |
-| Declan Rice | 89 | Premier League | 93k coins | +34.8% | +93.8% |
-| Bernardo Silva | 87 | Premier League | 90k coins | +34.3% | +20.8% |
-| Luciano Valente | 92 | — | 24k coins | +33.7% | +10.6% |
-| Claudio Marchisio | 87 | Serie A TIM | 23k coins | +32.5% | -5.6% |
+| Yasin Ayari | 96 | — | 27k coins | +35.9% | +43.7% |
+| Bernardo Silva | 87 | Premier League | 89k coins | +35.6% | +12.6% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 40k coins | +34.5% | +6% |
+| Khéphren Thuram | 87 | Serie A TIM | 57k coins | +34.4% | +2.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no PC: mercado **lateral** — sem direção clara. **1
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Christian Eriksen (87)** subiu **+59.6%** em 24h, a **74k coins** (faixa do dia: 35k–83k). Está em linha com a média de 7 dias (-3%).
+- **Xavi (91)** subiu **+54.8%** em 24h, a **190k coins** (faixa do dia: 96k–195k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Kodai Sano (95)** subiu **+44.2%** em 24h, a **34k coins** (faixa do dia: 21k–40k). Está -15% abaixo da média de 7 dias (descontada).
+- **Iniesta (92)** subiu **+47.9%** em 24h, a **266k coins** (faixa do dia: 180k–310k). Está +38% acima da média de 7 dias (aquecida).
 
-- **Ayyoub Bouaddi (86)** subiu **+42.9%** em 24h, a **46k coins** (faixa do dia: 15.750–50k). Está +13% acima da média de 7 dias (aquecida).
+- **Andreia Jacinto (88)** subiu **+46.4%** em 24h, a **24k coins** (faixa do dia: 11.000–27k). Está +28% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Fernández | 91 | Premier League | 60k coins | -50% | -44.4% |
-| Mariona | 96 | Barclays WSL | 166k coins | -45.6% | -43.7% |
-| Rose Lavelle | 89 | NWSL | 36k coins | -45.5% | -28.4% |
-| Vitinha | 97 | — | 431k coins | -44.7% | -61.6% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 36k coins | -41.5% | -77.2% |
-| Patrick Vieira | 88 | Icons | 180k coins | -41.1% | -41.3% |
-| Jude Bellingham | 98 | — | 1.41M coins | -40.5% | — |
-| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 26k coins | -38.8% | -38.1% |
-| Jennifer Echegini | 86 | D1 Arkema | 23k coins | -38.3% | -48.3% |
-| Martin Ødegaard | 97 | — | 290k coins | -35.6% | — |
+| Enzo Fernández | 91 | Premier League | 58k coins | -48.3% | -44.9% |
+| Paul Scholes | 88 | Icons | 74k coins | -47.1% | -21.8% |
+| Mikel Merino | 95 | — | 49k coins | -43.8% | -50.2% |
+| Patrick Vieira | 88 | Icons | 178k coins | -42.9% | -47.5% |
+| Bruno Guimarães | 89 | Premier League | 26k coins | -39.3% | +11.8% |
+| Rose Lavelle | 89 | NWSL | 36k coins | -39.2% | -27.7% |
+| Richard Ríos | 88 | Liga Portugal | 132k coins | -39.1% | -34.7% |
+| Marek Hamšík | 88 | Serie A TIM | 73k coins | -38.8% | -9.8% |
+| Jude Bellingham | 98 | — | 1.35M coins | -38.6% | — |
+| Tijjani Reijnders | 87 | Premier League | 62k coins | -36.5% | -26.5% |
 
 
 ### Análise das baixas
 
-- **Enzo Fernández (91)** caiu **-50%** em 24h, a **60k coins** (faixa do dia: 43k–120k). Está -38% abaixo da média de 7 dias (descontada).
+- **Enzo Fernández (91)** caiu **-48.3%** em 24h, a **58k coins** (faixa do dia: 43k–115k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Mariona (96)** caiu **-45.6%** em 24h, a **166k coins** (faixa do dia: 120k–309k). Está -31% abaixo da média de 7 dias (descontada).
+- **Paul Scholes (88)** caiu **-47.1%** em 24h, a **74k coins** (faixa do dia: 74k–137k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Rose Lavelle (89)** caiu **-45.5%** em 24h, a **36k coins** (faixa do dia: 36k–70k). Está -33% abaixo da média de 7 dias (descontada).
+- **Mikel Merino (95)** caiu **-43.8%** em 24h, a **49k coins** (faixa do dia: 48k–90k). Está -53% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Christian Eriksen já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Xavi já avançou 54.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Enzo Fernández recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Enzo Fernández recuou -48.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Christian Eriksen (87, Bundesliga), com +59.6% em 24h, a 74k coins no PC.
+Xavi (91, Icons), com +54.8% em 24h, a 190k coins no PC.
 
 **E a maior queda do dia?**
-Enzo Fernández (91), -50% em 24h, a 60k coins.
+Enzo Fernández (91), -48.3% em 24h, a 58k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 100 cartas em alta contra 124 em queda (média 1.21%).
+Hoje o mercado está lateral — sem direção clara, com 105 cartas em alta contra 125 em queda (média -0.03%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
