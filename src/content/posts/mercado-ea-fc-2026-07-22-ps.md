@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:46:07.000Z
+pubDatetime: 2026-07-22T16:46:07.000Z
 title: "Mercado EA FC em 22/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Sebastian Szymański (87, sem liga), com +57.9% em 24h, a 40k coins no Console (PS)."
+    a: "Adrien Thomasson (85, Ligue 1 McDonald's), com +50.7% em 24h, a 25k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Kenneth Taylor (84), -50% em 24h, a 20k coins."
+    a: "João Neves (86), -45.9% em 24h, a 40k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 107 cartas em alta contra 149 em queda (média -3.65%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 89 cartas em alta contra 153 em queda (média -3.38%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **107 valorizações** contra **149 quedas** entre as cartas relevantes, com média de **-3.65%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **89 valorizações** contra **153 quedas** entre as cartas relevantes, com média de **-3.38%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Sebastian Szymański (87) **+57.9%** · 🔴 **Maior baixa:** Kenneth Taylor (84) **-50%**
+> 🟢 **Maior alta:** Adrien Thomasson (85) **+50.7%** · 🔴 **Maior baixa:** João Neves (86) **-45.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.8% entre as cartas que se moveram; o universo observado reúne 295 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.8% entre as cartas que se moveram; o universo observado reúne 274 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sebastian Szymański | 87 | — | 40k coins | +57.9% | +44.6% |
-| Alexis Mac Allister | 91 | — | 86k coins | +41.7% | +30.8% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 58k coins | +36.7% | +51.2% |
-| Tijjani Reijnders | 87 | Premier League | 72k coins | +36.4% | +75.9% |
-| Benjamin Nygren | 90 | — | 50k coins | +35% | +77.4% |
-| Scott McTominay | 94 | — | 260k coins | +34.2% | -4.9% |
-| Estefanía Banini | 89 | Liga F | 26k coins | +33.8% | +78.3% |
-| Joelinton | 87 | Premier League | 137k coins | +31.4% | +90.3% |
-| Paula Fernández | 88 | — | 47k coins | +30.9% | +21.9% |
-| Alyssa Thompson | 86 | Barclays Women’s Super League | 46k coins | +29.9% | +23.5% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 25k coins | +50.7% | -10.6% |
+| Tijjani Reijnders | 87 | Premier League | 59k coins | +47.1% | +51.1% |
+| Adalberto Carrasquilla | 91 | — | 50k coins | +37.5% | +96% |
+| Luis Milla | 90 | — | 56k coins | +36.9% | +91.7% |
+| Gabriel Villamíl | 91 | — | 50k coins | +35.1% | +66.7% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 38k coins | +32.8% | +10% |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 28k coins | +31.8% | -18.9% |
+| Orkun Kökçü | 95 | — | 50k coins | +30.3% | -29.3% |
+| Patrik Mercado | 91 | — | 50k coins | +25.8% | +68.1% |
+| Benjamin Nygren | 90 | — | 55k coins | +25.3% | +78.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no Console (PS): mercado **em baixa** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Sebastian Szymański (87)** subiu **+57.9%** em 24h, a **40k coins** (faixa do dia: 34k–60k). Está em linha com a média de 7 dias (-0%).
+- **Adrien Thomasson (85)** subiu **+50.7%** em 24h, a **25k coins** (faixa do dia: 13.000–30k). Está em linha com a média de 7 dias (+7%).
 
-- **Alexis Mac Allister (91)** subiu **+41.7%** em 24h, a **86k coins** (faixa do dia: 58k–87k). Está em linha com a média de 7 dias (-7%).
+- **Tijjani Reijnders (87)** subiu **+47.1%** em 24h, a **59k coins** (faixa do dia: 35k–79k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Hinata Miyazawa (87)** subiu **+36.7%** em 24h, a **58k coins** (faixa do dia: 35k–85k). Está +36% acima da média de 7 dias (aquecida).
+- **Adalberto Carrasquilla (91)** subiu **+37.5%** em 24h, a **50k coins** (faixa do dia: 36k–50k). Está +31% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kenneth Taylor | 84 | Eredivisie | 20k coins | -50% | -57.3% |
-| Cesc Fàbregas | 91 | Premier League | 128k coins | -46.7% | -55.7% |
-| Frenkie de Jong | 97 | — | 700k coins | -44.3% | -56.4% |
-| Kevin De Bruyne | 97 | — | 435k coins | -37% | -54.4% |
-| Jude Bellingham | 98 | — | 1.15M coins | -36.8% | — |
-| Martin Ødegaard | 97 | — | 250k coins | -35.4% | — |
-| Vicky López | 87 | Liga F | 40k coins | -34.4% | -37.5% |
-| Khéphren Thuram | 87 | Serie A TIM | 78k coins | -32.6% | -5.9% |
-| Iniesta | 92 | Icons | 199k coins | -31.2% | -29.6% |
-| Declan Rice | 89 | Premier League | 40k coins | -30.5% | -12.5% |
+| João Neves | 86 | Ligue 1 McDonald's | 40k coins | -45.9% | -26.6% |
+| Jude Bellingham | 96 | — | 880k coins | -42.1% | -60.9% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 24k coins | -41.5% | +3.2% |
+| Frenkie de Jong | 97 | — | 679k coins | -41% | -57.5% |
+| Fabián Ruiz | 96 | — | 231k coins | -40% | -32.1% |
+| Pedri | 99 | — | 1.13M coins | -36.7% | — |
+| Martin Ødegaard | 97 | — | 264k coins | -29.8% | — |
+| Gabriel Villamíl | 80 | Libertadores | 34k coins | -29.5% | -16.2% |
+| Mikel Merino | 99 | — | 850k coins | -29.3% | — |
+| Jude Bellingham | 98 | — | 1.18M coins | -28.1% | — |
 
 
 ### Análise das baixas
 
-- **Kenneth Taylor (84)** caiu **-50%** em 24h, a **20k coins** (faixa do dia: 15.875–32k). Está -34% abaixo da média de 7 dias (descontada).
+- **João Neves (86)** caiu **-45.9%** em 24h, a **40k coins** (faixa do dia: 36k–73k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Cesc Fàbregas (91)** caiu **-46.7%** em 24h, a **128k coins** (faixa do dia: 128k–230k). Está -45% abaixo da média de 7 dias (descontada).
+- **Jude Bellingham (96)** caiu **-42.1%** em 24h, a **880k coins** (faixa do dia: 768k–1.31M). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Frenkie de Jong (97)** caiu **-44.3%** em 24h, a **700k coins** (faixa do dia: 580k–1.29M). Está -47% abaixo da média de 7 dias (descontada).
+- **Ayyoub Bouaddi (86)** caiu **-41.5%** em 24h, a **24k coins** (faixa do dia: 19.000–52k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Sebastian Szymański já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Adrien Thomasson já avançou 50.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Kenneth Taylor recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** João Neves recuou -45.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Sebastian Szymański (87, sem liga), com +57.9% em 24h, a 40k coins no Console (PS).
+Adrien Thomasson (85, Ligue 1 McDonald's), com +50.7% em 24h, a 25k coins no Console (PS).
 
 **E a maior queda do dia?**
-Kenneth Taylor (84), -50% em 24h, a 20k coins.
+João Neves (86), -45.9% em 24h, a 40k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 107 cartas em alta contra 149 em queda (média -3.65%).
+Hoje o mercado está em baixa — predominam as quedas, com 89 cartas em alta contra 153 em queda (média -3.38%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

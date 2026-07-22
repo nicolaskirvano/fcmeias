@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:46:19.000Z
+pubDatetime: 2026-07-22T16:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 22/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 8.892 coins.
-- **Posição mais frequente:** CM, com 6 cartas.
-- **Faixa real:** 4.300 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 6.550 coins.
+- **Posição mais frequente:** CM, com 7 cartas.
+- **Faixa real:** 1.500 a 12.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,12 +40,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 12.250 coins | -12.5% |
-| Gustavo Puerta | 94 | CM | — | 12.000 coins | -9.3% |
-| Caleb Yirenkyi | 94 | CM | — | 14.500 coins | +1.7% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.300 coins | +5% |
-| Mariona | 89 | CM | Barclays WSL | 4.800 coins | +4.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 5.500 coins | +36.6% |
+| Stephen Eustáquio | 95 | CM | — | 12.250 coins | -12.7% |
+| Gustavo Puerta | 94 | CM | — | 12.000 coins | -9.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.500 coins | +7.3% |
+| Mariona | 89 | CM | Barclays WSL | 4.600 coins | +7.1% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.200 coins | +1.9% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 5.800 coins | +34.9% |
+| Nicolò Barella | 87 | CM | Serie A Enilive | 1.500 coins | +41.2% |
 
 
 ## 📈 Destaques
@@ -54,11 +55,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Gustavo Puerta (94, CM)** da —, a apenas **12.000 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **4.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **5.200 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
