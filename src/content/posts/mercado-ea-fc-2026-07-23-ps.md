@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:46:07.000Z
+pubDatetime: 2026-07-23T16:46:07.000Z
 title: "Mercado EA FC em 23/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Mariona (90, Barclays WSL), com +57.9% em 24h, a 120k coins no Console (PS)."
+    a: "Mariona (90, Barclays WSL), com +58.9% em 24h, a 120k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Mikel Merino (99), -45.3% em 24h, a 535k coins."
+    a: "Jessie Fleming (86), -48.7% em 24h, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 112 cartas em alta contra 137 em queda (média 0.47%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 101 cartas em alta contra 133 em queda (média 1.26%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **112 subiram**, **137 caíram** (80+ e 5k+ coins), média de **0.47%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **101 subiram**, **133 caíram** (80+ e 5k+ coins), média de **1.26%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mariona (90) **+57.9%** · 🔴 **Maior baixa:** Mikel Merino (99) **-45.3%**
+> 🟢 **Maior alta:** Mariona (90) **+58.9%** · 🔴 **Maior baixa:** Jessie Fleming (86) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.0% entre as cartas que se moveram; o universo observado reúne 291 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.2% entre as cartas que se moveram; o universo observado reúne 265 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mariona | 90 | Barclays WSL | 120k coins | +57.9% | +61.1% |
-| Karen Araya | 86 | D1 Arkema | 22k coins | +56.1% | +11.2% |
-| Kobbie Mainoo | 90 | Premier League | 94k coins | +48.3% | +14.1% |
-| Julia Grosso | 88 | NWSL | 26k coins | +42.9% | -21.1% |
+| Mariona | 90 | Barclays WSL | 120k coins | +58.9% | +75.2% |
+| Julie Foudy | 90 | Icons | 120k coins | +58.3% | +89.7% |
+| Vitinha | 90 | Ligue 1 McDonald's | 82k coins | +54.7% | -21.9% |
+| Caroline Seger | 91 | Icons | 90k coins | +53.8% | +53.8% |
+| Kobbie Mainoo | 90 | Premier League | 115k coins | +44.9% | +25% |
+| Julie Foudy | 88 | Icons | 37k coins | +44.1% | +56.4% |
+| Camille Abily | 90 | Icons | 125k coins | +42.9% | +62.3% |
 | Gabriel Villamíl | 80 | Libertadores | 48k coins | +41.8% | +18.8% |
-| Nadiem Amiri | 88 | Bundesliga | 25k coins | +41.1% | +47.1% |
-| Daichi Kamada | 96 | — | 340k coins | +39.9% | +1.5% |
-| Aleix García | 89 | Bundesliga | 23k coins | +36.9% | +29% |
-| Julie Foudy | 88 | Icons | 38k coins | +34.8% | +29.2% |
-| Sara Däbritz | 86 | Liga F | 54k coins | +33.3% | +15.6% |
+| Alexia Putellas | 92 | Liga F | 65k coins | +38.3% | -16.7% |
+| Sara Däbritz | 86 | Liga F | 54k coins | +37.2% | +18.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mariona (90)** subiu **+57.9%** em 24h, a **120k coins** (faixa do dia: 74k–120k). Está +26% acima da média de 7 dias (aquecida).
+- **Mariona (90)** subiu **+58.9%** em 24h, a **120k coins** (faixa do dia: 74k–120k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Karen Araya (86)** subiu **+56.1%** em 24h, a **22k coins** (faixa do dia: 12.000–22k). Está +14% acima da média de 7 dias (aquecida).
+- **Julie Foudy (90)** subiu **+58.3%** em 24h, a **120k coins** (faixa do dia: 82k–145k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Kobbie Mainoo (90)** subiu **+48.3%** em 24h, a **94k coins** (faixa do dia: 56k–170k). Está +12% acima da média de 7 dias (aquecida).
+- **Vitinha (90)** subiu **+54.7%** em 24h, a **82k coins** (faixa do dia: 74k–129k). Está em linha com a média de 7 dias (-5%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mikel Merino | 99 | — | 535k coins | -45.3% | — |
-| Patrick Vieira | 88 | Icons | 133k coins | -37.1% | -48.2% |
-| Tijjani Reijnders | 87 | Premier League | 48k coins | -31.6% | +1% |
-| João Neves | 88 | Ligue 1 McDonald's | 24k coins | -26.5% | -40.5% |
-| Patrick Vieira | 86 | Icons | 438k coins | -25.1% | -35.6% |
-| Paula Fernández | 88 | — | 34k coins | -24.4% | -10.5% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 73k coins | -24.4% | -44.7% |
-| Andrea Pirlo | 90 | Icons | 110k coins | -24.3% | -14.2% |
-| Luka Modrić | 90 | Serie A TIM | 86k coins | -22.2% | -46.2% |
-| Fabián Ruiz | 95 | — | 26k coins | -21.9% | -29.6% |
+| Jessie Fleming | 86 | NWSL | 50k coins | -48.7% | +30.3% |
+| Pedri | 99 | — | 791k coins | -30.1% | — |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 35k coins | -29.5% | -1.3% |
+| Tijjani Reijnders | 87 | Premier League | 43k coins | -27.1% | -7.9% |
+| Patrick Vieira | 86 | Icons | 410k coins | -25.9% | -39% |
+| Mikel Merino | 99 | — | 590k coins | -25.8% | — |
+| Angel Gomes | 83 | Ligue 1 McDonald's | 22k coins | -24.1% | -40.9% |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 34k coins | -22.4% | -14% |
+| Jude Bellingham | 98 | — | 900k coins | -21.1% | — |
+| Steven Gerrard | 89 | Icons | 111k coins | -17.2% | -27.9% |
 
 
 ### Análise das baixas
 
-- **Mikel Merino (99)** caiu **-45.3%** em 24h, a **535k coins** (faixa do dia: 494k–906k). Está -37% abaixo da média de 7 dias (descontada).
+- **Jessie Fleming (86)** caiu **-48.7%** em 24h, a **50k coins** (faixa do dia: 50k–111k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Patrick Vieira (88)** caiu **-37.1%** em 24h, a **133k coins** (faixa do dia: 123k–190k). Está -35% abaixo da média de 7 dias (descontada).
+- **Pedri (99)** caiu **-30.1%** em 24h, a **791k coins** (faixa do dia: 695k–1.05M). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Tijjani Reijnders (87)** caiu **-31.6%** em 24h, a **48k coins** (faixa do dia: 35k–98k). Está -9% abaixo da média de 7 dias (descontada).
+- **Hinata Miyazawa (87)** caiu **-29.5%** em 24h, a **35k coins** (faixa do dia: 34k–63k). Está -22% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mariona já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mariona já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mikel Merino recuou -45.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jessie Fleming recuou -48.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Mariona (90, Barclays WSL), com +57.9% em 24h, a 120k coins no Console (PS).
+Mariona (90, Barclays WSL), com +58.9% em 24h, a 120k coins no Console (PS).
 
 **E a maior queda do dia?**
-Mikel Merino (99), -45.3% em 24h, a 535k coins.
+Jessie Fleming (86), -48.7% em 24h, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 112 cartas em alta contra 137 em queda (média 0.47%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 101 cartas em alta contra 133 em queda (média 1.26%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
