@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:46:20.000Z
+pubDatetime: 2026-07-23T13:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 23/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 8.512 coins.
-- **Posição mais frequente:** CM, com 8 cartas.
-- **Faixa real:** 3.800 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 9.675 coins.
+- **Posição mais frequente:** CM, com 10 cartas.
+- **Faixa real:** 1.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,27 +40,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 10.750 coins | -6.2% |
-| Gustavo Puerta | 94 | CM | — | 10.750 coins | -6.2% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.800 coins | -4.8% |
-| Mariona | 89 | CM | Barclays WSL | 4.500 coins | +9.8% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.800 coins | -3.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 7.000 coins | +29.1% |
-| Jess Park | 89 | CM | Barclays WSL | 14.750 coins | +12.6% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 10.750 coins | +33.8% |
+| Stephen Eustáquio | 95 | CM | — | 10.750 coins | -6.1% |
+| Gustavo Puerta | 94 | CM | — | 11.500 coins | -4.2% |
+| Caleb Yirenkyi | 94 | CM | — | 14.500 coins | -5% |
+| Paul Wanner | 94 | CM | — | 14.500 coins | -3.3% |
+| Noah Sadiki | 93 | CM | — | 14.750 coins | -3.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.400 coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 7.700 coins | +41.8% |
+| Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 1.800 coins | +20% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.250 coins | 0% |
+| Fabián Ruiz | 85 | CM | Ligue 1 McDonald's | 1.600 coins | +8.3% |
 
 
 ## 📈 Destaques
 
 - **Stephen Eustáquio (95, CM)** da —, a apenas **10.750 coins**
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **10.750 coins**
+- **Gustavo Puerta (94, CM)** da —, a apenas **11.500 coins**
 
-- **Vitinha (89, CM)** da Ligue 1 McDonald's, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Caleb Yirenkyi (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Paul Wanner (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **5.800 coins**
+- **Noah Sadiki (93, CM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
