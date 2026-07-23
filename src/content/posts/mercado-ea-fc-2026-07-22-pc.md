@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:46:17.000Z
+pubDatetime: 2026-07-23T01:46:16.000Z
 title: "Mercado EA FC em 22/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Julia Grosso (88, NWSL), com +60% em 24h, a 50k coins no PC."
+    a: "Vicky López (87, Liga F), com +55.8% em 24h, a 120k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Richard Ríos (88), -48.7% em 24h, a 102k coins."
+    a: "Tijjani Reijnders (93), -37.8% em 24h, a 300k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 108 cartas em alta contra 130 em queda (média 0.72%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 113 cartas em alta contra 122 em queda (média 2.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **22/07/2026** no PC: mercado **lateral** — sem direção clara. **108 valorizações** contra **130 quedas** entre as cartas relevantes, com média de **0.72%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **22/07/2026** no PC: mercado **em alta** — predominam as valorizações. **113 valorizações** contra **122 quedas** entre as cartas relevantes, com média de **2.46%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Julia Grosso (88) **+60%** · 🔴 **Maior baixa:** Richard Ríos (88) **-48.7%**
+> 🟢 **Maior alta:** Vicky López (87) **+55.8%** · 🔴 **Maior baixa:** Tijjani Reijnders (93) **-37.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **22/07/2026** no PC: mercado **lateral** — sem direção clara. **1
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.4% entre as cartas que se moveram; o universo observado reúne 277 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 93.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.1% entre as cartas que se moveram; o universo observado reúne 274 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julia Grosso | 88 | NWSL | 50k coins | +60% | +68.4% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 22k coins | +55.2% | -25% |
-| Alyssa Thompson | 86 | Barclays Women’s Super League | 40k coins | +47.7% | +21.9% |
-| Martin Ødegaard | 88 | Premier League | 100k coins | +47.6% | -14.7% |
-| Martin Ødegaard | 87 | Premier League | 296k coins | +47.3% | -15.4% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 32k coins | +47.1% | +17.4% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 55k coins | +46.7% | -6.8% |
-| Giada Greggi | 87 | Calcio A Femminile | 26k coins | +45.9% | -19.1% |
-| Hayley Lauder | 85 | Scottish Women's League | 36k coins | +45.6% | +11.9% |
-| Jill Scott | 91 | Barclays WSL | 125k coins | +39.7% | +4.2% |
+| Vicky López | 87 | Liga F | 120k coins | +55.8% | +60% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 55k coins | +48.3% | -8.4% |
+| Scott McTominay | 87 | Serie A TIM | 160k coins | +48.1% | +33.3% |
+| Jill Scott | 87 | Barclays WSL | 33k coins | +44.7% | +22.5% |
+| Alexia Putellas | 91 | — | 22k coins | +42.4% | — |
+| Jill Scott | 91 | Barclays WSL | 110k coins | +40.4% | +4.2% |
+| Lothar Matthäus | 90 | Icons | 199k coins | +40.1% | +5.3% |
+| Hayley Lauder | 85 | Scottish Women's League | 32k coins | +39.6% | -15.7% |
+| Daniel Svensson | 84 | Bundesliga | 32k coins | +39.6% | -2.3% |
+| Paula Fernández | 88 | — | 53k coins | +39.2% | +3.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **22/07/2026** no PC: mercado **lateral** — sem direção clara. **1
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Julia Grosso (88)** subiu **+60%** em 24h, a **50k coins** (faixa do dia: 28k–69k). Está +16% acima da média de 7 dias (aquecida).
+- **Vicky López (87)** subiu **+55.8%** em 24h, a **120k coins** (faixa do dia: 75k–130k). Está +43% acima da média de 7 dias (aquecida).
 
-- **Corentin Tolisso (85)** subiu **+55.2%** em 24h, a **22k coins** (faixa do dia: 11.750–28k). Está -16% abaixo da média de 7 dias (descontada).
+- **Mario Lemina (88)** subiu **+48.3%** em 24h, a **55k coins** (faixa do dia: 38k–66k). Está em linha com a média de 7 dias (-6%).
 
-- **Alyssa Thompson (86)** subiu **+47.7%** em 24h, a **40k coins** (faixa do dia: 32k–50k). Está -16% abaixo da média de 7 dias (descontada).
+- **Scott McTominay (87)** subiu **+48.1%** em 24h, a **160k coins** (faixa do dia: 100k–160k). Está +41% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Richard Ríos | 88 | Liga Portugal | 102k coins | -48.7% | -45.9% |
-| Patrik Mercado | 91 | — | 55k coins | -45.7% | -16.7% |
-| Toni Kroos | 91 | Icons | 276k coins | -38.7% | -18.8% |
-| Tijjani Reijnders | 87 | Premier League | 101k coins | -37.8% | -12.9% |
 | Tijjani Reijnders | 93 | Premier League | 300k coins | -37.8% | -45.5% |
-| Paul Scholes | 88 | Icons | 66k coins | -37.3% | -17.9% |
-| Hakan Çalhanoğlu | 88 | — | 35k coins | -34.1% | -31.6% |
-| Bruno Guimarães | 92 | — | 25k coins | -33.3% | +4.2% |
-| Vitinha | 90 | Ligue 1 McDonald's | 86k coins | -32.7% | -54.5% |
-| Nadiem Amiri | 88 | Bundesliga | 22k coins | -30.8% | -5.3% |
+| Camille Abily | 90 | Icons | 94k coins | -36.2% | +39.7% |
+| Aitana Bonmatí | 96 | — | 650k coins | -32.9% | -27.7% |
+| Aleix Febas | 83 | LALIGA EA SPORTS | 40k coins | -32.5% | -41.7% |
+| Xavi | 92 | Icons | 210k coins | -32.3% | -22.8% |
+| Koke | 88 | LALIGA EA SPORTS | 89k coins | -31% | -10.1% |
+| Gabriel Sara | 83 | Trendyol Süper Lig | 48k coins | -30.3% | -0.5% |
+| Patrick Vieira | 86 | Icons | 690k coins | -29.3% | -61.1% |
+| Warren Zaïre-Emery | 96 | — | 760k coins | -27.6% | -68.1% |
+| Steven Gerrard | 90 | Icons | 165k coins | -25.8% | -15% |
 
 
 ### Análise das baixas
 
-- **Richard Ríos (88)** caiu **-48.7%** em 24h, a **102k coins** (faixa do dia: 98k–195k). Está -45% abaixo da média de 7 dias (descontada).
+- **Tijjani Reijnders (93)** caiu **-37.8%** em 24h, a **300k coins** (faixa do dia: 300k–544k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Patrik Mercado (91)** caiu **-45.7%** em 24h, a **55k coins** (faixa do dia: 25k–55k). Está +39% acima da média de 7 dias (aquecida).
+- **Camille Abily (90)** caiu **-36.2%** em 24h, a **94k coins** (faixa do dia: 94k–178k). Está em linha com a média de 7 dias (-8%).
 
-- **Toni Kroos (91)** caiu **-38.7%** em 24h, a **276k coins** (faixa do dia: 276k–450k). Está -19% abaixo da média de 7 dias (descontada).
+- **Aitana Bonmatí (96)** caiu **-32.9%** em 24h, a **650k coins** (faixa do dia: 500k–1M). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Julia Grosso já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Vicky López já avançou 55.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Richard Ríos recuou -48.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tijjani Reijnders recuou -37.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Julia Grosso (88, NWSL), com +60% em 24h, a 50k coins no PC.
+Vicky López (87, Liga F), com +55.8% em 24h, a 120k coins no PC.
 
 **E a maior queda do dia?**
-Richard Ríos (88), -48.7% em 24h, a 102k coins.
+Tijjani Reijnders (93), -37.8% em 24h, a 300k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 108 cartas em alta contra 130 em queda (média 0.72%).
+Hoje o mercado está em alta — predominam as valorizações, com 113 cartas em alta contra 122 em queda (média 2.46%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
