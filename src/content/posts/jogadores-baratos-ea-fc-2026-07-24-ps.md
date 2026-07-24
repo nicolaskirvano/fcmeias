@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:46:10.000Z
+pubDatetime: 2026-07-24T16:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.950 coins.
-- **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 10.971 coins.
+- **Posição mais frequente:** CM, com 14 cartas.
+- **Faixa real:** 1.700 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 12.000 coins | +6.7% |
-| Gustavo Puerta | 94 | CM | — | 11.250 coins | +7% |
-| Caleb Yirenkyi | 94 | CM | — | 14.500 coins | +7.4% |
-| Noah Sadiki | 93 | CM | — | 12.000 coins | +5.4% |
-| Mohammed Kanno | 92 | CM | — | 14.750 coins | -6.2% |
-| Alexia Putellas | 91 | CM | — | 14.000 coins | +10% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14.500 coins | +16.7% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12.250 coins | -13.3% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 13.500 coins | 0% |
+| Stephen Eustáquio | 95 | CM | — | 12.000 coins | +4.3% |
+| Gustavo Puerta | 94 | CM | — | 12.000 coins | +6.7% |
+| Caleb Yirenkyi | 94 | CM | — | 13.750 coins | +7.4% |
+| Paul Wanner | 94 | CM | — | 13.750 coins | +7.4% |
+| Noah Sadiki | 93 | CM | — | 14.000 coins | +7.4% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 2.900 coins | -11.4% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.000 coins | -9.5% |
+| Jack McGlynn | 87 | CM | MLS | 13.750 coins | +1.8% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.500 coins | -3.3% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
-| Fara Williams | 86 | CM | Barclays WSL | 13.250 coins | +3.9% |
-| Olivia Moultrie | 86 | CM | NWSL | 13.750 coins | +12.2% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12.000 coins | -5.9% |
-| Jill Scott | 85 | CM | Barclays Women’s Super League | 13.500 coins | +17.4% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12.750 coins | +6.2% |
+| Jill Scott | 85 | CM | Barclays Women’s Super League | 13.500 coins | +8% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 13.500 coins | +3.4% |
+| Arianna Caruso | 83 | CM | Calcio A Femminile | 1.700 coins | +47.4% |
 
 
 ## 📈 Destaques
 
-- **Stephen Eustáquio (95, CM)** da —, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Stephen Eustáquio (95, CM)** da —, a apenas **12.000 coins**
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gustavo Puerta (94, CM)** da —, a apenas **12.000 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.750 coins**
 
-- **Noah Sadiki (93, CM)** da —, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Paul Wanner (94, CM)** da —, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mohammed Kanno (92, CM)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Noah Sadiki (93, CM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
