@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:46:18.000Z
+pubDatetime: 2026-07-24T01:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Leon Goretzka (94, sem liga) lidera, com +65.3% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Leon Goretzka (94, sem liga) lidera, com +55.4% em 7 dias a 49k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Leon Goretzka (94) acumula **+65.3% em 7 dias** a 42k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Leon Goretzka (94) acumula **+55.4% em 7 dias** a 49k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.0% em 24h** e **+22.4% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.1% em 24h** e **+46.9% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Leon Goretzka | 94 | — | 42k coins | +29.9% | +65.3% | Esticada |
-| Guti | 86 | LALIGA EA SPORTS | 25k coins | +19.1% | +60.6% | Esticada |
-| Valentín Barco | 95 | — | 39k coins | +13.2% | +57.9% | Momentum moderado |
-| Gabriel Villamíl | 91 | — | 50k coins | +5.3% | +36.1% | Momentum moderado |
-| Paul Wanner | 94 | — | 15.750 coins | +1.7% | +29.8% | Momentum moderado |
-| Noah Sadiki | 93 | — | 15.750 coins | +1.6% | +29.2% | Momentum moderado |
-| Alexis Mac Allister | 91 | — | 132k coins | +16.7% | +27.3% | Momentum moderado |
-| Nicolae Stanciu | 86 | Serie A TIM | 120k coins | +9.1% | +22.4% | Momentum moderado |
-| George Dobson | 84 | EFL Championship | 48k coins | +21.8% | +19.5% | Esticada |
-| Jess Park | 89 | Barclays WSL | 31k coins | +35.8% | +19.4% | Esticada |
-| Fara Williams | 86 | Barclays WSL | 17.750 coins | +18.3% | +18.3% | Momentum moderado |
-| Svenja Huth | 86 | GPFBL | 48k coins | +13% | +17.6% | Momentum moderado |
-| Pape Gueye | 95 | — | 82k coins | +10.5% | +13.1% | Momentum moderado |
-| Benjamin Nygren | 90 | — | 45k coins | +7.1% | +12.5% | Momentum moderado |
-| Géraldine Reuteler | 87 | GPFBL | 57k coins | +11.8% | +9.6% | Momentum moderado |
+| Leon Goretzka | 94 | — | 49k coins | +22.1% | +55.4% | Esticada |
+| Guti | 86 | LALIGA EA SPORTS | 22k coins | +24% | +55% | Esticada |
+| Yasin Ayari | 96 | — | 39k coins | +16.1% | +52.9% | Momentum moderado |
+| Bruno Guimarães | 87 | Premier League | 64k coins | +30.2% | +52.4% | Esticada |
+| Fara Williams | 86 | Barclays WSL | 18.000 coins | +34% | +47.9% | Esticada |
+| Julie Foudy | 88 | Icons | 22k coins | +26.7% | +47.3% | Esticada |
+| Luis Milla | 90 | — | 64k coins | +3.2% | +47.1% | Momentum moderado |
+| Mahamadou Doumbia | 91 | — | 61k coins | +28.7% | +46.9% | Esticada |
+| Fara Williams | 88 | Barclays WSL | 60k coins | +32.2% | +33.7% | Esticada |
+| Estefanía Banini | 89 | Liga F | 27k coins | +19% | +32.2% | Momentum moderado |
+| Cesc Fàbregas | 88 | Premier League | 19.750 coins | +14.5% | +31.7% | Momentum moderado |
+| Noah Sadiki | 93 | — | 15.000 coins | +5% | +28.6% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 48k coins | +33.8% | +25% | Esticada |
+| Jack McGlynn | 87 | MLS | 24k coins | +17.9% | +16.2% | Momentum moderado |
+| Jill Scott | 85 | Barclays Women’s Super League | 18.750 coins | +7.1% | +13.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Leon Goretzka (94)** — 42k coins, **+65.3% em 7 dias** (+29.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leon Goretzka (94)** — 49k coins, **+55.4% em 7 dias** (+22.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Guti (86)** — 25k coins, **+60.6% em 7 dias** (+19.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Guti (86)** — 22k coins, **+55% em 7 dias** (+24% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Valentín Barco (95)** — 39k coins, **+57.9% em 7 dias** (+13.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yasin Ayari (96)** — 39k coins, **+52.9% em 7 dias** (+16.1% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Villamíl (91)** — 50k coins, **+36.1% em 7 dias** (+5.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bruno Guimarães (87)** — 64k coins, **+52.4% em 7 dias** (+30.2% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Wanner (94)** — 15.750 coins, **+29.8% em 7 dias** (+1.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fara Williams (86)** — 18.000 coins, **+47.9% em 7 dias** (+34% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Leon Goretzka (94, sem liga) lidera, com +65.3% em 7 dias a 42k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Leon Goretzka (94, sem liga) lidera, com +55.4% em 7 dias a 49k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Meio-campistas em 23/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-23-pc/)
 - [Mercado EA FC em 23/07: Meio-campistas — PC](/posts/mercado-ea-fc-2026-07-23-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

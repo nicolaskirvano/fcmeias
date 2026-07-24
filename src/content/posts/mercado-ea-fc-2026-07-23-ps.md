@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:46:07.000Z
+pubDatetime: 2026-07-24T01:46:07.000Z
 title: "Mercado EA FC em 23/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Weston McKennie (92, Serie A TIM), com +53.3% em 24h, a 69k coins no Console (PS)."
+    a: "Christian Eriksen (87, Bundesliga), com +45.8% em 24h, a 52k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Roy Keane (88), -39% em 24h, a 349k coins."
+    a: "Khéphren Thuram (87), -34.1% em 24h, a 68k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 92 cartas em alta contra 128 em queda (média 0.9%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 86 cartas em alta contra 120 em queda (média -0.24%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **92 subiram**, **128 caíram** (80+ e 5k+ coins), média de **0.9%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **86 subiram**, **120 caíram** (80+ e 5k+ coins), média de **-0.24%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Weston McKennie (92) **+53.3%** · 🔴 **Maior baixa:** Roy Keane (88) **-39%**
+> 🟢 **Maior alta:** Christian Eriksen (87) **+45.8%** · 🔴 **Maior baixa:** Khéphren Thuram (87) **-34.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.8% entre as cartas que se moveram; o universo observado reúne 256 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 79.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.7% entre as cartas que se moveram; o universo observado reúne 256 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Weston McKennie | 92 | Serie A TIM | 69k coins | +53.3% | +86.5% |
-| Sakina Karchaoui | 91 | D1 Arkema | 100k coins | +45.7% | +10.6% |
-| Nicolae Stanciu | 86 | Serie A TIM | 56k coins | +44.9% | -2.6% |
-| Caroline Seger | 90 | Sverige Liga | 127k coins | +33.3% | +76.6% |
-| Paul Wanner | 84 | Eredivisie | 42k coins | +30.1% | +25% |
-| Vitinha | 95 | Ligue 1 McDonald's | 230k coins | +30.1% | -25% |
-| Mikel Merino | 95 | — | 58k coins | +27.6% | -47.1% |
-| Toni Kroos | 95 | — | 100k coins | +25.6% | -18.1% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 21k coins | +25% | -29.2% |
-| Lucas Paquetá | 84 | Premier League | 45k coins | +23.1% | -4.6% |
+| Christian Eriksen | 87 | Bundesliga | 52k coins | +45.8% | +75% |
+| Keira Walsh | 86 | Barclays WSL | 45k coins | +45.2% | +54.7% |
+| Jill Scott | 94 | — | 45k coins | +40.8% | -28.4% |
+| Svenja Huth | 86 | GPFBL | 55k coins | +38.4% | +18.9% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 62k coins | +37.8% | +24% |
+| Paula Fernández | 88 | — | 41k coins | +37.5% | +24.5% |
+| Camille Abily | 92 | Icons | 56k coins | +36.6% | -19.4% |
+| Bernardo Silva | 86 | Premier League | 52k coins | +35.5% | +20% |
+| Richard Ríos | 88 | Liga Portugal | 148k coins | +30% | +3.7% |
+| Paul Wanner | 84 | Eredivisie | 45k coins | +28.8% | +27% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**23/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Weston McKennie (92)** subiu **+53.3%** em 24h, a **69k coins** (faixa do dia: 40k–69k). Está +50% acima da média de 7 dias (aquecida).
+- **Christian Eriksen (87)** subiu **+45.8%** em 24h, a **52k coins** (faixa do dia: 25k–85k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Sakina Karchaoui (91)** subiu **+45.7%** em 24h, a **100k coins** (faixa do dia: 68k–118k). Está em linha com a média de 7 dias (+3%).
+- **Keira Walsh (86)** subiu **+45.2%** em 24h, a **45k coins** (faixa do dia: 33k–54k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Nicolae Stanciu (86)** subiu **+44.9%** em 24h, a **56k coins** (faixa do dia: 38k–58k). Está +12% acima da média de 7 dias (aquecida).
+- **Jill Scott (94)** subiu **+40.8%** em 24h, a **45k coins** (faixa do dia: 25k–46k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roy Keane | 88 | Icons | 349k coins | -39% | -18.8% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 24k coins | -34.3% | -34.3% |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 611k coins | -34.1% | -49.6% |
-| Yaya Touré | 88 | Premier League | 620k coins | -33.2% | -50.6% |
-| Daichi Kamada | 96 | — | 222k coins | -29.7% | -43.8% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 344k coins | -25.3% | -48.3% |
-| Bruno Guimarães | 89 | Premier League | 22k coins | -25% | -36.6% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 24k coins | -24.2% | -6.2% |
-| Homare Sawa | 92 | Icons | 433k coins | -23.7% | -14.5% |
-| Bruno Guimarães | 92 | — | 21k coins | -22.7% | -28% |
+| Khéphren Thuram | 87 | Serie A TIM | 68k coins | -34.1% | -42.6% |
+| Alexis Mac Allister | 91 | — | 84k coins | -30.1% | -36.3% |
+| Rose Lavelle | 89 | NWSL | 56k coins | -30% | +47.4% |
+| Yaya Touré | 88 | Premier League | 683k coins | -29.9% | -46.1% |
+| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 199k coins | -28.9% | -49% |
+| Joelinton | 87 | Premier League | 88k coins | -28% | +1.7% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 40k coins | -24.5% | +6.4% |
+| Tijjani Reijnders | 93 | Premier League | 152k coins | -24.5% | -31.2% |
+| Vitinha | 90 | Ligue 1 McDonald's | 97k coins | -23.1% | -28.6% |
+| Weston McKennie | 92 | Serie A TIM | 49k coins | -22.3% | +34.5% |
 
 
 ### Análise das baixas
 
-- **Roy Keane (88)** caiu **-39%** em 24h, a **349k coins** (faixa do dia: 349k–574k). Está -20% abaixo da média de 7 dias (descontada).
+- **Khéphren Thuram (87)** caiu **-34.1%** em 24h, a **68k coins** (faixa do dia: 40k–90k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Mario Lemina (88)** caiu **-34.3%** em 24h, a **24k coins** (faixa do dia: 22k–36k). Está -23% abaixo da média de 7 dias (descontada).
+- **Alexis Mac Allister (91)** caiu **-30.1%** em 24h, a **84k coins** (faixa do dia: 60k–155k). Está -8% abaixo da média de 7 dias (descontada).
 
-- **Paul Pogba (89)** caiu **-34.1%** em 24h, a **611k coins** (faixa do dia: 541k–945k). Está -29% abaixo da média de 7 dias (descontada).
+- **Rose Lavelle (89)** caiu **-30%** em 24h, a **56k coins** (faixa do dia: 48k–80k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Weston McKennie já avançou 53.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Christian Eriksen já avançou 45.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Roy Keane recuou -39%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Khéphren Thuram recuou -34.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Weston McKennie (92, Serie A TIM), com +53.3% em 24h, a 69k coins no Console (PS).
+Christian Eriksen (87, Bundesliga), com +45.8% em 24h, a 52k coins no Console (PS).
 
 **E a maior queda do dia?**
-Roy Keane (88), -39% em 24h, a 349k coins.
+Khéphren Thuram (87), -34.1% em 24h, a 68k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 92 cartas em alta contra 128 em queda (média 0.9%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 86 cartas em alta contra 120 em queda (média -0.24%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
