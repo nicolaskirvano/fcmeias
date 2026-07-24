@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:46:20.000Z
+pubDatetime: 2026-07-24T19:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 24/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC."
+    a: "Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Stephen Eustáquio (95) por apenas 12.000 coins.
+> 💰 **Melhor pechincha:** Stephen Eustáquio (95) por apenas 12.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Meio-campistas em 24/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-24-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 12.006 coins.
-- **Posição mais frequente:** CM, com 8 cartas.
-- **Faixa real:** 4.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 10.812 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 4.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 12.000 coins | +4.3% |
-| Gustavo Puerta | 94 | CM | — | 11.750 coins | +4.3% |
-| Caleb Yirenkyi | 94 | CM | — | 14.000 coins | +5.3% |
-| Paul Wanner | 94 | CM | — | 14.250 coins | -6.7% |
-| Noah Sadiki | 93 | CM | — | 14.000 coins | -1.8% |
-| Alexia Putellas | 91 | CM | — | 11.250 coins | -1.7% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14.000 coins | -12.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.800 coins | -10.9% |
+| Stephen Eustáquio | 95 | CM | — | 12.250 coins | +4.3% |
+| Gustavo Puerta | 94 | CM | — | 12.000 coins | +4.3% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.500 coins | -4.2% |
+| Thelo Aasgaard | 87 | CM | Scottish Premiership | 14.500 coins | -13.9% |
 
 
 ## 📈 Destaques
 
-- **Stephen Eustáquio (95, CM)** da —, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Stephen Eustáquio (95, CM)** da —, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gustavo Puerta (94, CM)** da —, a apenas **12.000 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Federico Valverde (89, CM)** da LALIGA EA SPORTS, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Paul Wanner (94, CM)** da —, a apenas **14.250 coins**
-
-- **Noah Sadiki (93, CM)** da —, a apenas **14.000 coins**
+- **Thelo Aasgaard (87, CM)** da Scottish Premiership, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Stephen Eustáquio (95, CM) por 12.000 coins é a referência de rating deste recorte.
+- **Meio:** Stephen Eustáquio (95, CM) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -84,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC.
+Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

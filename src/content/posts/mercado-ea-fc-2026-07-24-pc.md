@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:46:17.000Z
+pubDatetime: 2026-07-24T19:46:17.000Z
 title: "Mercado EA FC em 24/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Adrien Thomasson (85, Ligue 1 McDonald's), com +52.5% em 24h, a 28k coins no PC."
+    a: "Benjamin Nygren (90, sem liga), com +54.7% em 24h, a 73k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nadine Keßler (90), -45.5% em 24h, a 30k coins."
+    a: "Toni Kroos (90), -49.2% em 24h, a 86k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 101 cartas em alta contra 112 em queda (média 3.35%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 82 cartas em alta contra 104 em queda (média 0.8%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **101 subiram** e **112 caíram**, com variação média de **3.35%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **82 subiram** e **104 caíram**, com variação média de **0.8%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Adrien Thomasson (85) **+52.5%** · 🔴 **Maior baixa:** Nadine Keßler (90) **-45.5%**
+> 🟢 **Maior alta:** Benjamin Nygren (90) **+54.7%** · 🔴 **Maior baixa:** Toni Kroos (90) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -35,24 +35,24 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.4% entre as cartas que se moveram; o universo observado reúne 264 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.1% entre as cartas que se moveram; o universo observado reúne 230 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 28k coins | +52.5% | +10.9% |
-| Jess Fishlock | 88 | NWSL | 37k coins | +49.2% | -18.5% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 28k coins | +47.5% | -39.5% |
-| Toni Kroos | 91 | Icons | 447k coins | +46.1% | +31.5% |
+| Benjamin Nygren | 90 | — | 73k coins | +54.7% | +82.6% |
+| Weston McKennie | 92 | Serie A TIM | 64k coins | +54.4% | +42.7% |
+| Steven Gerrard | 90 | Icons | 240k coins | +49.1% | +20% |
+| Martin Ødegaard | 87 | Premier League | 400k coins | +45.5% | +48.7% |
+| Vitinha | 96 | — | 8M coins | +44.9% | +33.3% |
 | Vitinha | 91 | Ligue 1 McDonald's | 680k coins | +44.4% | -43.3% |
-| Vitinha | 96 | — | 8M coins | +42.9% | +33.3% |
-| Kevin Stöger | 86 | Bundesliga | 44k coins | +42.1% | +42.1% |
-| João Neves | 96 | — | 558k coins | +40% | -25.1% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 28k coins | +39.5% | -5% |
-| Ismael Saibari | 87 | — | 44k coins | +38.4% | +6.1% |
+| Nadine Keßler | 89 | GPFBL | 30k coins | +39.5% | +42.9% |
+| João Neves | 96 | — | 552k coins | +39.4% | -25.4% |
+| Estefanía Banini | 89 | Liga F | 33k coins | +37.9% | +33.7% |
+| Christoph Baumgartner | 86 | Bundesliga | 47k coins | +35.9% | +6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Adrien Thomasson (85)** subiu **+52.5%** em 24h, a **28k coins** (faixa do dia: 15.750–32k). Está +23% acima da média de 7 dias (aquecida).
+- **Benjamin Nygren (90)** subiu **+54.7%** em 24h, a **73k coins** (faixa do dia: 40k–75k). Está +55% acima da média de 7 dias (aquecida).
 
-- **Jess Fishlock (88)** subiu **+49.2%** em 24h, a **37k coins** (faixa do dia: 14.750–38k). Está +40% acima da média de 7 dias (aquecida).
+- **Weston McKennie (92)** subiu **+54.4%** em 24h, a **64k coins** (faixa do dia: 28k–76k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Musab Al Juwair (87)** subiu **+47.5%** em 24h, a **28k coins** (faixa do dia: 16.000–36k). Está em linha com a média de 7 dias (-0%).
+- **Steven Gerrard (90)** subiu **+49.1%** em 24h, a **240k coins** (faixa do dia: 128k–240k). Está +24% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nadine Keßler | 90 | GPFBL | 30k coins | -45.5% | -15.5% |
-| Simone Laudehr | 91 | GPFBL | 30k coins | -45.5% | -33.3% |
-| Gabriel Sara | 83 | Trendyol Süper Lig | 36k coins | -42.5% | -42.1% |
+| Toni Kroos | 90 | Icons | 86k coins | -49.2% | -9.5% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 41k coins | -48.8% | -55.9% |
+| Paul Pogba | 92 | Ligue 1 McDonald's | 900k coins | -48.5% | -64.8% |
+| Gabriel Sara | 83 | Trendyol Süper Lig | 36k coins | -47.5% | -42.1% |
+| Enzo Fernández | 91 | Premier League | 70k coins | -44% | -30.5% |
+| Nadine Keßler | 90 | GPFBL | 32k coins | -42.3% | -10.6% |
 | Paul Scholes | 91 | Icons | 110k coins | -41.8% | -31.2% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 39k coins | -37.4% | -63.5% |
-| Fabián Ruiz | 96 | — | 369k coins | -34.1% | -53.8% |
-| Lothar Matthäus | 91 | Icons | 1.15M coins | -32.4% | -8.8% |
-| André-Franck Zambo Anguissa | 84 | Serie A TIM | 31k coins | -32.2% | -20% |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 28k coins | -31.9% | -8.9% |
-| Sakina Karchaoui | 91 | D1 Arkema | 92k coins | -28.9% | -31.4% |
+| Federico Valverde | 94 | — | 310k coins | -33.2% | -28.8% |
+| Janina Minge | 88 | — | 21k coins | -33.1% | +22.5% |
+| Olivia Moultrie | 86 | NWSL | 30k coins | -33% | -13.5% |
 
 
 ### Análise das baixas
 
-- **Nadine Keßler (90)** caiu **-45.5%** em 24h, a **30k coins** (faixa do dia: 30k–65k). Está -34% abaixo da média de 7 dias (descontada).
+- **Toni Kroos (90)** caiu **-49.2%** em 24h, a **86k coins** (faixa do dia: 81k–178k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Simone Laudehr (91)** caiu **-45.5%** em 24h, a **30k coins** (faixa do dia: 30k–55k). Está -37% abaixo da média de 7 dias (descontada).
+- **Aurélien Tchouaméni (87)** caiu **-48.8%** em 24h, a **41k coins** (faixa do dia: 41k–81k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Gabriel Sara (83)** caiu **-42.5%** em 24h, a **36k coins** (faixa do dia: 36k–70k). Está -32% abaixo da média de 7 dias (descontada).
+- **Paul Pogba (92)** caiu **-48.5%** em 24h, a **900k coins** (faixa do dia: 891k–1.77M). Está -59% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Adrien Thomasson já avançou 52.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Benjamin Nygren já avançou 54.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nadine Keßler recuou -45.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Toni Kroos recuou -49.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Adrien Thomasson (85, Ligue 1 McDonald's), com +52.5% em 24h, a 28k coins no PC.
+Benjamin Nygren (90, sem liga), com +54.7% em 24h, a 73k coins no PC.
 
 **E a maior queda do dia?**
-Nadine Keßler (90), -45.5% em 24h, a 30k coins.
+Toni Kroos (90), -49.2% em 24h, a 86k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 101 cartas em alta contra 112 em queda (média 3.35%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 82 cartas em alta contra 104 em queda (média 0.8%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vitinha</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Svenja Huth</text>
-<rect x="285" y="153" width="435" height="28" rx="7" fill="#22c55e"/>
-<text x="730" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Martin Ødegaard</text>
-<rect x="285" y="211" width="432" height="28" rx="7" fill="#22c55e"/>
-<text x="727" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabián Ruiz</text>
-<rect x="285" y="269" width="385" height="28" rx="7" fill="#22c55e"/>
-<text x="680" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrick Vieira</text>
-<rect x="285" y="327" width="376" height="28" rx="7" fill="#22c55e"/>
-<text x="671" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bastian Schweinsteiger</text>
-<rect x="285" y="385" width="342" height="28" rx="7" fill="#22c55e"/>
-<text x="637" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Lemina</text>
+<rect x="285" y="153" width="398" height="28" rx="7" fill="#22c55e"/>
+<text x="693" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Can Uzun</text>
+<rect x="285" y="211" width="346" height="28" rx="7" fill="#22c55e"/>
+<text x="641" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Senny Mayulu</text>
+<rect x="285" y="269" width="342" height="28" rx="7" fill="#22c55e"/>
+<text x="637" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tijjani Reijnders</text>
+<rect x="285" y="327" width="338" height="28" rx="7" fill="#22c55e"/>
+<text x="633" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lily Yohannes</text>
+<rect x="285" y="385" width="327" height="28" rx="7" fill="#22c55e"/>
+<text x="622" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.3%</text>
 </svg>
