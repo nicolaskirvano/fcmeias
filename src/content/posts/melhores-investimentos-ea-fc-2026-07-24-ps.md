@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:46:09.000Z
+pubDatetime: 2026-07-24T22:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Lily Yohannes (91, sem liga) lidera, com +76.7% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Koke (84, LALIGA EA SPORTS) lidera, com +39% em 7 dias a 47k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lily Yohannes (91) acumula **+76.7% em 7 dias** a 26k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Koke (84) acumula **+39% em 7 dias** a 47k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.6% em 24h** e **+25.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.9% em 24h** e **+13.1% em 7 dias**.
+- **1 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lily Yohannes | 91 | — | 26k coins | +11.6% | +76.7% | Esticada |
-| Nadine Keßler | 90 | GPFBL | 69k coins | +25.5% | +73.6% | Esticada |
-| Tijjani Reijnders | 87 | Premier League | 65k coins | +29.2% | +68.1% | Esticada |
-| Fara Williams | 88 | Barclays WSL | 102k coins | +14.6% | +37.8% | Momentum moderado |
-| Piotr Zieliński | 85 | Serie A TIM | 38k coins | +7.9% | +32.7% | Momentum moderado |
-| Koke | 84 | LALIGA EA SPORTS | 40k coins | +13.2% | +32.4% | Momentum moderado |
-| Lily Yohannes | 84 | D1 Arkema | 40k coins | +28.3% | +29.1% | Esticada |
-| Caleb Yirenkyi | 94 | — | 16.500 coins | +14.3% | +25.5% | Momentum moderado |
-| Olivia Moultrie | 86 | NWSL | 15.000 coins | +39.2% | +18.3% | Esticada |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 26k coins | +22.2% | +17% | Esticada |
-| Svenja Huth | 86 | GPFBL | 55k coins | +18.4% | +14.7% | Momentum moderado |
-| Laia Aleixandri | 86 | Liga F | 40k coins | +19.7% | +13.7% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 47k coins | +6.7% | +13.5% | Momentum moderado |
-| Kaishū Sano | 84 | Bundesliga | 48k coins | +1.6% | +11.3% | Entrada a observar |
-| Fara Williams | 86 | Barclays WSL | 15.750 coins | +10.5% | +10.5% | Momentum moderado |
+| Koke | 84 | LALIGA EA SPORTS | 47k coins | +18.9% | +39% | Momentum moderado |
+| Paula Fernández | 88 | — | 42k coins | +17.1% | +30.6% | Momentum moderado |
+| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 50k coins | +17% | +26.6% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 48k coins | +14.9% | +24.5% | Momentum moderado |
+| Estefanía Banini | 89 | Liga F | 24k coins | +36.6% | +16.9% | Esticada |
+| Sandro Tonali | 88 | — | 38k coins | +18.6% | +15.3% | Momentum moderado |
+| Alyssa Thompson | 86 | Barclays Women’s Super League | 46k coins | +17.5% | +14.6% | Momentum moderado |
+| Kaishū Sano | 84 | Bundesliga | 48k coins | +3.3% | +13.1% | Entrada a observar |
+| Cesc Fàbregas | 88 | Premier League | 15.500 coins | +3.3% | +10.7% | Entrada a observar |
+| Farès Chaïbi | 84 | Bundesliga | 42k coins | +15.6% | +6.2% | Momentum moderado |
+| Florian Grillitsch | 84 | Liga Portugal | 45k coins | +14.9% | +6.2% | Momentum moderado |
+| Fer López | 85 | — | 38k coins | +11.1% | +5.6% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 41k coins | +9.1% | +5.3% | Momentum moderado |
+| Simone Laudehr | 91 | GPFBL | 28k coins | +5.3% | +5.3% | Momentum moderado |
+| Declan Rice | 88 | Premier League | 40k coins | +7.7% | +5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lily Yohannes (91)** — 26k coins, **+76.7% em 7 dias** (+11.6% em 24h). Preço -33% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Koke (84)** — 47k coins, **+39% em 7 dias** (+18.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nadine Keßler (90)** — 69k coins, **+73.6% em 7 dias** (+25.5% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paula Fernández (88)** — 42k coins, **+30.6% em 7 dias** (+17.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tijjani Reijnders (87)** — 65k coins, **+68.1% em 7 dias** (+29.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rassoul Ndiaye (84)** — 50k coins, **+26.6% em 7 dias** (+17% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fara Williams (88)** — 102k coins, **+37.8% em 7 dias** (+14.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **George Dobson (84)** — 48k coins, **+24.5% em 7 dias** (+14.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Piotr Zieliński (85)** — 38k coins, **+32.7% em 7 dias** (+7.9% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 24k coins, **+16.9% em 7 dias** (+36.6% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Lily Yohannes (91, sem liga) lidera, com +76.7% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Koke (84, LALIGA EA SPORTS) lidera, com +39% em 7 dias a 47k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
