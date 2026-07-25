@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:46:18.000Z
+pubDatetime: 2026-07-25T16:46:17.000Z
 title: "Mercado EA FC em 25/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Martin Ødegaard (88, Premier League), com +58.3% em 24h, a 92k coins no PC."
+    a: "Arthur Atta (85, Serie A TIM), com +59.3% em 24h, a 45k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Cesc Fàbregas (93), -50% em 24h, a 21k coins."
+    a: "Adalberto Carrasquilla (91), -47.8% em 24h, a 23k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 69 cartas em alta contra 149 em queda (média -10.97%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 70 cartas em alta contra 134 em queda (média -7.45%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **25/07/2026** (PC): mercado **em baixa** — predominam as quedas. Entre as cartas relevantes (80+ e acima de 5k coins), foram **69 em alta** e **149 em queda**, média de **-10.97%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **25/07/2026** (PC): mercado **em baixa** — predominam as quedas. Entre as cartas relevantes (80+ e acima de 5k coins), foram **70 em alta** e **134 em queda**, média de **-7.45%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Martin Ødegaard (88) **+58.3%** · 🔴 **Maior baixa:** Cesc Fàbregas (93) **-50%**
+> 🟢 **Maior alta:** Arthur Atta (85) **+59.3%** · 🔴 **Maior baixa:** Adalberto Carrasquilla (91) **-47.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **25/07/2026** (PC): mercado **em baixa** — predominam as quedas. 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 31.7% entre as cartas que se moveram; o universo observado reúne 249 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.3% entre as cartas que se moveram; o universo observado reúne 240 cartas.
+- **Concentração:** Serie A TIM aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Martin Ødegaard | 88 | Premier League | 92k coins | +58.3% | +6.7% |
-| Eva Dios | 85 | Liga F | 29k coins | +50% | +41% |
-| Aleix Febas | 83 | LALIGA EA SPORTS | 59k coins | +48.8% | +80.3% |
-| Alexia Putellas | 91 | Liga F | 23k coins | +46.7% | +10% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 29k coins | +44% | +25.6% |
-| Florian Grillitsch | 84 | Liga Portugal | 50k coins | +41.8% | +43.9% |
-| Orkun Kökçü | 95 | — | 140k coins | +38.6% | +12% |
-| Koke | 88 | LALIGA EA SPORTS | 128k coins | +37.2% | +70.9% |
-| Pieter Gerkens | 83 | 1A Pro League | 74k coins | +35.5% | +22.1% |
-| Federico Valverde | 94 | — | 400k coins | +32.2% | +12.1% |
+| Arthur Atta | 85 | Serie A TIM | 45k coins | +59.3% | -18.2% |
+| Jamie Walker | 80 | EFL League Two | 46k coins | +52.5% | +1.7% |
+| Daniel Svensson | 84 | Bundesliga | 38k coins | +50% | 0% |
+| Janina Minge | 88 | — | 32k coins | +49.4% | +103.1% |
+| Eva Dios | 85 | Liga F | 24k coins | +48.5% | +8.6% |
+| Aleix Febas | 83 | LALIGA EA SPORTS | 59k coins | +47.5% | +78.8% |
+| Alyssa Thompson | 86 | Barclays Women’s Super League | 50k coins | +47.1% | 0% |
+| Jessie Fleming | 86 | NWSL | 110k coins | +46.7% | -16% |
+| Orkun Kökçü | 95 | — | 113k coins | +36.1% | -8% |
+| Florian Grillitsch | 84 | Liga Portugal | 50k coins | +34.2% | +41% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **25/07/2026** (PC): mercado **em baixa** — predominam as quedas. 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Martin Ødegaard (88)** subiu **+58.3%** em 24h, a **92k coins** (faixa do dia: 54k–95k). Está +9% acima da média de 7 dias (aquecida).
+- **Arthur Atta (85)** subiu **+59.3%** em 24h, a **45k coins** (faixa do dia: 13.250–80k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Eva Dios (85)** subiu **+50%** em 24h, a **29k coins** (faixa do dia: 13.000–30k). Está +35% acima da média de 7 dias (aquecida).
+- **Jamie Walker (80)** subiu **+52.5%** em 24h, a **46k coins** (faixa do dia: 30k–46k). Está em linha com a média de 7 dias (+5%).
 
-- **Aleix Febas (83)** subiu **+48.8%** em 24h, a **59k coins** (faixa do dia: 40k–70k). Está +20% acima da média de 7 dias (aquecida).
+- **Daniel Svensson (84)** subiu **+50%** em 24h, a **38k coins** (faixa do dia: 10.500–38k). Está +28% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Cesc Fàbregas | 93 | — | 21k coins | -50% | -40.7% |
-| Declan Rice | 88 | Premier League | 38k coins | -49.7% | -30% |
-| Yasin Ayari | 95 | — | 31k coins | -49.1% | -25.7% |
-| Adalberto Carrasquilla | 91 | — | 24k coins | -45% | -29.3% |
-| John McGinn | 96 | — | 88k coins | -42.2% | -56% |
-| Lothar Matthäus | 90 | Icons | 98k coins | -42.1% | -24.7% |
-| Martin Ødegaard | 87 | Premier League | 233k coins | -41.6% | -13.4% |
-| Mikel Merino | 95 | — | 44k coins | -40.7% | -64.9% |
-| Scott McTominay | 87 | Serie A TIM | 91k coins | -40.1% | -9% |
-| Lothar Matthäus | 95 | — | 180k coins | -37.5% | -51.5% |
+| Adalberto Carrasquilla | 91 | — | 23k coins | -47.8% | -32.9% |
+| Martin Ødegaard | 87 | Premier League | 208k coins | -47.8% | -22.3% |
+| Kevin Stöger | 86 | Bundesliga | 24k coins | -45.7% | +1.1% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 969k coins | -43% | -60.8% |
+| Scott McTominay | 87 | Serie A TIM | 85k coins | -42.2% | -14.1% |
+| Mahamadou Doumbia | 91 | — | 24k coins | -41.9% | -28.3% |
+| Clara Serrajordi | 96 | — | 229k coins | -41.3% | -41.3% |
+| Homare Sawa | 91 | Icons | 116k coins | -40.7% | -46.7% |
+| Alexia Putellas | 96 | — | 45k coins | -39.6% | -53.3% |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 30k coins | -36.8% | -31.8% |
 
 
 ### Análise das baixas
 
-- **Cesc Fàbregas (93)** caiu **-50%** em 24h, a **21k coins** (faixa do dia: 18.250–46k). Está -38% abaixo da média de 7 dias (descontada).
+- **Adalberto Carrasquilla (91)** caiu **-47.8%** em 24h, a **23k coins** (faixa do dia: 16.750–45k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Declan Rice (88)** caiu **-49.7%** em 24h, a **38k coins** (faixa do dia: 36k–84k). Está -39% abaixo da média de 7 dias (descontada).
+- **Martin Ødegaard (87)** caiu **-47.8%** em 24h, a **208k coins** (faixa do dia: 208k–400k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Yasin Ayari (95)** caiu **-49.1%** em 24h, a **31k coins** (faixa do dia: 24k–57k). Está -10% abaixo da média de 7 dias (descontada).
+- **Kevin Stöger (86)** caiu **-45.7%** em 24h, a **24k coins** (faixa do dia: 24k–44k). Está em linha com a média de 7 dias (-0%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Martin Ødegaard já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Arthur Atta já avançou 59.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Cesc Fàbregas recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Adalberto Carrasquilla recuou -47.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Martin Ødegaard (88, Premier League), com +58.3% em 24h, a 92k coins no PC.
+Arthur Atta (85, Serie A TIM), com +59.3% em 24h, a 45k coins no PC.
 
 **E a maior queda do dia?**
-Cesc Fàbregas (93), -50% em 24h, a 21k coins.
+Adalberto Carrasquilla (91), -47.8% em 24h, a 23k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 69 cartas em alta contra 149 em queda (média -10.97%).
+Hoje o mercado está em baixa — predominam as quedas, com 70 cartas em alta contra 134 em queda (média -7.45%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

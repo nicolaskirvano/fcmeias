@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lisanne Gräwe</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Keira Walsh</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Thompson</text>
-<rect x="285" y="153" width="310" height="28" rx="7" fill="#22c55e"/>
-<text x="605" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paula Fernández</text>
-<rect x="285" y="211" width="190" height="28" rx="7" fill="#22c55e"/>
-<text x="485" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paul Wanner</text>
-<rect x="285" y="269" width="131" height="28" rx="7" fill="#22c55e"/>
-<text x="426" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Grillitsch</text>
-<rect x="285" y="327" width="115" height="28" rx="7" fill="#22c55e"/>
-<text x="410" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mahdi Camara</text>
-<rect x="285" y="385" width="109" height="28" rx="7" fill="#22c55e"/>
-<text x="404" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Sørensen</text>
+<rect x="285" y="153" width="330" height="28" rx="7" fill="#22c55e"/>
+<text x="625" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
+<rect x="285" y="211" width="304" height="28" rx="7" fill="#22c55e"/>
+<text x="599" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ismael Saibari</text>
+<rect x="285" y="269" width="274" height="28" rx="7" fill="#22c55e"/>
+<text x="569" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sergej Milinković-Savić</text>
+<rect x="285" y="327" width="237" height="28" rx="7" fill="#22c55e"/>
+<text x="532" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Laia Aleixandri</text>
+<rect x="285" y="385" width="224" height="28" rx="7" fill="#22c55e"/>
+<text x="519" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.8%</text>
 </svg>
