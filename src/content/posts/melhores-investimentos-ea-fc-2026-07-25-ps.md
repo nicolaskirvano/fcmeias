@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:46:09.000Z
+pubDatetime: 2026-07-25T19:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Keira Walsh (86, Barclays WSL) lidera, com +46.7% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Daniel Svensson (84, Bundesliga) lidera, com +83.1% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Keira Walsh (86) acumula **+46.7% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Daniel Svensson (84) acumula **+83.1% em 7 dias** a 25k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.8% em 24h** e **+18.1% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.0% em 24h** e **+17.6% em 7 dias**.
+- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Keira Walsh | 86 | Barclays WSL | 48k coins | +17% | +46.7% | Momentum moderado |
-| Oliver Sørensen | 84 | Serie A TIM | 54k coins | +18.5% | +32.1% | Momentum moderado |
-| Sandro Tonali | 88 | — | 46k coins | +26% | +29.6% | Esticada |
-| Ismael Saibari | 87 | — | 40k coins | +36% | +26.7% | Esticada |
-| Sergej Milinković-Savić | 86 | ROSHN Saudi League | 60k coins | +20% | +23.1% | Esticada |
-| Laia Aleixandri | 86 | Liga F | 40k coins | +21.8% | +21.8% | Esticada |
-| Christoph Baumgartner | 86 | Bundesliga | 44k coins | +22.6% | +18.8% | Esticada |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 52k coins | +35% | +18.1% | Esticada |
-| Paul Wanner | 84 | Eredivisie | 37k coins | +15.3% | +13.3% | Momentum moderado |
-| Kaishū Sano | 84 | Bundesliga | 48k coins | +3.3% | +13.1% | Entrada a observar |
-| Rúben Neves | 87 | ROSHN Saudi League | 52k coins | +17.8% | +11.9% | Momentum moderado |
-| Svenja Huth | 86 | GPFBL | 38k coins | +8% | +11.3% | Momentum moderado |
-| Sebastian Szymański | 87 | — | 41k coins | +12.3% | +7.2% | Momentum moderado |
-| André-Franck Zambo Anguissa | 84 | Serie A TIM | 42k coins | +11.2% | +7% | Momentum moderado |
-| Bruno Guimarães | 87 | Premier League | 44k coins | +8% | +6.1% | Momentum moderado |
+| Daniel Svensson | 84 | Bundesliga | 25k coins | +30.8% | +83.1% | Esticada |
+| Fara Williams | 88 | Barclays WSL | 100k coins | +3.1% | +36.1% | Momentum moderado |
+| Noah Sadiki | 93 | — | 16.500 coins | +8.1% | +26.4% | Momentum moderado |
+| Saki Kumagai | 88 | Barclays WSL | 24k coins | +29.7% | +26.3% | Esticada |
+| Koke | 84 | LALIGA EA SPORTS | 50k coins | +5.3% | +25.9% | Momentum moderado |
+| Sandro Tonali | 88 | — | 49k coins | +6% | +23.9% | Momentum moderado |
+| Rose Lavelle | 88 | NWSL | 60k coins | +12.3% | +19% | Momentum moderado |
+| Bruno Guimarães | 87 | Premier League | 50k coins | +5.4% | +17.6% | Momentum moderado |
+| Louis Reed | 84 | EFL League One | 45k coins | +12.5% | +16.9% | Momentum moderado |
+| Laia Aleixandri | 86 | Liga F | 42k coins | +9% | +15.6% | Momentum moderado |
+| Ismael Saibari | 87 | — | 48k coins | +9% | +15.6% | Momentum moderado |
+| Éderson | 87 | Serie A TIM | 45k coins | +9.8% | +15.4% | Momentum moderado |
+| Edoardo Bove | 87 | — | 50k coins | +1.8% | +15.3% | Entrada a observar |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 52k coins | +12.5% | +13.9% | Momentum moderado |
+| Andrés Cubas | 93 | — | 16.000 coins | +4.3% | +12.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Keira Walsh (86)** — 48k coins, **+46.7% em 7 dias** (+17% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniel Svensson (84)** — 25k coins, **+83.1% em 7 dias** (+30.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Sørensen (84)** — 54k coins, **+32.1% em 7 dias** (+18.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fara Williams (88)** — 100k coins, **+36.1% em 7 dias** (+3.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (88)** — 46k coins, **+29.6% em 7 dias** (+26% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noah Sadiki (93)** — 16.500 coins, **+26.4% em 7 dias** (+8.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ismael Saibari (87)** — 40k coins, **+26.7% em 7 dias** (+36% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Saki Kumagai (88)** — 24k coins, **+26.3% em 7 dias** (+29.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sergej Milinković-Savić (86)** — 60k coins, **+23.1% em 7 dias** (+20% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Koke (84)** — 50k coins, **+25.9% em 7 dias** (+5.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Keira Walsh (86, Barclays WSL) lidera, com +46.7% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Daniel Svensson (84, Bundesliga) lidera, com +83.1% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
