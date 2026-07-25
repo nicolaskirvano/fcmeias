@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:46:10.000Z
+pubDatetime: 2026-07-25T01:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
+    a: "Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Stephen Eustáquio (95) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Stephen Eustáquio (95) por apenas 12.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Meio-campistas em 24/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-24-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.240 coins.
+- **Preço médio das 15 opções:** 11.260 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 4.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,39 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Stephen Eustáquio | 95 | CM | — | 12.500 coins | +8.7% |
-| Gustavo Puerta | 94 | CM | — | 11.000 coins | +8.7% |
-| Caleb Yirenkyi | 94 | CM | — | 14.500 coins | +5.3% |
-| Paul Wanner | 94 | CM | — | 14.500 coins | +7.1% |
-| Noah Sadiki | 93 | CM | — | 14.750 coins | +7% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4.100 coins | +41.4% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.500 coins | +35.3% |
-| Andreia Jacinto | 88 | CM | Liga F | 14.000 coins | +9.8% |
-| Jack McGlynn | 87 | CM | MLS | 12.000 coins | +23.1% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.750 coins | -13.2% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.750 coins | -4.8% |
+| Stephen Eustáquio | 95 | CM | — | 12.250 coins | +6.5% |
+| Gustavo Puerta | 94 | CM | — | 11.000 coins | +4.3% |
+| Paul Wanner | 94 | CM | — | 13.250 coins | +1.8% |
+| Caleb Yirenkyi | 94 | CM | — | 13.500 coins | 0% |
+| Noah Sadiki | 93 | CM | — | 13.500 coins | -3.5% |
+| Andrés Cubas | 93 | CM | — | 14.000 coins | 0% |
+| Azzedine Ounahi | 93 | CM | — | 14.000 coins | -8.2% |
+| Mohammed Kanno | 92 | CM | — | 13.250 coins | -1.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3.600 coins | +39.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.600 coins | +17.9% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.200 coins | +29.4% |
+| Andreia Jacinto | 88 | CM | Liga F | 13.750 coins | -2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.750 coins | +1.7% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Olivia Moultrie | 86 | CM | NWSL | 13.750 coins | +26.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 14.750 coins | +9.3% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12.250 coins | -10.9% |
+| Olivia Moultrie | 86 | CM | NWSL | 12.750 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Stephen Eustáquio (95, CM)** da —, a apenas **12.500 coins**
+- **Stephen Eustáquio (95, CM)** da —, a apenas **12.250 coins**
 
 - **Gustavo Puerta (94, CM)** da —, a apenas **11.000 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Paul Wanner (94, CM)** da —, a apenas **13.250 coins**
 
-- **Paul Wanner (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.500 coins**
 
-- **Noah Sadiki (93, CM)** da —, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Noah Sadiki (93, CM)** da —, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Stephen Eustáquio (95, CM) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Stephen Eustáquio (95, CM) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -91,7 +91,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
+Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

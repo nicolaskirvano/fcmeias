@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:46:07.000Z
+pubDatetime: 2026-07-25T01:46:07.000Z
 title: "Mercado EA FC em 24/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Gabriel Sara (83, Trendyol Süper Lig), com +37.9% em 24h, a 53k coins no Console (PS)."
+    a: "Vitinha (91, Ligue 1 McDonald's), com +43.3% em 24h, a 399k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Warren Zaïre-Emery (96), -49.7% em 24h, a 302k coins."
+    a: "Mikel Merino (95), -50% em 24h, a 29k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 78 cartas em alta contra 110 em queda (média -6.01%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 46 cartas em alta contra 138 em queda (média -12.35%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **78 subiram** e **110 caíram**, com variação média de **-6.01%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **46 subiram** e **138 caíram**, com variação média de **-12.35%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Gabriel Sara (83) **+37.9%** · 🔴 **Maior baixa:** Warren Zaïre-Emery (96) **-49.7%**
+> 🟢 **Maior alta:** Vitinha (91) **+43.3%** · 🔴 **Maior baixa:** Mikel Merino (95) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.5% entre as cartas que se moveram; o universo observado reúne 215 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 93.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 25.0% entre as cartas que se moveram; o universo observado reúne 216 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gabriel Sara | 83 | Trendyol Süper Lig | 53k coins | +37.9% | +8.8% |
-| Estefanía Banini | 89 | Liga F | 24k coins | +36.6% | +16.9% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 42k coins | +34.5% | -12.7% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 480k coins | +28% | -11.1% |
-| Aitana Bonmatí | 91 | Liga F | 1.10M coins | +24.5% | -16.2% |
-| Cesc Fàbregas | 91 | Premier League | 154k coins | +24.2% | -38.4% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 22k coins | +20.3% | -5.3% |
-| Bruno Guimarães | 87 | Premier League | 45k coins | +19.5% | +2.2% |
-| Koke | 84 | LALIGA EA SPORTS | 47k coins | +18.9% | +39% |
-| Sandro Tonali | 88 | — | 38k coins | +18.6% | +15.3% |
+| Vitinha | 91 | Ligue 1 McDonald's | 399k coins | +43.3% | -6.1% |
+| Julie Foudy | 88 | Icons | 25k coins | +42.1% | 0% |
+| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 56k coins | +40.4% | +52.9% |
+| Aitana Bonmatí | 91 | Liga F | 825k coins | +38.5% | -6.8% |
+| Estefanía Banini | 89 | Liga F | 23k coins | +34.8% | +12% |
+| Luka Modrić | 89 | Serie A TIM | 142k coins | +32.4% | -10.1% |
+| Bruno Guimarães | 87 | Premier League | 46k coins | +29.5% | +7.2% |
+| Florian Grillitsch | 84 | Liga Portugal | 46k coins | +28.4% | +13.1% |
+| Louis Reed | 84 | EFL League One | 47k coins | +25% | +23.5% |
+| Luca Mazzitelli | 84 | Serie A TIM | 45k coins | +23.6% | +13.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **24/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gabriel Sara (83)** subiu **+37.9%** em 24h, a **53k coins** (faixa do dia: 40k–56k). Está em linha com a média de 7 dias (+4%).
+- **Vitinha (91)** subiu **+43.3%** em 24h, a **399k coins** (faixa do dia: 290k–700k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Estefanía Banini (89)** subiu **+36.6%** em 24h, a **24k coins** (faixa do dia: 11.250–36k). Está em linha com a média de 7 dias (+2%).
+- **Julie Foudy (88)** subiu **+42.1%** em 24h, a **25k coins** (faixa do dia: 11.250–37k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Aurélien Tchouaméni (87)** subiu **+34.5%** em 24h, a **42k coins** (faixa do dia: 34k–80k). Está em linha com a média de 7 dias (-2%).
+- **Rassoul Ndiaye (84)** subiu **+40.4%** em 24h, a **56k coins** (faixa do dia: 38k–60k). Está +32% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Warren Zaïre-Emery | 96 | — | 302k coins | -49.7% | -75.5% |
-| Pape Gueye | 95 | — | 30k coins | -49.5% | -60.5% |
-| Caroline Seger | 91 | Icons | 34k coins | -47.7% | -43% |
-| Pedri | 96 | — | 84k coins | -44.5% | -53.7% |
-| Jill Scott | 94 | — | 32k coins | -41% | -36.2% |
-| Douglas Luiz | 96 | — | 85k coins | -39.3% | -57.1% |
-| Koke | 88 | LALIGA EA SPORTS | 25k coins | -39.2% | -55.3% |
-| Dolores Silva | 84 | Liga F | 38k coins | -36% | -33% |
-| Christian Eriksen | 87 | Bundesliga | 39k coins | -35.2% | +9.7% |
-| Géraldine Reuteler | 87 | GPFBL | 40k coins | -34.8% | +12% |
+| Mikel Merino | 95 | — | 29k coins | -50% | -72.2% |
+| Scott McTominay | 94 | — | 157k coins | -48.1% | -28.7% |
+| Toni Kroos | 90 | Icons | 54k coins | -42.5% | -32% |
+| Koke | 88 | LALIGA EA SPORTS | 24k coins | -42.3% | -56.7% |
+| João Moutinho | 88 | Liga Portugal | 57k coins | -41.5% | -75.3% |
+| Mateo Kovačić | 91 | Premier League | 32k coins | -41.3% | -41.8% |
+| Yasin Ayari | 95 | — | 26k coins | -40.5% | -33.3% |
+| Julie Foudy | 90 | Icons | 68k coins | -39.3% | -15% |
+| Pedri | 96 | — | 98k coins | -35.6% | -43.5% |
+| Luis Milla | 90 | — | 37k coins | -35.5% | -8.2% |
 
 
 ### Análise das baixas
 
-- **Warren Zaïre-Emery (96)** caiu **-49.7%** em 24h, a **302k coins** (faixa do dia: 302k–600k). Está -65% abaixo da média de 7 dias (descontada).
+- **Mikel Merino (95)** caiu **-50%** em 24h, a **29k coins** (faixa do dia: 29k–60k). Está -57% abaixo da média de 7 dias (descontada).
 
-- **Pape Gueye (95)** caiu **-49.5%** em 24h, a **30k coins** (faixa do dia: 25k–168k). Está -46% abaixo da média de 7 dias (descontada).
+- **Scott McTominay (94)** caiu **-48.1%** em 24h, a **157k coins** (faixa do dia: 140k–319k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Caroline Seger (91)** caiu **-47.7%** em 24h, a **34k coins** (faixa do dia: 34k–84k). Está -46% abaixo da média de 7 dias (descontada).
+- **Toni Kroos (90)** caiu **-42.5%** em 24h, a **54k coins** (faixa do dia: 49k–130k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gabriel Sara já avançou 37.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Vitinha já avançou 43.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Warren Zaïre-Emery recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Mikel Merino recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Gabriel Sara (83, Trendyol Süper Lig), com +37.9% em 24h, a 53k coins no Console (PS).
+Vitinha (91, Ligue 1 McDonald's), com +43.3% em 24h, a 399k coins no Console (PS).
 
 **E a maior queda do dia?**
-Warren Zaïre-Emery (96), -49.7% em 24h, a 302k coins.
+Mikel Merino (95), -50% em 24h, a 29k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 78 cartas em alta contra 110 em queda (média -6.01%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 46 cartas em alta contra 138 em queda (média -12.35%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
