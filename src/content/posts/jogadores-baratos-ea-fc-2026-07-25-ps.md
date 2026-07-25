@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:46:10.000Z
+pubDatetime: 2026-07-25T13:46:11.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.550 coins.
+- **Preço médio das 15 opções:** 10.547 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 3.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Stephen Eustáquio | 95 | CM | — | 12.000 coins | 0% |
 | Gustavo Puerta | 94 | CM | — | 11.750 coins | +2.1% |
-| Paul Wanner | 94 | CM | — | 13.250 coins | -8.6% |
-| Caleb Yirenkyi | 94 | CM | — | 13.750 coins | -6.9% |
+| Paul Wanner | 94 | CM | — | 13.500 coins | -8.6% |
+| Caleb Yirenkyi | 94 | CM | — | 13.500 coins | -8.6% |
+| Andrés Cubas | 93 | CM | — | 13.250 coins | -8.2% |
 | Noah Sadiki | 93 | CM | — | 13.500 coins | -8.6% |
-| Andrés Cubas | 93 | CM | — | 13.500 coins | -10.3% |
-| Mohammed Kanno | 92 | CM | — | 13.500 coins | -13.3% |
-| Hannibal | 92 | CM | — | 14.000 coins | -12.1% |
-| Mariona | 89 | CM | Barclays WSL | 3.100 coins | -3.2% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.300 coins | +16.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.500 coins | +38.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 3.600 coins | -7.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 11.000 coins | -3.6% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13.750 coins | 0% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 14.750 coins | -4.8% |
+| Azzedine Ounahi | 93 | CM | — | 14.000 coins | -8.2% |
+| Mohammed Kanno | 92 | CM | — | 13.000 coins | -6.7% |
+| Mariona | 89 | CM | Barclays WSL | 3.000 coins | -3.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3.700 coins | +18.2% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.900 coins | -3.2% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.600 coins | +20% |
+| Cesc Fàbregas | 88 | CM | Premier League | 11.000 coins | +1.7% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13.750 coins | +7.7% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13.750 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Gustavo Puerta (94, CM)** da —, a apenas **11.750 coins**
 
-- **Paul Wanner (94, CM)** da —, a apenas **13.250 coins**
+- **Paul Wanner (94, CM)** da —, a apenas **13.500 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.750 coins**
+- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.500 coins**
 
-- **Noah Sadiki (93, CM)** da —, a apenas **13.500 coins**
+- **Andrés Cubas (93, CM)** da —, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
