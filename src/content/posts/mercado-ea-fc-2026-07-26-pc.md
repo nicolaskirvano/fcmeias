@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:46:17.000Z
+pubDatetime: 2026-07-26T19:46:17.000Z
 title: "Mercado EA FC em 26/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Adrien Thomasson (85, Ligue 1 McDonald's), com +57.1% em 24h, a 29k coins no PC."
+    a: "Tanguy Ndombele (85, Ligue 1 McDonald's), com +57.4% em 24h, a 37k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Blaise Matuidi (87), -50% em 24h, a 190k coins."
+    a: "Lothar Matthäus (91), -49.3% em 24h, a 715k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 98 cartas em alta contra 115 em queda (média 2.48%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 110 cartas em alta contra 83 em queda (média 5.93%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **98 cartas subiram** e **115 caíram** (80+ acima de 5k coins), variação média de **2.48%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **110 cartas subiram** e **83 caíram** (80+ acima de 5k coins), variação média de **5.93%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Adrien Thomasson (85) **+57.1%** · 🔴 **Maior baixa:** Blaise Matuidi (87) **-50%**
+> 🟢 **Maior alta:** Tanguy Ndombele (85) **+57.4%** · 🔴 **Maior baixa:** Lothar Matthäus (91) **-49.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.0% entre as cartas que se moveram; o universo observado reúne 273 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.0% entre as cartas que se moveram; o universo observado reúne 249 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 29k coins | +57.1% | +30.1% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 38k coins | +54.6% | +11.1% |
-| Andrea Pirlo | 90 | Icons | 210k coins | +49.3% | +46.2% |
-| Bernardo Silva | 87 | Premier League | 80k coins | +45.9% | +7.4% |
-| Steven Gerrard | 89 | Icons | 145k coins | +45% | +3.6% |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 1.05M coins | +37.6% | +17.1% |
-| Khéphren Thuram | 87 | Serie A TIM | 76k coins | +37.3% | +2% |
-| Jessie Fleming | 86 | NWSL | 150k coins | +36.4% | +35.1% |
-| Georginio Wijnaldum | 87 | Brasileirão | 26k coins | +36.1% | -13.1% |
-| Patrick Vieira | 90 | Icons | 791k coins | +31.8% | +5.7% |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 37k coins | +57.4% | +9.6% |
+| Bernardo Silva | 87 | Premier League | 80k coins | +54.7% | +13.9% |
+| Andrea Pirlo | 90 | Icons | 210k coins | +54.4% | +44.8% |
+| Enzo Fernández | 93 | — | 41k coins | +52.5% | -30.2% |
+| João Neves | 86 | Ligue 1 McDonald's | 134k coins | +50% | -7.9% |
+| Paul Scholes | 91 | Icons | 190k coins | +41.8% | +52% |
+| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 345k coins | +40.6% | +11.5% |
+| Franziska Harsch | 88 | GPFBL | 28k coins | +38.5% | +38.5% |
+| Jessie Fleming | 86 | NWSL | 150k coins | +36.4% | +37.6% |
+| Melchie Dumornay | 95 | — | 39k coins | +34.5% | -22% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **26/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Adrien Thomasson (85)** subiu **+57.1%** em 24h, a **29k coins** (faixa do dia: 13.250–32k). Está +25% acima da média de 7 dias (aquecida).
+- **Tanguy Ndombele (85)** subiu **+57.4%** em 24h, a **37k coins** (faixa do dia: 22k–38k). Está em linha com a média de 7 dias (+6%).
 
-- **Tanguy Ndombele (85)** subiu **+54.6%** em 24h, a **38k coins** (faixa do dia: 22k–38k). Está +9% acima da média de 7 dias (aquecida).
+- **Bernardo Silva (87)** subiu **+54.7%** em 24h, a **80k coins** (faixa do dia: 52k–89k). Está em linha com a média de 7 dias (-2%).
 
-- **Andrea Pirlo (90)** subiu **+49.3%** em 24h, a **210k coins** (faixa do dia: 100k–210k). Está +34% acima da média de 7 dias (aquecida).
+- **Andrea Pirlo (90)** subiu **+54.4%** em 24h, a **210k coins** (faixa do dia: 100k–210k). Está +33% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 190k coins | -50% | -43.6% |
-| Lothar Matthäus | 91 | Icons | 710k coins | -49.3% | -40.8% |
-| Jude Bellingham | 96 | — | 1.70M coins | -43.8% | -7.5% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 400k coins | -41.2% | -51.5% |
-| Warren Zaïre-Emery | 96 | — | 381k coins | -40.7% | -74.6% |
-| Kenneth Taylor | 84 | Eredivisie | 23k coins | -40.4% | +43.1% |
-| Christian Eriksen | 87 | Bundesliga | 50k coins | -39% | -44.7% |
-| Benjamin Nygren | 90 | — | 25k coins | -34.8% | -42.8% |
-| Bruno Guimarães | 89 | Premier League | 23k coins | -33.6% | -23.3% |
-| Fara Williams | 88 | Barclays WSL | 38k coins | -32.9% | +91.2% |
+| Lothar Matthäus | 91 | Icons | 715k coins | -49.3% | -40.8% |
+| Fara Williams | 88 | Barclays WSL | 31k coins | -43.4% | +72% |
+| Lothar Matthäus | 90 | Icons | 140k coins | -34.1% | -60.4% |
+| Nadine Keßler | 90 | GPFBL | 34k coins | -32% | +13.3% |
+| Bruno Guimarães | 89 | Premier League | 23k coins | -27.8% | -21.6% |
+| Gabriel Sara | 83 | Trendyol Süper Lig | 36k coins | -27.8% | -38.9% |
+| Mariona | 96 | Barclays WSL | 142k coins | -25.3% | -35.5% |
+| Vitinha | 97 | — | 300k coins | -24.3% | -59.4% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 120k coins | -24.1% | +67.8% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 45k coins | -22.9% | -19.6% |
 
 
 ### Análise das baixas
 
-- **Blaise Matuidi (87)** caiu **-50%** em 24h, a **190k coins** (faixa do dia: 190k–380k). Está -37% abaixo da média de 7 dias (descontada).
+- **Lothar Matthäus (91)** caiu **-49.3%** em 24h, a **715k coins** (faixa do dia: 710k–1.40M). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Lothar Matthäus (91)** caiu **-49.3%** em 24h, a **710k coins** (faixa do dia: 710k–1.40M). Está -49% abaixo da média de 7 dias (descontada).
+- **Fara Williams (88)** caiu **-43.4%** em 24h, a **31k coins** (faixa do dia: 31k–57k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Jude Bellingham (96)** caiu **-43.8%** em 24h, a **1.70M coins** (faixa do dia: 1.40M–3.30M). Está -15% abaixo da média de 7 dias (descontada).
+- **Lothar Matthäus (90)** caiu **-34.1%** em 24h, a **140k coins** (faixa do dia: 90k–169k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Adrien Thomasson já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tanguy Ndombele já avançou 57.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Blaise Matuidi recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lothar Matthäus recuou -49.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Adrien Thomasson (85, Ligue 1 McDonald's), com +57.1% em 24h, a 29k coins no PC.
+Tanguy Ndombele (85, Ligue 1 McDonald's), com +57.4% em 24h, a 37k coins no PC.
 
 **E a maior queda do dia?**
-Blaise Matuidi (87), -50% em 24h, a 190k coins.
+Lothar Matthäus (91), -49.3% em 24h, a 715k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 98 cartas em alta contra 115 em queda (média 2.48%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 110 cartas em alta contra 83 em queda (média 5.93%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

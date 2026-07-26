@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:46:09.000Z
+pubDatetime: 2026-07-26T19:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Can Bozdoğan (87, Eredivisie) lidera, com +42.9% em 7 dias a 17.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Olivia Moultrie (86, NWSL) lidera, com +50% em 7 dias a 18.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Can Bozdoğan (87) acumula **+42.9% em 7 dias** a 17.000 coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Olivia Moultrie (86) acumula **+50% em 7 dias** a 18.500 coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.8% em 24h** e **+16.0% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.6% em 24h** e **+15.6% em 7 dias**.
+- **0 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Can Bozdoğan | 87 | Eredivisie | 17.000 coins | +11.1% | +42.9% | Momentum moderado |
-| Alyssa Thompson | 86 | Barclays Women’s Super League | 40k coins | +25.2% | +42.1% | Esticada |
-| Rose Lavelle | 89 | NWSL | 72k coins | +5.7% | +41% | Momentum moderado |
-| Orkun Kökçü | 95 | — | 63k coins | +27.9% | +26% | Esticada |
-| Hakan Çalhanoğlu | 88 | — | 36k coins | +16% | +16% | Momentum moderado |
-| Rassoul Ndiaye | 84 | Ligue 1 McDonald's | 50k coins | +7.6% | +13.8% | Momentum moderado |
-| Louis Reed | 84 | EFL League One | 50k coins | +8.2% | +12.9% | Momentum moderado |
-| Edoardo Bove | 87 | — | 40k coins | +9.8% | +11.1% | Momentum moderado |
-| Farès Chaïbi | 84 | Bundesliga | 42k coins | +6.2% | +10.4% | Momentum moderado |
+| Olivia Moultrie | 86 | NWSL | 18.500 coins | +3.4% | +50% | Momentum moderado |
+| Can Bozdoğan | 87 | Eredivisie | 17.500 coins | +7% | +38.2% | Momentum moderado |
+| Jess Fishlock | 88 | NWSL | 32k coins | +13.5% | +31.2% | Momentum moderado |
+| Paula Fernández | 88 | — | 46k coins | +3.4% | +22.8% | Entrada a observar |
+| Kristian Thorstvedt | 86 | Serie A TIM | 43k coins | +15.9% | +20.3% | Momentum moderado |
+| Andrés Cubas | 93 | — | 18.250 coins | +10.3% | +19% | Momentum moderado |
+| Edoardo Bove | 87 | — | 46k coins | +10.8% | +15.7% | Momentum moderado |
+| Mohammed Kanno | 92 | — | 17.500 coins | +17.5% | +15.6% | Momentum moderado |
+| Azzedine Ounahi | 93 | — | 18.000 coins | +10.6% | +14.1% | Momentum moderado |
+| Paul Wanner | 84 | Eredivisie | 54k coins | +10.6% | +13.1% | Momentum moderado |
+| Mario Lemina | 88 | Trendyol Süper Lig | 36k coins | +11.3% | +13% | Momentum moderado |
+| Hannibal | 92 | — | 18.000 coins | +15.2% | +11.8% | Momentum moderado |
+| Mario Pašalić | 93 | — | 18.250 coins | +13.6% | +10.3% | Momentum moderado |
+| Lewis Ferguson | 93 | — | 18.000 coins | +10.4% | +8.8% | Momentum moderado |
+| Cesc Fàbregas | 88 | Premier League | 18.250 coins | +5.1% | +8.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Can Bozdoğan (87)** — 17.000 coins, **+42.9% em 7 dias** (+11.1% em 24h). Preço -25% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Moultrie (86)** — 18.500 coins, **+50% em 7 dias** (+3.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alyssa Thompson (86)** — 40k coins, **+42.1% em 7 dias** (+25.2% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Can Bozdoğan (87)** — 17.500 coins, **+38.2% em 7 dias** (+7% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 72k coins, **+41% em 7 dias** (+5.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jess Fishlock (88)** — 32k coins, **+31.2% em 7 dias** (+13.5% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Orkun Kökçü (95)** — 63k coins, **+26% em 7 dias** (+27.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paula Fernández (88)** — 46k coins, **+22.8% em 7 dias** (+3.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hakan Çalhanoğlu (88)** — 36k coins, **+16% em 7 dias** (+16% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kristian Thorstvedt (86)** — 43k coins, **+20.3% em 7 dias** (+15.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -92,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Can Bozdoğan (87, Eredivisie) lidera, com +42.9% em 7 dias a 17.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Olivia Moultrie (86, NWSL) lidera, com +50% em 7 dias a 18.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
