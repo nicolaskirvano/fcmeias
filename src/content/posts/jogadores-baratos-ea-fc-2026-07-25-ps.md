@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:46:10.000Z
+pubDatetime: 2026-07-26T01:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.093 coins.
+- **Preço médio das 15 opções:** 13.250 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 2.700 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Ethan Mbappé | 96 | CM | — | 12.000 coins | 0% |
-| Stephen Eustáquio | 95 | CM | — | 14.000 coins | +10% |
-| Gustavo Puerta | 94 | CM | — | 13.500 coins | +10.2% |
-| Andrés Cubas | 93 | CM | — | 14.000 coins | -3.2% |
-| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Stephen Eustáquio | 95 | CM | — | 13.000 coins | +8.3% |
+| Fabián Ruiz | 95 | CM | — | 14.000 coins | 0% |
+| Rodrigo De Paul | 95 | CM | — | 14.000 coins | -1.7% |
+| Gustavo Puerta | 94 | CM | — | 12.500 coins | +10.4% |
+| Caleb Yirenkyi | 94 | CM | — | 13.000 coins | +3.7% |
+| Paul Wanner | 94 | CM | — | 14.000 coins | 0% |
+| Leon Goretzka | 94 | CM | — | 14.250 coins | -6.5% |
+| Cesc Fàbregas | 93 | CM | — | 12.500 coins | -5.1% |
+| Andrés Cubas | 93 | CM | — | 13.750 coins | +7.8% |
+| Azzedine Ounahi | 93 | CM | — | 13.750 coins | +1.9% |
+| Noah Sadiki | 93 | CM | — | 14.250 coins | +5.6% |
+| Mario Pašalić | 93 | CM | — | 14.750 coins | -3.1% |
+| Esperanza Pizarro | 92 | CM | — | 11.500 coins | +4.3% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Esperanza Pizarro | 92 | CM | — | 13.250 coins | +3.9% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 13.000 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 2.700 coins | -7.1% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.300 coins | -2.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.400 coins | -5% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.000 coins | +18.2% |
-| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Ethan Mbappé (96, CM)** da —, a apenas **12.000 coins**
 
-- **Stephen Eustáquio (95, CM)** da —, a apenas **14.000 coins**
+- **Stephen Eustáquio (95, CM)** da —, a apenas **13.000 coins**
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **13.500 coins**
+- **Fabián Ruiz (95, CM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrés Cubas (93, CM)** da —, a apenas **14.000 coins**
+- **Rodrigo De Paul (95, CM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gustavo Puerta (94, CM)** da —, a apenas **12.500 coins**
 
 
 ## Como distribuir a banca
