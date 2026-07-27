@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:46:20.000Z
+pubDatetime: 2026-07-27T22:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.980 coins.
+- **Preço médio das 15 opções:** 9.937 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 3.600 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 3.600 coins | +5.9% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.300 coins | +10.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 5.500 coins | +24.4% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.800 coins | 0% |
+| Mariona | 89 | CM | Barclays WSL | 3.500 coins | +8.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.100 coins | +12.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 5.300 coins | +20.5% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.900 coins | +5.5% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | -1.9% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 13.000 coins | +17.8% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13.500 coins | -8.5% |
-| Fara Williams | 86 | CM | Barclays WSL | 10.750 coins | -4.4% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11.750 coins | 0% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | +8.5% |
+| Julie Foudy | 88 | CM | Icons | 13.000 coins | +18.2% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 11.000 coins | 0% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 11.500 coins | -13.8% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13.250 coins | 0% |
 
 
 ## 📈 Destaques

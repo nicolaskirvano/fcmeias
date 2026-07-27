@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:46:07.000Z
+pubDatetime: 2026-07-27T22:46:07.000Z
 title: "Mercado EA FC em 27/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Iniesta (93, Icons), com +48% em 24h, a 237k coins no Console (PS)."
+    a: "Kang Sang Yoon (93, sem liga), com +59.7% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Joelinton (87), -43.3% em 24h, a 25k coins."
+    a: "Bastian Schweinsteiger (89), -47.1% em 24h, a 72k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 119 cartas em alta contra 80 em queda (média 5.13%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 123 cartas em alta contra 103 em queda (média 2.9%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **27/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **119 valorizações** contra **80 quedas** entre as cartas relevantes, com média de **5.13%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **27/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **123 valorizações** contra **103 quedas** entre as cartas relevantes, com média de **2.9%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Iniesta (93) **+48%** · 🔴 **Maior baixa:** Joelinton (87) **-43.3%**
+> 🟢 **Maior alta:** Kang Sang Yoon (93) **+59.7%** · 🔴 **Maior baixa:** Bastian Schweinsteiger (89) **-47.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **27/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 91.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.8% entre as cartas que se moveram; o universo observado reúne 234 cartas.
+- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.4% entre as cartas que se moveram; o universo observado reúne 266 cartas.
 - **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Iniesta | 93 | Icons | 237k coins | +48% | -22.4% |
-| Martin Ødegaard | 87 | Premier League | 151k coins | +43.8% | -2.6% |
-| Can Bozdoğan | 87 | Eredivisie | 20k coins | +42.1% | +77% |
-| João Neves | 93 | Ligue 1 McDonald's | 141k coins | +35.6% | -15.1% |
-| Andrea Pirlo | 90 | Icons | 170k coins | +34.3% | +38.2% |
-| João Moutinho | 88 | Liga Portugal | 61k coins | +33.7% | -57.9% |
-| Patrick Vieira | 88 | Icons | 190k coins | +29.3% | +14.4% |
-| Patrik Mercado | 91 | — | 25k coins | +27.5% | -40% |
-| Luka Modrić | 89 | Serie A TIM | 58k coins | +26.4% | -57.4% |
-| João Neves | 96 | — | 272k coins | +23.9% | -32.2% |
+| Kang Sang Yoon | 93 | — | 28k coins | +59.7% | +15% |
+| Arthur Atta | 85 | Serie A TIM | 26k coins | +52.2% | -13.6% |
+| Rose Lavelle | 89 | NWSL | 75k coins | +51.5% | +10.3% |
+| Jessie Fleming | 86 | NWSL | 81k coins | +47.8% | -26.1% |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 30k coins | +42.6% | +39.8% |
+| Iniesta | 93 | Icons | 247k coins | +36.6% | -22.8% |
+| Arda Güler | 94 | — | 25k coins | +36.2% | -6% |
+| Xavi | 92 | Icons | 247k coins | +33.5% | +17.6% |
+| Luciano Valente | 92 | — | 22k coins | +33.3% | -15.8% |
+| Janina Minge | 88 | — | 23k coins | +32.4% | +38.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **27/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Iniesta (93)** subiu **+48%** em 24h, a **237k coins** (faixa do dia: 130k–270k). Está em linha com a média de 7 dias (+4%).
+- **Kang Sang Yoon (93)** subiu **+59.7%** em 24h, a **28k coins** (faixa do dia: 17.000–29k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Martin Ødegaard (87)** subiu **+43.8%** em 24h, a **151k coins** (faixa do dia: 93k–154k). Está em linha com a média de 7 dias (+6%).
+- **Arthur Atta (85)** subiu **+52.2%** em 24h, a **26k coins** (faixa do dia: 16.750–36k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Can Bozdoğan (87)** subiu **+42.1%** em 24h, a **20k coins** (faixa do dia: 17.250–38k). Está -18% abaixo da média de 7 dias (descontada).
+- **Rose Lavelle (89)** subiu **+51.5%** em 24h, a **75k coins** (faixa do dia: 45k–80k). Está +16% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joelinton | 87 | Premier League | 25k coins | -43.3% | -74.2% |
-| Simone Laudehr | 91 | GPFBL | 24k coins | -40% | -47.8% |
-| Kevin De Bruyne | 88 | Serie A TIM | 62k coins | -34.4% | -45.7% |
-| Simone Laudehr | 90 | GPFBL | 28k coins | -33.1% | -49.5% |
+| Bastian Schweinsteiger | 89 | Icons | 72k coins | -47.1% | -40% |
+| Cesc Fàbregas | 91 | Premier League | 213k coins | -38.9% | +5.9% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 36k coins | -33.6% | -54.4% |
 | Homare Sawa | 92 | Icons | 30k coins | -31.1% | -94.3% |
-| Benjamin Nygren | 90 | — | 21k coins | -30% | -57.6% |
-| João Neves | 86 | Ligue 1 McDonald's | 23k coins | -29.2% | -66.7% |
-| Pape Gueye | 95 | — | 50k coins | -28.1% | -34.8% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 235k coins | -25.2% | -39% |
-| Paul Scholes | 88 | Icons | 66k coins | -18.4% | 0% |
+| Jude Bellingham | 96 | — | 1.24M coins | -27.3% | -11.9% |
+| Sergej Milinković-Savić | 86 | ROSHN Saudi League | 45k coins | -25% | -18.2% |
+| Imrân Louza | 84 | EFL Championship | 49k coins | -25% | +25% |
+| Vitinha | 91 | Ligue 1 McDonald's | 554k coins | -25% | +14.4% |
+| Homare Sawa | 91 | Icons | 138k coins | -24.6% | -0.8% |
+| Jess Fishlock | 88 | NWSL | 20k coins | -22.2% | -2% |
 
 
 ### Análise das baixas
 
-- **Joelinton (87)** caiu **-43.3%** em 24h, a **25k coins** (faixa do dia: 15.750–63k). Está -68% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (89)** caiu **-47.1%** em 24h, a **72k coins** (faixa do dia: 72k–176k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Simone Laudehr (91)** caiu **-40%** em 24h, a **24k coins** (faixa do dia: 20k–40k). Está -45% abaixo da média de 7 dias (descontada).
+- **Cesc Fàbregas (91)** caiu **-38.9%** em 24h, a **213k coins** (faixa do dia: 164k–350k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Kevin De Bruyne (88)** caiu **-34.4%** em 24h, a **62k coins** (faixa do dia: 59k–200k). Está -42% abaixo da média de 7 dias (descontada).
+- **Kouadio Manu Koné (88)** caiu **-33.6%** em 24h, a **36k coins** (faixa do dia: 36k–141k). Está -55% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Iniesta já avançou 48% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kang Sang Yoon já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Joelinton recuou -43.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bastian Schweinsteiger recuou -47.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Iniesta (93, Icons), com +48% em 24h, a 237k coins no Console (PS).
+Kang Sang Yoon (93, sem liga), com +59.7% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
-Joelinton (87), -43.3% em 24h, a 25k coins.
+Bastian Schweinsteiger (89), -47.1% em 24h, a 72k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 119 cartas em alta contra 80 em queda (média 5.13%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 123 cartas em alta contra 103 em queda (média 2.9%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
