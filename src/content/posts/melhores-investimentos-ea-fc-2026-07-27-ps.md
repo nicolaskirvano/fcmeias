@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:46:09.000Z
+pubDatetime: 2026-07-27T19:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Alexia Putellas (91, Liga F) lidera, com +36.5% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mario Lemina (88, Trendyol Süper Lig) lidera, com +51% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alexia Putellas (91) acumula **+36.5% em 7 dias** a 23k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Mario Lemina (88) acumula **+51% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.5% em 24h** e **+26.8% em 7 dias**.
+- A mediana é de **+13.2% em 24h** e **+30.0% em 7 dias**.
 - **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | Liga F | 23k coins | +2% | +36.5% | Momentum moderado |
-| Franziska Harsch | 88 | GPFBL | 22k coins | +11.5% | +31.8% | Momentum moderado |
-| Edoardo Bove | 87 | — | 48k coins | +8.7% | +30.7% | Momentum moderado |
-| Jennifer Echegini | 86 | D1 Arkema | 26k coins | +3.8% | +30.1% | Momentum moderado |
-| Christian Eriksen | 87 | Bundesliga | 49k coins | +32.4% | +29.8% | Esticada |
-| Imrân Louza | 84 | EFL Championship | 50k coins | +12.2% | +28.7% | Momentum moderado |
-| Kristian Thorstvedt | 86 | Serie A TIM | 50k coins | +12.4% | +28.2% | Momentum moderado |
-| Alyssa Thompson | 86 | Barclays Women’s Super League | 53k coins | +22.8% | +26.8% | Esticada |
-| Adrien Rabiot | 86 | Serie A TIM | 48k coins | +15.9% | +26.7% | Momentum moderado |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 46k coins | +24.2% | +25.8% | Esticada |
-| Paula Fernández | 88 | — | 48k coins | +9.1% | +24.7% | Momentum moderado |
-| Louis Reed | 84 | EFL League One | 48k coins | +8.2% | +24.4% | Momentum moderado |
-| Oliver Sørensen | 84 | Serie A TIM | 50k coins | +7.1% | +22.8% | Momentum moderado |
-| Florian Grillitsch | 84 | Liga Portugal | 47k coins | +11.1% | +18.8% | Momentum moderado |
-| Caleb Yirenkyi | 94 | — | 15.500 coins | +14.8% | +17% | Momentum moderado |
+| Mario Lemina | 88 | Trendyol Süper Lig | 48k coins | +2.8% | +51% | Momentum moderado |
+| Nadine Keßler | 88 | GPFBL | 21k coins | +13.5% | +50% | Momentum moderado |
+| Andrea Pirlo | 90 | Icons | 170k coins | +34.3% | +38.2% | Esticada |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 35k coins | +10.2% | +36.9% | Momentum moderado |
+| Nadine Keßler | 89 | GPFBL | 22k coins | +18.4% | +36.4% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 50k coins | +18.8% | +34.7% | Momentum moderado |
+| Alyssa Thompson | 86 | Barclays Women’s Super League | 50k coins | +21.2% | +30.7% | Esticada |
+| Tijjani Reijnders | 87 | Premier League | 45k coins | +18.2% | +30% | Momentum moderado |
+| Edoardo Bove | 87 | — | 48k coins | +3.3% | +25% | Entrada a observar |
+| André-Franck Zambo Anguissa | 84 | Serie A TIM | 42k coins | +6.8% | +23.7% | Momentum moderado |
+| Christoph Baumgartner | 86 | Bundesliga | 42k coins | +1.1% | +22.8% | Entrada a observar |
+| Kristian Thorstvedt | 86 | Serie A TIM | 40k coins | +9.3% | +21.3% | Momentum moderado |
+| Louis Reed | 84 | EFL League One | 48k coins | +7.3% | +20% | Momentum moderado |
+| Ismael Saibari | 87 | — | 42k coins | +13.2% | +20% | Momentum moderado |
+| Karen Araya | 86 | D1 Arkema | 20k coins | +22.4% | +17.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexia Putellas (91)** — 23k coins, **+36.5% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mario Lemina (88)** — 48k coins, **+51% em 7 dias** (+2.8% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franziska Harsch (88)** — 22k coins, **+31.8% em 7 dias** (+11.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (88)** — 21k coins, **+50% em 7 dias** (+13.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Edoardo Bove (87)** — 48k coins, **+30.7% em 7 dias** (+8.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Pirlo (90)** — 170k coins, **+38.2% em 7 dias** (+34.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jennifer Echegini (86)** — 26k coins, **+30.1% em 7 dias** (+3.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bartosz Kapustka (87)** — 35k coins, **+36.9% em 7 dias** (+10.2% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Eriksen (87)** — 49k coins, **+29.8% em 7 dias** (+32.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadine Keßler (89)** — 22k coins, **+36.4% em 7 dias** (+18.4% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Alexia Putellas (91, Liga F) lidera, com +36.5% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mario Lemina (88, Trendyol Süper Lig) lidera, com +51% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
