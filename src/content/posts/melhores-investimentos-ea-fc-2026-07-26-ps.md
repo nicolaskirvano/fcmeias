@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:46:09.000Z
+pubDatetime: 2026-07-27T01:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Olivia Moultrie (86, NWSL) lidera, com +58.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Can Bozdoğan (87, Eredivisie) lidera, com +81% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Olivia Moultrie (86) acumula **+58.6% em 7 dias** a 25k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Can Bozdoğan (87) acumula **+81% em 7 dias** a 26k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+27.5% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays Women’s Super League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+30.4% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **EFL Championship** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Olivia Moultrie | 86 | NWSL | 25k coins | +17.9% | +58.6% | Momentum moderado |
-| Uran Bislimi | 84 | Swiss Super League | 60k coins | +13.3% | +50.6% | Momentum moderado |
-| Alyssa Thompson | 86 | Barclays Women’s Super League | 45k coins | +1.1% | +36.2% | Momentum moderado |
-| Laia Aleixandri | 86 | Liga F | 37k coins | +19% | +33.3% | Momentum moderado |
-| Paula Fernández | 88 | — | 45k coins | +20.2% | +31.5% | Esticada |
-| Jill Scott | 85 | Barclays Women’s Super League | 15.250 coins | +11.1% | +30.4% | Momentum moderado |
-| George Dobson | 84 | EFL Championship | 54k coins | +13.4% | +29.4% | Momentum moderado |
-| Caleb Yirenkyi | 94 | — | 16.250 coins | +8.3% | +27.5% | Momentum moderado |
-| Noah Sadiki | 93 | — | 16.250 coins | +8.3% | +27.5% | Momentum moderado |
-| Paul Wanner | 94 | — | 16.250 coins | +8.3% | +25% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 46k coins | +3.2% | +23.4% | Entrada a observar |
-| Edoardo Bove | 87 | — | 44k coins | +8% | +19.5% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 43k coins | +15.7% | +19.2% | Momentum moderado |
-| Sergej Milinković-Savić | 86 | ROSHN Saudi League | 60k coins | +21.8% | +17.6% | Esticada |
-| Géraldine Reuteler | 87 | GPFBL | 46k coins | +20.5% | +16.8% | Esticada |
+| Can Bozdoğan | 87 | Eredivisie | 26k coins | +19.3% | +81% | Esticada |
+| Jennifer Echegini | 86 | D1 Arkema | 28k coins | +9.8% | +67.2% | Esticada |
+| Alexia Putellas | 91 | Liga F | 24k coins | +2.1% | +63.3% | Esticada |
+| Imrân Louza | 84 | EFL Championship | 65k coins | +10.2% | +50.3% | Momentum moderado |
+| Kevin Stöger | 86 | Bundesliga | 34k coins | +18.3% | +34.7% | Momentum moderado |
+| Mario Lemina | 88 | Trendyol Süper Lig | 44k coins | +32.6% | +33.6% | Esticada |
+| Franziska Harsch | 88 | GPFBL | 20k coins | +6.3% | +33.3% | Momentum moderado |
+| Nicolae Stanciu | 86 | Serie A TIM | 65k coins | +18.8% | +30.4% | Momentum moderado |
+| George Dobson | 84 | EFL Championship | 54k coins | +1.9% | +27.1% | Momentum moderado |
+| Jess Fishlock | 88 | NWSL | 32k coins | +2.4% | +26% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 52k coins | +22.1% | +24.3% | Esticada |
+| Noah Sadiki | 93 | — | 15.500 coins | +12.5% | +23.5% | Momentum moderado |
+| Andrea Pirlo | 90 | Icons | 175k coins | +27.7% | +23% | Esticada |
+| Caleb Yirenkyi | 94 | — | 15.250 coins | +18.9% | +21.2% | Momentum moderado |
+| Paul Wanner | 94 | — | 15.500 coins | +12.5% | +21.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Olivia Moultrie (86)** — 25k coins, **+58.6% em 7 dias** (+17.9% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Can Bozdoğan (87)** — 26k coins, **+81% em 7 dias** (+19.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Uran Bislimi (84)** — 60k coins, **+50.6% em 7 dias** (+13.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jennifer Echegini (86)** — 28k coins, **+67.2% em 7 dias** (+9.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alyssa Thompson (86)** — 45k coins, **+36.2% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 24k coins, **+63.3% em 7 dias** (+2.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Laia Aleixandri (86)** — 37k coins, **+33.3% em 7 dias** (+19% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Imrân Louza (84)** — 65k coins, **+50.3% em 7 dias** (+10.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paula Fernández (88)** — 45k coins, **+31.5% em 7 dias** (+20.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Stöger (86)** — 34k coins, **+34.7% em 7 dias** (+18.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Olivia Moultrie (86, NWSL) lidera, com +58.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Can Bozdoğan (87, Eredivisie) lidera, com +81% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

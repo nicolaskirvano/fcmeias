@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:46:19.000Z
+pubDatetime: 2026-07-27T01:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 26/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Ethan Mbappé (96, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC."
+    a: "Ethan Mbappé (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ethan Mbappé (96) por apenas 12.250 coins.
+> 💰 **Melhor pechincha:** Ethan Mbappé (96) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Meio-campistas em 26/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-26-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.533 coins.
+- **Preço médio das 15 opções:** 9.993 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 3.400 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ethan Mbappé | 96 | CM | — | 12.250 coins | 0% |
-| Stephen Eustáquio | 95 | CM | — | 14.250 coins | +11.5% |
-| Gustavo Puerta | 94 | CM | — | 14.250 coins | +9.6% |
+| Ethan Mbappé | 96 | CM | — | 11.750 coins | -2.1% |
+| Stephen Eustáquio | 95 | CM | — | 13.500 coins | +11.5% |
+| Gustavo Puerta | 94 | CM | — | 14.000 coins | +11.8% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Esperanza Pizarro | 92 | CM | — | 13.500 coins | +10.2% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Esperanza Pizarro | 92 | CM | — | 13.250 coins | +8.3% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 3.400 coins | +3.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.000 coins | +46.7% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.600 coins | +25% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
+| Mariona | 89 | CM | Barclays WSL | 3.500 coins | +13.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 4.000 coins | +33.3% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4.200 coins | +25.7% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.200 coins | +31.7% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 11.000 coins | -8.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 11.000 coins | +6.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 11.750 coins | +6.8% |
 
 
 ## 📈 Destaques
 
-- **Ethan Mbappé (96, CM)** da —, a apenas **12.250 coins**
+- **Ethan Mbappé (96, CM)** da —, a apenas **11.750 coins**
 
-- **Stephen Eustáquio (95, CM)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Stephen Eustáquio (95, CM)** da —, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gustavo Puerta (94, CM)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Gustavo Puerta (94, CM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -72,7 +72,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## Como distribuir a banca
 
-- **Meio:** Ethan Mbappé (96, CM) por 12.250 coins é a referência de rating deste recorte.
+- **Meio:** Ethan Mbappé (96, CM) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -101,7 +101,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Ethan Mbappé (96, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC.
+Ethan Mbappé (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
