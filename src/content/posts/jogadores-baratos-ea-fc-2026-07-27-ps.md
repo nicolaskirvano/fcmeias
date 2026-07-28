@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:46:10.000Z
+pubDatetime: 2026-07-28T01:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.070 coins.
+- **Preço médio das 15 opções:** 8.987 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 2.900 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | -11.5% |
-| Mariona | 89 | CM | Barclays WSL | 2.900 coins | +17.2% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.700 coins | +11.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4.000 coins | -4.9% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.700 coins | +32.6% |
+| Mariona | 89 | CM | Barclays WSL | 3.000 coins | +3.3% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 3.300 coins | +2.9% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3.700 coins | +2.6% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.700 coins | +16% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Jess Park | 89 | CM | Barclays WSL | 12.000 coins | +4.2% |
-| Saki Kumagai | 88 | CM | Barclays WSL | 13.750 coins | -5% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14.000 coins | -1.7% |
-| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 12.000 coins | -12.5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.250 coins | +6.2% |
+| Jess Park | 89 | CM | Barclays WSL | 12.750 coins | -2.1% |
+| Saki Kumagai | 88 | CM | Barclays WSL | 12.750 coins | -10.2% |
+| Andreia Jacinto | 88 | CM | Liga F | 13.250 coins | +14.6% |
+| Sakina Karchaoui | 87 | CM | Arkema PL | 1.600 coins | +21.4% |
+| Mamadou Sangaré | 87 | CM | Ligue 1 McDonald's | 11.000 coins | -4.3% |
 
 
 ## 📈 Destaques
