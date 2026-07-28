@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T19:46:19.000Z
+pubDatetime: 2026-07-28T22:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 28/07 — PC"
 draft: false
 featured: true
