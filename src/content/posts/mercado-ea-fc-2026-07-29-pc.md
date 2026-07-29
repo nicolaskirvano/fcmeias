@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:46:18.000Z
+pubDatetime: 2026-07-29T22:46:17.000Z
 title: "Mercado EA FC em 29/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Vitinha (90, Ligue 1 McDonald's), com +53.7% em 24h, a 211k coins no PC."
+    a: "Khéphren Thuram (87, Serie A TIM), com +59.5% em 24h, a 69k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Aitana Bonmatí (96), -46.2% em 24h, a 337k coins."
+    a: "Clara Serrajordi (96), -49.7% em 24h, a 150k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 42k coins."
+    a: "Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 39k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 107 cartas em alta contra 111 em queda (média 3.01%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 127 cartas em alta contra 101 em queda (média 4.38%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **107 subiram** e **111 caíram**, com variação média de **3.01%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **127 subiram** e **101 caíram**, com variação média de **4.38%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Vitinha (90) **+53.7%** · 🔴 **Maior baixa:** Aitana Bonmatí (96) **-46.2%**
+> 🟢 **Maior alta:** Khéphren Thuram (87) **+59.5%** · 🔴 **Maior baixa:** Clara Serrajordi (96) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -37,24 +37,24 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.1% entre as cartas que se moveram; o universo observado reúne 272 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.7% entre as cartas que se moveram; o universo observado reúne 288 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 90 | Ligue 1 McDonald's | 211k coins | +53.7% | +111.1% |
-| Estefanía Banini | 89 | Liga F | 22k coins | +50% | -14.7% |
-| Mario Lemina | 88 | Trendyol Süper Lig | 52k coins | +50% | -9.5% |
-| Alexia Putellas | 92 | Liga F | 42k coins | +49.6% | +0.6% |
-| Olivia Moultrie | 86 | NWSL | 26k coins | +49.3% | +26.2% |
-| Simone Laudehr | 91 | GPFBL | 22k coins | +48.4% | -57.8% |
-| Nadine Keßler | 90 | GPFBL | 42k coins | +45.9% | -11.8% |
-| Sebastian Berhalter | 93 | — | 23k coins | +44.7% | +2.8% |
-| Toni Kroos | 90 | Icons | 110k coins | +42.3% | +20% |
-| Aleix García | 89 | Bundesliga | 26k coins | +40.8% | +48.6% |
+| Khéphren Thuram | 87 | Serie A TIM | 69k coins | +59.5% | -7.1% |
+| Pedri | 90 | LALIGA EA SPORTS | 137k coins | +59.3% | -63.7% |
+| Gabriel Sara | 94 | — | 38k coins | +58.9% | +18% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 45k coins | +52.1% | +2.8% |
+| Alexia Putellas | 92 | Liga F | 45k coins | +51.3% | +3.4% |
+| Mateo Kovačić | 91 | Premier League | 58k coins | +46.2% | +17% |
+| Toni Kroos | 90 | Icons | 104k coins | +42.3% | +20% |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 25k coins | +42.2% | +1.1% |
+| Lisanne Gräwe | 86 | GPFBL | 38k coins | +41.9% | +76% |
+| Lothar Matthäus | 95 | — | 198k coins | +41.7% | -23% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vitinha (90)** subiu **+53.7%** em 24h, a **211k coins** (faixa do dia: 136k–230k). Está +56% acima da média de 7 dias (aquecida).
+- **Khéphren Thuram (87)** subiu **+59.5%** em 24h, a **69k coins** (faixa do dia: 41k–81k). Está em linha com a média de 7 dias (+7%).
 
-- **Estefanía Banini (89)** subiu **+50%** em 24h, a **22k coins** (faixa do dia: 15.500–26k). Está -11% abaixo da média de 7 dias (descontada).
+- **Pedri (90)** subiu **+59.3%** em 24h, a **137k coins** (faixa do dia: 88k–173k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Mario Lemina (88)** subiu **+50%** em 24h, a **52k coins** (faixa do dia: 37k–54k). Está em linha com a média de 7 dias (+2%).
+- **Gabriel Sara (94)** subiu **+58.9%** em 24h, a **38k coins** (faixa do dia: 24k–45k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 96 | — | 337k coins | -46.2% | -51.4% |
+| Clara Serrajordi | 96 | — | 150k coins | -49.7% | -53% |
+| Caroline Seger | 91 | Icons | 38k coins | -47.2% | -60.4% |
+| Alexia Putellas | 96 | — | 242k coins | -45.6% | -47.3% |
+| Roy Keane | 88 | Icons | 220k coins | -45.1% | -43.6% |
+| Karen Araya | 86 | D1 Arkema | 21k coins | -45% | +6.4% |
 | Richard Ríos | 88 | Liga Portugal | 50k coins | -44.4% | -64.5% |
-| Iniesta | 92 | Icons | 137k coins | -43.6% | -48.5% |
-| Jennifer Echegini | 86 | D1 Arkema | 27k coins | -41.1% | +41.8% |
-| Caroline Seger | 91 | Icons | 43k coins | -38.9% | -53.9% |
-| Mahamadou Doumbia | 91 | — | 29k coins | -38.6% | -50.8% |
-| Benjamin Nygren | 90 | — | 33k coins | -35.5% | -29.8% |
-| Camille Abily | 97 | — | 52k coins | -34.8% | — |
-| Jobe Bellingham | 97 | — | 159k coins | -33.8% | — |
-| Cesc Fàbregas | 91 | Premier League | 100k coins | -33.7% | -73.7% |
+| Iniesta | 92 | Icons | 137k coins | -43.6% | -43.6% |
+| Arda Güler | 94 | — | 31k coins | -43.1% | -25.3% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 76k coins | -39.9% | +6.4% |
+| João Moutinho | 88 | Liga Portugal | 60k coins | -37.4% | -45.4% |
 
 
 ### Análise das baixas
 
-- **Aitana Bonmatí (96)** caiu **-46.2%** em 24h, a **337k coins** (faixa do dia: 315k–650k). Está -46% abaixo da média de 7 dias (descontada).
+- **Clara Serrajordi (96)** caiu **-49.7%** em 24h, a **150k coins** (faixa do dia: 150k–400k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Richard Ríos (88)** caiu **-44.4%** em 24h, a **50k coins** (faixa do dia: 50k–90k). Está -65% abaixo da média de 7 dias (descontada).
+- **Caroline Seger (91)** caiu **-47.2%** em 24h, a **38k coins** (faixa do dia: 31k–74k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Iniesta (92)** caiu **-43.6%** em 24h, a **137k coins** (faixa do dia: 137k–243k). Está -45% abaixo da média de 7 dias (descontada).
+- **Alexia Putellas (96)** caiu **-45.6%** em 24h, a **242k coins** (faixa do dia: 240k–450k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -101,14 +101,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Fara Williams | 88 | 42k coins | 46k coins | 78% |
+| Fara Williams | 88 | 39k coins | 43k coins | 78% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vitinha já avançou 53.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Khéphren Thuram já avançou 59.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aitana Bonmatí recuou -46.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Clara Serrajordi recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Vitinha (90, Ligue 1 McDonald's), com +53.7% em 24h, a 211k coins no PC.
+Khéphren Thuram (87, Serie A TIM), com +59.5% em 24h, a 69k coins no PC.
 
 **E a maior queda do dia?**
-Aitana Bonmatí (96), -46.2% em 24h, a 337k coins.
+Clara Serrajordi (96), -49.7% em 24h, a 150k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 42k coins.
+Pelo modelo FutQuant, Fara Williams (88) — 78% de probabilidade de alta, a 39k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 107 cartas em alta contra 111 em queda (média 3.01%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 127 cartas em alta contra 101 em queda (média 4.38%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
