@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T22:46:20.000Z
+pubDatetime: 2026-07-29T01:46:22.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 28/07 — PC"
 draft: false
 featured: false
