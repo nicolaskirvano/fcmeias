@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:46:08.000Z
+pubDatetime: 2026-07-29T13:46:09.000Z
 title: "Mercado EA FC em 29/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
