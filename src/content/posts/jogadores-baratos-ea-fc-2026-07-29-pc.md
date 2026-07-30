@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:46:20.000Z
+pubDatetime: 2026-07-30T01:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.193 coins.
+- **Preço médio das 15 opções:** 11.100 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 5.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 12.250 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 5.000 coins | +35.1% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.500 coins | +3.6% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.600 coins | +27.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.800 coins | +32.7% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 14.250 coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 11.750 coins | +4.4% |
+| Federico Valverde | 88 | CM | LALIGA EA SPORTS | 6.500 coins | +14.5% |
 | Andreia Jacinto | 88 | CM | Liga F | 12.000 coins | +9.1% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 11.000 coins | -12% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.750 coins | -8.3% |
+| Jack McGlynn | 87 | CM | MLS | 11.750 coins | +15.9% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12.500 coins | -12% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13.250 coins | 0% |
+| Luka Modrić | 86 | CM | LALIGA EA SPORTS | 1.500 coins | +25% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

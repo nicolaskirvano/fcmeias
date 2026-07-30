@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Seger</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nadine Keßler</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rose Lavelle</text>
-<rect x="285" y="153" width="419" height="28" rx="7" fill="#22c55e"/>
-<text x="714" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleix García</text>
-<rect x="285" y="211" width="412" height="28" rx="7" fill="#22c55e"/>
-<text x="707" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Noah Sadiki</text>
-<rect x="285" y="269" width="408" height="28" rx="7" fill="#22c55e"/>
-<text x="703" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hannibal</text>
-<rect x="285" y="327" width="356" height="28" rx="7" fill="#22c55e"/>
-<text x="651" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julia Grosso</text>
-<rect x="285" y="385" width="355" height="28" rx="7" fill="#22c55e"/>
-<text x="650" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kenneth Taylor</text>
+<rect x="285" y="153" width="450" height="28" rx="7" fill="#22c55e"/>
+<text x="745" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gustavo Puerta</text>
+<rect x="285" y="211" width="435" height="28" rx="7" fill="#22c55e"/>
+<text x="730" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Stephen Eustáquio</text>
+<rect x="285" y="269" width="425" height="28" rx="7" fill="#22c55e"/>
+<text x="720" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Valentín Barco</text>
+<rect x="285" y="327" width="396" height="28" rx="7" fill="#22c55e"/>
+<text x="691" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Seger</text>
+<rect x="285" y="385" width="341" height="28" rx="7" fill="#22c55e"/>
+<text x="636" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.3%</text>
 </svg>
