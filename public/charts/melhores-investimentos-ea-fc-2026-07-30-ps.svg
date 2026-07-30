@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Éderson</text>
-<rect x="285" y="153" width="275" height="28" rx="7" fill="#22c55e"/>
-<text x="570" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mahdi Camara</text>
-<rect x="285" y="211" width="232" height="28" rx="7" fill="#22c55e"/>
-<text x="527" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yasin Ayari</text>
-<rect x="285" y="269" width="213" height="28" rx="7" fill="#22c55e"/>
-<text x="508" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Gerrard</text>
-<rect x="285" y="327" width="206" height="28" rx="7" fill="#22c55e"/>
-<text x="501" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Géraldine Reuteler</text>
-<rect x="285" y="385" width="193" height="28" rx="7" fill="#22c55e"/>
-<text x="488" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fara Williams</text>
+<rect x="285" y="153" width="456" height="28" rx="7" fill="#22c55e"/>
+<text x="751" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cesc Fàbregas</text>
+<rect x="285" y="211" width="427" height="28" rx="7" fill="#22c55e"/>
+<text x="722" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vicky López</text>
+<rect x="285" y="269" width="385" height="28" rx="7" fill="#22c55e"/>
+<text x="680" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Uran Bislimi</text>
+<rect x="285" y="327" width="326" height="28" rx="7" fill="#22c55e"/>
+<text x="621" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steven Gerrard</text>
+<rect x="285" y="385" width="304" height="28" rx="7" fill="#22c55e"/>
+<text x="599" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.7%</text>
 </svg>
