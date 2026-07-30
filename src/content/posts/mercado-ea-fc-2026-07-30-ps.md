@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:46:07.000Z
+pubDatetime: 2026-07-30T13:46:07.000Z
 title: "Mercado EA FC em 30/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Marek Hamšík (88, Serie A TIM), com +56.3% em 24h, a 54k coins no Console (PS)."
+    a: "Patrick Vieira (90, Icons), com +57.3% em 24h, a 495k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Mariona (96), -48% em 24h, a 78k coins."
+    a: "Tijjani Reijnders (87), -48.1% em 24h, a 72k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 131 cartas em alta contra 95 em queda (média 8.37%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 101 cartas em alta contra 115 em queda (média 2.75%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **131 em alta** e **95 em queda**, média de **8.37%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **101 em alta** e **115 em queda**, média de **2.75%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Marek Hamšík (88) **+56.3%** · 🔴 **Maior baixa:** Mariona (96) **-48%**
+> 🟢 **Maior alta:** Patrick Vieira (90) **+57.3%** · 🔴 **Maior baixa:** Tijjani Reijnders (87) **-48.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.0% entre as cartas que se moveram; o universo observado reúne 266 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 267 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 54k coins | +56.3% | +70.8% |
-| Nadine Keßler | 90 | GPFBL | 59k coins | +55.3% | +8.3% |
-| Alexia Putellas | 91 | Liga F | 30k coins | +50% | +60% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 29k coins | +48.8% | +29.3% |
-| Mikel Merino | 95 | — | 56k coins | +46.8% | +4.5% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 20k coins | +45.5% | +27.3% |
-| Patrick Vieira | 90 | Icons | 549k coins | +45.4% | +28.9% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 72k coins | +44% | +28.6% |
-| Fabián Ruiz | 95 | — | 25k coins | +38.9% | -5.7% |
-| Georginio Wijnaldum | 87 | Brasileirão | 25k coins | +37.8% | +50% |
+| Patrick Vieira | 90 | Icons | 495k coins | +57.3% | +28.5% |
+| Caroline Seger | 90 | Icons | 43k coins | +56.8% | -63.7% |
+| Éderson | 87 | Serie A TIM | 67k coins | +49.5% | +92.2% |
+| Fara Williams | 88 | Barclays WSL | 150k coins | +44.2% | +66.7% |
+| Paul Scholes | 91 | Icons | 242k coins | +42.2% | +83.4% |
+| Patrik Mercado | 91 | — | 32k coins | +40.4% | -39% |
+| Arda Güler | 94 | — | 30k coins | +39.5% | +0.8% |
+| Iniesta | 93 | Icons | 280k coins | +39.3% | +33.3% |
+| Alexia Putellas | 91 | Liga F | 26k coins | +37.5% | +52.8% |
+| Christoph Baumgartner | 86 | Bundesliga | 52k coins | +36.2% | +33.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marek Hamšík (88)** subiu **+56.3%** em 24h, a **54k coins** (faixa do dia: 19.250–72k). Está +52% acima da média de 7 dias (aquecida).
+- **Patrick Vieira (90)** subiu **+57.3%** em 24h, a **495k coins** (faixa do dia: 346k–549k). Está em linha com a média de 7 dias (+7%).
 
-- **Nadine Keßler (90)** subiu **+55.3%** em 24h, a **59k coins** (faixa do dia: 15.250–70k). Está +44% acima da média de 7 dias (aquecida).
+- **Caroline Seger (90)** subiu **+56.8%** em 24h, a **43k coins** (faixa do dia: 18.000–45k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Alexia Putellas (91)** subiu **+50%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está +31% acima da média de 7 dias (aquecida).
+- **Éderson (87)** subiu **+49.5%** em 24h, a **67k coins** (faixa do dia: 42k–75k). Está +40% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mariona | 96 | Barclays WSL | 78k coins | -48% | -30.2% |
-| Iniesta | 92 | Icons | 155k coins | -43.5% | +5% |
-| Patrick Vieira | 88 | Icons | 219k coins | -42.4% | +48% |
-| Jaap Stam | 89 | Premier League | 74k coins | -38.7% | -32.9% |
-| Roy Keane | 86 | Icons | 96k coins | -33.3% | +30.6% |
-| Mariona | 90 | Barclays WSL | 98k coins | -30% | -4.5% |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 109k coins | -28.7% | -25.3% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 287k coins | -27.8% | +20.4% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 337k coins | -27.5% | -12.7% |
-| Julie Foudy | 90 | Icons | 129k coins | -26.7% | +10.9% |
+| Tijjani Reijnders | 87 | Premier League | 72k coins | -48.1% | -44.5% |
+| George Dobson | 84 | EFL Championship | 46k coins | -28.8% | +25% |
+| Douglas Luiz | 96 | — | 110k coins | -26.7% | -48.9% |
+| Jobe Bellingham | 97 | — | 129k coins | -24.6% | — |
+| Bastian Schweinsteiger | 88 | Icons | 68k coins | -24.3% | -4.9% |
+| Camille Abily | 97 | — | 66k coins | -23.7% | — |
+| Tijjani Reijnders | 93 | Premier League | 140k coins | -23.4% | -22.1% |
+| Patrick Vieira | 86 | Icons | 559k coins | -21.7% | +6.7% |
+| Victor Froholdt | 93 | — | 21k coins | -21.5% | +1.2% |
+| Alexia Putellas | 96 | — | 24k coins | -21.2% | -46.7% |
 
 
 ### Análise das baixas
 
-- **Mariona (96)** caiu **-48%** em 24h, a **78k coins** (faixa do dia: 78k–96k). Está -13% abaixo da média de 7 dias (descontada).
+- **Tijjani Reijnders (87)** caiu **-48.1%** em 24h, a **72k coins** (faixa do dia: 16.000–75k). Está +96% acima da média de 7 dias (aquecida).
 
-- **Iniesta (92)** caiu **-43.5%** em 24h, a **155k coins** (faixa do dia: 110k–263k). Está em linha com a média de 7 dias (-7%).
+- **George Dobson (84)** caiu **-28.8%** em 24h, a **46k coins** (faixa do dia: 38k–65k). Está em linha com a média de 7 dias (-3%).
 
-- **Patrick Vieira (88)** caiu **-42.4%** em 24h, a **219k coins** (faixa do dia: 125k–380k). Está em linha com a média de 7 dias (-7%).
+- **Douglas Luiz (96)** caiu **-26.7%** em 24h, a **110k coins** (faixa do dia: 48k–110k). Está +42% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marek Hamšík já avançou 56.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Patrick Vieira já avançou 57.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mariona recuou -48%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tijjani Reijnders recuou -48.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Marek Hamšík (88, Serie A TIM), com +56.3% em 24h, a 54k coins no Console (PS).
+Patrick Vieira (90, Icons), com +57.3% em 24h, a 495k coins no Console (PS).
 
 **E a maior queda do dia?**
-Mariona (96), -48% em 24h, a 78k coins.
+Tijjani Reijnders (87), -48.1% em 24h, a 72k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 131 cartas em alta contra 95 em queda (média 8.37%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 101 cartas em alta contra 115 em queda (média 2.75%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
