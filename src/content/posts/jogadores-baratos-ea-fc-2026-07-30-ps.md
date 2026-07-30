@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:46:11.000Z
+pubDatetime: 2026-07-30T19:46:11.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.663 coins.
+- **Preço médio das 15 opções:** 10.807 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 5.400 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,15 +46,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 5.400 coins | +29.3% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.500 coins | +9.1% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.900 coins | +28.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.900 coins | +46.8% |
+| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.000 coins | -5.6% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.400 coins | -5.8% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.700 coins | +13.6% |
+| Jess Park | 89 | CM | Barclays WSL | 11.250 coins | 0% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Andreia Jacinto | 88 | CM | Liga F | 12.750 coins | -1.9% |
-| Juan Sebastián Verón | 88 | CM | — | 13.000 coins | -6.8% |
-| Julie Foudy | 88 | CM | Icons | 14.500 coins | -3.3% |
-| Nadine Keßler | 88 | CM | GPFBL | 14.750 coins | 0% |
+| Andreia Jacinto | 88 | CM | Liga F | 12.750 coins | +10.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.000 coins | +10.7% |
+| Nadine Keßler | 88 | CM | GPFBL | 14.500 coins | +7.6% |
 
 
 ## 📈 Destaques

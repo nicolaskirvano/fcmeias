@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:46:08.000Z
+pubDatetime: 2026-07-30T19:46:08.000Z
 title: "Mercado EA FC em 30/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Marek Hamšík (88, Serie A TIM), com +57.9% em 24h, a 43k coins no Console (PS)."
+    a: "Khéphren Thuram (85, Serie A TIM), com +60% em 24h, a 70k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Bastian Schweinsteiger (88), -32.5% em 24h, a 66k coins."
+    a: "Blaise Matuidi (87), -42.9% em 24h, a 120k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 93 cartas em alta contra 121 em queda (média 1.82%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 94 cartas em alta contra 109 em queda (média 1.84%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **93 em alta** e **121 em queda**, média de **1.82%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **94 em alta** e **109 em queda**, média de **1.84%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Marek Hamšík (88) **+57.9%** · 🔴 **Maior baixa:** Bastian Schweinsteiger (88) **-32.5%**
+> 🟢 **Maior alta:** Khéphren Thuram (85) **+60%** · 🔴 **Maior baixa:** Blaise Matuidi (87) **-42.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.5% entre as cartas que se moveram; o universo observado reúne 263 cartas.
-- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.3% entre as cartas que se moveram; o universo observado reúne 250 cartas.
+- **Concentração:** Serie A TIM aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 43k coins | +57.9% | +25% |
-| Jessie Fleming | 86 | NWSL | 83k coins | +56.6% | +35% |
-| Crystal Dunn | 85 | D1 Arkema | 26k coins | +47.9% | -35.3% |
-| Saki Kumagai | 88 | Barclays WSL | 34k coins | +45.7% | +110.8% |
-| Rose Lavelle | 88 | NWSL | 70k coins | +45.6% | +64.4% |
-| Martin Ødegaard | 88 | Premier League | 112k coins | +44.9% | +217.3% |
-| Kevin De Bruyne | 88 | Serie A TIM | 153k coins | +40.9% | +32.5% |
-| Edoardo Bove | 87 | — | 48k coins | +37.6% | +65.2% |
-| Lothar Matthäus | 95 | — | 208k coins | +36% | +19.9% |
-| Pedri | 96 | — | 135k coins | +36% | +14.8% |
+| Khéphren Thuram | 85 | Serie A TIM | 70k coins | +60% | 0% |
+| Crystal Dunn | 85 | D1 Arkema | 20k coins | +58.6% | -32.3% |
+| Enzo Fernández | 96 | — | 420k coins | +47.4% | +90.9% |
+| Kevin De Bruyne | 88 | Serie A TIM | 186k coins | +44.2% | +41.7% |
+| Saki Kumagai | 88 | Barclays WSL | 30k coins | +44% | +89.9% |
+| Iniesta | 92 | Icons | 149k coins | +32.5% | +12.8% |
+| Mariona | 90 | Barclays WSL | 82k coins | +31.8% | -29.2% |
+| Federico Valverde | 94 | — | 270k coins | +28% | +28% |
+| Enzo Fernández | 93 | — | 35k coins | +27.5% | +28.6% |
+| Jessie Fleming | 86 | NWSL | 68k coins | +26.7% | +8.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **30/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marek Hamšík (88)** subiu **+57.9%** em 24h, a **43k coins** (faixa do dia: 19.250–72k). Está +22% acima da média de 7 dias (aquecida).
+- **Khéphren Thuram (85)** subiu **+60%** em 24h, a **70k coins** (faixa do dia: 35k–80k). Está em linha com a média de 7 dias (-3%).
 
-- **Jessie Fleming (86)** subiu **+56.6%** em 24h, a **83k coins** (faixa do dia: 37k–93k). Está em linha com a média de 7 dias (+6%).
+- **Crystal Dunn (85)** subiu **+58.6%** em 24h, a **20k coins** (faixa do dia: 10.875–30k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Crystal Dunn (85)** subiu **+47.9%** em 24h, a **26k coins** (faixa do dia: 10.875–30k). Está em linha com a média de 7 dias (-4%).
+- **Enzo Fernández (96)** subiu **+47.4%** em 24h, a **420k coins** (faixa do dia: 252k–460k). Está +38% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bastian Schweinsteiger | 88 | Icons | 66k coins | -32.5% | -7.6% |
-| Pablo Barrios | 90 | — | 25k coins | -32% | -71.2% |
-| Imrân Louza | 84 | EFL Championship | 49k coins | -27.4% | -1.7% |
-| Khéphren Thuram | 87 | Serie A TIM | 30k coins | -25% | -55.2% |
-| Paul Wanner | 84 | Eredivisie | 45k coins | -24.6% | +16% |
-| Scott McTominay | 91 | Serie A TIM | 300k coins | -24.5% | +34.5% |
-| Julie Foudy | 90 | Icons | 114k coins | -23% | -6.1% |
-| Quinten Timber | 85 | Eredivisie | 22k coins | -21.1% | -19.6% |
-| Daichi Kamada | 96 | — | 100k coins | -18.7% | -63% |
-| Jill Scott | 87 | Barclays WSL | 21k coins | -17.3% | +2.4% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 120k coins | -42.9% | -51.6% |
+| Kevin Stöger | 86 | Bundesliga | 24k coins | -38.3% | +2.2% |
+| Bastian Schweinsteiger | 89 | Icons | 104k coins | -30.6% | -13.9% |
+| Tijjani Reijnders | 93 | Premier League | 128k coins | -28.9% | -14.7% |
+| Nadine Keßler | 89 | GPFBL | 34k coins | -27% | +45.2% |
+| Vitinha | 90 | Ligue 1 McDonald's | 160k coins | -26.1% | +49.1% |
+| Quinten Timber | 85 | Eredivisie | 32k coins | -24.4% | -9.1% |
+| Luka Modrić | 90 | Serie A TIM | 76k coins | -23.1% | -13.5% |
+| Alexis Mac Allister | 91 | — | 27k coins | -22.9% | -67.3% |
+| João Moutinho | 88 | Liga Portugal | 90k coins | -22.2% | -24.8% |
 
 
 ### Análise das baixas
 
-- **Bastian Schweinsteiger (88)** caiu **-32.5%** em 24h, a **66k coins** (faixa do dia: 66k–112k). Está -14% abaixo da média de 7 dias (descontada).
+- **Blaise Matuidi (87)** caiu **-42.9%** em 24h, a **120k coins** (faixa do dia: 120k–210k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Pablo Barrios (90)** caiu **-32%** em 24h, a **25k coins** (faixa do dia: 16.750–30k). Está em linha com a média de 7 dias (+0%).
+- **Kevin Stöger (86)** caiu **-38.3%** em 24h, a **24k coins** (faixa do dia: 24k–43k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Imrân Louza (84)** caiu **-27.4%** em 24h, a **49k coins** (faixa do dia: 42k–62k). Está em linha com a média de 7 dias (-2%).
+- **Bastian Schweinsteiger (89)** caiu **-30.6%** em 24h, a **104k coins** (faixa do dia: 90k–148k). Está em linha com a média de 7 dias (+6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marek Hamšík já avançou 57.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Khéphren Thuram já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Bastian Schweinsteiger recuou -32.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Blaise Matuidi recuou -42.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Marek Hamšík (88, Serie A TIM), com +57.9% em 24h, a 43k coins no Console (PS).
+Khéphren Thuram (85, Serie A TIM), com +60% em 24h, a 70k coins no Console (PS).
 
 **E a maior queda do dia?**
-Bastian Schweinsteiger (88), -32.5% em 24h, a 66k coins.
+Blaise Matuidi (87), -42.9% em 24h, a 120k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 93 cartas em alta contra 121 em queda (média 1.82%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 94 cartas em alta contra 109 em queda (média 1.84%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
