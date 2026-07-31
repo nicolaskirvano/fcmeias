@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:46:19.000Z
+pubDatetime: 2026-07-31T01:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.307 coins.
+- **Preço médio das 15 opções:** 10.427 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 3.800 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | -6.1% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.600 coins | +3.5% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.000 coins | -10.3% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.700 coins | +12.1% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.000 coins | +3.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.400 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 12.250 coins | +12.8% |
-| Sakina Karchaoui | 87 | CM | Arkema PL | 3.800 coins | +15.6% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13.500 coins | 0% |
+| Sakina Karchaoui | 87 | CM | Arkema PL | 3.500 coins | +20.7% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 11.000 coins | +4.5% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13.000 coins | -14.3% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 13.250 coins | +14.3% |
 | Fara Williams | 86 | CM | Barclays WSL | 12.000 coins | +2.1% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 14.500 coins | 0% |
+| Hayley Lauder | 85 | CM | Scottish Women's League | 11.000 coins | -10.2% |
 
 
 ## 📈 Destaques
@@ -65,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jill Scott (91, CM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Conor Gallagher (91, CM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
