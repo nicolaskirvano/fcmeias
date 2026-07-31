@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:46:19.000Z
+pubDatetime: 2026-07-31T19:46:19.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.970 coins.
+- **Preço médio das 15 opções:** 8.490 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 3.800 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,29 +45,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Vitinha | 89 | CM | Ligue 1 McDonald's | 5.700 coins | +7.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 5.900 coins | -4.8% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 5.900 coins | 0% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.300 coins | +5.1% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.750 coins | 0% |
-| Sakina Karchaoui | 87 | CM | Arkema PL | 3.800 coins | +11.8% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 11.500 coins | -11.3% |
+| Kevin De Bruyne | 87 | CM | Premier League | 1.500 coins | +20% |
+| Nicolò Barella | 87 | CM | Serie A Enilive | 1.500 coins | +40% |
+| Fara Williams | 86 | CM | Barclays WSL | 11.750 coins | -2.1% |
+| Svenja Huth | 85 | CM | GPFBL | 1.600 coins | +9.1% |
+| Scott McTominay | 85 | CM | Serie A Enilive | 1.700 coins | +54.5% |
 
 
 ## 📈 Destaques
 
 - **Homare Sawa (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
 
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins**
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins**
 
 
 ## Como distribuir a banca

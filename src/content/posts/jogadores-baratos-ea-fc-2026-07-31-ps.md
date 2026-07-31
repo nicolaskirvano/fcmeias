@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:46:10.000Z
+pubDatetime: 2026-07-31T19:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.450 coins.
+- **Preço médio das 15 opções:** 10.990 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 3.300 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -47,21 +47,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4.700 coins | -14.9% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 7.100 coins | +13% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Juan Sebastián Verón | 88 | CM | — | 11.000 coins | +9.1% |
 | Andreia Jacinto | 88 | CM | Liga F | 11.000 coins | -9.8% |
-| Sakina Karchaoui | 87 | CM | Arkema PL | 3.300 coins | 0% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 11.000 coins | -8.3% |
-| Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
+| Julie Foudy | 88 | CM | Icons | 13.500 coins | +17.4% |
+| Alexis Mac Allister | 87 | CM | Premier League | 2.000 coins | +33.3% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12.500 coins | +2.1% |
+| Jack McGlynn | 87 | CM | MLS | 14.500 coins | +18.4% |
 
 
 ## 📈 Destaques
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
 
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins**
 

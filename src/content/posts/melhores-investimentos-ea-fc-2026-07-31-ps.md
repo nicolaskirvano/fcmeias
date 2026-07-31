@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:46:09.000Z
+pubDatetime: 2026-07-31T19:46:08.000Z
 title: "Investimentos EA FC: Meio-campistas em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Federico Valverde (90, LALIGA EA SPORTS) lidera, com +80.6% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Vicky López (87, Liga F) lidera, com +78.4% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Federico Valverde (90) acumula **+80.6% em 7 dias** a 160k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Vicky López (87) acumula **+78.4% em 7 dias** a 64k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.9% em 24h** e **+42.7% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.0% em 24h** e **+51.7% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 160k coins | +30% | +80.6% | Esticada |
-| Steven Gerrard | 89 | Icons | 180k coins | +33.3% | +75.2% | Esticada |
-| Enzo Fernández | 93 | — | 42k coins | +11.2% | +57.9% | Momentum moderado |
-| Vicky López | 87 | Liga F | 98k coins | +18.4% | +55.9% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 50k coins | +29.3% | +46.9% | Esticada |
-| Patrick Vieira | 95 | — | 200k coins | +3.1% | +43.9% | Momentum moderado |
-| Uran Bislimi | 84 | Swiss Super League | 58k coins | +14.9% | +43.2% | Momentum moderado |
-| Alexia Putellas | 92 | Liga F | 70k coins | +5% | +42.7% | Momentum moderado |
-| Julie Foudy | 90 | Icons | 120k coins | +9.1% | +41.2% | Momentum moderado |
-| Aleix García | 93 | — | 22k coins | +23.2% | +41% | Esticada |
-| Sandro Tonali | 88 | — | 54k coins | +10.2% | +40.3% | Momentum moderado |
-| Andrea Pirlo | 90 | Icons | 120k coins | +4.8% | +37.5% | Momentum moderado |
-| Kenneth Taylor | 84 | Eredivisie | 32k coins | +36.2% | +36.2% | Esticada |
-| Paul Scholes | 88 | Icons | 92k coins | +31% | +34.8% | Esticada |
-| Laia Aleixandri | 86 | Liga F | 49k coins | +10% | +33.8% | Momentum moderado |
+| Vicky López | 87 | Liga F | 64k coins | +9.4% | +78.4% | Esticada |
+| Gustavo Puerta | 94 | — | 20k coins | +5.1% | +74.5% | Esticada |
+| Stephen Eustáquio | 95 | — | 21k coins | +5.1% | +70.8% | Esticada |
+| Hakan Çalhanoğlu | 88 | — | 70k coins | +38.6% | +64.7% | Esticada |
+| Edoardo Bove | 87 | — | 52k coins | +33.7% | +63.5% | Esticada |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 64k coins | +33.7% | +60.8% | Esticada |
+| Caleb Yirenkyi | 94 | — | 20k coins | +10% | +51.7% | Momentum moderado |
+| Paul Wanner | 94 | — | 20k coins | +10% | +51.7% | Momentum moderado |
+| Vitinha | 90 | Ligue 1 McDonald's | 182k coins | +1.3% | +51.5% | Momentum moderado |
+| Victor Froholdt | 93 | — | 24k coins | +20.7% | +47.8% | Esticada |
+| Adrien Rabiot | 92 | — | 30k coins | +2.6% | +47.5% | Momentum moderado |
+| Sebastian Szymański | 87 | — | 48k coins | +11.5% | +45% | Momentum moderado |
+| Alexia Putellas | 91 | Liga F | 35k coins | +14.8% | +44.3% | Momentum moderado |
+| Andrés Cubas | 93 | — | 18.500 coins | +16.7% | +37.5% | Momentum moderado |
+| Toni Kroos | 95 | — | 100k coins | +5.9% | +33.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Federico Valverde (90)** — 160k coins, **+80.6% em 7 dias** (+30% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vicky López (87)** — 64k coins, **+78.4% em 7 dias** (+9.4% em 24h). Preço -41% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (89)** — 180k coins, **+75.2% em 7 dias** (+33.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gustavo Puerta (94)** — 20k coins, **+74.5% em 7 dias** (+5.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Fernández (93)** — 42k coins, **+57.9% em 7 dias** (+11.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Stephen Eustáquio (95)** — 21k coins, **+70.8% em 7 dias** (+5.1% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vicky López (87)** — 98k coins, **+55.9% em 7 dias** (+18.4% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hakan Çalhanoğlu (88)** — 70k coins, **+64.7% em 7 dias** (+38.6% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luca Mazzitelli (84)** — 50k coins, **+46.9% em 7 dias** (+29.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Edoardo Bove (87)** — 52k coins, **+63.5% em 7 dias** (+33.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Federico Valverde (90, LALIGA EA SPORTS) lidera, com +80.6% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Vicky López (87, Liga F) lidera, com +78.4% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
