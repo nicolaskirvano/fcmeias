@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:46:19.000Z
+pubDatetime: 2026-07-31T22:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.490 coins.
+- **Preço médio das 15 opções:** 10.820 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 1.500 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 4.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.300 coins | +5.1% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
+| Mariona | 89 | CM | Barclays WSL | 4.500 coins | +56.7% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 6.400 coins | -6.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 7.900 coins | +25.4% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Kevin De Bruyne | 87 | CM | Premier League | 1.500 coins | +20% |
-| Nicolò Barella | 87 | CM | Serie A Enilive | 1.500 coins | +40% |
-| Fara Williams | 86 | CM | Barclays WSL | 11.750 coins | -2.1% |
-| Svenja Huth | 85 | CM | GPFBL | 1.600 coins | +9.1% |
-| Scott McTominay | 85 | CM | Serie A Enilive | 1.700 coins | +54.5% |
+| Simone Laudehr | 88 | CM | GPFBL | 13.500 coins | -6.5% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13.000 coins | +13% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.000 coins | -11.1% |
 
 
 ## 📈 Destaques
