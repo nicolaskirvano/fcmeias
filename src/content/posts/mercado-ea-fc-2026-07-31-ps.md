@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:46:07.000Z
+pubDatetime: 2026-07-31T13:46:07.000Z
 title: "Mercado EA FC em 31/07: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Tanguy Ndombele (85, Ligue 1 McDonald's), com +58.6% em 24h, a 34k coins no Console (PS)."
+    a: "Simone Laudehr (91, GPFBL), com +56.7% em 24h, a 29k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Marek Hamšík (88), -47.3% em 24h, a 29k coins."
+    a: "Marek Hamšík (88), -44.5% em 24h, a 27k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 93 cartas em alta contra 113 em queda (média -0.01%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 94 cartas em alta contra 130 em queda (média -1.68%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **93 cartas subiram** e **113 caíram** (80+ acima de 5k coins), variação média de **-0.01%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **em baixa** — predominam as quedas: **94 cartas subiram** e **130 caíram** (80+ acima de 5k coins), variação média de **-1.68%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Tanguy Ndombele (85) **+58.6%** · 🔴 **Maior baixa:** Marek Hamšík (88) **-47.3%**
+> 🟢 **Maior alta:** Simone Laudehr (91) **+56.7%** · 🔴 **Maior baixa:** Marek Hamšík (88) **-44.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.1% entre as cartas que se moveram; o universo observado reúne 253 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.0% entre as cartas que se moveram; o universo observado reúne 273 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 34k coins | +58.6% | +36.6% |
-| Anaële Le Moguédec | 88 | D1 Arkema | 30k coins | +55.8% | +81.8% |
-| Vicky López | 87 | Liga F | 120k coins | +55.4% | +27% |
-| Aleix García | 89 | Bundesliga | 25k coins | +47.1% | 0% |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 40k coins | +45.9% | +78.7% |
-| Quinten Timber | 85 | Eredivisie | 32k coins | +45.6% | +37.9% |
-| Can Bozdoğan | 87 | Eredivisie | 25k coins | +40.5% | -33.3% |
-| Enzo Fernández | 93 | — | 42k coins | +35.3% | +30.8% |
-| João Neves | 93 | Ligue 1 McDonald's | 150k coins | +30.4% | +32.7% |
-| Toni Kroos | 91 | Icons | 239k coins | +29.9% | +24.5% |
+| Simone Laudehr | 91 | GPFBL | 29k coins | +56.7% | -5.6% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 22k coins | +54.4% | +35.4% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 71k coins | +46.4% | +71.1% |
+| Enzo Fernández | 93 | — | 42k coins | +44.1% | +51.8% |
+| Pedri | 90 | LALIGA EA SPORTS | 60k coins | +42.1% | -54.4% |
+| Roy Keane | 86 | Icons | 100k coins | +41.8% | +42.9% |
+| Quinten Timber | 85 | Eredivisie | 28k coins | +41.1% | +33.7% |
+| Federico Valverde | 90 | LALIGA EA SPORTS | 195k coins | +37.3% | +53.5% |
+| Kobbie Mainoo | 90 | Premier League | 106k coins | +36% | +22.9% |
+| Olivia Moultrie | 86 | NWSL | 20k coins | +30.8% | +54.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tanguy Ndombele (85)** subiu **+58.6%** em 24h, a **34k coins** (faixa do dia: 19.000–38k). Está +32% acima da média de 7 dias (aquecida).
+- **Simone Laudehr (91)** subiu **+56.7%** em 24h, a **29k coins** (faixa do dia: 14.250–48k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Anaële Le Moguédec (88)** subiu **+55.8%** em 24h, a **30k coins** (faixa do dia: 11.000–30k). Está +88% acima da média de 7 dias (aquecida).
+- **Mamadou Sangaré (87)** subiu **+54.4%** em 24h, a **22k coins** (faixa do dia: 11.250–41k). Está +46% acima da média de 7 dias (aquecida).
 
-- **Vicky López (87)** subiu **+55.4%** em 24h, a **120k coins** (faixa do dia: 54k–130k). Está +14% acima da média de 7 dias (aquecida).
+- **Aurélien Tchouaméni (87)** subiu **+46.4%** em 24h, a **71k coins** (faixa do dia: 43k–94k). Está +31% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marek Hamšík | 88 | Serie A TIM | 29k coins | -47.3% | -25.9% |
-| John McGinn | 96 | — | 45k coins | -44.7% | -58.1% |
-| Alexis Mac Allister | 91 | — | 31k coins | -41.4% | -62.3% |
-| Patrik Mercado | 91 | — | 22k coins | -37.4% | -56.3% |
-| Daniel Svensson | 84 | Bundesliga | 38k coins | -37.2% | -28% |
-| Douglas Luiz | 96 | — | 46k coins | -36.8% | -61.2% |
-| Martin Ødegaard | 88 | Premier League | 98k coins | -35.1% | +66.1% |
-| Aitana Bonmatí | 96 | — | 145k coins | -34.1% | -55.8% |
-| Homare Sawa | 91 | Icons | 72k coins | -32.2% | -31% |
-| Georginio Wijnaldum | 87 | Brasileirão | 30k coins | -30.4% | +1.4% |
+| Marek Hamšík | 88 | Serie A TIM | 27k coins | -44.5% | -29.7% |
+| Clara Serrajordi | 96 | — | 69k coins | -42.7% | -56.2% |
+| Xavi | 92 | Icons | 174k coins | -41% | -3.3% |
+| Mariona | 90 | Barclays WSL | 56k coins | -38.4% | -52.5% |
+| Aitana Bonmatí | 96 | — | 110k coins | -37.5% | -60.9% |
+| Alexia Putellas | 96 | — | 119k coins | -36.7% | -56.2% |
+| Éderson | 87 | Serie A TIM | 50k coins | -31.3% | +16.5% |
+| Patrik Mercado | 91 | — | 23k coins | -28.5% | -52.1% |
+| Weston McKennie | 95 | — | 22k coins | -24% | -2.6% |
+| Camille Abily | 97 | — | 48k coins | -22.9% | -40.8% |
 
 
 ### Análise das baixas
 
-- **Marek Hamšík (88)** caiu **-47.3%** em 24h, a **29k coins** (faixa do dia: 11.750–56k). Está -16% abaixo da média de 7 dias (descontada).
+- **Marek Hamšík (88)** caiu **-44.5%** em 24h, a **27k coins** (faixa do dia: 11.750–47k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **John McGinn (96)** caiu **-44.7%** em 24h, a **45k coins** (faixa do dia: 35k–150k). Está -45% abaixo da média de 7 dias (descontada).
+- **Clara Serrajordi (96)** caiu **-42.7%** em 24h, a **69k coins** (faixa do dia: 62k–121k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Alexis Mac Allister (91)** caiu **-41.4%** em 24h, a **31k coins** (faixa do dia: 25k–108k). Está -27% abaixo da média de 7 dias (descontada).
+- **Xavi (92)** caiu **-41%** em 24h, a **174k coins** (faixa do dia: 174k–334k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tanguy Ndombele já avançou 58.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Simone Laudehr já avançou 56.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Marek Hamšík recuou -47.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marek Hamšík recuou -44.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Tanguy Ndombele (85, Ligue 1 McDonald's), com +58.6% em 24h, a 34k coins no Console (PS).
+Simone Laudehr (91, GPFBL), com +56.7% em 24h, a 29k coins no Console (PS).
 
 **E a maior queda do dia?**
-Marek Hamšík (88), -47.3% em 24h, a 29k coins.
+Marek Hamšík (88), -44.5% em 24h, a 27k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 93 cartas em alta contra 113 em queda (média -0.01%).
+Hoje o mercado está em baixa — predominam as quedas, com 94 cartas em alta contra 130 em queda (média -1.68%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
