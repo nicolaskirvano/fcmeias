@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:46:17.000Z
+pubDatetime: 2026-08-01T01:46:17.000Z
 title: "Mercado EA FC em 31/07: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Patrick Vieira (86, Icons), com +51.5% em 24h, a 1.19M coins no PC."
+    a: "Steven Gerrard (88, Icons), com +58.2% em 24h, a 150k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mahamadou Doumbia (91), -50% em 24h, a 34k coins."
+    a: "Bastian Schweinsteiger (88), -47.8% em 24h, a 114k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 89 cartas em alta contra 106 em queda (média 1.24%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 101 cartas em alta contra 106 em queda (média 1.47%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **31/07/2026** no PC com mercado **lateral** — sem direção clara: **89 cartas subiram** e **106 caíram** (80+ acima de 5k coins), variação média de **1.24%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **31/07/2026** no PC com mercado **lateral** — sem direção clara: **101 cartas subiram** e **106 caíram** (80+ acima de 5k coins), variação média de **1.47%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Patrick Vieira (86) **+51.5%** · 🔴 **Maior baixa:** Mahamadou Doumbia (91) **-50%**
+> 🟢 **Maior alta:** Steven Gerrard (88) **+58.2%** · 🔴 **Maior baixa:** Bastian Schweinsteiger (88) **-47.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Meio-campistas — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **lateral** — sem
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.6% entre as cartas que se moveram; o universo observado reúne 258 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 268 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick Vieira | 86 | Icons | 1.19M coins | +51.5% | +24.1% |
-| Weston McKennie | 92 | Serie A TIM | 88k coins | +46.3% | +32.4% |
-| Camille Abily | 91 | Icons | 65k coins | +41.3% | +58.5% |
-| Steven Gerrard | 88 | Icons | 172k coins | +40.8% | +141.1% |
-| Patrick Vieira | 90 | Icons | 847k coins | +36.4% | +41.2% |
-| Kodai Sano | 95 | — | 21k coins | +36.1% | -11% |
-| Bastian Schweinsteiger | 89 | Icons | 175k coins | +33.6% | +20.9% |
-| Gabriel Sara | 94 | — | 37k coins | +30.7% | +43.3% |
-| Sebastian Berhalter | 93 | — | 26k coins | +30% | +23.8% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 80k coins | +27% | +91.6% |
+| Steven Gerrard | 88 | Icons | 150k coins | +58.2% | +101.3% |
+| Federico Valverde | 89 | LALIGA EA SPORTS | 288k coins | +51.6% | +30.9% |
+| Christian Eriksen | 87 | Bundesliga | 120k coins | +46.3% | +21.2% |
+| Camille Abily | 97 | — | 55k coins | +44.2% | -33.9% |
+| Kevin De Bruyne | 88 | Serie A TIM | 342k coins | +39.6% | +7.9% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 98k coins | +38.9% | +142.4% |
+| Giada Greggi | 87 | Calcio A Femminile | 35k coins | +38.6% | +47.4% |
+| Adrien Thomasson | 92 | — | 22k coins | +34.8% | +3.5% |
+| Enzo Fernández | 96 | — | 320k coins | +28% | +87.1% |
+| Toni Kroos | 90 | Icons | 100k coins | +27% | +4.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **lateral** — sem
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Patrick Vieira (86)** subiu **+51.5%** em 24h, a **1.19M coins** (faixa do dia: 694k–1.80M). Está +40% acima da média de 7 dias (aquecida).
+- **Steven Gerrard (88)** subiu **+58.2%** em 24h, a **150k coins** (faixa do dia: 90k–180k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Weston McKennie (92)** subiu **+46.3%** em 24h, a **88k coins** (faixa do dia: 74k–100k). Está +50% acima da média de 7 dias (aquecida).
+- **Federico Valverde (89)** subiu **+51.6%** em 24h, a **288k coins** (faixa do dia: 190k–320k). Está em linha com a média de 7 dias (-6%).
 
-- **Camille Abily (91)** subiu **+41.3%** em 24h, a **65k coins** (faixa do dia: 38k–65k). Está +48% acima da média de 7 dias (aquecida).
+- **Christian Eriksen (87)** subiu **+46.3%** em 24h, a **120k coins** (faixa do dia: 46k–150k). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mahamadou Doumbia | 91 | — | 34k coins | -50% | -58.9% |
+| Bastian Schweinsteiger | 88 | Icons | 114k coins | -47.8% | -31.4% |
 | Yaya Touré | 88 | Premier League | 750k coins | -46.4% | -21.1% |
-| Lucas Paquetá | 84 | Premier League | 42k coins | -44% | -53.1% |
+| Scott McTominay | 87 | Serie A TIM | 76k coins | -45.4% | -19.5% |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 28k coins | -44% | -41.1% |
-| Gabriel Sara | 83 | Trendyol Süper Lig | 34k coins | -40.7% | -8.2% |
-| Arthur Atta | 85 | Serie A TIM | 30k coins | -40.2% | -39.9% |
-| Simone Laudehr | 91 | GPFBL | 22k coins | -36.5% | -69.7% |
-| Fran Álvarez | 80 | PKO BP Ekstraklasa | 30k coins | -35.8% | -24.2% |
-| Lothar Matthäus | 90 | Icons | 114k coins | -33.3% | -32.9% |
-| Patrik Mercado | 91 | — | 28k coins | -31.3% | -57.8% |
+| Frenkie de Jong | 97 | — | 471k coins | -37.5% | -33.3% |
+| Seko Fofana | 87 | — | 65k coins | -37.5% | -13% |
+| Enzo Fernández | 93 | — | 34k coins | -36.9% | -14.4% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 400k coins | -36.4% | -74.1% |
+| Fran Álvarez | 80 | PKO BP Ekstraklasa | 30k coins | -35.8% | -35.8% |
+| Gabriel Sara | 83 | Trendyol Süper Lig | 34k coins | -34.3% | -8.2% |
 
 
 ### Análise das baixas
 
-- **Mahamadou Doumbia (91)** caiu **-50%** em 24h, a **34k coins** (faixa do dia: 18.500–50k). Está em linha com a média de 7 dias (+4%).
+- **Bastian Schweinsteiger (88)** caiu **-47.8%** em 24h, a **114k coins** (faixa do dia: 71k–201k). Está -10% abaixo da média de 7 dias (descontada).
 
 - **Yaya Touré (88)** caiu **-46.4%** em 24h, a **750k coins** (faixa do dia: 750k–1.40M). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Lucas Paquetá (84)** caiu **-44%** em 24h, a **42k coins** (faixa do dia: 42k–88k). Está -39% abaixo da média de 7 dias (descontada).
+- **Scott McTominay (87)** caiu **-45.4%** em 24h, a **76k coins** (faixa do dia: 76k–155k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Patrick Vieira já avançou 51.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Steven Gerrard já avançou 58.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mahamadou Doumbia recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bastian Schweinsteiger recuou -47.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Patrick Vieira (86, Icons), com +51.5% em 24h, a 1.19M coins no PC.
+Steven Gerrard (88, Icons), com +58.2% em 24h, a 150k coins no PC.
 
 **E a maior queda do dia?**
-Mahamadou Doumbia (91), -50% em 24h, a 34k coins.
+Bastian Schweinsteiger (88), -47.8% em 24h, a 114k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 89 cartas em alta contra 106 em queda (média 1.24%).
+Hoje o mercado está lateral — sem direção clara, com 101 cartas em alta contra 106 em queda (média 1.47%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
