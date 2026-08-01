@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:46:18.000Z
+pubDatetime: 2026-08-01T19:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Franziska Harsch (88, GPFBL) lidera, com +69.2% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "João Neves (86, Ligue 1 McDonald's) lidera, com +87.1% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Franziska Harsch (88) acumula **+69.2% em 7 dias** a 33k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** João Neves (86) acumula **+87.1% em 7 dias** a 160k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+27.5% em 24h** e **+47.4% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **GPFBL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.5% em 24h** e **+58.9% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Franziska Harsch | 88 | GPFBL | 33k coins | +10.9% | +69.2% | Esticada |
-| Enzo Fernández | 93 | — | 70k coins | +27.5% | +64.6% | Esticada |
-| Xavi | 91 | Icons | 141k coins | +36.2% | +58.9% | Esticada |
-| Andreia Jacinto | 88 | Liga F | 27k coins | +17.6% | +57.4% | Momentum moderado |
-| Éderson | 87 | Serie A TIM | 59k coins | +25% | +53.1% | Esticada |
-| Gustavo Puerta | 94 | — | 17.750 coins | +6% | +51.1% | Momentum moderado |
-| Stephen Eustáquio | 95 | — | 18.000 coins | +6% | +47.9% | Momentum moderado |
-| Sakina Karchaoui | 95 | — | 22k coins | +40% | +47.4% | Esticada |
-| Joey Veerman | 96 | — | 19.750 coins | +31.7% | +43.6% | Esticada |
-| Mamadou Sangaré | 96 | — | 20k coins | +31.1% | +42.9% | Esticada |
-| Esperanza Pizarro | 92 | — | 16.250 coins | +22.6% | +41.3% | Esticada |
-| Sebastian Szymański | 87 | — | 70k coins | +40% | +40.7% | Esticada |
-| Giada Greggi | 87 | Calcio A Femminile | 35k coins | +23.9% | +40% | Esticada |
-| Hayden Hackney | 96 | — | 19.750 coins | +33.9% | +38.6% | Esticada |
-| Paula Fernández | 93 | — | 20k coins | +38.7% | +36.5% | Esticada |
+| João Neves | 86 | Ligue 1 McDonald's | 160k coins | +8.1% | +87.1% | Esticada |
+| Julia Grosso | 88 | NWSL | 63k coins | +35.4% | +78.1% | Esticada |
+| Paula Fernández | 88 | — | 70k coins | +2.9% | +74.4% | Esticada |
+| Franziska Harsch | 88 | GPFBL | 35k coins | +35.9% | +70.7% | Esticada |
+| Gustavo Puerta | 94 | — | 19.750 coins | +8.2% | +68.1% | Esticada |
+| Stephen Eustáquio | 95 | — | 20k coins | +8.2% | +61.2% | Esticada |
+| Weston McKennie | 92 | Serie A TIM | 92k coins | +4.3% | +60% | Esticada |
+| Mamadou Sangaré | 96 | — | 22k coins | +14.1% | +58.9% | Momentum moderado |
+| Sakina Karchaoui | 95 | — | 24k coins | +19.5% | +58.6% | Momentum moderado |
+| Caleb Yirenkyi | 94 | — | 21k coins | +5.1% | +56.6% | Momentum moderado |
+| Andreia Jacinto | 88 | Liga F | 27k coins | +23% | +55.1% | Esticada |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 38k coins | +9.5% | +54.6% | Momentum moderado |
+| Hayden Hackney | 96 | — | 22k coins | +15.8% | +54.4% | Momentum moderado |
+| Noah Sadiki | 93 | — | 22k coins | +7.7% | +52.7% | Momentum moderado |
+| Joey Veerman | 96 | — | 22k coins | +10.5% | +50% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Franziska Harsch (88)** — 33k coins, **+69.2% em 7 dias** (+10.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Neves (86)** — 160k coins, **+87.1% em 7 dias** (+8.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Fernández (93)** — 70k coins, **+64.6% em 7 dias** (+27.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julia Grosso (88)** — 63k coins, **+78.1% em 7 dias** (+35.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi (91)** — 141k coins, **+58.9% em 7 dias** (+36.2% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paula Fernández (88)** — 70k coins, **+74.4% em 7 dias** (+2.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andreia Jacinto (88)** — 27k coins, **+57.4% em 7 dias** (+17.6% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franziska Harsch (88)** — 35k coins, **+70.7% em 7 dias** (+35.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Éderson (87)** — 59k coins, **+53.1% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gustavo Puerta (94)** — 19.750 coins, **+68.1% em 7 dias** (+8.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Franziska Harsch (88, GPFBL) lidera, com +69.2% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+João Neves (86, Ligue 1 McDonald's) lidera, com +87.1% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
