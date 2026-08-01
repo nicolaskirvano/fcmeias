@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:46:12.000Z
+pubDatetime: 2026-08-01T13:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.757 coins.
+- **Preço médio das 15 opções:** 11.573 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.100 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ethan Mbappé | 96 | CM | — | 12.500 coins | +7.7% |
-| Leon Goretzka | 94 | CM | — | 14.000 coins | +6.7% |
+| Ethan Mbappé | 96 | CM | — | 12.500 coins | +2% |
+| Cesc Fàbregas | 93 | CM | — | 14.000 coins | -11.8% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Homare Sawa | 92 | CM | Icons | 12.750 coins | 0% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 4.500 coins | -7.3% |
-| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 5.100 coins | -8.8% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Nadine Keßler | 88 | CM | GPFBL | 12.000 coins | -2% |
-| Julie Foudy | 88 | CM | Icons | 12.500 coins | -7.4% |
-| Kevin De Bruyne | 87 | CM | Premier League | 1.600 coins | +37.5% |
+| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Andreia Jacinto | 88 | CM | Liga F | 11.000 coins | -12% |
+| Julie Foudy | 88 | CM | Icons | 12.500 coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 14.250 coins | -6.7% |
 
 
 ## 📈 Destaques
 
 - **Ethan Mbappé (96, CM)** da —, a apenas **12.500 coins**
 
-- **Leon Goretzka (94, CM)** da —, a apenas **14.000 coins**
+- **Cesc Fàbregas (93, CM)** da —, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
