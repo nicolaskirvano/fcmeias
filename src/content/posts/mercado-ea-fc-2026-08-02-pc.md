@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:46:17.000Z
+pubDatetime: 2026-08-02T16:46:17.000Z
 title: "Mercado EA FC em 02/08: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Fabián Ruiz (96, sem liga), com +54.4% em 24h, a 149k coins no PC."
+    a: "Federico Valverde (94, sem liga), com +60% em 24h, a 399k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Enzo Fernández (93), -42% em 24h, a 40k coins."
+    a: "Andrea Pirlo (90), -45.6% em 24h, a 68k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 111 cartas em alta contra 84 em queda (média 6.86%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 97 cartas em alta contra 94 em queda (média 4.57%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **111 subiram**, **84 caíram** (80+ e 5k+ coins), média de **6.86%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **97 subiram**, **94 caíram** (80+ e 5k+ coins), média de **4.57%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Fabián Ruiz (96) **+54.4%** · 🔴 **Maior baixa:** Enzo Fernández (93) **-42%**
+> 🟢 **Maior alta:** Federico Valverde (94) **+60%** · 🔴 **Maior baixa:** Andrea Pirlo (90) **-45.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Meio-campistas — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.9% entre as cartas que se moveram; o universo observado reúne 282 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.8% entre as cartas que se moveram; o universo observado reúne 278 cartas.
+- **Concentração:** Bundesliga aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 96 | — | 149k coins | +54.4% | -0.7% |
-| Julie Foudy | 91 | Icons | 35k coins | +51% | +43.6% |
-| Pieter Gerkens | 83 | 1A Pro League | 70k coins | +40% | -6.7% |
-| João Neves | 96 | — | 394k coins | +37.2% | -45.4% |
-| Christian Eriksen | 87 | Bundesliga | 150k coins | +36.4% | +201.5% |
-| Toni Kroos | 90 | Icons | 120k coins | +34.8% | +58.9% |
-| Daniel Svensson | 84 | Bundesliga | 35k coins | +31% | -12.1% |
-| Benjamin Nygren | 90 | — | 38k coins | +30.5% | +48.1% |
-| Frenkie de Jong | 97 | — | 504k coins | +30% | -41.6% |
-| Vitinha | 97 | — | 259k coins | +27.6% | -4% |
+| Federico Valverde | 94 | — | 399k coins | +60% | +11.1% |
+| Scott McTominay | 94 | — | 240k coins | +55.8% | +14.3% |
+| João Neves | 88 | Ligue 1 McDonald's | 53k coins | +51.7% | +71.9% |
+| Yasin Ayari | 95 | — | 40k coins | +48.1% | +77.8% |
+| Jobe Bellingham | 89 | Bundesliga | 180k coins | +44% | +51.3% |
+| Vicky López | 87 | Liga F | 140k coins | +40% | +161.7% |
+| Daniel Svensson | 84 | Bundesliga | 35k coins | +40% | -6% |
+| Patrick Vieira | 95 | — | 294k coins | +39.3% | +89.7% |
+| Enzo Fernández | 91 | Premier League | 120k coins | +37.9% | +224.3% |
+| Christian Eriksen | 87 | Bundesliga | 150k coins | +37.6% | +206.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Fabián Ruiz (96)** subiu **+54.4%** em 24h, a **149k coins** (faixa do dia: 43k–165k). Está em linha com a média de 7 dias (-1%).
+- **Federico Valverde (94)** subiu **+60%** em 24h, a **399k coins** (faixa do dia: 215k–440k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Julie Foudy (91)** subiu **+51%** em 24h, a **35k coins** (faixa do dia: 12.000–36k). Está +60% acima da média de 7 dias (aquecida).
+- **Scott McTominay (94)** subiu **+55.8%** em 24h, a **240k coins** (faixa do dia: 154k–240k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Pieter Gerkens (83)** subiu **+40%** em 24h, a **70k coins** (faixa do dia: 45k–75k). Está em linha com a média de 7 dias (+1%).
+- **João Neves (88)** subiu **+51.7%** em 24h, a **53k coins** (faixa do dia: 28k–60k). Está +28% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Fernández | 93 | — | 40k coins | -42% | -11.1% |
-| Steven Gerrard | 89 | Icons | 96k coins | -40.7% | +1.1% |
-| Camille Abily | 91 | Icons | 38k coins | -39.2% | +8.2% |
-| Estefanía Banini | 89 | Liga F | 22k coins | -34.3% | -28.8% |
-| Sebastian Szymański | 87 | — | 46k coins | -33.6% | -1.6% |
-| Nadiem Amiri | 88 | Bundesliga | 22k coins | -33.3% | -26.2% |
-| Aleix García | 93 | — | 30k coins | -33.3% | +36.4% |
-| Mario Götze | 96 | — | 30k coins | -33.3% | +51.5% |
-| Melchie Dumornay | 95 | — | 21k coins | -29.4% | -42.9% |
-| Quinten Timber | 85 | Eredivisie | 35k coins | -27.4% | +88.2% |
+| Andrea Pirlo | 90 | Icons | 68k coins | -45.6% | -67.6% |
+| Patrick Vieira | 86 | Icons | 978k coins | -44.8% | +26% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 82k coins | -44.5% | -41.8% |
+| Kevin Stöger | 86 | Bundesliga | 22k coins | -39.2% | -33.8% |
+| John McGinn | 96 | — | 26k coins | -39.2% | -71.1% |
+| Khéphren Thuram | 87 | Serie A TIM | 72k coins | -36.5% | -3.3% |
+| Nadiem Amiri | 88 | Bundesliga | 28k coins | -36.3% | -25.9% |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 27k coins | -36% | -36% |
+| Steven Gerrard | 90 | Icons | 156k coins | -33.9% | -23.9% |
+| Quinten Timber | 85 | Eredivisie | 33k coins | -33.5% | +17% |
 
 
 ### Análise das baixas
 
-- **Enzo Fernández (93)** caiu **-42%** em 24h, a **40k coins** (faixa do dia: 38k–70k). Está -23% abaixo da média de 7 dias (descontada).
+- **Andrea Pirlo (90)** caiu **-45.6%** em 24h, a **68k coins** (faixa do dia: 68k–210k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (89)** caiu **-40.7%** em 24h, a **96k coins** (faixa do dia: 17.750–190k). Está -32% abaixo da média de 7 dias (descontada).
+- **Patrick Vieira (86)** caiu **-44.8%** em 24h, a **978k coins** (faixa do dia: 650k–1.80M). Está em linha com a média de 7 dias (+2%).
 
-- **Camille Abily (91)** caiu **-39.2%** em 24h, a **38k coins** (faixa do dia: 28k–70k). Está -13% abaixo da média de 7 dias (descontada).
+- **Aurélien Tchouaméni (87)** caiu **-44.5%** em 24h, a **82k coins** (faixa do dia: 73k–160k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Fabián Ruiz já avançou 54.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Federico Valverde já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Enzo Fernández recuou -42%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Andrea Pirlo recuou -45.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Fabián Ruiz (96, sem liga), com +54.4% em 24h, a 149k coins no PC.
+Federico Valverde (94, sem liga), com +60% em 24h, a 399k coins no PC.
 
 **E a maior queda do dia?**
-Enzo Fernández (93), -42% em 24h, a 40k coins.
+Andrea Pirlo (90), -45.6% em 24h, a 68k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 111 cartas em alta contra 84 em queda (média 6.86%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 97 cartas em alta contra 94 em queda (média 4.57%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

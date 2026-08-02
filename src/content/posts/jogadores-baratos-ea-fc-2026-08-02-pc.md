@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:46:20.000Z
+pubDatetime: 2026-08-02T16:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.650 coins.
+- **Preço médio das 15 opções:** 11.437 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 11.250 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 8.800 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jessie Fleming | 96 | CM | — | 11.750 coins | 0% |
+| Jessie Fleming | 96 | CM | — | 11.750 coins | -2.1% |
+| Grace Geyoro | 96 | CM | — | 11.750 coins | -2% |
+| Manuela Giugliano | 96 | CM | — | 11.750 coins | -2.1% |
 | Jess Park | 96 | CM | — | 12.000 coins | 0% |
-| Grace Geyoro | 96 | CM | — | 12.000 coins | -2% |
-| Manuela Giugliano | 96 | CM | — | 12.000 coins | 0% |
-| Ethan Mbappé | 96 | CM | — | 12.250 coins | +2.1% |
+| Ethan Mbappé | 96 | CM | — | 12.000 coins | -2% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Homare Sawa | 92 | CM | Icons | 11.500 coins | 0% |
+| Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8.800 coins | +3.2% |
 | Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
-| Alexis Mac Allister | 91 | CM | — | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
+| Alexis Mac Allister | 91 | CM | — | 11.500 coins | 0% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Jessie Fleming (96, CM)** da —, a apenas **11.750 coins**
 
+- **Grace Geyoro (96, CM)** da —, a apenas **11.750 coins**
+
+- **Manuela Giugliano (96, CM)** da —, a apenas **11.750 coins**
+
 - **Jess Park (96, CM)** da —, a apenas **12.000 coins**
 
-- **Grace Geyoro (96, CM)** da —, a apenas **12.000 coins**
-
-- **Manuela Giugliano (96, CM)** da —, a apenas **12.000 coins**
-
-- **Ethan Mbappé (96, CM)** da —, a apenas **12.250 coins**
+- **Ethan Mbappé (96, CM)** da —, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
