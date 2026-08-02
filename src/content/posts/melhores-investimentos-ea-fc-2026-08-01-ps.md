@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:46:09.000Z
+pubDatetime: 2026-08-02T01:46:10.000Z
 title: "Investimentos EA FC: Meio-campistas em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Esperanza Pizarro (92, sem liga) lidera, com +80.4% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Khéphren Thuram (87, Serie A TIM) lidera, com +83.5% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Esperanza Pizarro (92) acumula **+80.4% em 7 dias** a 21k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Khéphren Thuram (87) acumula **+83.5% em 7 dias** a 95k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+70.0% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.9% em 24h** e **+64.9% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Esperanza Pizarro | 92 | — | 21k coins | +12.2% | +80.4% | Esticada |
-| Quinten Timber | 85 | Eredivisie | 36k coins | +12% | +79.5% | Esticada |
-| Sebastian Berhalter | 93 | — | 27k coins | +4.4% | +75% | Esticada |
-| Mamadou Sangaré | 96 | — | 26k coins | +19.8% | +71.7% | Esticada |
-| Jennifer Echegini | 86 | D1 Arkema | 30k coins | +24.3% | +70.5% | Esticada |
-| Sakina Karchaoui | 95 | — | 27k coins | +19.5% | +70.5% | Esticada |
-| Patrick Vieira | 95 | — | 236k coins | +15.6% | +70.4% | Esticada |
-| Hayden Hackney | 96 | — | 25k coins | +18.6% | +70% | Esticada |
-| Joey Veerman | 96 | — | 25k coins | +18.6% | +70% | Esticada |
-| Gustavo Puerta | 94 | — | 20k coins | +13.7% | +66% | Esticada |
-| Stephen Eustáquio | 95 | — | 21k coins | +12.2% | +66% | Esticada |
-| Manuela Giugliano | 95 | — | 26k coins | +20.9% | +65.1% | Esticada |
-| Adrien Thomasson | 92 | — | 26k coins | +16.7% | +64.1% | Esticada |
-| Victor Froholdt | 93 | — | 27k coins | +14% | +63.1% | Esticada |
-| Paula Fernández | 93 | — | 26k coins | +20.9% | +62.5% | Esticada |
+| Khéphren Thuram | 87 | Serie A TIM | 95k coins | +4.2% | +83.5% | Esticada |
+| Quinten Timber | 85 | Eredivisie | 33k coins | +12% | +79.5% | Esticada |
+| Lothar Matthäus | 95 | — | 199k coins | +10.2% | +78.8% | Esticada |
+| Koke | 88 | LALIGA EA SPORTS | 120k coins | +30.4% | +77.8% | Esticada |
+| Esperanza Pizarro | 92 | — | 20k coins | +14.3% | +73.9% | Esticada |
+| Patrick Vieira | 88 | Icons | 223k coins | +23.8% | +73.3% | Esticada |
+| Mamadou Sangaré | 96 | — | 25k coins | +16.3% | +66.7% | Esticada |
+| Kevin De Bruyne | 88 | Serie A TIM | 188k coins | +13.9% | +64.9% | Esticada |
+| Sakina Karchaoui | 95 | — | 26k coins | +14.9% | +63.9% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 52k coins | +13.7% | +62.5% | Esticada |
+| Hayden Hackney | 96 | — | 24k coins | +12.8% | +61.7% | Esticada |
+| Gustavo Puerta | 94 | — | 19.750 coins | +14.3% | +60% | Esticada |
+| Joey Veerman | 96 | — | 24k coins | +11.6% | +60% | Esticada |
+| Adrien Thomasson | 92 | — | 26k coins | +19.3% | +59.1% | Momentum moderado |
+| Stephen Eustáquio | 95 | — | 20k coins | +12.7% | +56.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Esperanza Pizarro (92)** — 21k coins, **+80.4% em 7 dias** (+12.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khéphren Thuram (87)** — 95k coins, **+83.5% em 7 dias** (+4.2% em 24h). Preço +78% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quinten Timber (85)** — 36k coins, **+79.5% em 7 dias** (+12% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 33k coins, **+79.5% em 7 dias** (+12% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sebastian Berhalter (93)** — 27k coins, **+75% em 7 dias** (+4.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lothar Matthäus (95)** — 199k coins, **+78.8% em 7 dias** (+10.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mamadou Sangaré (96)** — 26k coins, **+71.7% em 7 dias** (+19.8% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Koke (88)** — 120k coins, **+77.8% em 7 dias** (+30.4% em 24h). Preço +87% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jennifer Echegini (86)** — 30k coins, **+70.5% em 7 dias** (+24.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esperanza Pizarro (92)** — 20k coins, **+73.9% em 7 dias** (+14.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Esperanza Pizarro (92, sem liga) lidera, com +80.4% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Khéphren Thuram (87, Serie A TIM) lidera, com +83.5% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:46:17.000Z
+pubDatetime: 2026-08-02T01:46:19.000Z
 title: "Mercado EA FC em 01/08: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Jack McGlynn (87, MLS), com +60% em 24h, a 20k coins no PC."
+    a: "Senny Mayulu (83, Ligue 1 McDonald's), com +51.1% em 24h, a 75k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vitinha (90), -44.6% em 24h, a 78k coins."
+    a: "Paul Scholes (88), -49.6% em 24h, a 66k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 99 cartas em alta contra 77 em queda (média 4.49%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 113 cartas em alta contra 86 em queda (média 4.93%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **99 valorizações** contra **77 quedas** entre as cartas relevantes, com média de **4.49%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas subiu. **113 valorizações** contra **86 quedas** entre as cartas relevantes, com média de **4.93%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jack McGlynn (87) **+60%** · 🔴 **Maior baixa:** Vitinha (90) **-44.6%**
+> 🟢 **Maior alta:** Senny Mayulu (83) **+51.1%** · 🔴 **Maior baixa:** Paul Scholes (88) **-49.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Meio-campistas — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.2% entre as cartas que se moveram; o universo observado reúne 261 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.8% entre as cartas que se moveram; o universo observado reúne 286 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jack McGlynn | 87 | MLS | 20k coins | +60% | +14.3% |
-| Fran Álvarez | 80 | PKO BP Ekstraklasa | 48k coins | +55.7% | +18% |
-| Tijjani Reijnders | 87 | Premier League | 150k coins | +52.3% | +50% |
-| Patrick Vieira | 86 | Icons | 1.80M coins | +50% | +127.6% |
-| Arthur Atta | 85 | Serie A TIM | 49k coins | +49.2% | +33.1% |
-| Franziska Harsch | 88 | GPFBL | 32k coins | +43.2% | +23.6% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 500k coins | +42.9% | -65.5% |
-| Martin Ødegaard | 88 | Premier League | 75k coins | +36.4% | -21.1% |
-| Jobe Bellingham | 97 | — | 210k coins | +35.2% | +7.5% |
-| Lothar Matthäus | 95 | — | 301k coins | +32.3% | +66.3% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 75k coins | +51.1% | -28.7% |
+| Franziska Harsch | 88 | GPFBL | 29k coins | +49.4% | +15.9% |
+| Georginio Wijnaldum | 87 | Brasileirão | 45k coins | +49.2% | +27.9% |
+| Fran Álvarez | 80 | PKO BP Ekstraklasa | 44k coins | +45.9% | +10.6% |
+| Patrick Vieira | 95 | — | 290k coins | +44.3% | +109% |
+| Benjamin Nygren | 90 | — | 44k coins | +42.9% | +69.6% |
+| Caroline Seger | 91 | Icons | 34k coins | +42.3% | -31% |
+| Bruno Guimarães | 87 | Premier League | 56k coins | +40.7% | +68.4% |
+| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 309k coins | +40% | +20.8% |
+| Rodrigo De Paul | 95 | — | 24k coins | +31.9% | +55.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **01/08/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jack McGlynn (87)** subiu **+60%** em 24h, a **20k coins** (faixa do dia: 11.000–32k). Está em linha com a média de 7 dias (-3%).
+- **Senny Mayulu (83)** subiu **+51.1%** em 24h, a **75k coins** (faixa do dia: 40k–130k). Está em linha com a média de 7 dias (-7%).
 
-- **Fran Álvarez (80)** subiu **+55.7%** em 24h, a **48k coins** (faixa do dia: 30k–48k). Está em linha com a média de 7 dias (+7%).
+- **Franziska Harsch (88)** subiu **+49.4%** em 24h, a **29k coins** (faixa do dia: 17.750–35k). Está em linha com a média de 7 dias (+7%).
 
-- **Tijjani Reijnders (87)** subiu **+52.3%** em 24h, a **150k coins** (faixa do dia: 55k–150k). Está +43% acima da média de 7 dias (aquecida).
+- **Georginio Wijnaldum (87)** subiu **+49.2%** em 24h, a **45k coins** (faixa do dia: 19.500–45k). Está +97% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 90 | Ligue 1 McDonald's | 78k coins | -44.6% | -0.6% |
-| Vitinha | 91 | Ligue 1 McDonald's | 468k coins | -37.5% | -31.2% |
-| Darko Nejašmić | 93 | — | 24k coins | -36.7% | 0% |
-| Daichi Kamada | 96 | — | 120k coins | -35% | -84% |
+| Paul Scholes | 88 | Icons | 66k coins | -49.6% | 0% |
+| Pape Gueye | 95 | — | 60k coins | -34.9% | +33% |
 | Federico Valverde | 89 | LALIGA EA SPORTS | 189k coins | -34.4% | -51.5% |
-| Guti | 86 | LALIGA EA SPORTS | 20k coins | -32.2% | +70.2% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 75k coins | -31.8% | -23.1% |
-| Adrien Rabiot | 86 | Serie A TIM | 45k coins | -30.5% | -21.9% |
-| Pablo Barrios | 90 | — | 24k coins | -28.6% | +15.9% |
-| Melchie Dumornay | 95 | — | 23k coins | -27.6% | -23.3% |
+| Jill Scott | 94 | — | 64k coins | -33.5% | +37.8% |
+| Aitana Bonmatí | 96 | — | 228k coins | -31.6% | -52.8% |
+| Joelinton | 87 | Premier League | 221k coins | -29.8% | -8.8% |
+| Declan Rice | 88 | Premier League | 49k coins | -28% | +7.6% |
+| Homare Sawa | 91 | Icons | 127k coins | -26.8% | +71.2% |
+| Vitinha | 90 | Ligue 1 McDonald's | 80k coins | -26% | +18.6% |
+| Weston McKennie | 95 | — | 29k coins | -25% | +50% |
 
 
 ### Análise das baixas
 
-- **Vitinha (90)** caiu **-44.6%** em 24h, a **78k coins** (faixa do dia: 66k–159k). Está -50% abaixo da média de 7 dias (descontada).
+- **Paul Scholes (88)** caiu **-49.6%** em 24h, a **66k coins** (faixa do dia: 66k–151k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Vitinha (91)** caiu **-37.5%** em 24h, a **468k coins** (faixa do dia: 468k–749k). Está -21% abaixo da média de 7 dias (descontada).
+- **Pape Gueye (95)** caiu **-34.9%** em 24h, a **60k coins** (faixa do dia: 38k–99k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Darko Nejašmić (93)** caiu **-36.7%** em 24h, a **24k coins** (faixa do dia: 21k–36k). Está em linha com a média de 7 dias (-3%).
+- **Federico Valverde (89)** caiu **-34.4%** em 24h, a **189k coins** (faixa do dia: 94k–288k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jack McGlynn já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Senny Mayulu já avançou 51.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vitinha recuou -44.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paul Scholes recuou -49.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Jack McGlynn (87, MLS), com +60% em 24h, a 20k coins no PC.
+Senny Mayulu (83, Ligue 1 McDonald's), com +51.1% em 24h, a 75k coins no PC.
 
 **E a maior queda do dia?**
-Vitinha (90), -44.6% em 24h, a 78k coins.
+Paul Scholes (88), -49.6% em 24h, a 66k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 99 cartas em alta contra 77 em queda (média 4.49%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 113 cartas em alta contra 86 em queda (média 4.93%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
