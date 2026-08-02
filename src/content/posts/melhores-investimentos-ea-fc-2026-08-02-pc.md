@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:29:11.000Z
+pubDatetime: 2026-08-02T10:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 02/08 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+46.0% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.7% em 24h** e **+43.5% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Corentin Tolisso | 92 | — | 27k coins | +23.3% | +76.2% | Esticada |
-| Sakina Karchaoui | 95 | — | 24k coins | +14.3% | +65.5% | Esticada |
 | Nicolae Stanciu | 86 | Serie A TIM | 120k coins | +20.6% | +61.1% | Esticada |
 | Pablo Fornals | 85 | LALIGA EA SPORTS | 17.000 coins | +4.3% | +60% | Esticada |
 | Noah Sadiki | 93 | — | 22k coins | +13.7% | +50.9% | Momentum moderado |
 | Benjamin Nygren | 90 | — | 38k coins | +30.5% | +48.1% | Esticada |
-| Gustavo Puerta | 94 | — | 18.250 coins | +7.4% | +46% | Momentum moderado |
-| Stephen Eustáquio | 95 | — | 18.750 coins | +5.8% | +46% | Momentum moderado |
 | Saki Kumagai | 88 | Barclays WSL | 34k coins | +6.3% | +45.2% | Momentum moderado |
 | Mateo Kovačić | 91 | Premier League | 46k coins | +17.2% | +43.8% | Momentum moderado |
-| Esperanza Pizarro | 92 | — | 16.500 coins | +3.1% | +43.5% | Momentum moderado |
+| Esperanza Pizarro | 92 | — | 16.250 coins | +3.1% | +43.5% | Momentum moderado |
+| Gustavo Puerta | 94 | — | 17.500 coins | +7.4% | +43.1% | Momentum moderado |
 | Roy Keane | 86 | Icons | 100k coins | +17.1% | +41.1% | Momentum moderado |
-| Musab Al Juwair | 87 | ROSHN Saudi League | 36k coins | +1.4% | +39.8% | Momentum moderado |
-| Hayden Hackney | 96 | — | 20k coins | +2.6% | +38.6% | Momentum moderado |
+| Stephen Eustáquio | 95 | — | 17.500 coins | +1.4% | +40% | Momentum moderado |
+| Hayden Hackney | 96 | — | 19.750 coins | +2.6% | +38.6% | Momentum moderado |
 | Caleb Yirenkyi | 94 | — | 21k coins | +11.1% | +37.9% | Momentum moderado |
+| Xavi | 96 | — | 190k coins | +18.9% | +36% | Momentum moderado |
+| Azzedine Ounahi | 93 | — | 19.000 coins | +16.9% | +35.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Corentin Tolisso (92)** — 27k coins, **+76.2% em 7 dias** (+23.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sakina Karchaoui (95)** — 24k coins, **+65.5% em 7 dias** (+14.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Nicolae Stanciu (86)** — 120k coins, **+61.1% em 7 dias** (+20.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Pablo Fornals (85)** — 17.000 coins, **+60% em 7 dias** (+4.3% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Noah Sadiki (93)** — 22k coins, **+50.9% em 7 dias** (+13.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Benjamin Nygren (90)** — 38k coins, **+48.1% em 7 dias** (+30.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
