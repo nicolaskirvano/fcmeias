@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:30:07.000Z
+pubDatetime: 2026-08-03T10:46:18.000Z
 title: "Mercado EA FC em 03/08: Meio-campistas — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Toni Kroos (90, Icons), com +59.1% em 24h, a 182k coins no PC."
+    a: "Toni Kroos (90, Icons), com +59.1% em 24h, a 177k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mamadou Sangaré (87), -50% em 24h, a 21k coins."
+    a: "Kouadio Manu Koné (88), -49.2% em 24h, a 63k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 118 cartas em alta contra 87 em queda (média 5.58%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 121 cartas em alta contra 89 em queda (média 5.35%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **118 subiram** e **87 caíram**, com variação média de **5.58%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **121 subiram** e **89 caíram**, com variação média de **5.35%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Toni Kroos (90) **+59.1%** · 🔴 **Maior baixa:** Mamadou Sangaré (87) **-50%**
+> 🟢 **Maior alta:** Toni Kroos (90) **+59.1%** · 🔴 **Maior baixa:** Kouadio Manu Koné (88) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Meio-campistas — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 57.6% entre as cartas que se moveram; o universo observado reúne 281 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.6% entre as cartas que se moveram; o universo observado reúne 285 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Toni Kroos | 90 | Icons | 182k coins | +59.1% | +104.5% |
+| Toni Kroos | 90 | Icons | 177k coins | +59.1% | +104.5% |
 | Guti | 86 | LALIGA EA SPORTS | 27k coins | +58.8% | +129.8% |
 | Louis Reed | 84 | EFL League One | 55k coins | +57.1% | 0% |
+| Pedri | 96 | — | 227k coins | +56.7% | +35.8% |
+| Aleix García | 93 | — | 44k coins | +46.7% | +87.2% |
+| Caroline Seger | 91 | Icons | 46k coins | +46.5% | -45.3% |
 | Georginio Wijnaldum | 87 | Brasileirão | 35k coins | +45.8% | +79.5% |
 | Piotr Zieliński | 85 | Serie A TIM | 55k coins | +44.7% | +88% |
-| Victor Froholdt | 93 | — | 27k coins | +44.7% | +37.5% |
-| Aleix García | 93 | — | 44k coins | +44.2% | +84% |
-| Lothar Matthäus | 95 | — | 351k coins | +43.6% | +63.2% |
-| Enzo Fernández | 93 | — | 52k coins | +42.1% | +42.9% |
-| Florian Grillitsch | 84 | Liga Portugal | 48k coins | +38.6% | -1% |
+| Victor Froholdt | 93 | — | 23k coins | +42.1% | +35% |
+| Lothar Matthäus | 95 | — | 349k coins | +40.4% | +60.3% |
 
 
 ### Análise das altas
@@ -61,9 +61,9 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Toni Kroos (90)** subiu **+59.1%** em 24h, a **182k coins** (faixa do dia: 74k–187k). Está +74% acima da média de 7 dias (aquecida).
+- **Toni Kroos (90)** subiu **+59.1%** em 24h, a **177k coins** (faixa do dia: 74k–187k). Está +70% acima da média de 7 dias (aquecida).
 
-- **Guti (86)** subiu **+58.8%** em 24h, a **27k coins** (faixa do dia: 10.750–27k). Está +63% acima da média de 7 dias (aquecida).
+- **Guti (86)** subiu **+58.8%** em 24h, a **27k coins** (faixa do dia: 10.750–27k). Está +62% acima da média de 7 dias (aquecida).
 
 - **Louis Reed (84)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 35k–55k). Está em linha com a média de 7 dias (+6%).
 
@@ -72,32 +72,32 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 21k coins | -50% | +21.4% |
-| Fara Williams | 88 | Barclays WSL | 25k coins | -49.5% | -12.6% |
-| Jobe Bellingham | 89 | Bundesliga | 377k coins | -46.3% | +22.5% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 63k coins | -49.2% | -59.9% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 70k coins | -45.8% | -16.6% |
 | Bruno Guimarães | 89 | Premier League | 22k coins | -45% | +27.5% |
-| Gabriel Sara | 94 | — | 58k coins | -44% | +22% |
-| Xavi | 92 | Icons | 155k coins | -43.7% | -40.5% |
+| Xavi | 92 | Icons | 305k coins | -43.7% | -40.5% |
 | Richard Ríos | 88 | Liga Portugal | 68k coins | -43.3% | -43.3% |
 | Julie Foudy | 91 | Icons | 20k coins | -43.3% | -2.4% |
-| Alexia Putellas | 92 | Liga F | 47k coins | -40% | -5.1% |
-| Pedri | 90 | LALIGA EA SPORTS | 151k coins | -39.6% | +5.6% |
+| Pedri | 90 | LALIGA EA SPORTS | 147k coins | -40.3% | +5.6% |
+| Alexia Putellas | 92 | Liga F | 41k coins | -40% | -5.1% |
+| Daniel Svensson | 84 | Bundesliga | 20k coins | -38.9% | -45.6% |
+| Tijjani Reijnders | 87 | Premier League | 90k coins | -37.9% | -18.9% |
 
 
 ### Análise das baixas
 
-- **Mamadou Sangaré (87)** caiu **-50%** em 24h, a **21k coins** (faixa do dia: 15.000–42k). Está em linha com a média de 7 dias (-1%).
+- **Kouadio Manu Koné (88)** caiu **-49.2%** em 24h, a **63k coins** (faixa do dia: 63k–135k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Fara Williams (88)** caiu **-49.5%** em 24h, a **25k coins** (faixa do dia: 25k–52k). Está -19% abaixo da média de 7 dias (descontada).
+- **Senny Mayulu (83)** caiu **-45.8%** em 24h, a **70k coins** (faixa do dia: 49k–130k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Jobe Bellingham (89)** caiu **-46.3%** em 24h, a **377k coins** (faixa do dia: 109k–410k). Está +91% acima da média de 7 dias (aquecida).
+- **Bruno Guimarães (89)** caiu **-45%** em 24h, a **22k coins** (faixa do dia: 11.250–27k). Está em linha com a média de 7 dias (+7%).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Toni Kroos já avançou 59.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mamadou Sangaré recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kouadio Manu Koné recuou -49.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Toni Kroos (90, Icons), com +59.1% em 24h, a 182k coins no PC.
+Toni Kroos (90, Icons), com +59.1% em 24h, a 177k coins no PC.
 
 **E a maior queda do dia?**
-Mamadou Sangaré (87), -50% em 24h, a 21k coins.
+Kouadio Manu Koné (88), -49.2% em 24h, a 63k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 118 cartas em alta contra 87 em queda (média 5.58%).
+Hoje o mercado está em alta — predominam as valorizações, com 121 cartas em alta contra 89 em queda (média 5.35%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
