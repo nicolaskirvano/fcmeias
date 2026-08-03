@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:46:21.000Z
+pubDatetime: 2026-08-03T13:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 03/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 03/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/08/2026)?"
-    a: "Manuela Giugliano (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC."
+    a: "Pedri (92, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Manuela Giugliano (96) por apenas 11.750 coins.
+> 💰 **Melhor pechincha:** Pedri (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Meio-campistas em 03/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-03-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.643 coins.
+- **Preço médio das 15 opções:** 10.450 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 9.900 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.800 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,39 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Manuela Giugliano | 96 | CM | — | 11.750 coins | +2.1% |
-| Jess Park | 96 | CM | — | 12.000 coins | +8.5% |
-| Jessie Fleming | 96 | CM | — | 12.250 coins | +6.4% |
-| Grace Geyoro | 96 | CM | — | 12.500 coins | +6.2% |
-| Ethan Mbappé | 96 | CM | — | 12.750 coins | +2% |
-| Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Homare Sawa | 92 | CM | Icons | 11.500 coins | 0% |
-| Aitana Bonmatí | 91 | CM | Liga F | 9.900 coins | +12.4% |
-| Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Alexis Mac Allister | 91 | CM | — | 11.500 coins | 0% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
+| Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
+| Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
+| Mariona | 89 | CM | Barclays WSL | 5.800 coins | +3.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.700 coins | -12.2% |
+| Federico Valverde | 89 | CM | LALIGA EA SPORTS | 7.000 coins | +15.2% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Manuela Giugliano (96, CM)** da —, a apenas **11.750 coins**
+- **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins**
 
-- **Jess Park (96, CM)** da —, a apenas **12.000 coins**
+- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
 
-- **Jessie Fleming (96, CM)** da —, a apenas **12.250 coins**
+- **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins**
 
-- **Grace Geyoro (96, CM)** da —, a apenas **12.500 coins**
+- **Homare Sawa (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ethan Mbappé (96, CM)** da —, a apenas **12.750 coins**
+- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Meio:** Manuela Giugliano (96, CM) por 11.750 coins é a referência de rating deste recorte.
+- **Meio:** Pedri (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -91,7 +91,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/08/2026)?**  
-Manuela Giugliano (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no PC.
+Pedri (92, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

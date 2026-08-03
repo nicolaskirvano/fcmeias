@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:46:09.000Z
+pubDatetime: 2026-08-03T13:46:07.000Z
 title: "Mercado EA FC em 03/08: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Vicky López (87, Liga F), com +58.5% em 24h, a 128k coins no Console (PS)."
+    a: "Lucas Paquetá (84, Premier League), com +53.7% em 24h, a 65k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lothar Matthäus (91), -42.9% em 24h, a 750k coins."
+    a: "Pedri (90), -34.8% em 24h, a 54k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 135 cartas em alta contra 94 em queda (média 5.23%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 140 cartas em alta contra 98 em queda (média 4.54%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **135 subiram** e **94 caíram**, com variação média de **5.23%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **140 subiram** e **98 caíram**, com variação média de **4.54%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Vicky López (87) **+58.5%** · 🔴 **Maior baixa:** Lothar Matthäus (91) **-42.9%**
+> 🟢 **Maior alta:** Lucas Paquetá (84) **+53.7%** · 🔴 **Maior baixa:** Pedri (90) **-34.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.0% entre as cartas que se moveram; o universo observado reúne 283 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 88.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.8% entre as cartas que se moveram; o universo observado reúne 288 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vicky López | 87 | Liga F | 128k coins | +58.5% | 0% |
-| Géraldine Reuteler | 87 | GPFBL | 59k coins | +55.6% | +40% |
-| Nadiem Amiri | 88 | Bundesliga | 40k coins | +50.9% | +23.1% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 31k coins | +50% | +92% |
-| Martin Ødegaard | 88 | Premier League | 94k coins | +50% | +103.9% |
-| Bastian Schweinsteiger | 89 | Icons | 207k coins | +48.9% | +65.6% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 70k coins | +47.9% | +51.1% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 46k coins | +44.5% | +85% |
-| Claudio Marchisio | 87 | Serie A TIM | 26k coins | +41.7% | +70% |
-| Declan Rice | 89 | Premier League | 70k coins | +40% | +16.7% |
+| Lucas Paquetá | 84 | Premier League | 65k coins | +53.7% | +28.1% |
+| Rose Lavelle | 89 | NWSL | 79k coins | +50.5% | +5.3% |
+| Lily Yohannes | 91 | — | 22k coins | +45.9% | +25.6% |
+| João Neves | 93 | Ligue 1 McDonald's | 230k coins | +45% | +129% |
+| Mario Lemina | 88 | Trendyol Süper Lig | 65k coins | +44.4% | +67.7% |
+| Rose Lavelle | 88 | NWSL | 86k coins | +44.2% | +58.7% |
+| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 22k coins | +43.3% | +53.6% |
+| João Neves | 96 | — | 305k coins | +41.9% | +12.1% |
+| Jobe Bellingham | 89 | Bundesliga | 98k coins | +37.5% | -8.3% |
+| Hayley Lauder | 85 | Scottish Women's League | 46k coins | +35.8% | — |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vicky López (87)** subiu **+58.5%** em 24h, a **128k coins** (faixa do dia: 80k–130k). Está +21% acima da média de 7 dias (aquecida).
+- **Lucas Paquetá (84)** subiu **+53.7%** em 24h, a **65k coins** (faixa do dia: 43k–75k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Géraldine Reuteler (87)** subiu **+55.6%** em 24h, a **59k coins** (faixa do dia: 44k–72k). Está +15% acima da média de 7 dias (aquecida).
+- **Rose Lavelle (89)** subiu **+50.5%** em 24h, a **79k coins** (faixa do dia: 50k–79k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Nadiem Amiri (88)** subiu **+50.9%** em 24h, a **40k coins** (faixa do dia: 20k–45k). Está +69% acima da média de 7 dias (aquecida).
+- **Lily Yohannes (91)** subiu **+45.9%** em 24h, a **22k coins** (faixa do dia: 18.500–28k). Está em linha com a média de 7 dias (-1%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lothar Matthäus | 91 | Icons | 750k coins | -42.9% | +24.5% |
-| Enzo Fernández | 91 | Premier League | 45k coins | -35.1% | +10% |
-| Jaap Stam | 89 | Premier League | 38k coins | -34.5% | -62.4% |
-| Karen Araya | 86 | D1 Arkema | 22k coins | -31.3% | +13.6% |
-| Pape Gueye | 95 | — | 64k coins | -28.2% | +62.9% |
-| Iniesta | 92 | Icons | 309k coins | -27.9% | +80.2% |
-| Patrick Vieira | 86 | Icons | 873k coins | -26.7% | +14.6% |
-| John McGinn | 96 | — | 40k coins | -25% | -42.1% |
-| Pedri | 90 | LALIGA EA SPORTS | 47k coins | -23.2% | -42.3% |
-| Saki Kumagai | 88 | Barclays WSL | 28k coins | -22.6% | +88.3% |
+| Pedri | 90 | LALIGA EA SPORTS | 54k coins | -34.8% | -40.4% |
+| Patrick Vieira | 86 | Icons | 834k coins | -28% | +3.3% |
+| Pape Gueye | 95 | — | 60k coins | -27.3% | +29.5% |
+| Tijjani Reijnders | 87 | Premier League | 47k coins | -25.6% | -14.3% |
+| Lothar Matthäus | 91 | Icons | 750k coins | -24.9% | +36.4% |
+| John McGinn | 96 | — | 50k coins | -23.1% | -34.6% |
+| Scott McTominay | 91 | Serie A TIM | 20k coins | -22.1% | -92.7% |
+| João Moutinho | 88 | Liga Portugal | 114k coins | -20.1% | +105.4% |
+| Kang Sang Yoon | 93 | — | 28k coins | -19.4% | +12.4% |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 30k coins | -17.8% | +27.7% |
 
 
 ### Análise das baixas
 
-- **Lothar Matthäus (91)** caiu **-42.9%** em 24h, a **750k coins** (faixa do dia: 599k–1.20M). Está em linha com a média de 7 dias (+3%).
+- **Pedri (90)** caiu **-34.8%** em 24h, a **54k coins** (faixa do dia: 41k–74k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Enzo Fernández (91)** caiu **-35.1%** em 24h, a **45k coins** (faixa do dia: 25k–76k). Está -9% abaixo da média de 7 dias (descontada).
+- **Patrick Vieira (86)** caiu **-28%** em 24h, a **834k coins** (faixa do dia: 780k–1.04M). Está em linha com a média de 7 dias (+6%).
 
-- **Jaap Stam (89)** caiu **-34.5%** em 24h, a **38k coins** (faixa do dia: 34k–51k). Está -47% abaixo da média de 7 dias (descontada).
+- **Pape Gueye (95)** caiu **-27.3%** em 24h, a **60k coins** (faixa do dia: 42k–112k). Está em linha com a média de 7 dias (-3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vicky López já avançou 58.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lucas Paquetá já avançou 53.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lothar Matthäus recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Pedri recuou -34.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Vicky López (87, Liga F), com +58.5% em 24h, a 128k coins no Console (PS).
+Lucas Paquetá (84, Premier League), com +53.7% em 24h, a 65k coins no Console (PS).
 
 **E a maior queda do dia?**
-Lothar Matthäus (91), -42.9% em 24h, a 750k coins.
+Pedri (90), -34.8% em 24h, a 54k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 135 cartas em alta contra 94 em queda (média 5.23%).
+Hoje o mercado está em alta — predominam as valorizações, com 140 cartas em alta contra 98 em queda (média 4.54%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

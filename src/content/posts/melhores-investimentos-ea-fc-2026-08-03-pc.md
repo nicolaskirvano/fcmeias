@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:46:20.000Z
+pubDatetime: 2026-08-03T13:46:18.000Z
 title: "Investimentos EA FC: Meio-campistas em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Tanguy Ndombele (85, Ligue 1 McDonald's) lidera, com +82.8% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Toni Kroos (95, sem liga) lidera, com +85% em 7 dias a 182k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tanguy Ndombele (85) acumula **+82.8% em 7 dias** a 29k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Toni Kroos (95) acumula **+85% em 7 dias** a 182k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.7% em 24h** e **+47.3% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.6% em 24h** e **+48.3% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 29k coins | +8.3% | +82.8% | Esticada |
-| Quinten Timber | 85 | Eredivisie | 48k coins | +32% | +76.4% | Esticada |
-| Mario Götze | 96 | — | 32k coins | +2.6% | +66.7% | Esticada |
-| Pape Gueye | 95 | — | 90k coins | +17.5% | +60.2% | Esticada |
-| Paul Wanner | 94 | — | 24k coins | +23.1% | +60% | Esticada |
-| Pablo Barrios | 90 | — | 24k coins | +28.9% | +56.2% | Esticada |
-| Roy Keane | 86 | Icons | 130k coins | +9.5% | +54.6% | Momentum moderado |
-| Gustavo Puerta | 94 | — | 21k coins | +15.7% | +47.3% | Momentum moderado |
-| Hayden Hackney | 96 | — | 23k coins | +13.9% | +45.2% | Momentum moderado |
-| Stephen Eustáquio | 95 | — | 20k coins | +15.7% | +44.6% | Momentum moderado |
-| Noah Sadiki | 93 | — | 22k coins | +3.6% | +42.6% | Momentum moderado |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 64k coins | +22.9% | +41% | Esticada |
-| Joey Veerman | 96 | — | 21k coins | +9.1% | +40% | Momentum moderado |
-| Caleb Yirenkyi | 94 | — | 22k coins | +11.2% | +39.1% | Momentum moderado |
-| Xavi | 96 | — | 185k coins | +17.3% | +35.7% | Momentum moderado |
+| Toni Kroos | 95 | — | 182k coins | +17.8% | +85% | Esticada |
+| Quinten Timber | 85 | Eredivisie | 44k coins | +30.9% | +68.5% | Esticada |
+| Pape Gueye | 95 | — | 83k coins | +33.3% | +59.3% | Esticada |
+| Paul Wanner | 94 | — | 24k coins | +13.3% | +56.7% | Momentum moderado |
+| Esperanza Pizarro | 92 | — | 18.750 coins | +18.8% | +52% | Momentum moderado |
+| Hayden Hackney | 96 | — | 23k coins | +16.5% | +50.8% | Momentum moderado |
+| Mamadou Sangaré | 96 | — | 24k coins | +12.9% | +50% | Momentum moderado |
+| Joey Veerman | 96 | — | 22k coins | +15.6% | +48.3% | Momentum moderado |
+| Gustavo Puerta | 94 | — | 21k coins | +14.3% | +48.1% | Momentum moderado |
+| Adalberto Carrasquilla | 91 | — | 26k coins | +22.2% | +46.7% | Esticada |
+| Rodrigo De Paul | 95 | — | 25k coins | +31.6% | +44.9% | Esticada |
+| Stephen Eustáquio | 95 | — | 19.500 coins | +12.7% | +42.9% | Momentum moderado |
+| Noah Sadiki | 93 | — | 22k coins | +11.5% | +42.6% | Momentum moderado |
+| Manuela Giugliano | 95 | — | 22k coins | +14.5% | +35.9% | Momentum moderado |
+| Alexia Putellas | 91 | — | 26k coins | +8.5% | +34.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Tanguy Ndombele (85)** — 29k coins, **+82.8% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Toni Kroos (95)** — 182k coins, **+85% em 7 dias** (+17.8% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quinten Timber (85)** — 48k coins, **+76.4% em 7 dias** (+32% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 44k coins, **+68.5% em 7 dias** (+30.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mario Götze (96)** — 32k coins, **+66.7% em 7 dias** (+2.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pape Gueye (95)** — 83k coins, **+59.3% em 7 dias** (+33.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pape Gueye (95)** — 90k coins, **+60.2% em 7 dias** (+17.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Wanner (94)** — 24k coins, **+56.7% em 7 dias** (+13.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Wanner (94)** — 24k coins, **+60% em 7 dias** (+23.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esperanza Pizarro (92)** — 18.750 coins, **+52% em 7 dias** (+18.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Tanguy Ndombele (85, Ligue 1 McDonald's) lidera, com +82.8% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Toni Kroos (95, sem liga) lidera, com +85% em 7 dias a 182k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
