@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:46:08.000Z
+pubDatetime: 2026-08-03T19:46:08.000Z
 title: "Mercado EA FC em 03/08: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Mateo Kovačić (91, Premier League), com +56.1% em 24h, a 48k coins no Console (PS)."
+    a: "Nadine Keßler (89, GPFBL), com +50.5% em 24h, a 34k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Xavi (92), -48.8% em 24h, a 175k coins."
+    a: "Scott McTominay (91), -22.1% em 24h, a 20k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 149 cartas em alta contra 65 em queda (média 6.15%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 132 cartas em alta contra 70 em queda (média 5.12%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **149 subiram** e **65 caíram**, com variação média de **6.15%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **132 subiram** e **70 caíram**, com variação média de **5.12%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mateo Kovačić (91) **+56.1%** · 🔴 **Maior baixa:** Xavi (92) **-48.8%**
+> 🟢 **Maior alta:** Nadine Keßler (89) **+50.5%** · 🔴 **Maior baixa:** Scott McTominay (91) **-22.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 69.6% entre as cartas que se moveram; o universo observado reúne 261 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 72.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 65.3% entre as cartas que se moveram; o universo observado reúne 255 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mateo Kovačić | 91 | Premier League | 48k coins | +56.1% | +58.5% |
-| Mamadou Sangaré | 87 | Ligue 1 McDonald's | 22k coins | +51.4% | +96.5% |
-| Rose Lavelle | 89 | NWSL | 71k coins | +50.5% | +6.8% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 428k coins | +48.8% | +59.9% |
-| Jessie Fleming | 86 | NWSL | 104k coins | +44.4% | +8.3% |
-| Nadine Keßler | 89 | GPFBL | 34k coins | +44.2% | +52.2% |
-| Sebastian Szymański | 87 | — | 48k coins | +37.8% | +45.9% |
-| George Dobson | 84 | EFL Championship | 60k coins | +36.4% | +20% |
-| Aitana Bonmatí | 91 | Liga F | 1.10M coins | +32.2% | +41.6% |
-| Roy Keane | 86 | Icons | 169k coins | +30.1% | +44.2% |
+| Nadine Keßler | 89 | GPFBL | 34k coins | +50.5% | +53.9% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 72k coins | +50.5% | +81.9% |
+| Caroline Seger | 90 | Icons | 42k coins | +49.4% | -22.7% |
+| Declan Rice | 89 | Premier League | 74k coins | +49% | +24.2% |
+| Jessie Fleming | 86 | NWSL | 104k coins | +44.4% | +9.5% |
+| Cesc Fàbregas | 93 | — | 23k coins | +42.9% | +84.6% |
+| Lothar Matthäus | 90 | Icons | 179k coins | +39.7% | +99% |
+| Aleix García | 93 | — | 30k coins | +37.1% | +103.8% |
+| Weston McKennie | 92 | Serie A TIM | 61k coins | +35.6% | +10.9% |
+| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 130k coins | +33.3% | -7.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mateo Kovačić (91)** subiu **+56.1%** em 24h, a **48k coins** (faixa do dia: 24k–75k). Está +27% acima da média de 7 dias (aquecida).
+- **Nadine Keßler (89)** subiu **+50.5%** em 24h, a **34k coins** (faixa do dia: 16.250–34k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Mamadou Sangaré (87)** subiu **+51.4%** em 24h, a **22k coins** (faixa do dia: 15.750–40k). Está +18% acima da média de 7 dias (aquecida).
+- **Hinata Miyazawa (87)** subiu **+50.5%** em 24h, a **72k coins** (faixa do dia: 44k–85k). Está +29% acima da média de 7 dias (aquecida).
 
-- **Rose Lavelle (89)** subiu **+50.5%** em 24h, a **71k coins** (faixa do dia: 50k–79k). Está em linha com a média de 7 dias (-0%).
+- **Caroline Seger (90)** subiu **+49.4%** em 24h, a **42k coins** (faixa do dia: 18.500–148k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Xavi | 92 | Icons | 175k coins | -48.8% | -29.8% |
-| Hayley Lauder | 85 | Scottish Women's League | 22k coins | -35.8% | +91.3% |
 | Scott McTominay | 91 | Serie A TIM | 20k coins | -22.1% | -93% |
-| Camille Abily | 91 | Icons | 28k coins | -22% | +36% |
-| Estefanía Banini | 89 | Liga F | 23k coins | -19.6% | +17.8% |
-| Hakan Çalhanoğlu | 88 | — | 56k coins | -19.3% | +20.9% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 24k coins | -18.5% | +34.7% |
-| Can Bozdoğan | 87 | Eredivisie | 21k coins | -18.3% | -47.3% |
-| Pedri | 90 | LALIGA EA SPORTS | 46k coins | -18.3% | -31.3% |
-| Caroline Seger | 91 | Icons | 28k coins | -17.9% | -33.9% |
+| Iniesta | 92 | Icons | 190k coins | -20.8% | +30.1% |
+| Pedri | 90 | LALIGA EA SPORTS | 50k coins | -20% | -33.3% |
+| Koke | 84 | LALIGA EA SPORTS | 45k coins | -18.2% | -13.5% |
+| Georginio Wijnaldum | 87 | Brasileirão | 28k coins | -14.8% | +182.4% |
+| Nicolae Stanciu | 86 | Serie A TIM | 49k coins | -14.5% | -20.6% |
+| Keira Walsh | 86 | Barclays WSL | 48k coins | -12.8% | -1% |
+| Sergej Milinković-Savić | 86 | ROSHN Saudi League | 53k coins | -11.7% | +7.6% |
+| Alexia Putellas | 92 | Liga F | 23k coins | -11.7% | -92.7% |
+| Bernardo Silva | 86 | Premier League | 48k coins | -11.6% | +3.8% |
 
 
 ### Análise das baixas
 
-- **Xavi (92)** caiu **-48.8%** em 24h, a **175k coins** (faixa do dia: 156k–330k). Está -27% abaixo da média de 7 dias (descontada).
-
-- **Hayley Lauder (85)** caiu **-35.8%** em 24h, a **22k coins** (faixa do dia: 19.000–48k). Está -16% abaixo da média de 7 dias (descontada).
-
 - **Scott McTominay (91)** caiu **-22.1%** em 24h, a **20k coins** (faixa do dia: 20k–26k). Está -91% abaixo da média de 7 dias (descontada).
+
+- **Iniesta (92)** caiu **-20.8%** em 24h, a **190k coins** (faixa do dia: 185k–315k). Está em linha com a média de 7 dias (-5%).
+
+- **Pedri (90)** caiu **-20%** em 24h, a **50k coins** (faixa do dia: 44k–74k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mateo Kovačić já avançou 56.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nadine Keßler já avançou 50.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Xavi recuou -48.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Scott McTominay recuou -22.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Mateo Kovačić (91, Premier League), com +56.1% em 24h, a 48k coins no Console (PS).
+Nadine Keßler (89, GPFBL), com +50.5% em 24h, a 34k coins no Console (PS).
 
 **E a maior queda do dia?**
-Xavi (92), -48.8% em 24h, a 175k coins.
+Scott McTominay (91), -22.1% em 24h, a 20k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 149 cartas em alta contra 65 em queda (média 6.15%).
+Hoje o mercado está em alta — predominam as valorizações, com 132 cartas em alta contra 70 em queda (média 5.12%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

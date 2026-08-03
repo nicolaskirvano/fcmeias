@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:46:09.000Z
+pubDatetime: 2026-08-03T19:46:10.000Z
 title: "Investimentos EA FC: Meio-campistas em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Christian Eriksen (87, Bundesliga) lidera, com +87.5% em 7 dias a 72k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mariona (90, Barclays WSL) lidera, com +84.9% em 7 dias a 205k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Christian Eriksen (87) acumula **+87.5% em 7 dias** a 72k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mariona (90) acumula **+84.9% em 7 dias** a 205k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+53.7% em 7 dias**.
+- A mediana é de **+6.4% em 24h** e **+55.9% em 7 dias**.
 - **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Christian Eriksen | 87 | Bundesliga | 72k coins | +11.9% | +87.5% | Esticada |
-| Luciano Valente | 92 | — | 22k coins | +9.1% | +76.5% | Esticada |
-| Luka Modrić | 90 | Serie A TIM | 132k coins | +8.8% | +65.1% | Esticada |
-| Victor Froholdt | 93 | — | 28k coins | +22.9% | +63.9% | Esticada |
-| Patrick Vieira | 95 | — | 235k coins | +4.4% | +63.2% | Esticada |
-| Toni Kroos | 95 | — | 138k coins | +12.5% | +60.7% | Esticada |
-| Sakina Karchaoui | 95 | — | 25k coins | +11.3% | +54.3% | Momentum moderado |
-| Esperanza Pizarro | 92 | — | 21k coins | +15.3% | +53.7% | Momentum moderado |
-| Hayden Hackney | 96 | — | 26k coins | +9.5% | +52.9% | Momentum moderado |
-| Joey Veerman | 96 | — | 25k coins | +10.6% | +52.9% | Momentum moderado |
-| Enzo Fernández | 93 | — | 49k coins | +10% | +51.7% | Momentum moderado |
-| Aleix García | 89 | Bundesliga | 30k coins | +14.4% | +48.8% | Momentum moderado |
-| Corentin Tolisso | 92 | — | 28k coins | +4.9% | +48.6% | Momentum moderado |
-| Sebastian Berhalter | 93 | — | 29k coins | +9.1% | +48.1% | Momentum moderado |
-| Mamadou Sangaré | 96 | — | 26k coins | +8.3% | +46.5% | Momentum moderado |
+| Mariona | 90 | Barclays WSL | 205k coins | +4.8% | +84.9% | Esticada |
+| Toni Kroos | 95 | — | 146k coins | +20.8% | +72.6% | Esticada |
+| Sergej Milinković-Savić | 96 | — | 31k coins | +14.3% | +68.4% | Esticada |
+| Patrick Vieira | 95 | — | 207k coins | +5.8% | +66.4% | Esticada |
+| Luciano Valente | 92 | — | 36k coins | +6.4% | +62.5% | Esticada |
+| Esperanza Pizarro | 92 | — | 20k coins | +6% | +60% | Esticada |
+| Joey Veerman | 96 | — | 27k coins | +9.2% | +57.4% | Momentum moderado |
+| Stephen Eustáquio | 95 | — | 24k coins | +4.5% | +55.9% | Momentum moderado |
+| Khéphren Thuram | 87 | Serie A TIM | 74k coins | +3.4% | +54.6% | Momentum moderado |
+| Hayden Hackney | 96 | — | 26k coins | +9.3% | +53.6% | Momentum moderado |
+| Vitinha | 90 | Ligue 1 McDonald's | 86k coins | +15.3% | +53.1% | Momentum moderado |
+| Caleb Yirenkyi | 94 | — | 24k coins | +6.7% | +52.4% | Momentum moderado |
+| Noah Sadiki | 93 | — | 24k coins | +3.2% | +52.4% | Momentum moderado |
+| Paul Wanner | 94 | — | 24k coins | +4.3% | +52.4% | Momentum moderado |
+| Sakina Karchaoui | 95 | — | 28k coins | +8% | +52.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Christian Eriksen (87)** — 72k coins, **+87.5% em 7 dias** (+11.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariona (90)** — 205k coins, **+84.9% em 7 dias** (+4.8% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luciano Valente (92)** — 22k coins, **+76.5% em 7 dias** (+9.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Toni Kroos (95)** — 146k coins, **+72.6% em 7 dias** (+20.8% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luka Modrić (90)** — 132k coins, **+65.1% em 7 dias** (+8.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sergej Milinković-Savić (96)** — 31k coins, **+68.4% em 7 dias** (+14.3% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Victor Froholdt (93)** — 28k coins, **+63.9% em 7 dias** (+22.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Vieira (95)** — 207k coins, **+66.4% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Vieira (95)** — 235k coins, **+63.2% em 7 dias** (+4.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luciano Valente (92)** — 36k coins, **+62.5% em 7 dias** (+6.4% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Christian Eriksen (87, Bundesliga) lidera, com +87.5% em 7 dias a 72k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mariona (90, Barclays WSL) lidera, com +84.9% em 7 dias a 205k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
