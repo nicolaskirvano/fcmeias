@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:46:10.000Z
+pubDatetime: 2026-08-03T01:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.237 coins.
+- **Preço médio das 15 opções:** 11.610 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 4.800 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 8.900 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,31 +41,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Manuela Giugliano | 96 | CM | — | 12.000 coins | 0% |
-| Jess Park | 96 | CM | — | 12.000 coins | +4.2% |
-| Grace Geyoro | 96 | CM | — | 12.750 coins | +2% |
-| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Jessie Fleming | 96 | CM | — | 12.000 coins | +4.2% |
+| Jess Park | 96 | CM | — | 12.000 coins | +2.1% |
+| Grace Geyoro | 96 | CM | — | 12.250 coins | -2% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
+| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Homare Sawa | 92 | CM | Icons | 12.750 coins | 0% |
-| Aitana Bonmatí | 91 | CM | Liga F | 10.000 coins | +14.8% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8.900 coins | -5.3% |
+| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Alexis Mac Allister | 91 | CM | — | 11.500 coins | 0% |
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
-| Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
 | Federico Valverde | 90 | CM | LALIGA EA SPORTS | 12.500 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 4.800 coins | +32.5% |
 
 
 ## 📈 Destaques
 
 - **Manuela Giugliano (96, CM)** da —, a apenas **12.000 coins**
 
+- **Jessie Fleming (96, CM)** da —, a apenas **12.000 coins**
+
 - **Jess Park (96, CM)** da —, a apenas **12.000 coins**
 
-- **Grace Geyoro (96, CM)** da —, a apenas **12.750 coins**
-
-- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
+- **Grace Geyoro (96, CM)** da —, a apenas **12.250 coins**
 
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins**
 
