@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:46:20.000Z
+pubDatetime: 2026-08-03T22:46:20.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.637 coins.
+- **Preço médio das 15 opções:** 10.797 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 1.500 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.200 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
-| Homare Sawa | 92 | CM | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Aitana Bonmatí | 91 | CM | Liga F | 9.300 coins | 0% |
+| Homare Sawa | 92 | CM | Icons | 11.500 coins | 0% |
+| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
+| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Alexis Mac Allister | 91 | CM | — | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
 | Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Alexis Mac Allister | 91 | CM | — | 11.500 coins | 0% |
-| Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
+| Kevin De Bruyne | 90 | CM | Premier League | 2.200 coins | +46.7% |
 | Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
-| Martin Ødegaard | 89 | CM | Premier League | 1.500 coins | +15.4% |
 | Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Jess Park | 89 | CM | Barclays WSL | 11.500 coins | +2.2% |
+| Jess Park | 89 | CM | Barclays WSL | 11.500 coins | 0% |
+| Marek Hamšík | 88 | CM | Serie A TIM | 11.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
 
-- **Homare Sawa (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins**
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **9.300 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Homare Sawa (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins**
 
 
 ## Como distribuir a banca

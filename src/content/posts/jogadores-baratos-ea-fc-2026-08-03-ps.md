@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:46:11.000Z
+pubDatetime: 2026-08-03T22:46:10.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.103 coins.
+- **Preço médio das 15 opções:** 11.350 coins.
 - **Posição mais frequente:** CM, com 15 cartas.
-- **Faixa real:** 6.800 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,13 +48,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Conor Gallagher | 91 | CM | Premier League | 11.500 coins | 0% |
 | Alexis Mac Allister | 91 | CM | — | 11.500 coins | 0% |
 | Jill Scott | 91 | CM | Barclays WSL | 11.500 coins | 0% |
-| Aitana Bonmatí | 91 | CM | Liga F | 11.500 coins | +16% |
 | Kobbie Mainoo | 90 | CM | Premier League | 11.250 coins | 0% |
 | Federico Valverde | 90 | CM | LALIGA EA SPORTS | 11.250 coins | -10% |
-| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
-| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Luka Modrić | 89 | CM | Serie A TIM | 11.250 coins | -4.3% |
-| Federico Valverde | 88 | CM | LALIGA EA SPORTS | 6.800 coins | +3.1% |
+| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
+| Joelinton | 89 | CM | Premier League | 11.250 coins | 0% |
+| Marek Hamšík | 88 | CM | Serie A TIM | 11.000 coins | 0% |
+| Nadine Keßler | 88 | CM | GPFBL | 11.000 coins | +26.3% |
 
 
 ## 📈 Destaques
