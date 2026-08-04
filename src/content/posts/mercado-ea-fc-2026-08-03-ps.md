@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:46:07.000Z
+pubDatetime: 2026-08-04T01:46:07.000Z
 title: "Mercado EA FC em 03/08: Meio-campistas — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Jobe Bellingham (89, Bundesliga), com +52.3% em 24h, a 119k coins no Console (PS)."
+    a: "Rose Lavelle (89, NWSL), com +40.9% em 24h, a 77k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Simone Laudehr (90), -39.5% em 24h, a 23k coins."
+    a: "Thelo Aasgaard (87), -40.9% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 118 cartas em alta contra 77 em queda (média 2.67%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 126 cartas em alta contra 94 em queda (média 2.53%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **118 subiram** e **77 caíram**, com variação média de **2.67%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **126 subiram** e **94 caíram**, com variação média de **2.53%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jobe Bellingham (89) **+52.3%** · 🔴 **Maior baixa:** Simone Laudehr (90) **-39.5%**
+> 🟢 **Maior alta:** Rose Lavelle (89) **+40.9%** · 🔴 **Maior baixa:** Thelo Aasgaard (87) **-40.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Meio-campistas — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 91.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 60.5% entre as cartas que se moveram; o universo observado reúne 245 cartas.
+- **Amplitude do dia:** 81.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.3% entre as cartas que se moveram; o universo observado reúne 267 cartas.
 - **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jobe Bellingham | 89 | Bundesliga | 119k coins | +52.3% | -14.7% |
-| Olivia Moultrie | 86 | NWSL | 22k coins | +42.9% | -9.1% |
-| Steven Gerrard | 89 | Icons | 290k coins | +40% | +61.8% |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 138k coins | +37.5% | +2.1% |
-| Melchie Dumornay | 95 | — | 30k coins | +32.7% | +56.8% |
-| Warren Zaïre-Emery | 96 | — | 217k coins | +29.2% | -21.6% |
-| Luciano Valente | 92 | — | 28k coins | +25% | +62.2% |
-| Toni Kroos | 90 | Icons | 133k coins | +24.4% | +87.2% |
+| Rose Lavelle | 89 | NWSL | 77k coins | +40.9% | +5.4% |
+| Alexia Putellas | 96 | — | 120k coins | +38.7% | -31.4% |
+| Steven Gerrard | 90 | Icons | 479k coins | +36.9% | +117.7% |
+| Marten de Roon | 85 | Serie A TIM | 22k coins | +36.4% | +66.7% |
+| Luka Modrić | 90 | Serie A TIM | 156k coins | +32.2% | +75.3% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 72k coins | +30.4% | +62.2% |
+| Julie Foudy | 91 | Icons | 24k coins | +25% | +11.8% |
+| Alexia Putellas | 92 | Liga F | 70k coins | +23.6% | +12.4% |
+| Bartosz Kapustka | 87 | PKO BP Ekstraklasa | 32k coins | +22.5% | +11.4% |
 | Aitana Bonmatí | 91 | Liga F | 1.10M coins | +22.2% | +41.6% |
-| Toni Kroos | 95 | — | 140k coins | +21.9% | +63.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **03/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jobe Bellingham (89)** subiu **+52.3%** em 24h, a **119k coins** (faixa do dia: 49k–126k). Está +17% acima da média de 7 dias (aquecida).
+- **Rose Lavelle (89)** subiu **+40.9%** em 24h, a **77k coins** (faixa do dia: 50k–79k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Olivia Moultrie (86)** subiu **+42.9%** em 24h, a **22k coins** (faixa do dia: 10.750–25k). Está em linha com a média de 7 dias (+3%).
+- **Alexia Putellas (96)** subiu **+38.7%** em 24h, a **120k coins** (faixa do dia: 74k–130k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (89)** subiu **+40%** em 24h, a **290k coins** (faixa do dia: 189k–290k). Está +44% acima da média de 7 dias (aquecida).
+- **Steven Gerrard (90)** subiu **+36.9%** em 24h, a **479k coins** (faixa do dia: 314k–498k). Está +66% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Simone Laudehr | 90 | GPFBL | 23k coins | -39.5% | -29.6% |
-| Janina Minge | 88 | — | 30k coins | -39.3% | -26% |
-| Declan Rice | 89 | Premier League | 74k coins | -36.5% | -19.6% |
-| Mariona | 90 | Barclays WSL | 174k coins | -34.5% | +4% |
-| Georginio Wijnaldum | 87 | Brasileirão | 30k coins | -32.5% | +96.6% |
-| João Neves | 93 | Ligue 1 McDonald's | 177k coins | -29.5% | +26% |
-| Enzo Fernández | 91 | Premier League | 40k coins | -24.1% | +5% |
-| Scott McTominay | 91 | Serie A TIM | 20k coins | -22.1% | -93.1% |
-| Pedri | 90 | LALIGA EA SPORTS | 45k coins | -21% | -33.8% |
-| Iniesta | 92 | Icons | 210k coins | -16.3% | +40.9% |
+| Thelo Aasgaard | 87 | Scottish Premiership | 30k coins | -40.9% | +56.7% |
+| Pedri | 90 | LALIGA EA SPORTS | 45k coins | -34.3% | -40% |
+| Juan Sebastián Verón | 86 | Icons | 65k coins | -27% | -1.5% |
+| Douglas Luiz | 96 | — | 48k coins | -23.7% | -30.8% |
+| Rose Lavelle | 88 | NWSL | 54k coins | -23.4% | +3.8% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 65k coins | -22.6% | +15% |
+| Tijjani Reijnders | 93 | Premier League | 179k coins | -22.6% | +52.5% |
+| Scott McTominay | 91 | Serie A TIM | 20k coins | -22.1% | -93.2% |
+| Enzo Fernández | 91 | Premier League | 35k coins | -20% | +40.4% |
+| Daniel Svensson | 84 | Bundesliga | 46k coins | -17.5% | +95.1% |
 
 
 ### Análise das baixas
 
-- **Simone Laudehr (90)** caiu **-39.5%** em 24h, a **23k coins** (faixa do dia: 11.250–60k). Está -38% abaixo da média de 7 dias (descontada).
+- **Thelo Aasgaard (87)** caiu **-40.9%** em 24h, a **30k coins** (faixa do dia: 22k–42k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Janina Minge (88)** caiu **-39.3%** em 24h, a **30k coins** (faixa do dia: 15.250–40k). Está +55% acima da média de 7 dias (aquecida).
+- **Pedri (90)** caiu **-34.3%** em 24h, a **45k coins** (faixa do dia: 44k–74k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Declan Rice (89)** caiu **-36.5%** em 24h, a **74k coins** (faixa do dia: 48k–98k). Está +18% acima da média de 7 dias (aquecida).
+- **Juan Sebastián Verón (86)** caiu **-27%** em 24h, a **65k coins** (faixa do dia: 65k–90k). Está em linha com a média de 7 dias (-3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jobe Bellingham já avançou 52.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rose Lavelle já avançou 40.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Simone Laudehr recuou -39.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Thelo Aasgaard recuou -40.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Jobe Bellingham (89, Bundesliga), com +52.3% em 24h, a 119k coins no Console (PS).
+Rose Lavelle (89, NWSL), com +40.9% em 24h, a 77k coins no Console (PS).
 
 **E a maior queda do dia?**
-Simone Laudehr (90), -39.5% em 24h, a 23k coins.
+Thelo Aasgaard (87), -40.9% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 118 cartas em alta contra 77 em queda (média 2.67%).
+Hoje o mercado está em alta — predominam as valorizações, com 126 cartas em alta contra 94 em queda (média 2.53%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
