@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:46:09.000Z
+pubDatetime: 2026-08-04T13:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 04/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Claudio Marchisio (87, Serie A TIM) lidera, com +80.8% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nadiem Amiri (88, Bundesliga) lidera, com +89.2% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Claudio Marchisio (87) acumula **+80.8% em 7 dias** a 34k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nadiem Amiri (88) acumula **+89.2% em 7 dias** a 35k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Meio-campistas em 04/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-04-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.0% em 24h** e **+38.5% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.3% em 24h** e **+48.8% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Claudio Marchisio | 87 | Serie A TIM | 34k coins | +34.3% | +80.8% | Esticada |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 38k coins | +14.3% | +72.7% | Esticada |
-| Steven Gerrard | 88 | Icons | 164k coins | +6.2% | +64.4% | Esticada |
-| Lily Yohannes | 91 | — | 28k coins | +15.4% | +50% | Momentum moderado |
-| Enzo Fernández | 91 | Premier League | 39k coins | +26.7% | +46.2% | Esticada |
-| Estefanía Banini | 89 | Liga F | 23k coins | +4.4% | +44.6% | Momentum moderado |
-| Camille Abily | 91 | Icons | 19.000 coins | +32.4% | +44.1% | Esticada |
-| Declan Rice | 89 | Premier League | 86k coins | +2.9% | +38.5% | Momentum moderado |
-| Alexia Putellas | 91 | — | 30k coins | +18% | +37.2% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 92k coins | +15% | +35.3% | Momentum moderado |
-| Darko Nejašmić | 93 | — | 29k coins | +5.5% | +33.3% | Momentum moderado |
-| Valentín Barco | 95 | — | 24k coins | +9.1% | +29.7% | Momentum moderado |
-| Sandro Tonali | 88 | — | 55k coins | +19.6% | +29.4% | Momentum moderado |
-| Gabriel Villamíl | 91 | — | 19.000 coins | +17.2% | +28.9% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 52k coins | +10.4% | +24.7% | Momentum moderado |
+| Nadiem Amiri | 88 | Bundesliga | 35k coins | +34.6% | +89.2% | Esticada |
+| Luka Modrić | 90 | Serie A TIM | 120k coins | +29.9% | +89.1% | Esticada |
+| Sergej Milinković-Savić | 96 | — | 31k coins | +10.9% | +85.9% | Esticada |
+| Declan Rice | 89 | Premier League | 90k coins | +27.9% | +72.1% | Esticada |
+| Mikel Merino | 95 | — | 59k coins | +12.4% | +68.6% | Esticada |
+| Luis Milla | 90 | — | 31k coins | +15.7% | +56.2% | Momentum moderado |
+| Toni Kroos | 95 | — | 149k coins | +3.6% | +52.6% | Momentum moderado |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 30k coins | +11.3% | +48.8% | Momentum moderado |
+| Adrien Rabiot | 92 | — | 30k coins | +2.7% | +45% | Momentum moderado |
+| Paul Wanner | 94 | — | 24k coins | +9.1% | +41.2% | Momentum moderado |
+| Victor Froholdt | 93 | — | 28k coins | +3.7% | +38.8% | Momentum moderado |
+| Enzo Fernández | 93 | — | 49k coins | +22.2% | +37.9% | Esticada |
+| Adalberto Carrasquilla | 91 | — | 24k coins | +12.8% | +35.9% | Momentum moderado |
+| João Gomes | 84 | Premier League | 60k coins | +4.4% | +35.2% | Momentum moderado |
+| Gustavo Puerta | 94 | — | 21k coins | +1.2% | +31.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Claudio Marchisio (87)** — 34k coins, **+80.8% em 7 dias** (+34.3% em 24h). Preço +207% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nadiem Amiri (88)** — 35k coins, **+89.2% em 7 dias** (+34.6% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabián Ruiz (88)** — 38k coins, **+72.7% em 7 dias** (+14.3% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luka Modrić (90)** — 120k coins, **+89.1% em 7 dias** (+29.9% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (88)** — 164k coins, **+64.4% em 7 dias** (+6.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sergej Milinković-Savić (96)** — 31k coins, **+85.9% em 7 dias** (+10.9% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (91)** — 28k coins, **+50% em 7 dias** (+15.4% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Declan Rice (89)** — 90k coins, **+72.1% em 7 dias** (+27.9% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Fernández (91)** — 39k coins, **+46.2% em 7 dias** (+26.7% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mikel Merino (95)** — 59k coins, **+68.6% em 7 dias** (+12.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Claudio Marchisio (87, Serie A TIM) lidera, com +80.8% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nadiem Amiri (88, Bundesliga) lidera, com +89.2% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
