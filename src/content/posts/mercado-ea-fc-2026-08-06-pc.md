@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T19:46:19.000Z
+pubDatetime: 2026-08-06T22:46:18.000Z
 title: "Mercado EA FC em 06/08: Meio-campistas — PC"
 draft: false
 featured: true
