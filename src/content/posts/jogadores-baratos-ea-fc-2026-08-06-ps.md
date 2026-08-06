@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T16:46:10.000Z
+pubDatetime: 2026-08-06T19:46:12.000Z
 title: "Jogadores baratos EA FC: Meio-campistas em 06/08 — Console (PS)"
 draft: false
 featured: false
