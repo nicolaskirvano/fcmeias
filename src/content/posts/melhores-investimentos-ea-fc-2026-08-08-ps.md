@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:46:10.000Z
+pubDatetime: 2026-08-08T13:46:09.000Z
 title: "Investimentos EA FC: Meio-campistas em 08/08 — Console (PS)"
 draft: false
 featured: true
